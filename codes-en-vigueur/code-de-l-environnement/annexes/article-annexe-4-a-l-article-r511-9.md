@@ -1,5 +1,6 @@
 # Article Annexe (4) à l'article R511-9
 
+<div align="left">
 <table>
 <tbody>
 <tr>
@@ -110,13 +111,15 @@
 </td>
 </tr>
 <tr>
-<td>c) Supérieure à 40 kW, mais inférieure ou égale à 200 kW </td>
-<td>
+<td align="left" valign="top">
+<p align="left">c) Supérieure à 40 kW, mais inférieure ou égale à 200 kW </p>
+</td>
+<td align="left" valign="top">
 <p align="center">D </p>
 </td>
-<td/>
-<td/>
-<td/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
 <td valign="top" width="437">
@@ -155,16 +158,16 @@
 <td/>
 </tr>
 <tr>
-<td>
+<td align="left" valign="top">
 <p align="left">b) Supérieure à 40 kW, mais inférieure ou égale à 350 kW <br/>
 </p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">D </p>
 </td>
-<td/>
-<td/>
-<td/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
 <td rowspan="3" valign="top" width="21">
@@ -283,15 +286,15 @@
 </td>
 </tr>
 <tr>
-<td>
+<td align="left" valign="top">
 <p align="left">3. Supérieure à 5 000 m², mais inférieure ou égale à 10 000 m² </p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">D </p>
 </td>
-<td/>
-<td/>
-<td/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
 <td align="left" rowspan="4" valign="top">
@@ -365,7 +368,6 @@
 </td>
 <td valign="top" width="29">
 <br/>
-<br/>
 </td>
 <td valign="top" width="155">
 <p align="left">a) supérieure à 100 t/j </p>
@@ -399,7 +401,6 @@
 <p>Enrobage au bitume de matériaux routiers (centrale d') </p>
 </td>
 <td valign="top" width="32">
-<br/>
 <br/>
 </td>
 <td valign="top" width="29">
@@ -529,9 +530,7 @@
 <br/>
 </td>
 <td valign="top" width="155"/>
-<td valign="top" width="26">
-<br/>
-</td>
+<td valign="top" width="26"/>
 </tr>
 <tr>
 <td>
@@ -703,7 +702,6 @@
 </td>
 <td valign="top" width="29">
 <br/>
-<br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
@@ -742,7 +740,6 @@
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -852,7 +849,6 @@
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -1091,7 +1087,6 @@
 <td valign="top" width="155"/>
 <td valign="top" width="26">
 <br/>
-<br/>
 </td>
 </tr>
 <tr>
@@ -1191,10 +1186,7 @@
 <br/>
 <br/>
 </td>
-<td valign="top" width="29">
-<br/>
-<br/>
-</td>
+<td valign="top" width="29"/>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
 <br/>
@@ -1215,7 +1207,6 @@
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -1251,7 +1242,7 @@
 <p>a) supérieure à 200 t/j </p>
 </td>
 <td valign="top" width="26">
-<p align="center">4 </p>
+<p align="center">4</p>
 </td>
 </tr>
 <tr>
@@ -1280,9 +1271,11 @@
 </td>
 <td valign="top" width="29">
 <br/>
+<br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1375,9 +1368,7 @@
 <br/>
 </td>
 <td valign="top" width="155"/>
-<td valign="top" width="26">
-<br/>
-</td>
+<td valign="top" width="26"/>
 </tr>
 <tr>
 <td valign="top" width="437">
@@ -1457,27 +1448,37 @@
 </td>
 </tr>
 <tr>
-<td rowspan="2" valign="top" width="21">
+<td rowspan="3" valign="top" width="21">
 <p>2562 </p>
 </td>
 <td valign="top" width="437">
 <p>Chauffage et traitement industriels par l'intermédiaire de bains de sels fondus. </p>
-<p>Le volume des bains étant : </p>
-<p>1. Supérieur à 500 l </p>
+<p>Le volume des bains étant :</p>
 </td>
 <td valign="top" width="32">
-<p align="center">A<br/>
-</p>
+<br/>
+<br/>
 </td>
-<td align="center" valign="top" width="29">
-<p>1<br/>
-</p>
-</td>
+<td align="center" valign="top" width="29"/>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
 <br/>
 <br/>
 </td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">1. Supérieur à 500 l </p>
+</td>
+<td align="left" valign="top">
+<p align="center">A<br/>
+</p>
+</td>
+<td align="left" valign="top">
+<p align="center">1</p>
+</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
 <td valign="top" width="437">
@@ -1492,63 +1493,44 @@
 <td valign="top" width="155"/>
 <td valign="top" width="26">
 <br/>
+<br/>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">2563</p>
+<p align="center">2563</p>
 </td>
 <td align="left" valign="top">
 <p align="left">Nettoyage-dégraissage de surface quelconque, par des procédés utilisant des liquides à base aqueuse ou hydrosolubles à l'exclusion des activités de nettoyage-dégraissage associées à du traitement de surface. </p>
-<p align="left">La quantité de produit mise en œuvre dans le procédé étant : </p>
+<p>La quantité de produit mise en œuvre dans le procédé étant :</p>
+</td>
+<td align="left" valign="top">
+<br/>
+<br/>
+</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+</tr>
+<tr>
+<td/>
+<td>
 <p align="left">1. Supérieure à 7 500 l </p>
 </td>
-<td align="left" valign="top">
-<p align="center">E </p>
-</td>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<br/>
-</td>
+<td align="center">E</td>
+<td/>
+<td/>
+<td/>
 </tr>
 <tr>
+<td/>
 <td>
-<br/>
-</td>
-<td>
-<p align="left">2. Supérieure à 500 l, mais inférieure ou égale à 7 500 </p>
-</td>
-<td align="center">
-<p align="center">DC </p>
+<p align="left">2. Supérieure à 500 l, mais inférieure ou égale à 7 500</p>
 </td>
 <td>
-<br/>
+<p align="center">DC</p>
 </td>
-<td>
-<br/>
-</td>
-<td>
-<br/>
-</td>
-</tr>
-<tr>
-<td>
-<br/>
-</td>
-<td>
-<br/>
-</td>
-<td>
-<br/>
-</td>
-<td>
-<br/>
-</td>
+<td/>
 <td/>
 <td/>
 </tr>
@@ -1601,9 +1583,7 @@
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<p align="center">
 <br/>
-</p>
 <br/>
 </td>
 </tr>
@@ -1642,16 +1622,19 @@
 </td>
 </tr>
 <tr>
-<td>B. Pour des solvants non visés en A ou pour des procédés utilisés sous-vide (3), le volume des cuves étant supérieur à 200 l <br/>
+<td align="left" valign="top">
+<p align="left">B. Pour des solvants non visés en A ou pour des procédés utilisés sous-vide (3), le volume des cuves étant supérieur à 200 l </p>
 </td>
-<td align="center">DC</td>
-<td/>
-<td/>
-<td/>
+<td align="left" valign="top">
+<p align="center">DC</p>
+</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
 <td valign="top" width="437">
-<p>(1) Solvant organique volatil : tout composé organique volatil (composé organique ayant une pression de vapeur de 0,01 kPa ou plus à une température de 293,15 K ou ayant une volatilité correspondante dans des conditions d'utilisation particulières), utilisé seul ou en association avec d'autres agents, sans subir de modification chimique, pour dissoudre des matières premières, des produits ou des déchets, ou utilisé comme agent de nettoyage pour dissoudre des salissures, ou comme dissolvant, dispersant, correcteur de viscosité, correcteur de tension superficielle, plastifiant ou agent protecteur. </p>
+<p align="left">(1) Solvant organique volatil : tout composé organique volatil (composé organique ayant une pression de vapeur de 0,01 kPa ou plus à une température de 293,15 K ou ayant une volatilité correspondante dans des conditions d'utilisation particulières), utilisé seul ou en association avec d'autres agents, sans subir de modification chimique, pour dissoudre des matières premières, des produits ou des déchets, ou utilisé comme agent de nettoyage pour dissoudre des salissures, ou comme dissolvant, dispersant, correcteur de viscosité, correcteur de tension superficielle, plastifiant ou agent protecteur. </p>
 </td>
 <td valign="top" width="32">
 <br/>
@@ -1686,7 +1669,9 @@
 </td>
 </tr>
 <tr>
-<td>(3) Un procédé est considéré comme sous-vide si, en fonctionnement normal, un vide complet est effectué avant toute ouverture de la machine et s'il n'y a aucune manipulation manuelle des produits y compris pendant les opérations de remplissage et d'élimination. <br/>
+<td>
+<p align="left">(3) Un procédé est considéré comme sous-vide si, en fonctionnement normal, un vide complet est effectué avant toute ouverture de la machine et s'il n'y a aucune manipulation manuelle des produits y compris pendant les opérations de remplissage et d'élimination. <br/>
+</p>
 </td>
 <td/>
 <td/>
@@ -1718,88 +1703,74 @@
 <td>
 <p>1. Lorsqu'il y a mise en œuvre : </p>
 </td>
-<td/>
-<td/>
-<td>1. Quelle que soit la capacité</td>
+<td>
+<p align="center">A<br/>
+</p>
+</td>
+<td>
+<p align="center">1<br/>
+</p>
+</td>
+<td>
+<p align="left">1. Quelle que soit la capacité </p>
+</td>
 <td>
 <p align="center">4</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="437">
+<td>
 <p>a) De cadmium </p>
 </td>
-<td valign="top" width="32">
-<p align="center">A<br/>
-</p>
-</td>
-<td valign="top" width="29">
-<p align="center">1<br/>
-</p>
-</td>
-<td valign="top" width="155"/>
-<td valign="top" width="26">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="437">
-<p>b) De cyanures, le volume des cuves étant supérieur à 200 l </p>
-</td>
-<td valign="top" width="32">
-<p align="center">A </p>
-</td>
-<td valign="top" width="29">
-<p align="center">1 </p>
-</td>
-<td valign="top" width="155"/>
-<td valign="top" width="26">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="437">
-<p align="left">2. Procédés utilisant des liquides (sans mise en œuvre de cadmium ni de cyanures, et à l'exclusion de la vibro-abrasion), le volume des cuves de traitement étant : </p>
-</td>
-<td valign="top" width="32">
-<br/>
-<br/>
-</td>
-<td valign="top" width="29">
-<br/>
-<br/>
-</td>
-<td valign="top" width="155">
-<p align="left">2. Le volume des cuves de traitement étant : </p>
-</td>
-<td valign="top" width="26">
-<br/>
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="437">
-<p>a) Supérieur à 1 500 l </p>
-</td>
-<td valign="top" width="32">
+<td>
 <p align="center">A</p>
 </td>
-<td valign="top" width="29">
+<td>
 <p align="center">1</p>
 </td>
-<td valign="top" width="155">
-<p align="left">a) supérieur à 25 000 l </p>
-</td>
-<td valign="top" width="26">
-<p align="center">4</p>
-</td>
+<td/>
+<td/>
 </tr>
 <tr>
+<td>
+<p>b) De cyanures, le volume des cuves étant supérieur à 200 l </p>
+</td>
+<td/>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">2. Procédés utilisant des liquides (sans mise en œuvre de cadmium ni de cyanures, et à l'exclusion de la vibro-abrasion), le volume des cuves de traitement étant : </p>
+</td>
 <td align="left" valign="top"/>
 <td align="left" valign="top"/>
 <td align="left" valign="top">
-<br/>
+<p align="left">2. Le volume des cuves de traitement étant : </p>
 </td>
+<td align="left" valign="top"/>
+</tr>
+<tr>
+<td>
+<p>a) Supérieur à 1 500 l </p>
+</td>
+<td>
+<p align="center">A</p>
+</td>
+<td>
+<p align="center">1</p>
+</td>
+<td>a) supérieur à 25 000 l </td>
+<td>
+<p align="center">4<br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 <td align="left" valign="top">
 <p align="left">supérieur à 5 000 l, mais inférieur ou égal à 25 000 l </p>
 </td>
@@ -1812,14 +1783,10 @@
 <p align="left">b) Supérieur à 200 l, mais inférieur ou égal à 1 500 l <br/>
 </p>
 </td>
-<td align="center">
-<p align="center">DC</p>
-</td>
+<td align="center">DC</td>
 <td/>
 <td/>
-<td>
-<br/>
-</td>
+<td/>
 </tr>
 <tr>
 <td valign="top" width="437">
@@ -1830,9 +1797,11 @@
 </td>
 <td valign="top" width="29">
 <br/>
+<br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1845,9 +1814,11 @@
 </td>
 <td valign="top" width="29">
 <br/>
+<br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
+<br/>
 <br/>
 </td>
 </tr>
@@ -1895,21 +1866,29 @@
 <td/>
 </tr>
 <tr>
-<td>
+<td align="left" valign="top">
 <p align="left">b) Supérieure à 500 l, mais inférieure ou égale à 2 000 l </p>
 </td>
-<td align="center">DC</td>
-<td/>
-<td/>
-<td/>
+<td align="left" valign="top">
+<p align="center">DC</p>
+</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td>2. En absence de four, la puissance étant supérieure ou égale à 3 000 W <br/>
+<td align="left" valign="top">
+<p align="left">2. En absence de four, la puissance étant supérieure ou égale à 3 000 W <br/>
+</p>
 </td>
-<td align="center">A</td>
-<td align="center">1</td>
-<td/>
-<td/>
+<td align="left" valign="top">
+<p align="center">A</p>
+</td>
+<td align="left" valign="top">
+<p align="center">1</p>
+</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
 <td rowspan="7" valign="top" width="21">
@@ -1937,7 +1916,8 @@
 </td>
 </tr>
 <tr>
-<td>1. Procédés par immersion dans métal fondu, le volume des cuves étant : <br/>
+<td>
+<p align="left">1. Procédés par immersion dans métal fondu, le volume des cuves étant : </p>
 </td>
 <td/>
 <td/>
@@ -1946,8 +1926,7 @@
 </tr>
 <tr>
 <td>
-<p align="left">a) Supérieur à 1 000 l <br/>
-</p>
+<p align="left">a) Supérieur à 1 000 l </p>
 </td>
 <td align="center">A</td>
 <td align="center">1</td>
@@ -1956,8 +1935,7 @@
 </tr>
 <tr>
 <td>
-<p align="left">b) Supérieur à 100 l, mais inférieur ou égal à 1 000 l <br/>
-</p>
+<p align="left">b) Supérieur à 100 l, mais inférieur ou égal à 1 000 l </p>
 </td>
 <td align="center">DC</td>
 <td/>
@@ -1966,8 +1944,7 @@
 </tr>
 <tr>
 <td>
-<p align="left">2. Procédés par projection de composés métalliques, la quantité de composés métalliques consommée étant : <br/>
-</p>
+<p align="left">2. Procédés par projection de composés métalliques, la quantité de composés métalliques consommée étant : </p>
 </td>
 <td/>
 <td/>
@@ -1976,8 +1953,7 @@
 </tr>
 <tr>
 <td>
-<p align="left">a) Supérieure à 200 kg/ jour <br/>
-</p>
+<p align="left">a) Supérieure à 200 kg/ jour </p>
 </td>
 <td align="center">A</td>
 <td align="center">1</td>
@@ -1985,14 +1961,15 @@
 <td/>
 </tr>
 <tr>
-<td>
-<p align="left">b) Supérieure à 20 kg/ jour mais inférieure ou égale à 200 kg/ jour <br/>
-</p>
+<td align="left" valign="top">
+<p align="left">b) Supérieure à 20 kg/ jour mais inférieure ou égale à 200 kg/ jour </p>
 </td>
-<td align="center">DC</td>
-<td/>
-<td/>
-<td/>
+<td align="left" valign="top">
+<p align="center">DC</p>
+</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
 <td rowspan="5" valign="top" width="21">
@@ -2003,12 +1980,14 @@
 </td>
 <td valign="top" width="32">
 <br/>
+<br/>
 </td>
 <td valign="top" width="29">
 <br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
+<br/>
 <br/>
 </td>
 </tr>
@@ -2484,11 +2463,11 @@
 </td>
 </tr>
 <tr>
-<td rowspan="7" valign="top" width="21">
+<td rowspan="8" valign="top" width="21">
 <p>2661 </p>
 </td>
 <td valign="top" width="437">
-<p>Polymères (matières plastiques, caoutchoucs, élastomères, résines et adhésifs synthétiques) (transformation de) </p>
+<p>Polymères (matières plastiques, caoutchoucs, élastomères, résines et adhésifs synthétiques) (transformation de) : </p>
 </td>
 <td valign="top" width="32">
 <br/>
@@ -2506,7 +2485,7 @@
 </tr>
 <tr>
 <td valign="top" width="437">
-<p>1. Par des procédés exigeant des conditions particulières de température ou de pression (extrusion, injection, moulage, segmentation à chaud, densification, etc.), la quantité de matière susceptible d'être traitée étant : </p>
+<p>1. Par des procédés exigeant des conditions particulières de température ou de pression (extrusion, injection, moulage, segmentation à chaud, vulcanisation, etc.), la quantité de matière susceptible d'être traitée étant : </p>
 </td>
 <td valign="top" width="32">
 <br/>
@@ -2524,7 +2503,7 @@
 </tr>
 <tr>
 <td valign="top" width="437">
-<p>a) Supérieure ou égale à 10 t/j </p>
+<p>a) Supérieure ou égale à 70 t/ j </p>
 </td>
 <td valign="top" width="32">
 <p align="center">A </p>
@@ -2541,10 +2520,39 @@
 </tr>
 <tr>
 <td valign="top" width="437">
-<p>b) Supérieure ou égale à 1 t/j, mais inférieure à 10 t/j </p>
+<p>b) Supérieure ou égale à 10 t/ j mais inférieure à 70 t/ j </p>
 </td>
 <td valign="top" width="32">
-<p align="center">D </p>
+<p align="center">E </p>
+</td>
+<td valign="top" width="29">
+<br/>
+<br/>
+</td>
+<td valign="top" width="155"/>
+<td valign="top" width="26">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">c) Supérieure ou égale à 1 t/ j, mais inférieure à 10 t/ j </p>
+</td>
+<td>
+<p align="center">D</p>
+</td>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td valign="top" width="437">
+<p align="left">2. Par tout procédé exclusivement mécanique (sciage, découpage, meulage, broyage, etc.), la quantité de matière susceptible d'être traitée étant : </p>
+</td>
+<td valign="top" width="32">
+<br/>
+<br/>
 </td>
 <td valign="top" width="29">
 <br/>
@@ -2558,31 +2566,14 @@
 </tr>
 <tr>
 <td valign="top" width="437">
-<p>2. Par tout procédé exclusivement mécanique (sciage, découpage, meulage, broyage, etc.), la quantité de matière susceptible d'être traitée étant : </p>
+<p>a) Supérieure ou égale à 20 t/ j </p>
 </td>
 <td valign="top" width="32">
-<br/>
-<br/>
+<p align="center">E </p>
 </td>
 <td valign="top" width="29">
 <br/>
 <br/>
-</td>
-<td valign="top" width="155"/>
-<td valign="top" width="26">
-<br/>
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="437">
-<p>a) Supérieure ou égale à 20 t/j </p>
-</td>
-<td valign="top" width="32">
-<p align="center">A </p>
-</td>
-<td valign="top" width="29">
-<p align="center">1 </p>
 </td>
 <td valign="top" width="155">
 <p>2. La quantité de matière susceptible d'être traitée étant supérieure ou égale à 20 t/j </p>
@@ -2593,7 +2584,7 @@
 </tr>
 <tr>
 <td valign="top" width="437">
-<p>b) Supérieure ou égale à 2 t/j, mais inférieure à 20 t/j </p>
+<p>b) Supérieure ou égale à 2 t/ j, mais inférieure à 20 t/ j </p>
 </td>
 <td valign="top" width="32">
 <p align="center">D </p>
@@ -4228,21 +4219,16 @@
 </td>
 </tr>
 <tr>
-<td valign="top" width="437">
+<td align="left" valign="top">
 <p>1. Compostage de matière végétale ou déchets végétaux, d'effluents d'élevage, de matières stercoraires : </p>
 </td>
-<td valign="top" width="32">
-<br/>
-<br/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">1. Non soumis à la taxe</p>
 </td>
-<td valign="top" width="29">
-<br/>
-<br/>
-</td>
-<td valign="middle">1. Non soumis à la taxe</td>
-<td valign="middle">
+<td align="left" valign="top">
 <p align="center">-</p>
-<br/>
 </td>
 </tr>
 <tr>
@@ -4623,7 +4609,6 @@
 </td>
 <td valign="top" width="32">
 <br/>
-<br/>
 </td>
 <td valign="top" width="29">
 <br/>
@@ -4647,7 +4632,6 @@
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
-<br/>
 <br/>
 </td>
 </tr>
@@ -4708,6 +4692,99 @@
 <td>
 <p align="center">-</p>
 </td>
+</tr>
+<tr>
+<td align="left" rowspan="8" valign="top">
+<p align="left">2792</p>
+</td>
+<td align="left" valign="top">
+<p align="left">1. Installations de transit, tri, regroupement de déchets contenant des PCB/PCT à une concentration supérieure à 50 ppm :</p>
+</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">a) La quantité de fluide contenant des PCB/PCT susceptible d'être présente est supérieure ou égale à 200 t </p>
+</td>
+<td align="left" valign="top">
+<p align="center">AS</p>
+</td>
+<td align="left" valign="top">
+<p align="center">4</p>
+</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">b) La quantité de fluide contenant des PCB/PCT susceptible d'être présente est supérieure ou égale à 2 t et inférieure à 200 t </p>
+</td>
+<td align="left" valign="top">
+<p align="center">A</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2</p>
+</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">c) La quantité de fluide contenant des PCB/PCT susceptible d'être présente est inférieure à 2 t </p>
+</td>
+<td align="left" valign="top">
+<p align="center">DC</p>
+</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">2. Installations de traitement, y compris les installations de décontamination, des déchets contenant des PCB/PCT à une concentration supérieure à 50 ppm, hors installations mobiles de décontamination : </p>
+</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">a) La quantité de fluide contenant des PCB/PCT susceptible d'être présente est supérieure ou égale à 200 t </p>
+</td>
+<td align="left" valign="top">
+<p align="center">AS</p>
+</td>
+<td align="left" valign="top">
+<p align="center">4</p>
+</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">b) La quantité de fluide contenant des PCB/PCT susceptible d'être présente est inférieure à 200 t </p>
+</td>
+<td align="left" valign="top">
+<p align="center">A</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2</p>
+</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+</tr>
+<tr>
+<td>
+<p align="left">Nota. - La concentration en PCB/PCT s'exprime en PCB totaux.</p>
+</td>
+<td/>
+<td/>
+<td/>
+<td/>
 </tr>
 <tr>
 <td align="left" rowspan="17" valign="top">
@@ -4841,26 +4918,30 @@
 </td>
 </tr>
 <tr>
-<td>
+<td align="left" valign="top">
 <p align="left">3. Autre installation de traitement de déchets de produits explosifs (*) (mettant en œuvre un procédé autre que ceux mentionnés aux 1 et 2). </p>
 <p>La quantité équivalente totale de matière active (**) susceptible d'être présente dans l'installation étant :</p>
 </td>
-<td/>
-<td/>
-<td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
 <p align="left">3. Autre installation de traitement de déchets de produits explosifs (mettant en œuvre un procédé autre que ceux mentionnés aux 1 et 2)</p>
 <p>La quantité équivalente totale de matière active susceptible d'être présente dans l'installation étant :</p>
 </td>
-<td/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
 <td>
 <p align="left">a) Supérieure à 10 t <br/>
 </p>
 </td>
-<td align="center">AS<br/>
+<td align="center">
+<p align="center">AS<br/>
+</p>
 </td>
-<td align="center">6<br/>
+<td align="center">
+<p align="center">6<br/>
+</p>
 </td>
 <td>
 <p align="left">a) Supérieure à 10 t</p>
@@ -5019,7 +5100,6 @@
 </td>
 <td valign="top" width="29">
 <br/>
-<br/>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
@@ -5173,14 +5253,9 @@
 </td>
 </tr>
 <tr>
-<td valign="top" width="437">
-<br/>
-<br/>
-<br/>
-</td>
+<td valign="top" width="437"/>
 <td align="center" valign="top" width="32">
-<p>E<br/>
-</p>
+<p>E</p>
 </td>
 <td valign="top" width="29">
 <br/>
@@ -7257,16 +7332,24 @@
 <td/>
 </tr>
 <tr>
-<td>3641<br/>
+<td align="left" valign="top">
+<p align="center">3641<br/>
+</p>
 </td>
-<td>Exploitation d'abattoirs, avec une capacité de production supérieure à 50 tonnes de carcasses par jour <br/>
+<td align="left" valign="top">
+<p align="left">Exploitation d'abattoirs, avec une capacité de production supérieure à 50 tonnes de carcasses par jour <br/>
+</p>
 </td>
-<td align="center">A<br/>
+<td align="left" valign="top">
+<p align="center">A<br/>
+</p>
 </td>
-<td align="center">3<br/>
+<td align="left" valign="top">
+<p align="center">3<br/>
+</p>
 </td>
-<td/>
-<td/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
 <td align="left" rowspan="7" valign="top">
@@ -7463,8 +7546,7 @@
 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Traitement de surface de matières, d'objets ou de produits à l'aide de solvants organiques, notamment pour les opérations d'apprêt, d'impression, de couchage, de dégraissage, d'imperméabilisation, de collage, de peinture, de nettoyage ou d'imprégnation, avec une capacité de consommation de solvant organique supérieure à 150 kilogrammes par heure ou à 200 tonnes par an <br/>
-</p>
+<p align="left">Traitement de surface de matières, d'objets ou de produits à l'aide de solvants organiques, notamment pour les opérations d'apprêt, d'impression, de couchage, de dégraissage, d'imperméabilisation, de collage, de peinture, de nettoyage ou d'imprégnation, avec une capacité de consommation de solvant organique supérieure à 150 kilogrammes par heure ou à 200 tonnes par an </p>
 </td>
 <td align="left" valign="top">
 <p align="center">A</p>
@@ -7543,9 +7625,12 @@
 </tr>
 </tbody>
 </table>
+</div>
 
 (1) A : autorisation, E : enregistrement, D : déclaration, S : servitude d'utilité publique, C : soumis au contrôle périodique prévu par l'article L. 512-11 du code de l'environnement.
 
 (2) Rayon d'affichage en kilomètres.
 
 (3) Décret n° 2010-369 du 13 avril 2010, article 2 : les rubriques 167 et 322 sont supprimées. Se référer à la place aux rubriques 2770 et 2771.
+
+Décret n° 2013-1301 du 27 décembre 2013 art. 2 : La rubrique 2661 qui entre en vigueur le jour de la publication de l'arrêté ministériel fixant les prescriptions générales applicables aux installations relevant du régime de l'enregistrement dans ces deux rubriques.

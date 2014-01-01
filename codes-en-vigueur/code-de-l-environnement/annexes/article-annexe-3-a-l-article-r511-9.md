@@ -1050,11 +1050,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 </tr>
 <tr>
-<td rowspan="4" valign="top" width="27">
+<td rowspan="6" valign="top" width="27">
 <p>2102 </p>
 </td>
 <td valign="top" width="402">
-<p>Porcs (établissements d'élevage, vente, transit, etc., de) en stabulation ou en plein air : </p>
+<p>Porcs (activité d'élevage, vente, transit, etc.) en stabulation ou en plein air, à l'exclusion d'activités spécifiques visées à d'autres rubriques : </p>
 </td>
 <td valign="top" width="26"/>
 <td valign="top" width="33"/>
@@ -1063,7 +1063,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="402">
-<p>1. Plus de 450 animaux-équivalents </p>
+<p>1. Installations dont les activités sont classées au titre de la rubrique 3660 </p>
 </td>
 <td valign="top" width="26">
 <p align="center">A</p>
@@ -1079,10 +1079,10 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="402">
-<p>2. De 50 à 450 animaux-équivalents </p>
+<p>2. Autres installations que celles visées au 1 et détenant : </p>
 </td>
 <td valign="top" width="26">
-<p align="center">D</p>
+<br/>
 </td>
 <td valign="top" width="33"/>
 <td valign="top" width="182"/>
@@ -1092,11 +1092,32 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </td>
 </tr>
 <tr>
+<td>
+<p align="left">a) Plus de 450 animaux-équivalents </p>
+</td>
+<td>
+<p align="center">E</p>
+</td>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p align="left">b) De 50 à 450 animaux-équivalents </p>
+</td>
+<td>
+<p align="center">D</p>
+</td>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
 <td valign="top" width="402">
-<p>Nota :</p>
-<p>-Les porcs à l'engrais, jeunes femelles avant la première saillie et animaux en élevage de multiplication ou sélection comptent pour un animal-équivalent,</p>
-<p>-Les reproducteurs, truies (femelle saillie ou ayant mis bas) et verrats (mâles utilisés pour la reproduction) comptent pour trois animaux-équivalents,</p>
-<p>-Les porcelets sevrés de moins de trente kilogrammes avant mise en engraissement ou sélection comptent pour 0, 2 animal-équivalent. </p>
+<p>Nota. - Les porcs à l'engrais, jeunes femelles avant la première saillie et animaux en élevage de multiplication ou sélection comptent pour un animal-équivalent. </p>
+<p>Les reproducteurs, truies (femelle saillie ou ayant mis bas) et verrats (mâles utilisés pour la reproduction) comptent pour trois animaux-équivalents. </p>
+<p>Les porcelets sevrés de moins de trente kilogrammes avant mise en engraissement ou sélection comptent pour 0,2 animal-équivalent. </p>
 </td>
 <td valign="top" width="26">
 <br/>
@@ -2160,7 +2181,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <p>2220 </p>
 </td>
 <td valign="top" width="402">
-<p>Préparation ou conservation de produits alimentaires d'origine végétale,  par cuisson, appertisation, surgélation, congélation, lyophilisation,  déshydratation, torréfaction, etc., à l'exclusion du sucre,  de la fécule, du malt, des huiles, et des aliments pour le bétail mais y  compris les ateliers de maturation de fruits et légumes.  </p>
+<p>Préparation ou conservation de produits alimentaires d'origine végétale, par cuisson, appertisation, surgélation, congélation, lyophilisation, déshydratation, torréfaction, etc., à l'exclusion du sucre, de la fécule, du malt, des huiles, et des aliments pour le bétail mais y compris les ateliers de maturation de fruits et légumes. </p>
 </td>
 <td valign="top" width="26">
 <br/>
@@ -2170,9 +2191,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <br/>
 <br/>
 </td>
-<td valign="top" width="182">
-<br/>
-</td>
+<td valign="top" width="182"/>
 <td valign="top" width="29">
 <br/>
 <br/>
@@ -2188,39 +2207,40 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td valign="top" width="33">
 <p align="center">3</p>
 </td>
-<td valign="top" width="182">
-<br/>
-</td>
+<td valign="top" width="182"/>
 <td valign="top" width="29">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top"> B. Autres installations que celles visées au A, la quantité de produits entrant étant : <br/>
-<br/>1. Lorsque l'installation fonctionne pendant une durée maximale de 90 jours consécutifs en un an : <br/>
-<br/>a) Supérieure à 20 t/ j </td>
-<td align="center" valign="top"> E </td>
+<td align="left" valign="top">B. Autres installations que celles visées au A, la quantité de produits entrant étant : <p>1. Lorsque l'installation fonctionne pendant une durée maximale de 90 jours consécutifs en un an : </p>
+<p>a) Supérieure à 20 t/ j </p>
+</td>
+<td align="center" valign="top">E </td>
 <td align="left" valign="top"/>
 <td align="left" valign="top">
 <br/>
+<br/>
 </td>
 <td align="left" valign="top">
+<br/>
 <br/>
 </td>
 </tr>
 <tr>
-<td>b) Supérieure à 2 t/ j, mais inférieure ou égale à 20 t/ j  <br/>
+<td>b) Supérieure à 2 t/ j, mais inférieure ou égale à 20 t/ j <br/>
 </td>
-<td align="center"> D</td>
+<td align="center">D</td>
 <td/>
 <td/>
 <td/>
 </tr>
 <tr>
-<td>2. Autres installations : <br/>
-<br/>a) Supérieure à 10 t/ j  <br/>
+<td>2. Autres installations : <p>a) Supérieure à 10 t/ j <br/>
+</p>
 </td>
-<td align="center"> E</td>
+<td align="center">E</td>
 <td/>
 <td/>
 <td/>
@@ -2236,11 +2256,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <br/>
 <br/>
 </td>
-<td valign="top" width="182">
-<br/>
-<br/>
-<br/>
-</td>
+<td valign="top" width="182"/>
 <td valign="top" width="29">
 <br/>
 <br/>
@@ -4940,3 +4956,5 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 </tbody>
 </table>
+
+Décret n° 2013-1301 du 27 décembre 2013 art. 2 : La rubrique 2102 qui entre en vigueur le jour de la publication de l'arrêté ministériel fixant les prescriptions générales applicables aux installations relevant du régime de l'enregistrement dans ces deux rubriques.
