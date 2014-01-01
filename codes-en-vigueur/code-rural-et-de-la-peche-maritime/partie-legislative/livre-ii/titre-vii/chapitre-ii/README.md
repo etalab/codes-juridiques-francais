@@ -6,7 +6,6 @@
 - [Article L272-4](article-l272-4.md)
 - [Article L272-5](article-l272-5.md)
 - [Article L272-6](article-l272-6.md)
-- [Article L272-7](article-l272-7.md)
 - [Article L272-8](article-l272-8.md)
 - [Article L272-9](article-l272-9.md)
 - [Article L272-10](article-l272-10.md)
@@ -14,5 +13,4 @@
 - [Article L272-12](article-l272-12.md)
 - [Article L272-13](article-l272-13.md)
 - [Article L272-14](article-l272-14.md)
-- [Article L272-15](article-l272-15.md)
 - [Article L272-16](article-l272-16.md)
