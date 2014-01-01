@@ -1,6 +1,6 @@
 # Article L511-41-1 A
 
-Au sein des établissements de crédit mentionnés à l'article L. 511-1, des entreprises d'investissement mentionnées à l'article L. 531-4 et des sociétés de capital-risque visées à l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985 portant diverses dispositions d'ordre économique et financier, d'une taille supérieure à des seuils fixés par décret, l'organe délibérant constitue, pour préparer ses décisions, un comité spécialisé en matière de rémunérations.
+Au sein des établissements de crédit et des sociétés de financement mentionnés à l'article L. 511-1, des entreprises d'investissement mentionnées à l'article L. 531-4 et des sociétés de capital-risque visées à l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985 portant diverses dispositions d'ordre économique et financier, d'une taille supérieure à des seuils fixés par décret, l'organe délibérant constitue, pour préparer ses décisions, un comité spécialisé en matière de rémunérations.
 
 Il est composé majoritairement de membres indépendants, compétents pour analyser les politiques et pratiques de l'entreprise en matière de rémunérations, y compris au regard de la politique de risque de l'entreprise.
 
@@ -10,7 +10,7 @@ Ce comité, ou à défaut l'organe délibérant, procède à un examen annuel :
 
 2° Des rémunérations, indemnités et avantages de toute nature accordés aux mandataires sociaux de l'entreprise ;
 
-3° De la politique de rémunération des salariés qui gèrent des OPCVM, des FIA relevant des paragraphes 1, 2, 3, 5 et 6 de la sous-section 2, des sous-sections 3, 4 et 5 de la section 2 du chapitre IV du titre Ier du livre II et des salariés, catégories de personnel, incluant les membres de leur organe exécutif, les preneurs de risques, les personnes exerçant une fonction de contrôle, ainsi que tout salarié qui, au vu de ses revenus globaux, se trouve dans la même tranche de rémunération, dont les activités professionnelles ont une incidence significative sur le profil de risque de l'entreprise ou du groupe.
+3° De la politique de rémunération des salariés qui gèrent des OPCVM, des FIA relevant des paragraphes 1, 2, 3, 5 et 6 de la sous-section 2, des sous-sections 3, 4 et 5 de la section 2 du chapitre IV du titre Ier du livre II et des salariés, catégories de personnel, incluant les membres de leur organe exécutif, les preneurs de risques, les personnes exerçant une fonction de contrôle, ainsi que tout salarié qui, au vu de ses revenus globaux, se trouve dans la même tranche de rémunération, dont les activités professionnelles ont une incidence significative sur le profil de risque de l'entreprise ou du groupe. professionnels des marchés financiers, dont les activités sont susceptibles d'avoir une incidence significative sur l'exposition aux risques de l'entreprise.
 
 Le comité peut être assisté par les services de contrôle interne ou des experts extérieurs. Il rend régulièrement compte de ses travaux à l'organe délibérant.
 
