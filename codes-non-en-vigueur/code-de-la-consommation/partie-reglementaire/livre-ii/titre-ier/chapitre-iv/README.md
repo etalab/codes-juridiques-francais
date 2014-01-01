@@ -1,6 +1,5 @@
 # Chapitre IV : Mesures d'application.
 
-- [Section 1 : Dispositions générales](section-1)
 - [Section 2 : Etiquetage et présentation des denrées alimentaires et des aliments pour animaux](section-2)
 - [Section 3 : Nouveaux aliments et nouveaux ingrédients alimentaires](section-3)
 - [Section 4 : Organismes génétiquement modifiés](section-4)

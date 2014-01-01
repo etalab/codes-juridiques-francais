@@ -1,7 +1,6 @@
 # Section 3 : De la procédure devant la chambre des appels correctionnels
 
 - [Article 512](article-512.md)
-- [Article 512-1](article-512-1.md)
 - [Article 513](article-513.md)
 - [Article 514](article-514.md)
 - [Article 515](article-515.md)
