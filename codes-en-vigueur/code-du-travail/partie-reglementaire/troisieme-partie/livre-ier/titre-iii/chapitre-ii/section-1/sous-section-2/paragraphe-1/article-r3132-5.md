@@ -24,9 +24,7 @@ Les industries dans lesquelles sont utilisées les matières susceptibles d'alt�
 <td valign="top" width="321">
 <p>Agglomérés de charbon (fabrication d'). </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
@@ -61,9 +59,7 @@ Les industries dans lesquelles sont utilisées les matières susceptibles d'alt�
 <td valign="top" width="321">
 <p>Abattoirs. </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
@@ -93,49 +89,37 @@ Les industries dans lesquelles sont utilisées les matières susceptibles d'alt�
 <td valign="top" width="321">
 <p>Boyauderies, triperies, cordes à boyau (fabrication de). </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
 <p>Brasseries (fabrication de bière). </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
 <p>Caséine (fabrication de). </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
 <p>Cidre (fabrication du). </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
 <p>Conserves alimentaires (fabrication de). </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
 <p>Corps gras (extraction des). </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
@@ -149,41 +133,31 @@ Les industries dans lesquelles sont utilisées les matières susceptibles d'alt�
 <td valign="top" width="321">
 <p>Fécule (fabrication de). </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
 <p>Fromageries industrielles. </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
 <p>Glaces (fabrication de). </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
 <p>Lait (établissements industriels pour le traitement du). </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
 <p>Levure (fabrication de). </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
@@ -197,25 +171,19 @@ Les industries dans lesquelles sont utilisées les matières susceptibles d'alt�
 <td valign="top" width="321">
 <p>Margarine (fabrication de). </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
 <p>Minoterie et meunerie. </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
 <p>Poissons (ateliers de salage, saurage et séchage des). </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
@@ -237,9 +205,7 @@ Les industries dans lesquelles sont utilisées les matières susceptibles d'alt�
 <td valign="top" width="321">
 <p>Vinaigre (fabrication de). </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td colspan="2" width="643">
@@ -282,9 +248,7 @@ Les industries dans lesquelles sont utilisées les matières susceptibles d'alt�
 <td valign="top" width="321">
 <p>Indigo (teinturerie à l'). </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
@@ -343,17 +307,13 @@ Les industries dans lesquelles sont utilisées les matières susceptibles d'alt�
 <td valign="top" width="321">
 <p>Entreprises de journaux et d'information. </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
 <p>Papier, carton et pâtes à papier (fabrication de). </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
@@ -380,49 +340,37 @@ Les industries dans lesquelles sont utilisées les matières susceptibles d'alt�
 <td valign="top" width="321">
 <p>Acide azotique monohydraté (fabrication d'). </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
 <p>Acide carbonique liquide (fabrication d'). </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
 <p>Acide chlorhydrique (fabrication d'). </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
 <p>Acides résiduels de la fabrication des produits nitrés (établissements traitant les). </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
 <p>Acide sulfurique (fabrication d'). </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
 <p>Ammoniaque liquide (fabrication d'). </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
@@ -436,17 +384,13 @@ Les industries dans lesquelles sont utilisées les matières susceptibles d'alt�
 <td valign="top" width="321">
 <p>Celluloïd (fabrication de). </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
 <p>Chlore et produits dérivés (fabrication de). </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
@@ -476,25 +420,19 @@ Les industries dans lesquelles sont utilisées les matières susceptibles d'alt�
 <td valign="top" width="321">
 <p>Cyanures alcalins (fabrication de). </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
 <p>Dynamite (fabrication de). Eau oxygénée (fabrication d'). </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
 <p>Electrolyse de l'eau (établissements pratiquant l'). </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
@@ -508,57 +446,43 @@ Les industries dans lesquelles sont utilisées les matières susceptibles d'alt�
 <td valign="top" width="321">
 <p>Ether (fabrication d'). </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
 <p>Extraits tannants et tinctoriaux (fabrication d'). </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
 <p>Glycérine (distillation de la). </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
 <p>Goudron (usines de distillation du). </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
 <p>Huiles de schiste (usines de distillation des). </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
 <p>Iode (fabrication d'). </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
 <p>Matières colorantes artificielles dérivées du goudron de houille (fabrication de). </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
@@ -580,9 +504,7 @@ Les industries dans lesquelles sont utilisées les matières susceptibles d'alt�
 <td valign="top" width="321">
 <p>Oxyde de zinc (fabrication d'). </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
@@ -604,33 +526,25 @@ Les industries dans lesquelles sont utilisées les matières susceptibles d'alt�
 <td valign="top" width="321">
 <p>Phosphore (fabrication de). </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
 <p>Plaques, papiers et pellicules sensibles pour la photographie (fabrication de). </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
 <p>Produits chimiques organiques par voie de synthèse (fabrication de). </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
 <p>Savonneries. </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
@@ -644,17 +558,13 @@ Les industries dans lesquelles sont utilisées les matières susceptibles d'alt�
 <td valign="top" width="321">
 <p>Silicates de soude et de potasse (fabrication de). </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
 <p>Soude (fabrication de). </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
@@ -668,41 +578,31 @@ Les industries dans lesquelles sont utilisées les matières susceptibles d'alt�
 <td valign="top" width="321">
 <p>Sulfate de soude (fabrication de). </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
 <p>Sulfate de carbone (fabrication de). </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
 <p>Sulfure de sodium (fabrication de). </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
 <p>Superphosphates. </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
 <p>Viscose (fabrication de). </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td colspan="2" width="643">
@@ -883,9 +783,7 @@ Les industries dans lesquelles sont utilisées les matières susceptibles d'alt�
 <td valign="top" width="321">
 <p>Bioxyde de baryum (fabrication de). </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
@@ -915,25 +813,19 @@ Les industries dans lesquelles sont utilisées les matières susceptibles d'alt�
 <td valign="top" width="321">
 <p>Laminoirs et tréfileries de tous métaux. </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
 <p>Protection des métaux en continu. </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
 <p>Métaux (usines de production des). </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td colspan="2" width="643">
@@ -989,17 +881,13 @@ Les industries dans lesquelles sont utilisées les matières susceptibles d'alt�
 <td valign="top" width="321">
 <p>Entreprises d'éclairage, de distribution d'eau et de production d'énergie. </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
 <p>Entreprises de chauffage. </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
@@ -1029,9 +917,7 @@ Les industries dans lesquelles sont utilisées les matières susceptibles d'alt�
 <td valign="top" width="321">
 <p>Moulins à vent. </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td colspan="2" width="643">
@@ -1042,41 +928,35 @@ Les industries dans lesquelles sont utilisées les matières susceptibles d'alt�
 <td valign="top" width="321">
 <p>Ameublement (établissements de commerce de détail). </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
+</tr>
+<tr>
+<td> Bricolage (établissements de commerce de détail) (1)</td>
+<td/>
 </tr>
 <tr>
 <td valign="top" width="321">
 <p>Débits de tabac. </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
 <p>Distribution de carburants et lubrifiants pour automobiles (postes de). </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
 <p>Marée (établissements faisant le commerce de la). </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
 <p>Fleurs naturelles (établissements de commerce en gros des). </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td colspan="2" width="643">
@@ -1087,9 +967,7 @@ Les industries dans lesquelles sont utilisées les matières susceptibles d'alt�
 <td valign="top" width="321">
 <p>Entreprises de transport par terre autres que de transport ferroviaire. </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
@@ -1103,25 +981,19 @@ Les industries dans lesquelles sont utilisées les matières susceptibles d'alt�
 <td valign="top" width="321">
 <p>Entreprises de transport et de travail aériens. </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
 <p>Entreprises d'expédition, de transit et d'emballage. </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
 <p>Aéroports (commerces et services situés dans l'enceinte des). </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
@@ -1148,9 +1020,7 @@ Les industries dans lesquelles sont utilisées les matières susceptibles d'alt�
 <td valign="top" width="321">
 <p>Entreprises d'émission et de réception de télécommunication. </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td colspan="2" width="643">
@@ -1161,9 +1031,7 @@ Les industries dans lesquelles sont utilisées les matières susceptibles d'alt�
 <td valign="top" width="321">
 <p>Caisses d'épargne. </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
@@ -1182,9 +1050,7 @@ Les industries dans lesquelles sont utilisées les matières susceptibles d'alt�
 <td valign="top" width="321">
 <p>Etablissements de santé et établissements sociaux et médico-sociaux. Pharmacies. Etablissements de bains, piscines, hammams, thalassothérapie, balnéothérapie, spa. </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
@@ -1206,9 +1072,7 @@ Les industries dans lesquelles sont utilisées les matières susceptibles d'alt�
 <td valign="top" width="321">
 <p>Pompes funèbres (entreprises de). </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td colspan="2" width="643">
@@ -1219,33 +1083,25 @@ Les industries dans lesquelles sont utilisées les matières susceptibles d'alt�
 <td valign="top" width="321">
 <p>Entreprises d'arrosage, de balayage, de nettoyage et d'enlèvement des ordures ménagères. </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
 <p>Cabinets de toilette publics. </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
 <p>Désinfection (entreprises de). </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
 <p>Equarrissage (entreprises d'). </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
@@ -1272,25 +1128,19 @@ Les industries dans lesquelles sont utilisées les matières susceptibles d'alt�
 <td valign="top" width="321">
 <p>Entreprises de spectacles. </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
 <p>Musées et expositions. </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
 <p>Casinos et établissements de jeux. </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
@@ -1333,9 +1183,7 @@ Les industries dans lesquelles sont utilisées les matières susceptibles d'alt�
 <td valign="top" width="321">
 <p>Syndicats d'initiative et offices de tourisme. </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
@@ -1354,17 +1202,13 @@ Les industries dans lesquelles sont utilisées les matières susceptibles d'alt�
 <td valign="top" width="321">
 <p>Fabrication de produits alimentaires destinés à la consommation immédiate. </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td valign="top" width="321">
 <p>Hôtels, cafés et restaurants. </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td colspan="2" width="643">
@@ -1518,9 +1362,7 @@ Les industries dans lesquelles sont utilisées les matières susceptibles d'alt�
 <td valign="top" width="321">
 <p>Entreprises de location de chaises, de moyens de locomotion. </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td colspan="2" width="643">
@@ -1547,9 +1389,7 @@ Les industries dans lesquelles sont utilisées les matières susceptibles d'alt�
 <td valign="top" width="321">
 <p>Espaces de présentation et d'exposition permanente dont l'activité est exclusive de toute vente au public, réservés aux producteurs, revendeurs ou prestataires de services. </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td colspan="2" width="643">
@@ -1581,9 +1421,7 @@ Les industries dans lesquelles sont utilisées les matières susceptibles d'alt�
 <td valign="top" width="321">
 <p>Magasins de fleurs naturelles. </p>
 </td>
-<td valign="top" width="321">
-<br/>
-</td>
+<td valign="top" width="321"/>
 </tr>
 <tr>
 <td colspan="2" width="643">
