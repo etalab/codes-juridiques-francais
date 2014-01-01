@@ -28,7 +28,7 @@ c) Dans un procédé de fabrication de produits minéraux non métalliques, clas
 
 5. Les produits mentionnés au 1 sont exonérés de la taxe intérieure de consommation lorsqu'ils sont utilisés :
 
-1° Pour la production d'électricité, à l'exclusion des produits utilisés dans des installations mentionnées à l'article 266 quinquies A   et qui bénéficient d'un contrat d'achat d'électricité conclu en application de l'article L. 314-1 du code de l'énergie ou mentionné à l'article L. 121-27 du même code et des produits utilisés pour leurs besoins par les petits producteurs d'électricité au sens du 4° du V de l'article L. 3333-2 du code général des collectivités territoriales ;
+1° Pour la production d'électricité, à l'exclusion des produits utilisés dans des installations mentionnées à l'article 266 quinquies A et qui bénéficient d'un contrat d'achat d'électricité conclu en application de l'article L. 314-1 du code de l'énergie ou mentionné à l'article L. 121-27 du même code et des produits utilisés pour leurs besoins par les petits producteurs d'électricité au sens du 4° du V de l'article L. 3333-2 du code général des collectivités territoriales ;
 
 2° Pour les besoins de leur extraction et de leur production ;
 
@@ -44,6 +44,18 @@ Ils tiennent une comptabilité des livraisons qu'ils effectuent en France et com
 
 2° Les fournisseurs non établis en France désignent une personne qui y est établie et a été enregistrée auprès de l'administration des douanes et droits indirects pour effectuer en leurs lieu et place les obligations qui leur incombent et acquitter la taxe intérieure de consommation.
 
+3° La taxe est acquittée, selon une périodicité trimestrielle, auprès de l'administration des douanes et droits indirects.
+
+Les quantités d'énergie livrées à un utilisateur final ou importées ou, dans les autres cas, consommées par un utilisateur final au titre d'un trimestre, pour lesquelles la taxe est devenue exigible, sont portées sur une déclaration déposée dans un délai de deux mois suivant le trimestre concerné. La taxe correspondante est acquittée lors du dépôt de la déclaration.
+
+La forme de la déclaration d'acquittement et les modalités déclaratives sont définies par arrêté du ministre chargé du budget.
+
+La déclaration d'acquittement peut être effectuée par voie électronique ;
+
+4° Les fournisseurs communiquent chaque année à l'administration des douanes la liste de leurs clients non domestiques, selon les modalités définies par arrêté du ministre chargé du budget.
+
 8. Les personnes qui ont reçu des produits mentionnés au 1 sans que ces produits soient soumis à la taxe intérieure de consommation dans les cas prévus au 4 ou qui les ont reçus en exonération de cette taxe dans les cas prévus au 5 sont tenues, sans préjudice des pénalités applicables, au paiement de la taxe lorsque ces produits n'ont pas été affectés à la destination ou à l'utilisation ayant justifié l'absence de taxation ou l'exonération.
 
 9. Abrogé (à compter du 1er janvier 2008).
+
+10. Lorsque les houilles, lignites et cokes ont été normalement soumis à la taxe intérieure de consommation alors qu'ils ont été employés en tout ou partie par l'utilisateur final à un usage non taxable prévu au 4 ou à un usage exonéré prévu au 5 du présent article, l'utilisateur final peut demander le remboursement de la taxe ou de la fraction de taxe, dans les conditions prévues à l'article 352.

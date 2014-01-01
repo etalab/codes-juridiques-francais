@@ -12,7 +12,7 @@ La délibération porte sur la totalité de la part revenant à chaque commune o
 
 I bis à I quinquies (Abrogés)
 
-I quinquies A.-Sauf délibération contraire de la commune ou de l'établissement public de coopération intercommunale doté d'une fiscalité propre prise dans les conditions prévues au I de l'article 1639 A bis, les entreprises sont exonérées de cotisation foncière des entreprises pour les créations et extensions d'établissements qu'elles réalisent entre le 1er janvier 2007 et le 31 décembre 2013 dans les bassins d'emploi à redynamiser définis au 3 bis de l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire.
+I quinquies A.-Sauf délibération contraire de la commune ou de l'établissement public de coopération intercommunale doté d'une fiscalité propre prise dans les conditions prévues au I de l'article 1639 A bis, les entreprises sont exonérées de cotisation foncière des entreprises pour les créations et extensions d'établissements qu'elles réalisent entre le 1er janvier 2007 et le 31 décembre 2014 dans les bassins d'emploi à redynamiser définis au 3 bis de l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire.
 
 Les exonérations prévues au premier alinéa portent pendant cinq ans à compter de l'année qui suit la création ou, en cas d'extension d'établissement, à compter de la deuxième année qui suit celle-ci, sur la totalité de la part revenant à chaque commune ou établissement public de coopération intercommunale doté d'une fiscalité propre.
 
@@ -50,7 +50,7 @@ L'exonération porte pendant cinq ans à compter de 2006 pour les établissement
 
 II. Pour bénéficier des exonérations prévues aux I, I quinquies A, I quinquies B et I sexies les contribuables déclarent, chaque année, dans les conditions prévues à l'article 1477, les éléments entrant dans le champ d'application de l'exonération.
 
-Lorsqu'un établissement remplit les conditions requises pour bénéficier de l'une des exonérations prévues aux articles 1464 A, 1464 B, 1464 D, 1464 I, 1465,1465 A, 1465 B, 1466 C, 1466 D ou 1466 E et de celles prévues aux I, I quinquies A, I quinquies B ou I sexies le contribuable doit opter pour l'un ou l'autre de ces régimes. L'option qui est irrévocable doit être exercée dans le délai prévu pour le dépôt de la déclaration afférente à la première année au titre de laquelle l'exonération prend effet.
+Lorsqu'un établissement remplit les conditions requises pour bénéficier de l'une des exonérations prévues aux articles 1464 A, 1464 B, 1464 D, 1464 I, 1464 L, 1465,1465 A, 1465 B,  1466 C ou 1466 D et de celles prévues aux I, I quinquies A, I quinquies B ou I sexies le contribuable doit opter pour l'un ou l'autre de ces régimes. L'option qui est irrévocable doit être exercée dans le délai prévu pour le dépôt de la déclaration afférente à la première année au titre de laquelle l'exonération prend effet.
 
 Pour l'application des I, I quinquies A, I quinquies B et I sexies :
 
