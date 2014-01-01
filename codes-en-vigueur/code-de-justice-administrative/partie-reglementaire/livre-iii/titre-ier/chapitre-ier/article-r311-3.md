@@ -1,3 +1,5 @@
 # Article R311-3
 
-Par dérogation aux dispositions du 5° de l'article R. 311-1, les recours contre les décisions prises par le directeur départemental du travail sur le fondement des articles L. 433-2 et L. 435-4 du code du travail (1) sont portés, quels que soient le nombre et l'implantation des établissements en cause, devant le tribunal administratif.
+Les cours administratives d'appel sont compétentes pour connaître en premier et dernier ressort des litiges relatifs aux décisions prises par la Commission nationale d'aménagement commercial en application de l'article L. 752-17 du code de commerce.
+
+La cour administrative d'appel territorialement compétente pour connaître de ces recours est celle dans le ressort de laquelle a son siège la commission départementale d'aménagement commercial qui a pris la décision.
