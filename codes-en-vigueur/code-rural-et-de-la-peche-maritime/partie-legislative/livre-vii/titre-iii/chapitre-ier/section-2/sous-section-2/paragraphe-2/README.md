@@ -6,6 +6,7 @@
 - [Article L731-33](article-l731-33.md)
 - [Article L731-34](article-l731-34.md)
 - [Article L731-35](article-l731-35.md)
+- [Article L731-35-2](article-l731-35-2.md)
 - [Article L731-36](article-l731-36.md)
 - [Article L731-37](article-l731-37.md)
 - [Article L731-38](article-l731-38.md)

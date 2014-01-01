@@ -2,8 +2,10 @@
 
 - [Article L732-3](article-l732-3.md)
 - [Article L732-4](article-l732-4.md)
+- [Article L732-4-1](article-l732-4-1.md)
 - [Article L732-5](article-l732-5.md)
 - [Article L732-6](article-l732-6.md)
+- [Article L732-6-1](article-l732-6-1.md)
 - [Article L732-7](article-l732-7.md)
 - [Article L732-8](article-l732-8.md)
 - [Article L732-8-1](article-l732-8-1.md)
