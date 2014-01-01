@@ -2,7 +2,7 @@
 
 Le régime de protection sociale des salariés des professions agricoles est applicable, dans les conditions fixées par les titres IV, V et VI du présent livre, aux personnes salariées et assimilées énumérées ci-dessous :
 
-1° Salariés occupés aux activités ou dans les entreprises ou établissements définis à l'article L. 722-1, à l'exception de l'activité mentionnée au 5° dudit article ;
+1° Salariés occupés aux activités ou dans les entreprises ou établissements définis à l'article L. 722-1, à l'exception de l'activité mentionnée au 5° dudit article, et salariés des entreprises artisanales rurales n'employant pas plus de deux salariés de façon permanente ;
 
 2° Gardes-chasse, gardes-pêche, gardes forestiers, jardiniers, jardiniers gardes de propriété et, de manière générale, toutes les personnes qui, n'ayant pas la qualité d'entrepreneur, sont occupées par des groupements et sociétés de toute nature ou des particuliers à la mise en état et à l'entretien des jardins ;
 

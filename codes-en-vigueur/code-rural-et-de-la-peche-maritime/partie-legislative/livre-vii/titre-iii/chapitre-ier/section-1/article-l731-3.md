@@ -1,14 +1,14 @@
 # Article L731-3
 
-Le financement des prestations d'assurance vieillesse et veuvage du régime de protection sociale des non-salariés agricoles, à l'exclusion des dépenses complémentaires mentionnées à l'article L. 731-10, est assuré par :
+Le financement de l'assurance vieillesse et veuvage du régime de protection sociale des non-salariés agricoles est assuré par :
 
-1° La fraction des cotisations dues par les assujettis affectée au service des prestations d'assurance vieillesse et veuvage des non-salariés agricoles ;
+1° Les cotisations dues par les assujettis ;
 
 2° Le produit des cotisations de solidarité mentionnées à l'article L. 731-23 ;
 
 2° bis Le produit du droit de consommation sur les produits intermédiaires mentionné à l'article 402 bis du code général des impôts ;
 
-3° Une fraction égale à 42,2 % du  produit des droits de consommation sur les alcools mentionnés au I de l'article 403 du code général des impôts ;
+3° Une fraction égale à 42,2 % du produit des droits de consommation sur les alcools mentionnés au I de l'article 403 du code général des impôts ;
 
 4° Le produit du droit de circulation sur les vins, cidres, poirés et hydromels mentionné à l'article 438 du même code ;
 

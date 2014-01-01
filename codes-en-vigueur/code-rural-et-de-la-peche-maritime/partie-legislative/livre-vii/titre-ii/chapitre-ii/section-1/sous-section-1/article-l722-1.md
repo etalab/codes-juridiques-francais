@@ -11,5 +11,3 @@ Le régime de protection sociale des non-salariés des professions agricoles est
 4° Etablissements de conchyliculture et de pisciculture et établissements assimilés ainsi qu'activités de pêche maritime à pied professionnelle telle que définie par décret, sauf pour les personnes qui relèvent du régime social des marins ;
 
 5° Activité exercée en qualité de non salariés par les mandataires des sociétés ou caisses locales d'assurances mutuelles agricoles dans les conditions prévues par décret ;
-
-6° Entreprises artisanales rurales n'employant pas plus de deux ouvriers de façon permanente.

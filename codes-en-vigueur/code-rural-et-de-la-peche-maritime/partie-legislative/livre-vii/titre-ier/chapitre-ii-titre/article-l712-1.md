@@ -4,7 +4,7 @@ I.-L'employeur qui, au moment de l'embauche d'un salarié par contrat à durée 
 
 L'inscription sur le registre unique du personnel est réputée accomplie lorsque les employeurs tiennent à la disposition des personnes mentionnées au troisième alinéa de l'article L. 620-3 du code du travail, et pour chacun des salariés concernés, un double du document prévu ci-dessus portant un numéro correspondant à leur ordre d'embauchage.
 
-Le titre emploi simplifié agricole est délivré par les caisses de mutualité sociale agricole aux employeurs qui font appel, au moyen d'un ou plusieurs contrats de travail à durée déterminée, à des salariés occupés dans les activités ou les exploitations, entreprises ou établissements mentionnés aux 1° à 4° et 6° de l'article L. 722-1 ainsi qu'aux 2°, 3° et 6° de l'article L. 722-20.
+Le titre emploi simplifié agricole est délivré par les caisses de mutualité sociale agricole aux employeurs qui font appel, au moyen d'un ou plusieurs contrats de travail à durée déterminée, à des salariés occupés dans les activités ou les exploitations, entreprises ou établissements mentionnés aux 1° à 4° de l'article L. 722-1 ainsi qu'aux 2°, 3° et 6° de l'article L. 722-20.
 
 Par dérogation à l'article L. 143-2 du code du travail, lorsqu'il est fait usage de ce titre, pour des travaux saisonniers, les salariés sont rémunérés à l'issue de chaque campagne saisonnière et au moins une fois par mois.
 
