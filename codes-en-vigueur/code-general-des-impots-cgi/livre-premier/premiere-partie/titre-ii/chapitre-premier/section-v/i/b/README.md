@@ -5,6 +5,7 @@
 - [Article 278 bis](article-278-bis.md)
 - [Article 278 quater](article-278-quater.md)
 - [Article 278 sexies](article-278-sexies.md)
+- [Article 278 sexies A](article-278-sexies-a.md)
 - [Article 278 septies](article-278-septies.md)
 - [Article 279](article-279.md)
 - [Article 279-0 bis](article-279-0-bis.md)

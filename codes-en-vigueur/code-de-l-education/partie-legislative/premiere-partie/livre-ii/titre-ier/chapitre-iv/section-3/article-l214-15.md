@@ -16,9 +16,7 @@ Les crédits mentionnés à l'alinéa précédent sont diminués en 2005,2006 et
 
 4° Les crédits votés à cet effet par le conseil régional ;
 
-5° Le produit de la contribution au développement de l'apprentissage prévue à l'article 1599 quinquies A du code général des impôts ;
-
-6° Le montant des ressources fiscales attribuées aux régions mentionnées aux articles 41 et 140 de la loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014.
+5° Le produit de la contribution au développement de l'apprentissage prévue à l'article 1599 quinquies A du code général des impôts.
 
 Chaque région, ainsi que la collectivité territoriale de Corse et la collectivité départementale de Mayotte, reçoit une part du produit de cette contribution. Cette part représente une fraction du taux de cette contribution appliquée à l'assiette nationale. Pour les régions et la collectivité territoriale de Corse, cette fraction est elle-même calculée au prorata de la part de dotation, supprimée dans les conditions prévues au 1° ci-dessus, que chaque région ainsi que la collectivité territoriale de Corse a perçue en 2004. Pour la collectivité départementale de Mayotte, cette part est calculée au prorata de la dotation générale de décentralisation perçue en 2008 au titre du premier transfert de compétences à cette collectivité au titre de l'apprentissage. La répartition entre les régions, la collectivité territoriale de Corse et la collectivité départementale de Mayotte du produit de la contribution ainsi calculé est fixée par arrêté conjoint du ministre de l'intérieur et des ministres chargés du travail et du budget.
 

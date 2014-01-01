@@ -6,7 +6,7 @@ Par délibération prise dans les conditions prévues au premier alinéa de l'ar
 
 2° Dans la limite de 50 % de leur surface, les surfaces des locaux à usage d'habitation principale qui ne bénéficient pas de l'abattement mentionné au 2° de l'article L. 331-12 et qui sont financés à l'aide du prêt ne portant pas intérêt prévu à l'article L. 31-10-1 du code de la construction et de l'habitation ;
 
-3° Les locaux à usage industriel mentionnés au 3° de l'article L. 331-12 du présent code ;
+3° Les locaux à usage industriel ou artisanal  mentionnés au 3° de l'article L. 331-12 du présent code ;
 
 4° Les commerces de détail d'une surface de vente inférieure à 400 mètres carrés ;
 
@@ -14,4 +14,6 @@ Par délibération prise dans les conditions prévues au premier alinéa de l'ar
 
 6° Les surfaces annexes à usage de stationnement des locaux mentionnés au 1° et ne bénéficiant pas de l'exonération totale ;
 
-7° Les surfaces des locaux annexes à usage de stationnement des immeubles autres que d'habitations individuelles.
+7° Les surfaces des locaux annexes à usage de stationnement des immeubles autres que d'habitations individuelles ;
+
+8° Les abris de jardin soumis à déclaration préalable.

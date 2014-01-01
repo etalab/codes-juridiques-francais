@@ -16,8 +16,6 @@ Elle est ouverte aux étrangers non ressortissants d'un Etat membre de l'Union e
 
 Son montant est calculé en fonction des ressources du bénéficiaire. Elle est versée annuellement et révisée, le cas échéant, une fois par an, en fonction de l'évolution des prix hors tabac prévue dans le rapport sur la situation et les perspectives économiques, sociales et financières de la Nation annexé au projet de loi de finances de l'année.
 
-Elle n'est pas soumise à l'impôt sur le revenu.
-
 L'aide est supprimée lorsqu'il est constaté que l'une des conditions exigées pour son service n'est plus remplie.
 
 Le bénéfice de l'aide est supprimé à la demande des bénéficiaires, à tout moment, en cas de renonciation à effectuer des séjours de longue durée dans leur pays d'origine. En cas de renonciation au bénéfice de cette aide, les bénéficiaires sont réintégrés dans leurs droits liés à la résidence.

@@ -14,7 +14,7 @@ Le b ne s'applique qu'à un seul véhicule par bénéficiaire.
 
 II. ― La taxe est assise :
 
-a) Pour les véhicules de tourisme au sens de l'article 1010 qui ont fait l'objet d'une réception communautaire au sens de la directive 2007/46/CE du Parlement européen et du Conseil, du 5 septembre 2007, précitée, sur le nombre de grammes de dioxyde de carbone émis par kilomètre ;
+a) Pour les véhicules de tourisme au sens de l'article 1010 qui ont fait l'objet d'une réception communautaire au sens de la directive 2007/46/ CE du Parlement européen et du Conseil, du 5 septembre 2007, précitée, sur le nombre de grammes de dioxyde de carbone émis par kilomètre ;
 
 b) Pour les véhicules de tourisme au sens de l'article 1010 autres que ceux mentionnés au a, sur la puissance administrative.
 
@@ -25,22 +25,20 @@ a) Pour les véhicules de tourisme au sens de l'article 1010 mentionnés au a du
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center"> TAUX D'ÉMISSION </p>
-<p align="center">de dioxyde de carbone </p>
-<p align="center">(en grammes par kilomètre)</p>
-</td>
-<td>
-<p align="center"> TARIF DE LA TAXE </p>
-<p align="center">(en euros) </p>
-<p align="center">Année d'immatriculation </p>
-<p align="center">A partir de 2013 </p>
-</td>
+<th>
+<br/>TAUX D'ÉMISSION DE DIOXYDE DE CARBONE <br/>
+<p>(en grammes par kilomètre) <br/>
+</p>
+</th>
+<th>
+<br/>TARIF DE LA TAXE <br/>
+<p>(en euros) <br/>
+</p>
+</th>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Taux ≤ 135 </p>
+<br/>Taux ≤ 130 <br/>
 </td>
 <td align="center">
 <br/>0 <br/>
@@ -48,63 +46,55 @@ a) Pour les véhicules de tourisme au sens de l'article 1010 mentionnés au a du
 </tr>
 <tr>
 <td align="center">
-<p align="left">135 &lt; taux ≤ 140 </p>
+<br/>130 &lt; taux ≤ 135 <br/>
 </td>
 <td align="center">
-<br/>100 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">140 &lt; taux ≤ 145 </p>
-</td>
-<td align="center">
-<br/>300 <br/>
+<br/>150 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">145 &lt; taux ≤ 150 </p>
+<br/>135 &lt; taux ≤ 140 <br/>
 </td>
 <td align="center">
-<br/>400 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">150 &lt; taux ≤ 155 </p>
-</td>
-<td align="center">
-<br/>1 000 <br/>
+<br/>250 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">155 &lt; taux ≤ 175 </p>
+<br/>140 &lt; taux ≤ 145 <br/>
 </td>
 <td align="center">
-<br/>1 500 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">175 &lt; taux ≤ 180 </p>
-</td>
-<td align="center">
-<br/>2 000 <br/>
+<br/>500 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">180 &lt; taux ≤ 185 </p>
+<br/>145 &lt; taux ≤ 150 <br/>
 </td>
 <td align="center">
-<br/>2 600 <br/>
+<br/>900 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">185 &lt; taux ≤ 190 </p>
+<br/>150 &lt; taux ≤ 155 <br/>
+</td>
+<td align="center">
+<br/>1 600 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>155 &lt; taux ≤ 175 <br/>
+</td>
+<td align="center">
+<br/>2 200 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>175 &lt; taux ≤ 180 <br/>
 </td>
 <td align="center">
 <br/>3 000 <br/>
@@ -112,18 +102,34 @@ a) Pour les véhicules de tourisme au sens de l'article 1010 mentionnés au a du
 </tr>
 <tr>
 <td align="center">
-<p align="left">190 &lt; taux ≤ 200 </p>
+<br/>180 &lt; taux ≤ 185 <br/>
 </td>
 <td align="center">
-<br/>5 000 <br/>
+<br/>3 600 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">200 &lt; taux </p>
+<br/>185 &lt; taux ≤ 190 <br/>
 </td>
 <td align="center">
-<br/>6 000 <br/>
+<br/>4 000 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>190 &lt; taux ≤ 200 <br/>
+</td>
+<td align="center">
+<br/>6 500 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>200 &lt; taux <br/>
+</td>
+<td align="center">
+<br/>8 000 <br/>
 </td>
 </tr>
 </tbody>
@@ -138,18 +144,20 @@ b) Pour les véhicules de tourisme au sens de l'article 1010 mentionnés au b du
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center"> PUISSANCE FISCALE </p>
-<p align="center">(en chevaux-vapeur)</p>
-</td>
-<td>
-<p align="center"> MONTANT DE LA TAXE </p>
-<p align="center">(en euros)</p>
-</td>
+<th>
+<br/>PUISSANCE FISCALE <br/>
+<p>(en chevaux-vapeur) <br/>
+</p>
+</th>
+<th>
+<br/>TARIF DE LA TAXE <br/>
+<p>(en euros) <br/>
+</p>
+</th>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Puissance fiscale ≤ 5 </p>
+<br/>Puissance fiscale ≤ 5 <br/>
 </td>
 <td align="center">
 <br/>0 <br/>
@@ -157,47 +165,49 @@ b) Pour les véhicules de tourisme au sens de l'article 1010 mentionnés au b du
 </tr>
 <tr>
 <td align="center">
-<p align="left">6 ≤ puissance fiscale ≤ 7 </p>
+<br/>6 ≤ puissance fiscale ≤ 7 <br/>
 </td>
 <td align="center">
-<br/>800 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">8 ≤ puissance fiscale ≤ 9</p>
-</td>
-<td align="center">
-<br/>1 400 <br/>
+<br/>1 500 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">10 ≤ puissance fiscale ≤ 11</p>
+<br/>8 ≤ puissance fiscale ≤ 9 <br/>
 </td>
 <td align="center">
-<br/>2 600 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">12 ≤ puissance fiscale ≤ 16 </p>
-</td>
-<td align="center">
-<br/>4 600 <br/>
+<br/>2 000 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Puissance fiscale &gt; 16 </p>
+<br/>10 ≤ puissance fiscale ≤ 11 <br/>
+</td>
+<td align="center">
+<br/>3 600 <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>12 ≤ puissance fiscale ≤ 16 <br/>
 </td>
 <td align="center">
 <br/>6 000 <br/>
 </td>
 </tr>
+<tr>
+<td align="center">
+<br/>16 &lt; puissance fiscale <br/>
+</td>
+<td align="center">
+<br/>8 000 <br/>
+</td>
+</tr>
 </tbody>
 </table>
 
-<div align="left">Pour les véhicules introduits en France après avoir été immatriculés dans un autre pays, la taxe est réduite d'un dixième par année entamée depuis cette immatriculation. </div>
-<div align="left">Les véhicules spécialement équipés pour fonctionner au moyen du superéthanol E85 mentionné au tableau B du 1 de l'article 265 du code des douanes bénéficient d'un abattement de 40 % sur les taux d'émissions de dioxyde de carbone, au sens de la directive 2007/46/CE, du 5 septembre 2007, précitée , figurant dans le tableau mentionné au a. Cet abattement ne s'applique pas aux véhicules dont les émissions de dioxyde de carbone sont supérieures à 250 grammes par kilomètre. </div>
+<div align="left">Pour les véhicules introduits en France après avoir été immatriculés dans un autre pays, la taxe est réduite d'un dixième par année entamée depuis cette immatriculation. <br/>
+</div>
+<div align="left">Les véhicules spécialement équipés pour fonctionner au moyen du superéthanol E85 mentionné au tableau B du 1 de l'article 265 du code des douanes bénéficient d'un abattement de 40 % sur les taux d'émissions de dioxyde de carbone, au sens de la directive 2007/46/ CE, du 5 septembre 2007, précitée, figurant dans le tableau mentionné au a. Cet abattement ne s'applique pas aux véhicules dont les émissions de dioxyde de carbone sont supérieures à 250 grammes par kilomètre. <br/>
+</div>
 <div align="left">IV. ― La taxe est recouvrée selon les mêmes règles et dans les mêmes conditions que la taxe prévue à l'article 1599 quindecies.</div>

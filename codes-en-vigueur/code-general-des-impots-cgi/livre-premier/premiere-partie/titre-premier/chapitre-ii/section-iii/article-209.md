@@ -38,9 +38,9 @@ V. Pour la détermination du résultat imposable des entreprises bénéficiant o
 
 Les dispositions du premier alinéa ne s'appliquent pas en cas de sortie du régime prévu à l'article 209-0 B dans les conditions prévues aux b et d du IV dudit article, ou de cession de navires pendant la période mentionnée au III de ce même article à des sociétés n'ayant pas opté pour le régime prévu à l'article 209-0 B précité et liées directement ou indirectement au sens du 12 de l'article 39.
 
-VI.-Le vingtième alinéa du 5° du 1 de l'article 39 s'applique distinctement aux titres de sociétés à prépondérance immobilière définis au troisième alinéa du a du I de l'article 219 et aux autres titres de sociétés à prépondérance immobilière.
+VI.-Le dix-neuvième  alinéa du 5° du 1 de l'article 39 s'applique distinctement aux titres de sociétés à prépondérance immobilière définis au troisième alinéa du a du I de l'article 219 et aux autres titres de sociétés à prépondérance immobilière.
 
-VII.-Les frais liés à l'acquisition de titres de participation définis au dix-huitième alinéa du 5° du 1 de l'article 39 ne sont pas déductibles au titre de leur exercice d'engagement mais sont incorporés au prix de revient de ces titres. Pour l'application des dispositions de la phrase précédente, les frais d'acquisition s'entendent des droits de mutation, honoraires, commissions et frais d'actes liés à l'acquisition.
+VII.-Les frais liés à l'acquisition de titres de participation définis au dix-septième  alinéa du 5° du 1 de l'article 39 ne sont pas déductibles au titre de leur exercice d'engagement mais sont incorporés au prix de revient de ces titres. Pour l'application des dispositions de la phrase précédente, les frais d'acquisition s'entendent des droits de mutation, honoraires, commissions et frais d'actes liés à l'acquisition.
 
 La fraction du prix de revient des titres mentionnés au premier alinéa correspondant à ces frais d'acquisition peut être amortie sur cinq ans à compter de la date d'acquisition des titres.
 

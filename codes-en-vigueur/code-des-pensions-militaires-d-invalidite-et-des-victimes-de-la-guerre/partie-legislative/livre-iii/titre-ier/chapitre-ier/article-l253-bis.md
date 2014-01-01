@@ -12,4 +12,4 @@ Une commission d'experts, comportant notamment des représentants des intéress�
 
 Les adaptations visées au premier alinéa ci-dessus ainsi que les modalités d'application du présent article, et notamment les périodes à prendre en considération pour les différents théâtres d'opérations, seront fixées par décret en Conseil d'Etat ; un arrêté interministériel énumérera les catégories de formations constituant les forces supplétives françaises.
 
-Une durée des services d'au moins quatre mois dans l'un ou l'autre ou dans plusieurs des pays mentionnés au premier alinéa est reconnue équivalente à la participation aux actions de feu ou de combat exigée au cinquième alinéa.
+Une durée des services d'au moins quatre mois dans l'un ou l'autre ou dans plusieurs des pays mentionnés au premier alinéa est reconnue équivalente à la participation aux actions de feu ou de combat exigée au cinquième alinéa, y compris lorsque ces services se sont poursuivis au-delà du 2 juillet 1962 dès lors qu'ils n'ont connu aucune interruption.

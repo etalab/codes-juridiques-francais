@@ -6,7 +6,7 @@ Le fait générateur de la taxe mentionnée à l'article 266 sexies est constitu
 
 1 bis. Le transfert des déchets à la date figurant sur le document de suivi adressé aux autorités compétentes du pays d'expédition en application du règlement (CE) n° 1013/2006 du Parlement européen et du Conseil, du 14 juin 2006, concernant les transferts de déchets ou, à défaut de document de suivi, à la date de sortie du territoire ;
 
-2. L'émission dans l'atmosphère par les installations mentionnées au 2 du I de l'article 266 sexies, d'oxydes de soufre et autres composés soufrés, d'oxydes d'azote et autres composés oxygénés de l'azote, d'acide chlorhydrique, d'hydrocarbures non méthaniques, solvants, de benzène et d'hydrocarbures aromatiques polycycliques et autres composés organiques volatils, d'arsenic, de mercure, de sélénium ainsi que de poussières totales en suspension ;
+2. L'émission dans l'atmosphère par les installations mentionnées au 2 du I de l'article 266 sexies, d'oxydes de soufre et autres composés soufrés, d'oxydes d'azote et autres composés oxygénés de l'azote, d'acide chlorhydrique, d'hydrocarbures non méthaniques, solvants, de benzène et d'hydrocarbures aromatiques polycycliques et autres composés organiques volatils, d'arsenic, de mercure, de sélénium, de plomb, de zinc, de chrome, de cuivre, de nickel, de cadmium, de vanadium ainsi que de poussières totales en suspension ;
 
 3. (Alinéa abrogé) ;
 

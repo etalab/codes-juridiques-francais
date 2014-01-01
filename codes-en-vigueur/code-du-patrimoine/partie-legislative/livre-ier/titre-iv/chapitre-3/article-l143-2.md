@@ -10,4 +10,4 @@ Elle apporte son concours à des personnes publiques ou privées, notamment par 
 
 Elle peut également acquérir les biens mentionnés au troisième alinéa lorsque cette acquisition est nécessaire aux actions de sauvegarde qu'elle met en place.
 
-Elle peut attribuer un label au patrimoine non protégé et aux sites. Ce label peut être pris en compte pour l'octroi de l'agrément prévu au 1° ter du II de l'article 156 du code général des impôts.
+Elle peut attribuer un label au patrimoine non protégé et aux sites.

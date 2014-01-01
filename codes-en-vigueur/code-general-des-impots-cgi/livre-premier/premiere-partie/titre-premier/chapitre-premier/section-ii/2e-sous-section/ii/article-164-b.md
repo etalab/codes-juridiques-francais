@@ -32,7 +32,11 @@ e ter) Les plus-values qui résultent de la cession :
 
 5° De parts, d'actions ou d'autres droits dans des organismes, quelle qu'en soit la forme, non cotés sur un marché français ou étranger, autres que ceux mentionnés au 3° du e bis, dont l'actif est, à la clôture des trois exercices qui précèdent la cession, principalement constitué directement ou indirectement de biens et droits mentionnés au 1° du e bis. Si l'organisme dont les parts, actions ou droits sont cédés n'a pas encore clos son troisième exercice, la composition de l'actif est appréciée à la clôture du ou des seuls exercices clos ou, à défaut, à la date de la cession ;
 
-f. Les gains nets mentionnés au I de l'article 150-0 A et résultant de le cession de droits sociaux, ainsi que ceux mentionnés au 6 du II du même article retirés du rachat par une société émettrice de ses propres titres, lorsque les droits détenus directement ou indirectement par le cédant ou l'actionnaire ou l'associé dont les titres sont rachetés, sont émis par une société soumise à l'impôt sur les sociétés et ayant son siège en France;
+f. Les gains nets mentionnés au I de l'article 150-0 A et résultant de le cession de droits sociaux, ainsi que ceux mentionnés au 6 du II du même article retirés du rachat par une société émettrice de ses propres titres, lorsque les droits détenus directement ou indirectement par le cédant ou l'actionnaire ou l'associé dont les titres sont rachetés, sont émis par une société soumise à l'impôt sur les sociétés et ayant son siège en France ;
+
+f bis) Les distributions mentionnées au 7 du II de l'article 150-0 A afférentes à des éléments d'actif situés en France, à l'exception de celles effectuées par des entités constituées sur le fondement d'un droit étranger ;
+
+f ter) Les distributions mentionnées au 7 bis du même II prélevées sur des plus-values nettes de cession d'éléments d'actif situés en France, à l'exception des distributions de plus-values par des entités constituées sur le fondement d'un droit étranger ;
 
 g. Les sommes, y compris les salaires, payées à compter du 1er janvier 1990, correspondant à des prestations artistiques ou sportives fournies ou utilisées en France.
 

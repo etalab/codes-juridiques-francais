@@ -1,10 +1,12 @@
 # Article L1615-6
 
-I.-Jusqu'au 31 décembre 2001, les attributions du Fonds de compensation pour la taxe sur la valeur ajoutée sont déterminées en appliquant aux dépenses réelles d'investissement, définies par décret en Conseil d'Etat, un taux de compensation forfaitaire de 16,176 %. En 2002, le taux de compensation forfaitaire est fixé à 15,656 %. A compter de 2003, ce taux est fixé à 15,482 %.
+I. - Jusqu'au 31 décembre 2001, les attributions du Fonds de compensation pour la taxe sur la valeur ajoutée sont déterminées en appliquant aux dépenses réelles d'investissement, définies par décret en Conseil d'Etat, un taux de compensation forfaitaire de 16,176 %. En 2002, le taux de compensation forfaitaire est fixé à 15,656 %. A compter de 2003, ce taux est fixé à 15,482 %.
 
 Le taux de compensation forfaitaire de 15,482 % est applicable aux dépenses d'investissement éligibles réalisées à compter du 1er avril 2000 par les communautés de communes, les communautés de villes et les communautés d'agglomération.
 
-II.-Pour les bénéficiaires du Fonds de compensation pour la taxe sur la valeur ajoutée mentionnés à l'article L. 1615-2, autres que ceux mentionnés aux deuxième, troisième, sixième, neuvième, dixième et onzième alinéas du présent II, les dépenses réelles d'investissement à prendre en considération pour la détermination des attributions du Fonds de compensation pour la taxe sur la valeur ajoutée au titre d'une année déterminée sont celles afférentes à la pénultième année.
+Le taux de compensation forfaitaire est fixé à 15,761 % pour les dépenses éligibles réalisées à compter du 1er janvier 2014.
+
+II. - Pour les bénéficiaires du Fonds de compensation pour la taxe sur la valeur ajoutée mentionnés à l'article L. 1615-2, autres que ceux mentionnés aux deuxième, troisième, sixième, neuvième, dixième et onzième alinéas du présent II, les dépenses réelles d'investissement à prendre en considération pour la détermination des attributions du Fonds de compensation pour la taxe sur la valeur ajoutée au titre d'une année déterminée sont celles afférentes à la pénultième année.
 
 Pour les communautés de communes et les communautés d'agglomération instituées respectivement aux articles L. 5214-1 et L. 5216-1 et pour les communes nouvelles mentionnées à l'article L. 2113-1, les dépenses réelles d'investissement à prendre en considération sont celles afférentes à l'exercice en cours. Les communes nouvelles mentionnées au même article L. 2113-1 sont subrogées dans les droits des communes auxquelles elles se substituent pour les attributions du fonds de compensation pour la taxe sur la valeur ajoutée au titre de leurs dépenses d'investissement.
 
@@ -30,7 +32,7 @@ Pour les communes membres d'établissements publics de coopération intercommuna
 
 Pour les collectivités territoriales de Guyane et de Martinique mentionnées respectivement aux articles L. 7111-1 et L. 7211-1, les dépenses réelles d'investissement à prendre en considération sont celles afférentes à l'exercice précédent. Ces collectivités sont subrogées dans les droits du département et de la région auxquels elles succèdent pour les attributions du fonds de compensation pour la taxe sur la valeur ajoutée au titre de leurs dépenses d'investissement.
 
-III.-Les dépenses réelles d'investissement réalisées par les bénéficiaires du Fonds de compensation pour la taxe sur la valeur ajoutée et visant à réparer les dommages directement causés par des intempéries exceptionnelles reconnues par décret, et situés dans des communes ayant fait l'objet d'une constatation de l'état de catastrophe naturelle, ouvrent droit à des attributions du fonds l'année au cours de laquelle le règlement des travaux est intervenu.
+III. - Les dépenses réelles d'investissement réalisées par les bénéficiaires du Fonds de compensation pour la taxe sur la valeur ajoutée et visant à réparer les dommages directement causés par des intempéries exceptionnelles reconnues par décret, et situés dans des communes ayant fait l'objet d'une constatation de l'état de catastrophe naturelle, ouvrent droit à des attributions du fonds l'année au cours de laquelle le règlement des travaux est intervenu.
 
 A défaut du décret prévu au précédent alinéa, le décret n° 2003-833 du 29 août 2003 pris pour l'application de l'article 74 de la loi n° 2002-1576 du 30 décembre 2002 portant loi de finances rectificative pour 2002 s'applique.
 

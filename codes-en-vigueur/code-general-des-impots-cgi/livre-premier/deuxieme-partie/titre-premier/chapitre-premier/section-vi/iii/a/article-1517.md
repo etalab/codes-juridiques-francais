@@ -1,6 +1,6 @@
 # Article 1517
 
-I. 1. Il est procédé, annuellement, à la constatation des constructions nouvelles et des changements de consistance ou d'affectation des propriétés bâties et non bâties. Il en va de même pour les changements de caractéristiques physiques ou d'environnement quand ils entraînent une modification de plus d'un dixième de la valeur locative.
+I. 1. Il est procédé, annuellement, à la constatation des constructions nouvelles et des changements de consistance ou d'affectation des propriétés bâties et non bâties. Il en va de même pour les changements de caractéristiques physiques ou d'environnement.
 
 Les collectivités territoriales et les établissements publics de coopération intercommunale dotés d'une fiscalité propre peuvent, par une délibération concordante prise dans les conditions prévues au I de l'article 1639 A bis, limiter l'augmentation de la valeur locative des locaux affectés à l'habitation déterminée conformément à l'article 1496 lorsque cette augmentation résulte exclusivement de la constatation de changements de caractéristiques physiques ou d'environnement et est supérieure à 30 % de la valeur locative de l'année précédant celle de la prise en compte de ces changements.
 

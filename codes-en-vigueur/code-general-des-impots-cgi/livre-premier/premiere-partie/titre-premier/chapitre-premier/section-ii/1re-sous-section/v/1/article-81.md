@@ -14,9 +14,9 @@ b (Transféré sous le b de l'article 80 ter) ;
 
 2° bis L'allocation de logement prévue par les articles L. 831-1 à L. 831-7 du code de la sécurité sociale, ainsi que le montant de l'aide personnalisée au logement prévue par les articles L. 351-1 à L. 351-14 du code de la construction et de l'habitation ;
 
-2° ter Les majorations de retraite ou de pension pour charges de famille ;
+2° ter (Abrogé) ;
 
-3° Les sommes attribuées à l'héritier d'un exploitant agricole au titre du contrat de travail à salaire différé prévu par l'article L321-13 du code rural et de la pêche maritime ;
+3° (Abrogé) ;
 
 4° a. Les pensions servies en vertu des dispositions du code des pensions militaires d'invalidité et des victimes de guerre ainsi que la retraite du combattant mentionnée aux articles L. 255 à L. 257 du même code ;
 
@@ -38,7 +38,7 @@ b. L'allocation de reconnaissance prévue aux I et I bis de l'article 47 de la l
 
 9° quinquies (Abrogé) ;
 
-9° septies L'aide à la réinsertion familiale et sociale des anciens migrants dans leur pays d'origine instituée par l'article L. 117-3 du code de l'action sociale et des familles ;
+9° septies (Abrogé) ;
 
 10° Les rentes viagères servies par application de l'article 96 de la loi du 30 décembre 1928, de l'article 5 de la loi du 17 septembre 1932, de l'article 1er de la loi du 1er octobre 1936 et de l'article 6 de la loi n° 652 du 26 juin 1942 ;
 
@@ -92,7 +92,7 @@ Les dispositions du premier alinéa bénéficient également, dans les mêmes co
 
 19° Dans la limite de 5,29 € par titre, le complément de rémunération résultant de la contribution de l'employeur à l'acquisition par le salarié des titres-restaurant émis conformément aux dispositions du chapitre II du titre VI du livre II de la troisième partie du code du travail, lorsque cette contribution est comprise entre un minimum et un maximum fixés par arrêté du ministre chargé du budget. La limite d'exonération est relevée chaque année dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu de l'année précédant celle de l'acquisition des titres-restaurant et arrondie, s'il y a lieu, au centime d'euro le plus proche.
 
-Cette exonération est subordonnée à la condition que le salarié se conforme aux obligations qui sont mises à sa charge par le même chapitre II ;
+Cette exonération est subordonnée à la condition que le salarié se conforme aux obligations qui sont mises à sa charge par le même chapitre II  ;
 
 19° bis l'avantage résultant de la contribution de l'employeur à l'acquisition des chèques-vacances dans les conditions et limite prévues à la section 1 du chapitre Ier du titre Ier du livre IV du code du tourisme ;
 
@@ -128,7 +128,7 @@ d. (disjoint) ;
 
 29° Les indemnités, l'allocation de vétérance personnelle ou de reversion et la prestation de fidélisation et de reconnaissance servies aux sapeurs-pompiers volontaires ou à leurs ayants droit, en application du titre III de la loi n° 96-370 du 3 mai 1996 relative au développement du volontariat dans les corps de sapeurs-pompiers ;
 
-30° Le pécule modulable d'incitation des militaires à une seconde carrière, versé en application du I de l'article 149 de la loi n° 2008-1425 du 27 décembre 2008 de finances pour 2009 ;
+30° Le pécule modulable d'incitation au départ des militaires, versé en application du I de l'article 38 de la loi n° 2013-1168 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses dispositions concernant la défense et la sécurité nationale ;
 
 30° bis L'indemnité de départ volontaire versée en application du I de l'article 150 de la loi n° 2008-1425 du 27 décembre 2008 de finances pour 2009 ;
 

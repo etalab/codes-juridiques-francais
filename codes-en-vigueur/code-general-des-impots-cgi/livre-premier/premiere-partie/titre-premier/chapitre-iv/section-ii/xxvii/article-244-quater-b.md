@@ -6,11 +6,11 @@ Lorsque les sociétés de personnes mentionnées aux articles 8 et 238 bis L ou 
 
 II. Les dépenses de recherche ouvrant droit au crédit d'impôt sont :
 
-a) Les dotations aux amortissements des immobilisations, créées ou acquises à l'état neuf et affectées directement à la réalisation d'opérations de recherche scientifique et technique, y compris la réalisation d'opérations de conception  de prototypes ou d'installations pilotes. Toutefois, les dotations aux amortissements des immeubles acquis ou achevés avant le 1er janvier 1991 ainsi que celles des immeubles dont le permis de construire a été délivré avant le 1er janvier 1991 ne sont pas prises en compte ;
+a) Les dotations aux amortissements des immobilisations, créées ou acquises à l'état neuf et affectées directement à la réalisation d'opérations de recherche scientifique et technique, y compris la réalisation d'opérations de conception de prototypes ou d'installations pilotes. Toutefois, les dotations aux amortissements des immeubles acquis ou achevés avant le 1er janvier 1991 ainsi que celles des immeubles dont le permis de construire a été délivré avant le 1er janvier 1991 ne sont pas prises en compte ;
 
 a bis) En cas de sinistre touchant les immobilisations visées au a, la dotation aux amortissements correspondant à la différence entre l'indemnisation d'assurance et le coût de reconstruction et de remplacement (1);
 
-b) Les dépenses de personnel afférentes aux chercheurs et techniciens de recherche directement et exclusivement affectés à ces opérations. Lorsque ces dépenses se rapportent à des personnes titulaires d'un doctorat ou d'un diplôme équivalent, elles sont prises en compte pour le double de leur montant pendant les vingt-quatre premiers mois suivant leur premier recrutement à condition que le contrat de travail de ces personnes soit à durée indéterminée et que l'effectif salarié de l'entreprise ne soit pas inférieur à celui de l'année précédente ;
+b) Les dépenses de personnel afférentes aux chercheurs et techniciens de recherche directement et exclusivement affectés à ces opérations. Lorsque ces dépenses se rapportent à des personnes titulaires d'un doctorat ou d'un diplôme équivalent, elles sont prises en compte pour le double de leur montant pendant les vingt-quatre premiers mois suivant leur premier recrutement à condition que le contrat de travail de ces personnes soit à durée indéterminée et que l'effectif du personnel de recherche  salarié de l'entreprise ne soit pas inférieur à celui de l'année précédente ;
 
 b bis) Les rémunérations supplémentaires et justes prix mentionnés aux 1 et 2 de l'article L. 611-7 du code de la propriété intellectuelle, au profit des salariés auteurs d'une invention résultant d'opérations de recherche ;
 
@@ -20,7 +20,7 @@ Ce pourcentage est fixé à :
 
 1° et 2° (abrogés pour les dépenses retenues pour le calcul du crédit d'impôt à compter du 1er janvier 2000).
 
-3° 200 % des dépenses de personnel qui se rapportent aux personnes titulaires d'un doctorat ou d'un diplôme équivalent pendant les vingt-quatre premiers mois suivant leur premier recrutement à la condition que le contrat de travail de ces personnes soit à durée indéterminée et que l'effectif salarié de l'entreprise ne soit pas inférieur à celui de l'année précédente.
+3° 200 % des dépenses de personnel qui se rapportent aux personnes titulaires d'un doctorat ou d'un diplôme équivalent pendant les vingt-quatre premiers mois suivant leur premier recrutement à la condition que le contrat de travail de ces personnes soit à durée indéterminée et que l'effectif du personnel de recherche  salarié de l'entreprise ne soit pas inférieur à celui de l'année précédente.
 
 d) Les dépenses exposées pour la réalisation d'opérations de même nature confiées à :
 
@@ -100,7 +100,7 @@ Pour l'application du présent k, est considéré comme nouveau produit un bien 
 
 Le prototype ou l'installation pilote d'un nouveau produit est un bien qui n'est pas destiné à être mis sur le marché mais à être utilisé comme modèle pour la réalisation d'un nouveau produit.
 
-Pour être éligibles au crédit d'impôt mentionné au premier alinéa du I, les dépenses prévues aux a à k doivent être des dépenses retenues pour la détermination du résultat imposable à l'impôt sur le revenu ou à l'impôt sur les sociétés dans les conditions de droit commun et, à l'exception des dépenses prévues aux e bis et j, correspondre à des opérations localisées au sein de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales.
+Pour être éligibles au crédit d'impôt mentionné au premier alinéa du I, les dépenses prévues aux a à k doivent être des dépenses retenues pour la détermination du résultat imposable à l'impôt sur le revenu ou à l'impôt sur les sociétés dans les conditions de droit commun et, à l'exception des dépenses prévues aux e, e bis, j et des frais mentionnés aux 4° et 5° du k, correspondre à des opérations localisées au sein de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales.
 
 Les dépenses visées aux a et 2° du h ne sont pas retenues pour le calcul du crédit d'impôt recherche lorsque les immobilisations concernées ont bénéficié du crédit d'impôt prévu à l'article 220 septies.
 

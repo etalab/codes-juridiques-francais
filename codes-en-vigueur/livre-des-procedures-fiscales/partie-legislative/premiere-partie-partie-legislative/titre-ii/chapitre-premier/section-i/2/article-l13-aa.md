@@ -40,6 +40,8 @@ II. ― La documentation mentionnée au I comprend les éléments suivants :
 
 ― lorsque la méthode choisie le requiert, une analyse des éléments de comparaison considérés comme pertinents par l'entreprise.
 
+3° Les décisions de même nature que les interprétations, instructions et circulaires mentionnées à l'article L. 80 A, prises par les administrations fiscales étrangères à l'égard des entreprises associées.
+
 III. ― Cette documentation, qui ne se substitue pas aux justificatifs afférents à chaque transaction, est tenue à la disposition de l'administration à la date d'engagement de la vérification de comptabilité.
 
 Si la documentation requise n'est pas mise à sa disposition à cette date, ou ne l'est que partiellement, l'administration adresse à la personne morale mentionnée au I une mise en demeure de la produire ou de la compléter dans un délai de trente jours, en précisant la nature des documents ou compléments attendus. Cette mise en demeure doit indiquer les sanctions applicables en l'absence de réponse ou en cas de réponse partielle.
