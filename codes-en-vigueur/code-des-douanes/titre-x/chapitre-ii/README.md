@@ -6,4 +6,5 @@
 - [Section 4 : Assiette, taux et barème.](section-4)
 - [Section 5 : Liquidation de la taxe.](section-5)
 - [Section 6 : Paiement de la taxe.](section-6)
+- [Section 7 : Recherche, constatation, sanction et poursuite.](section-7)
 - [Section 9 : Dispositions diverses.](section-9)
