@@ -4,7 +4,7 @@ Avant le début de l'exécution du contrat d'apprentissage ou, au plus tard, dan
 
 1° A la chambre de métiers et de l'artisanat de région, lorsque l'employeur est inscrit au répertoire des métiers, y compris dans le cas où il est également immatriculé au registre du commerce et des sociétés ;
 
-2° A la chambre d'agriculture, lorsqu'il emploie un apprenti mentionné au 7° de l'article L. 722-20 du code rural et de la pêche maritime, sauf pour une entreprise artisanale rurale n'employant pas plus de deux ouvriers de façon permanente mentionnée au 6° de l'article L. 722-1 du même code ;
+2° A la chambre d'agriculture, lorsqu'il emploie un apprenti mentionné au 7° de l'article L. 722-20 du code rural et de la pêche maritime, sauf pour une entreprise artisanale rurale n'employant pas plus de               deux salariés de façon permanente ;
 
 3° A la chambre de commerce et d'industrie territoriale, dans les autres cas à l'exception de ceux où l'employeur relève du secteur public au sens du chapitre II de la loi n° 92-675 du 17 juillet 1992.
 
