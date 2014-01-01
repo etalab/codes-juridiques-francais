@@ -88,7 +88,7 @@ e) Le directeur général de l'Institut national de recherche en sciences et tec
 
 f) Le président directeur général de l'Institut national de la recherche agronomique ;
 
-g) Le directeur du service d'études sur les transports, les routes et leurs aménagements ;
+g) Le directeur du            centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement ;
 
 h) Le président de la Fédération nationale des agences d'urbanisme ;
 
