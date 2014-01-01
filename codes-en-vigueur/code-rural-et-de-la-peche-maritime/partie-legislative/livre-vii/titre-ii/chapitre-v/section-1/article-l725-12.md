@@ -10,6 +10,4 @@ Sont en outre applicables les articles L. 123-1, L. 211-3, L162-1 et L. 162-2 du
 
 Les présentes dispositions ne sont pas applicables aux sommes dues par le tiers détenteur au titre des rémunérations qui ne peuvent être saisies que dans les conditions et selon la procédure prévue par les articles L. 145-1 et suivants du code du travail.
 
-Les organismes visés à l'article L. 731-30 disposent de la même procédure d'opposition à tiers détenteur et sous les mêmes conditions que les caisses de mutualité sociale agricole pour le recouvrement des cotisations prévues aux articles L. 731-35 à L. 731-38 ainsi que des majorations et pénalités de retard.
-
 Les modalités d'application du présent article sont précisées par décret en Conseil d'Etat.

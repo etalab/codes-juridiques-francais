@@ -1,9 +1,6 @@
 # Paragraphe 2 : Assurance maladie, invalidité et maternité.
 
 - [Article L731-30](article-l731-30.md)
-- [Article L731-32](article-l731-32.md)
-- [Article L731-33](article-l731-33.md)
-- [Article L731-34](article-l731-34.md)
 - [Article L731-35](article-l731-35.md)
 - [Article L731-35-1](article-l731-35-1.md)
 - [Article L731-35-2](article-l731-35-2.md)
