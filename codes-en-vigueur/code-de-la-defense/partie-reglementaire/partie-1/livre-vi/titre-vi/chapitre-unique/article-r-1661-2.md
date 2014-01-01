@@ -12,7 +12,7 @@ c) A l'article R. * 1336-14, la référence aux articles 27 et 28 de la loi n° 
 
 3° Au livre III :
 
-a) A l'article R. * 1311-3, les mots : " le décret n° 2005-1157 du 13 septembre 2005 " sont remplacés par les mots : " l'ordonnance n° 2006-172 du 15 février 2006 " ;
+a) (Supprimé)
 
 b) Le deuxième et le troisième alinéa de l'article R. * 1311-25 sont remplacés par les dispositions suivantes :
 

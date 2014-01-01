@@ -6,7 +6,7 @@ Pour l'application de la présente partie du code en Polynésie française :
 
 2° a) Au livre III, en matière de sécurité nationale, la référence à l'article L. 1111-7 du code général des collectivités territoriales mentionné au 7° de l'article R. * 1311-6 est remplacée par la référence à l'article 27 de la loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française ;
 
-b) A l'article R. * 1311-3, les mots : " le décret n° 2005-1157 du 13 septembre 2005 " sont remplacés par les mots : " l'ordonnance n° 2006-173 du 15 février 2006 " ;
+b) (Supprimé)
 
 c) Le deuxième et le troisième alinéa de l'article R. * 1311-25 sont remplacés par les dispositions suivantes :
 

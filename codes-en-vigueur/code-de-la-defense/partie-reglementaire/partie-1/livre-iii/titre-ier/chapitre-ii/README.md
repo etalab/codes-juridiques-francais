@@ -6,4 +6,3 @@
 - [Article R1312-4](article-r1312-4.md)
 - [Article R1312-5](article-r1312-5.md)
 - [Article R1312-6](article-r1312-6.md)
-- [Article R1312-6-1](article-r1312-6-1.md)
