@@ -34,7 +34,7 @@ b) Lorsque ces services ou travaux, quoiqu'ils soient séparables de l'exécutio
 
 Le premier marché doit avoir indiqué la possibilité de recourir à cette procédure pour la réalisation d'ouvrages similaires. Sa mise en concurrence doit également avoir pris en compte le montant total envisagé, y compris celui des nouveaux travaux ;
 
-8° Pour les marchés et les accords-cadres ayant pour objet l'achat de matières premières cotées et achetées en bourse ;
+8° Pour les marchés et les accords-cadres ayant pour objet l'achat de matières premières cotées et achetées en Bourse ;
 
 9° Pour les marchés passés en application d'un accord-cadre mentionné à l'article 169 ;
 
@@ -46,7 +46,7 @@ Le premier marché doit avoir indiqué la possibilité de recourir à cette proc
 
 III.-Elles peuvent aussi mettre en oeuvre une procédure adaptée, dans les conditions prévues par l'article 146 :
 
-a) Lorsque le montant estimé du besoin est inférieur à 400 000 euros HT pour les fournitures et les services, ou lorsque le montant estimé du besoin est inférieur à 5 000 000 € HT pour les travaux ;
+a) Lorsque le montant estimé du besoin est inférieur à 414 000 euros HT pour les fournitures et les services, ou lorsque le montant estimé du besoin est inférieur à 5 186 000 € HT pour les travaux ;
 
 b) Pour certains lots, dans les conditions prévues au III de l'article 27 ;
 

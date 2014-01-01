@@ -14,15 +14,15 @@ I.-Les pouvoirs adjudicateurs passent leurs marchés et accords-cadres selon les
 
 II.-Les marchés et accords-cadres peuvent aussi être passés selon une procédure adaptée, dans les conditions définies par l'article 28, lorsque le montant estimé du besoin est inférieur aux seuils suivants :
 
-1° 130 000 € HT pour les marchés de fournitures et de services, non mentionnés aux 2° à 4° ci-dessous, de l'Etat et de ses établissements publics ;
+1° 134 000 € HT pour les marchés de fournitures et de services, non mentionnés aux 2° à 4° ci-dessous, de l'Etat et de ses établissements publics ;
 
-2° 200 000 € HT pour les marchés de fournitures et de services des collectivités territoriales, des établissements publics de santé et des établissements du service de santé des armées ;
+2° 207 000 € HT pour les marchés de fournitures et de services des collectivités territoriales, des établissements publics de santé et des établissements du service de santé des armées ;
 
-3° 200 000 € HT pour les marchés de fournitures acquises par des pouvoirs adjudicateurs opérant dans le domaine de la défense autres que celles figurant dans la liste établie par arrêté conjoint du ministre chargé de l'économie et du ministre chargé de la défense ;
+3° 207 000 € HT pour les marchés de fournitures acquises par des pouvoirs adjudicateurs opérant dans le domaine de la défense autres que celles figurant dans la liste établie par arrêté conjoint du ministre chargé de l'économie et du ministre chargé de la défense ;
 
-4° 200 000 € HT pour les marchés de services de recherche et développement pour lesquels le pouvoir adjudicateur acquiert la propriété exclusive des résultats et qu'il finance entièrement ;
+4° 207 000 € HT pour les marchés de services de recherche et développement pour lesquels le pouvoir adjudicateur acquiert la propriété exclusive des résultats et qu'il finance entièrement ;
 
-5° 5 000 000 € HT pour les marchés de travaux.
+5° 5 186 000 € HT pour les marchés de travaux.
 
 III.-Les pouvoirs adjudicateurs peuvent aussi mettre en oeuvre une procédure adaptée :
 
@@ -30,7 +30,7 @@ III.-Les pouvoirs adjudicateurs peuvent aussi mettre en oeuvre une procédure ad
 
 2° Pour certains lots, dans les conditions prévues par le III de l'article 27.
 
-IV.- Lorsque le montant estimé des marchés et accords-cadres de travaux est égal ou supérieur à 5 000 000 € HT, le pouvoir adjudicateur ne peut recourir aux différentes procédures formalisées, autres que l'appel d'offres, que dans les conditions prévues par les articles 35 à 38.
+IV.- Lorsque le montant estimé des marchés et accords-cadres de travaux est égal ou supérieur à 5 186 000 € HT, le pouvoir adjudicateur ne peut recourir aux différentes procédures formalisées, autres que l'appel d'offres, que dans les conditions prévues par les articles 35 à 38.
 
 V.-Les marchés peuvent également être passés sur la base d'un accord-cadre conformément aux dispositions de l'article 76.
 

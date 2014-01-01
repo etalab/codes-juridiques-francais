@@ -2,7 +2,7 @@
 
 I. ― Les dispositions du présent chapitre régissant les collectivités territoriales sont applicables aux établissements publics locaux.
 
-II. ― La collectivité territoriale qui se propose de conclure un contrat de concession de travaux publics d'un montant égal ou supérieur à 5 000 000 € HT fait connaître son intention au moyen d'un avis conforme au modèle fixé par le règlement communautaire pris à cette fin.
+II. ― La collectivité territoriale qui se propose de conclure un contrat de concession de travaux publics d'un montant égal ou supérieur à    5 186 000 € HT fait connaître son intention au moyen d'un avis conforme au modèle fixé par le règlement communautaire pris à cette fin.
 
 III. ― Pour la détermination du montant mentionné au II, est pris en compte l'ensemble des produits prévisibles de l'exécution de la concession, incluant le cas échéant la valeur des installations et fournitures que la collectivité territoriale se propose de mettre à la disposition du concessionnaire.
 
