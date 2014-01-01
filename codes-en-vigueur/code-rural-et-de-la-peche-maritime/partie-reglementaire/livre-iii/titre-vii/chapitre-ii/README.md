@@ -3,7 +3,6 @@
 - [Article D372-1](article-d372-1.md)
 - [Article D372-2](article-d372-2.md)
 - [Article D372-8](article-d372-8.md)
-- [Article D372-9](article-d372-9.md)
 - [Article D372-10](article-d372-10.md)
 - [Article D372-11](article-d372-11.md)
 - [Article D372-12](article-d372-12.md)
