@@ -1,6 +1,8 @@
 # Article L38
 
-1. Pour la recherche et la constatation des infractions aux dispositions du titre III de la première partie du livre Ier du code général des impôts et aux législations édictant les mêmes règles en matière de procédure et de recouvrement, les agents habilités à cet effet par le ministre chargé des douanes peuvent procéder à des visites en tous lieux, même privés, où les pièces, documents, objets ou marchandises se rapportant à ces infractions ainsi que les biens et avoirs en provenant directement ou indirectement sont susceptibles d'être détenus ou d'être accessibles ou disponibles et procéder à leur saisie, quel qu'en soit le support. Ils sont accompagnés d'un officier de police judiciaire.
+1. Pour la recherche et la constatation des infractions aux dispositions du titre III de la première partie du livre Ier du code général des impôts et aux législations édictant les mêmes règles en matière de procédure et de recouvrement, les agents habilités à cet effet par le ministre chargé des douanes peuvent procéder à des visites en tous lieux, même privés, où les pièces, documents, objets ou marchandises se rapportant à ces infractions ainsi que les biens et avoirs en provenant directement ou indirectement sont susceptibles d'être détenus ou d'être accessibles ou disponibles
+
+et procéder à leur saisie, quel qu'en soit le support. Ils sont accompagnés d'un officier de police judiciaire.
 
 Les agents habilités peuvent procéder, à l'occasion de la visite, à la saisie des pièces et documents, quel qu'en soit le support, ainsi que des objets ou des marchandises se rapportant aux infractions précitées. Ils peuvent saisir les biens et avoirs provenant directement ou indirectement des infractions précitées uniquement dans le cas de visites autorisées en application du 2.
 
@@ -22,7 +24,7 @@ L'exercice de cette faculté n'entraîne pas la suspension des opérations de vi
 
 Le juge motive sa décision par l'indication des éléments de fait et de droit qu'il retient et qui laissent présumer, en l'espèce, l'existence des infractions dont la preuve est recherchée. Il se prononce par une mention expresse sur la saisie de biens et avoirs pouvant provenir directement ou indirectement des infractions dont la preuve est recherchée.
 
-Si, à l'occasion de la visite, les agents habilités découvrent l'existence d'un coffre dans un établissement de crédit dont la personne occupant les lieux visités est titulaire et où des pièces, documents, objets ou marchandises se rapportant aux infractions visées au 1. sont susceptibles de se trouver, ils peuvent, sur autorisation délivrée par tout moyen par le juge qui a pris l'ordonnance, procéder immédiatement à la visite de ce coffre. Mention de cette autorisation est portée au procès-verbal prévu au 4.
+Si, à l'occasion de la visite, les agents habilités découvrent l'existence d'un coffre dans un établissement de crédit ou une société de financement dont la personne occupant les lieux visités est titulaire et où des pièces, documents, objets ou marchandises se rapportant aux infractions visées au 1. sont susceptibles de se trouver, ils peuvent, sur autorisation délivrée par tout moyen par le juge qui a pris l'ordonnance, procéder immédiatement à la visite de ce coffre. Mention de cette autorisation est portée au procès-verbal prévu au 4.
 
 Si, à l'occasion de la visite, les agents habilités découvrent des éléments révélant l'existence en d'autres lieux de biens ou avoirs se rapportant aux infractions visées au 1, ils peuvent, sur autorisation délivrée par tout moyen par le juge qui a pris l'ordonnance, procéder immédiatement à la visite de ces lieux aux fins de saisir ces biens et avoirs. Mention de cette autorisation est portée au procès-verbal prévu au 4.
 
