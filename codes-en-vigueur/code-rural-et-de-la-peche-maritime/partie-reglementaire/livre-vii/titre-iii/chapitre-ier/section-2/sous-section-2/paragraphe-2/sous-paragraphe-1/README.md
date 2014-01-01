@@ -6,8 +6,6 @@
 - [Article D731-91](article-d731-91.md)
 - [Article D731-92](article-d731-92.md)
 - [Article D731-93](article-d731-93.md)
-- [Article D731-94](article-d731-94.md)
-- [Article D731-95](article-d731-95.md)
 - [Article D731-96](article-d731-96.md)
 - [Article D731-97](article-d731-97.md)
 - [Article D731-98](article-d731-98.md)

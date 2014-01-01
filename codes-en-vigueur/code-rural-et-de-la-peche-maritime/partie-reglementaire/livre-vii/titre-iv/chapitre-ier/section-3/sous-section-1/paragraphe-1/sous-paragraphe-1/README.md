@@ -1,7 +1,6 @@
 # Sous-paragraphe 1 : Dispositions générales.
 
 - [Article D741-35](article-d741-35.md)
-- [Article D741-35-1](article-d741-35-1.md)
 - [Article R741-36](article-r741-36.md)
 - [Article R741-37](article-r741-37.md)
 - [Article R741-40](article-r741-40.md)
