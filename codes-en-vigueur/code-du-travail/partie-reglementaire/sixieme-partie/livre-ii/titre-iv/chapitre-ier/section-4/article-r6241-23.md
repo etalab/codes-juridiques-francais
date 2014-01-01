@@ -2,8 +2,6 @@
 
 Les pourcentages affectés aux niveaux de formation, en application de l'article R. 6241-22, sont les suivants :
 
-1° Catégorie A : 40 % ;
+1° Catégorie A : 65 % ;
 
-2° Catégorie B : 40 % ;
-
-3° Catégorie C : 20 %.
+2° Catégorie B : 35 %.

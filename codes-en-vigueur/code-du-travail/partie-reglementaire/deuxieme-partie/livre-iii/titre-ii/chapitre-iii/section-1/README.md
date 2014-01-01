@@ -7,4 +7,5 @@
 - [Sous-section 5 : Information et consultation   sur les interventions publiques directes](sous-section-5)
 - [Sous-section 6 : Information et consultation périodiques du comité d'entreprise](sous-section-6)
 - [Sous-section 7 : Participation aux conseils d'administration  ou de surveillance des sociétés](sous-section-7)
+- [Sous-section 8 : Bilan social](sous-section-8)
 - [Sous-section 9 : Droit d'alerte économique](sous-section-9)

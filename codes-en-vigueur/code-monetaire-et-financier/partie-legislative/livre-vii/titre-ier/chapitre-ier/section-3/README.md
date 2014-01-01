@@ -1,4 +1,4 @@
-# Section 3 : Dispositions relatives à l'euro à Mayotte, à Saint-Barthélemy et à Saint-Pierre-et-Miquelon
+# Section 3 : Dispositions relatives à l'euro à Saint-Barthélemy et à Saint-Pierre-et-Miquelon
 
 - [Article L711-13](article-l711-13.md)
 - [Article L711-14](article-l711-14.md)

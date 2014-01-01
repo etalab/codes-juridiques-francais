@@ -3,7 +3,7 @@
 - [Chapitre Ier : Dispositions générales](chapitre-ier)
 - [Chapitre II : Les banques mutualistes ou coopératives](chapitre-ii)
 - [Chapitre IV : Les caisses de crédit municipal](chapitre-iv)
-- [Chapitre V : Les sociétés financières](chapitre-v)
+- [Chapitre V : Les sociétés de financement](chapitre-v)
 - [Chapitre VI : Les institutions financières spécialisées](chapitre-vi)
 - [Chapitre VII : Compagnies financières, entreprises mères de sociétés de financement  et conglomérats financiers](chapitre-vii)
 - [Chapitre VIII : Les établissements et services autorisés à effectuer des opérations de banque](chapitre-viii)

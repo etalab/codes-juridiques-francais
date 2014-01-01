@@ -16,6 +16,8 @@ a) Le produit des impôts et taxes dont l'assiette et le recouvrement ont lieu d
 
 6° Le produit de la taxe sur les surfaces commerciales ;
 
+7° Le produit des taxes prévues aux articles 1528, 1529, 1530 et 1530 bis du code général des impôts.
+
 b) Les recettes suivantes :
 
 1° Le produit de la taxe communale sur l'électricité ;

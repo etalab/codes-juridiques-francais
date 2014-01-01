@@ -7,3 +7,5 @@
 - [Article R6241-24](article-r6241-24.md)
 - [Article R6241-25](article-r6241-25.md)
 - [Article R6241-26](article-r6241-26.md)
+- [Article R6241-27](article-r6241-27.md)
+- [Article R6241-28](article-r6241-28.md)

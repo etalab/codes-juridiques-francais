@@ -40,4 +40,6 @@ II.-Elles peuvent instituer les taxes suivantes :
 
 2° La taxe de balayage prévue à l'article 1528 lorsqu'elles assurent le balayage de la superficie des voies livrées à la circulation publique qui incombe aux propriétaires riverains ;
 
-3° La taxe sur la cession à titre onéreux de terrains devenus constructibles, prévue à l'article 1529, et la taxe sur les friches commerciales, prévue à l'article 1530.
+3° La taxe sur la cession à titre onéreux de terrains devenus constructibles, prévue à l'article 1529, et la taxe sur les friches commerciales, prévue à l'article 1530 ;
+
+4° La taxe pour la gestion des milieux aquatiques et la prévention des inondations prévue à l'article 1530 bis.

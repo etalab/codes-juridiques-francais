@@ -1,4 +1,4 @@
-# Chapitre V : Les sociétés financières
+# Chapitre V : Les sociétés de financement
 
 - [Section 1 : Dispositions communes](section-1)
 - [Section 2 : Les sociétés de crédit-bail mobilier et immobilier](section-2)

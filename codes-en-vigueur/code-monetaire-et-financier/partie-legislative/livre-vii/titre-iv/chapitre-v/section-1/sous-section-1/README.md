@@ -1,3 +1,3 @@
-# Sous-section 1 : Définitions et activités
+# Sous-section 1 : Dispositions générales
 
 - [Article L745-1-1](article-l745-1-1.md)
