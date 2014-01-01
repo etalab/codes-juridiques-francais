@@ -7,3 +7,5 @@ En 2011, ce montant, égal à 41 307 701 000 €, est diminué de 42 844 000 €
 En 2012, ce montant est égal à 41 389 752 000 €.
 
 En 2013, ce montant est égal à 41 505 415 000 €.
+
+En 2014, ce montant est égal à 40 121 044 000 €.
