@@ -2,14 +2,16 @@
 
 Le solde éventuel mentionné à l'article L. 725-3-3 est affecté aux cotisations dans l'ordre de priorité suivant :
 
-― les cotisations d'assurance vieillesse de base ;
+- les cotisations d'assurance maladie, invalidité, maternité ;
 
-― les cotisations d'assurance vieillesse complémentaire obligatoire ;
+- la cotisation mentionnée à l'article L. 731-35-1 ;
 
-― les cotisations d'assurance obligatoire contre les accidents du travail et les maladies professionnelles ;
+- les cotisations d'assurance vieillesse de base ;
 
-― les cotisations d'assurance maladie, invalidité, maternité ;
+- les cotisations d'assurance vieillesse complémentaire obligatoire ;
 
-― les cotisations de prestations familiales.
+- les cotisations d'assurance obligatoire contre les accidents du travail et les maladies professionnelles ;
 
-Cette affectation s'applique aux cotisations dues au titre de la dernière échéance puis à celles dues au titre des échéances antérieures, en remontant de la plus ancienne à la plus récente.
+- les cotisations de prestations familiales.
+
+Cette affectation s'applique aux cotisations dues au titre de la dernière échéance, puis à celles dues au titre des échéances antérieures en remontant de la plus ancienne à la plus récente.
