@@ -6,4 +6,3 @@
 - [Article 1664](article-1664.md)
 - [Article 1665](article-1665.md)
 - [Article 1668](article-1668.md)
-- [Article 1668 A](article-1668-a.md)
