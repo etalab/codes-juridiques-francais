@@ -42,7 +42,7 @@ b) Et, d'autre part :
 
 -les services extérieurs diminués des rabais, remises et ristournes obtenus, à l'exception des loyers ou redevances afférents aux biens corporels pris en location ou en sous-location pour une durée de plus de six mois ou en crédit-bail ainsi que les redevances afférentes à ces biens lorsqu'elles résultent d'une convention de location-gérance ; toutefois, lorsque les biens pris en location par le redevable sont donnés en sous-location pour une durée de plus de six mois, les loyers sont retenus à concurrence du produit de cette sous-location ;
 
--les taxes sur le chiffre d'affaires et assimilées, les contributions indirectes, la taxe intérieure de consommation sur les produits énergétiques ;
+-les taxes sur le chiffre d'affaires et assimilées, les contributions indirectes, la taxe intérieure de consommation sur les produits énergétiques [Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2009-599 DC du 29 décembre 2009] ;
 
 -les autres charges de gestion courante, autres que les quotes-parts de résultat sur opérations faites en commun ;
 
@@ -66,7 +66,7 @@ I bis. ― Pour les mutuelles et unions régies par le livre III du code de la m
 
 II.-Par exception au I, les produits et les charges mentionnés au même I et se rapportant à une activité de location ou de sous-location d'immeubles nus réputée exercée à titre professionnel au sens de l'article 1447 ne sont pris en compte, pour le calcul de la valeur ajoutée, qu'à raison de 10 % de leur montant en 2010,20 % en 2011,30 % en 2012,40 % en 2013,50 % en 2014,60 % en 2015,70 % en 2016,80 % en 2017 et 90 % en 2018.
 
-III.-Pour les établissements de crédit et, lorsqu'elles sont agréées par l'Autorité de contrôle prudentiel et de résolution, les entreprises mentionnées à l'article L. 531-4 du code monétaire et financier :
+III.-Pour les établissements de crédit et les sociétés de financement et, lorsqu'elles sont agréées par l'Autorité de contrôle prudentiel et de résolution, les entreprises mentionnées à l'article L. 531-4 du code monétaire et financier :
 
 1. Le chiffre d'affaires comprend l'ensemble des produits d'exploitation bancaires et des produits divers d'exploitation autres que les produits suivants :
 
@@ -120,7 +120,7 @@ Sauf pour les entreprises dont au moins 50 % des droits de vote sont détenus, d
 
 V.-Pour les sociétés et groupements créés pour la réalisation d'une opération unique de financement d'immobilisations corporelles :
 
-a) Qui sont détenus à 95 % au moins par un établissement de crédit et qui réalisent l'opération pour le compte de l'établissement de crédit ou d'une société elle-même détenue à 95 % au moins par l'établissement de crédit ;
+a) Qui sont détenus à 95 % au moins par un établissement de crédit ou une société de financement et qui réalisent l'opération pour le compte de l'établissement de crédit ou de la société de financement ou d'une société elle-même détenue à 95 % au moins par l'établissement de crédit ou la société de financement ;
 
 b) Ou qui sont soumis au 1 du II de l'article 39 C ou aux articles 217 undecies ou 217 duodecies :
 
