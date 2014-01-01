@@ -12,4 +12,6 @@ Le calcul des provisions techniques de prestations d'incapacité de travail et d
 
 Toutefois, il est possible pour une entreprise d'assurances d'utiliser une loi de survie en invalidité établie par l'entreprise d'assurance et certifiée par un actuaire indépendant de cette entreprise, agréé à cet effet par l'une des associations d'actuaires reconnues par l'Autorité de contrôle prudentiel et de résolution ;
 
-2° Un taux d'actualisation qui ne peut excéder 60 % du taux moyen au cours des vingt-quatre derniers mois des emprunts de l'Etat français, sans pouvoir dépasser 3,5 %.
+2° Un taux d'actualisation qui ne peut excéder 60 % du taux moyen au cours des vingt-quatre derniers mois des emprunts de l'Etat français, sans pouvoir dépasser 3,5 % ;
+
+3° Dans le cas des rentes allouées au titre des accidents survenus à compter du 1er janvier 2013 et dont le montant est revalorisé en application de la loi n° 51-695 du 24 mai 1951 ou de la loi n° 74-1118 du 27 décembre 1974, un taux d'inflation égal à 2,25 %.
