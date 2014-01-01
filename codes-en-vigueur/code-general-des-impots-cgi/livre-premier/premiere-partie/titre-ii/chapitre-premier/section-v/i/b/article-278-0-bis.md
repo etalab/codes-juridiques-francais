@@ -2,7 +2,7 @@
 
 La taxe sur la valeur ajoutée est perçue au taux réduit de 5,5 % en ce qui concerne :
 
-A. ― Les opérations d'achat, d'importation, d'acquisition intracommunautaire, de vente, de livraison, de commission, de courtage ou de façon portant sur :
+A.-Les opérations d'achat, d'importation, d'acquisition intracommunautaire, de vente, de livraison, de commission, de courtage ou de façon portant sur :
 
 1° L'eau et les boissons non alcooliques ainsi que les produits destinés à l'alimentation humaine à l'exception des produits suivants auxquels s'applique le taux prévu à l'article 278 :
 
@@ -30,16 +30,24 @@ f) Les ascenseurs et matériels assimilés, spécialement conçus pour les perso
 
 3° Les livres, y compris leur location. Le présent 3° s'applique aux livres sur tout type de support physique, y compris ceux fournis par téléchargement.
 
-B. ― Les abonnements relatifs aux livraisons d'électricité d'une puissance maximale inférieure ou égale à 36 kilovoltampères, d'énergie calorifique et de gaz naturel combustible, distribués par réseaux, ainsi que la fourniture de chaleur lorsqu'elle est produite au moins à 50 % à partir de la biomasse, de la géothermie, des déchets et d'énergie de récupération.
+B.-Les abonnements relatifs aux livraisons d'électricité d'une puissance maximale inférieure ou égale à 36 kilovoltampères, d'énergie calorifique et de gaz naturel combustible, distribués par réseaux, ainsi que la fourniture de chaleur lorsqu'elle est produite au moins à 50 % à partir de la biomasse, de la géothermie, des déchets et d'énergie de récupération.
 
 La puissance maximale prise en compte correspond à la totalité des puissances maximales souscrites par un même abonné sur un même site ;
 
-C. ― La fourniture de logement et de nourriture dans les maisons de retraite et les établissements accueillant des personnes handicapées. Ce taux s'applique également aux prestations exclusivement liées, d'une part, à l'état de dépendance des personnes âgées et, d'autre part, aux besoins d'aide des personnes handicapées, hébergées dans ces établissements et qui sont dans l'incapacité d'accomplir les gestes essentiels de la vie quotidienne ;
+C.-La fourniture de logement et de nourriture dans les maisons de retraite, les établissements accueillant des personnes handicapées, les logements-foyers mentionnés à l'article L. 633-1 du code de la construction et de l'habitation et les établissements mentionnés au b du 5° et aux 8° et 10° du I de l'article L. 312-1 du code de l'action sociale et des familles. Ce taux s'applique également aux prestations exclusivement liées, d'une part, à l'état de dépendance des personnes âgées et, d'autre part, aux besoins d'aide des personnes handicapées, hébergées dans ces établissements et qui sont dans l'incapacité d'accomplir les gestes essentiels de la vie quotidienne ;
 
-D. ― Les prestations de services exclusivement liées aux gestes essentiels de la vie quotidienne des personnes handicapées et des personnes âgées dépendantes qui sont dans l'incapacité de les accomplir, fournies par des associations, des entreprises ou des organismes déclarés en application de l'article L. 7232-1-1 du code du travail, dont la liste est fixée par décret, à titre exclusif ou à titre non exclusif pour celles qui bénéficient d'une dérogation à la condition d'activité exclusive selon l'article L. 7232-1-2 du même code ;
+D.-Les prestations de services exclusivement liées aux gestes essentiels de la vie quotidienne des personnes handicapées et des personnes âgées dépendantes qui sont dans l'incapacité de les accomplir, fournies par des associations, des entreprises ou des organismes déclarés en application de l'article L. 7232-1-1 du code du travail, dont la liste est fixée par décret, à titre exclusif ou à titre non exclusif pour celles qui bénéficient d'une dérogation à la condition d'activité exclusive selon l'article L. 7232-1-2 du même code ;
 
-E. ― La fourniture de repas par des prestataires dans les établissements publics ou privés d'enseignement du premier et du second degré ;
+E.-La fourniture de repas par des prestataires dans les établissements publics ou privés d'enseignement du premier et du second degré ;
 
-F. - 1° Les spectacles suivants : théâtres, théâtres de chansonniers, cirques, concerts ; spectacles de variétés à l'exception de ceux qui sont donnés dans les établissements où il est d'usage de consommer pendant les séances ;
+F.-1° Les spectacles suivants : théâtres, théâtres de chansonniers, cirques, concerts ; spectacles de variétés à l'exception de ceux qui sont donnés dans les établissements où il est d'usage de consommer pendant les séances ;
 
-2° Le prix du billet d'entrée donnant exclusivement accès à des concerts donnés dans des établissements où il est servi facultativement des consommations pendant le spectacle et dont l'exploitant est titulaire de la licence de la catégorie mentionnée au  1° de l'article D. 7122-1 du code du travail.
+2° Le prix du billet d'entrée donnant exclusivement accès à des concerts donnés dans des établissements où il est servi facultativement des consommations pendant le spectacle et dont l'exploitant est titulaire de la licence de la catégorie mentionnée au 1° de l'article D. 7122-1 du code du travail.
+
+G.-Les droits d'entrée dans les salles de spectacles cinématographiques, quels que soient le procédé de fixation ou de transmission et la nature du support des œuvres ou documents audiovisuels qui sont présentés ;
+
+H.-Les cessions de droits patrimoniaux portant sur des œuvres cinématographiques représentées au cours des séances de spectacles cinématographiques mentionnées à l'article L. 214-1 du code du cinéma et de l'image animée ou dans le cadre de festivals de cinéma.
+
+I.-1° Les importations d'œuvres d'art, d'objets de collection ou d'antiquité, ainsi que sur les acquisitions intracommunautaires, effectuées par un assujetti ou une personne morale non assujettie, d'œuvres d'art, d'objets de collection ou d'antiquité qu'ils ont importés sur le territoire d'un autre Etat membre de l'Union européenne ;
+
+2° Les acquisitions intracommunautaires d'œuvres d'art qui ont fait l'objet d'une livraison dans un autre Etat membre par d'autres assujettis que des assujettis revendeurs.
