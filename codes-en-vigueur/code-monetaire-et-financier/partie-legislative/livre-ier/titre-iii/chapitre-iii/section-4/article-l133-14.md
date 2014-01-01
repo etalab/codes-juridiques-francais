@@ -6,7 +6,7 @@ Le prestataire de services de paiement du bénéficiaire met le montant de l'op�
 
 La date de valeur du débit inscrit au compte de paiement du payeur ne peut être antérieure au jour où le montant de l'opération de paiement est débité de ce compte.
 
-Ces dispositions s'appliquent si l'un des prestataires de services de paiement impliqués dans l'opération est situé sur le territoire de la France métropolitaine, dans les départements d'outre-mer, à Saint-Martin, à Saint-Barthélemy, à Mayotte ou à Saint-Pierre-et-Miquelon.
+Ces dispositions s'appliquent si l'un des prestataires de services de paiement impliqués dans l'opération est situé sur le territoire de la France métropolitaine, dans les départements d'outre-mer, dans le Département de Mayotte, à Saint-Martin, à Saint-Barthélemy ou à Saint-Pierre-et-Miquelon.
 
 Toute stipulation contraire au présent I est réputée non écrite.
 
