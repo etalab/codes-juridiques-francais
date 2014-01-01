@@ -1,6 +1,6 @@
 # Article R372-1
 
-Dans les limites et conditions fixées par le présent chapitre, des subventions et des prêts peuvent être accordés dans les départements d'outre-mer pour financer :
+Dans les limites et conditions fixées par le présent chapitre, des subventions et des prêts peuvent être accordés en Guadeloupe, en Guyane, en Martinique, à La Réunion et à Mayotte pour financer :
 
 1. La construction de logements à usage locatif ;
 
@@ -17,3 +17,5 @@ Dans les limites et conditions fixées par le présent chapitre, des subventions
 7. La réalisation d'opérations de logements-foyers à usage locatif.
 
 Sont considérés comme logements-foyers les établissements à caractère social dénommés résidences sociales ou hébergeant à titre principal des personnes handicapées ou des personnes âgées et qui assurent le logement de personnes dans des immeubles comportant à la fois des locaux privatifs et des locaux communs meublés ainsi que, le cas échéant, diverses prestations annexes telles que blanchissage, service de soins ou services sociaux éducatifs moyennant une redevance. Un arrêté conjoint du ministre chargé de l'outre-mer, du ministre chargé de l'économie et des finances et du ministre chargé du logement fixe en tant que de besoin des règles particulières d'application.
+
+8. L'acquisition de logements dans le cadre des dispositions prévues à l'article L. 261-3.

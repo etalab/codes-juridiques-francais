@@ -2,7 +2,7 @@
 
 Toute aliénation volontaire, totale ou partielle intervenant au profit de personnes autres que celles qui sont énumérées à l'article L. 521-1, alinéa 3, ou toute reconstruction d'un immeuble déclaré insalubre ou en état de péril, dont un ou plusieurs occupants de bonne foi sont relogés par un organisme d'habitations à loyer modéré, doit faire l'objet de la part du propriétaire, d'une notification, par lettre recommandée avec demande d'avis de réception, à l'organisme ayant assuré le relogement.
 
-Cette notification doit être effectuée dans le délai maximum d'un mois après la publication au fichier immobilier de l'acte translatif de propriété en cas d'aliénation et dans le délai maximum d'un mois après la délivrance du permis de construire en cas de reconstruction.
+Cette notification doit être effectuée dans le délai maximum d'un mois après la publication au fichier immobilier ou, à Mayotte, l'inscription sur le livre foncier de l'acte translatif de propriété en cas d'aliénation et dans le délai maximum d'un mois après la délivrance du permis de construire en cas de reconstruction.
 
 Dans le premier cas, elle doit indiquer les noms et adresse de l'acquéreur.
 
