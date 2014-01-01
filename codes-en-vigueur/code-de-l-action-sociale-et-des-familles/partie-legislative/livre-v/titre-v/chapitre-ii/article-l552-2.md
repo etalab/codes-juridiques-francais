@@ -10,4 +10,6 @@ Pour l'application des dispositions prévues à l'article L. 552-1, les mots men
 
 -" trésorier payeur général " par " payeur du territoire des îles Wallis et Futuna " ;
 
--" département " par " territoire ".
+-" département " par " territoire " ;
+
+-" service de l'aide sociale à l'enfance " par " service chargé de l'aide sociale à l'enfance ".

@@ -8,7 +8,7 @@ Il doit être mentionné au procès-verbal que les parents à l'égard de qui la
 
 2° Des dispositions du régime de la tutelle des pupilles de l'Etat suivant le présent chapitre ;
 
-3° Des délais et conditions suivant lesquels l'enfant pourra être repris par ses père ou mère ;
+3° Des délais et conditions suivant lesquels l'enfant pourra être repris par ses père ou mère ainsi que des modalités d'admission en qualité de pupille de l'Etat mentionnées à l'article L. 224-8 ;
 
 4° De la possibilité de laisser tous renseignements concernant la santé des père et mère, les origines de l'enfant, les raisons et les circonstances de sa remise au service de l'aide sociale à l'enfance.
 
