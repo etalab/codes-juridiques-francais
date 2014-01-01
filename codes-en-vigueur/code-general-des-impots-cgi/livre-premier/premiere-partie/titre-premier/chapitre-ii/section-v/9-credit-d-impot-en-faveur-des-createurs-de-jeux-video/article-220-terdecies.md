@@ -8,7 +8,7 @@ II.-Est considéré comme un jeu vidéo tout logiciel de loisir mis à la dispos
 
 III.-1.-Les jeux vidéo ouvrant droit au bénéfice du crédit d'impôt doivent répondre aux conditions suivantes :
 
-1° Avoir un coût de développement supérieur ou égal à 150 000 € ;
+1° Avoir un coût de développement supérieur ou égal à 100 000 € (1) (2) ;
 
 2° Etre destinés à une commercialisation effective auprès du public ;
 
@@ -18,7 +18,7 @@ III.-1.-Les jeux vidéo ouvrant droit au bénéfice du crédit d'impôt doivent 
 
 Le respect des conditions de création prévues aux 3° et 4° est vérifié au moyen d'un barème de points dont le contenu est fixé par décret.
 
-2.-N'ouvrent pas droit au bénéfice du crédit d'impôt les jeux vidéo comportant des séquences à caractère pornographique ou de très grande violence, susceptibles de nuire gravement à l'épanouissement physique, mental ou moral des utilisateurs.
+2.-N'ouvrent pas droit au bénéfice du crédit d'impôt les jeux vidéo comportant des séquences à caractère pornographique ou de très grande violence, susceptibles de nuire gravement à l'épanouissement physique, mental ou moral des utilisateurs. A l'exception de ceux comportant des séquences à caractère pornographique ou de très grande violence, les jeux vidéo spécifiquement destinés à un public d'adultes et qui sont commercialisés comme tels ouvrent droit au crédit d'impôt dès lors que leur contribution au développement et à la diversité de la création française et européenne en matière de jeux vidéo présente un niveau particulièrement significatif, déterminé au moyen du barème de points mentionné au 4° du 1 (3).
 
 IV.-1.-Pour la création d'un jeu vidéo déterminé, le crédit d'impôt calculé au titre de chaque année est égal à 20 % du montant total des dépenses suivantes, correspondant à des opérations effectuées en France, dans un autre Etat membre de l'Union européenne, ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales, dès lors qu'elles entrent dans la détermination du résultat imposable :
 
@@ -26,13 +26,15 @@ IV.-1.-Pour la création d'un jeu vidéo déterminé, le crédit d'impôt calcul
 
 2° Les rémunérations versées aux auteurs au sens de l'article L. 113-1 du code de la propriété intellectuelle ayant participé à la création du jeu vidéo, en application d'un contrat de cession de droits d'exploitation ainsi que les charges sociales afférentes ;
 
-3° Les dépenses de personnel relatives aux salariés de l'entreprise affectés directement à la création du jeu vidéo répondant aux conditions prévues au III ainsi que les charges sociales afférentes ;
+3° Les dépenses de personnel relatives aux salariés de l'entreprise affectés directement à la création du jeu vidéo répondant aux conditions prévues au III et les dépenses salariales des personnels techniques et administratifs qui y concourent (1) (2), ainsi que les charges sociales afférentes ;
 
 4° Les autres dépenses de fonctionnement, pour leur quote-part affectée à l'activité de création du jeu vidéo. Ces dépenses comprennent les achats de matières, fournitures et matériels, les loyers des immeubles, les frais d'entretien et de réparation afférents à ces immeubles, les frais de voyage et de déplacement, les frais de documentation technique et les frais postaux et de communication électronique ;
 
 5° Les dépenses exposées pour la création d'un jeu vidéo répondant aux conditions prévues au III confiées à d'autres entreprises ou organismes. Ces dépenses entrent dans la base de calcul du crédit d'impôt dans la limite d'un million d'euros par exercice.
 
 2.-Les dépenses mentionnées au 1 ouvrent droit au bénéfice du crédit d'impôt à compter de la date de réception par le président du Centre national du cinéma et de l'image animée d'une demande d'agrément provisoire. Cet agrément est délivré après sélection par un comité d'experts chargé de vérifier que le jeu vidéo remplit les conditions prévues au III.
+
+Seules ouvrent droit au crédit d'impôt les dépenses exposées dans les trente-six mois qui précèdent la date de délivrance de l'agrément définitif mentionnée à l'article 220 X (4).
 
 V.-Les subventions publiques reçues par les entreprises à raison des opérations ouvrant droit au bénéfice du crédit d'impôt sont déduites des bases de calcul de ce crédit d'impôt.
 

@@ -14,6 +14,8 @@ Sont exclus du périmètre de cette contribution les laits infantiles premier et
 
 II. ― Le montant de la contribution est fixé à 7,31 € par hectolitre. Ce montant est relevé au 1er janvier de chaque année à compter du 1er janvier 2013, dans une proportion égale au taux de croissance de l'indice des prix à la consommation hors tabac de l'avant-dernière année. Ce montant est exprimé avec deux chiffres après la virgule, le deuxième chiffre étant augmenté d'une unité si le chiffre suivant est égal ou supérieur à cinq. Il est constaté par arrêté du ministre chargé du budget, publié au Journal officiel.
 
+Pour  son application à Mayotte, le montant mentionné au premier alinéa du  présent II est fixé à 3,31 € au 1er janvier 2014, à 4,31 € au 1er  janvier 2015, à 5,31 € au 1er janvier 2016 et à 7,31 € au 1er janvier  2017.
+
 III.-1. La contribution est due à raison des boissons mentionnées au I par leurs fabricants établis en France, leurs importateurs et les personnes qui réalisent en France des acquisitions intracommunautaires, sur toutes les quantités livrées à titre onéreux ou gratuit.
 
 2. Sont également redevables de la contribution les personnes qui, dans le cadre de leur activité commerciale, fournissent à titre onéreux ou gratuit à leurs clients des boissons consommables en l'état mentionnées au I dont elles ont préalablement assemblé les différents composants présentés dans des récipients non destinés à la vente au détail.

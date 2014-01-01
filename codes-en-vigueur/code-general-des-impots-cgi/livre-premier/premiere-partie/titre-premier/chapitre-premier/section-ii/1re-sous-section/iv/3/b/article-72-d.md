@@ -1,6 +1,6 @@
 # Article 72 D
 
-I. - Les exploitants agricoles soumis à un régime réel d'imposition peuvent pratiquer une déduction pour investissement dans les limites et conditions prévues à l'article 72 D ter .
+I.-Les exploitants agricoles soumis à un régime réel d'imposition peuvent pratiquer une déduction pour investissement dans les limites et conditions prévues à l'article 72 D ter.
 
 Cette déduction est utilisée au cours des cinq exercices qui suivent celui de sa réalisation pour :
 
@@ -10,9 +10,9 @@ Cette déduction est utilisée au cours des cinq exercices qui suivent celui de 
 
 Lorsque la déduction est utilisée pour l'acquisition de parts sociales de coopératives agricoles, elle est rapportée, par parts égales, au résultat de l'exercice qui suit celui de l'acquisition et des neuf exercices suivants. Toutefois, le retrait de l'adhérent ou la cession de parts sociales entraîne la réintégration immédiate dans le résultat imposable de la fraction de la déduction qui n'a pas encore été rapportée.
 
-Lorsqu'elle n'est pas utilisée conformément à son objet, la déduction est rapportée aux résultats du cinquième exercice suivant sa réalisation. Sur demande de l'exploitant, elle peut être rapportée en tout ou partie au résultat d'un exercice antérieur lorsque ce résultat est inférieur d'au moins 40 p. 100 à la moyenne des résultats des trois exercices précédents. Pour le calcul de cette moyenne, il n'est pas tenu compte des reports déficitaires.
+Lorsqu'elle n'est pas utilisée conformément à son objet, la déduction est rapportée aux résultats du cinquième exercice suivant sa réalisation et majorée d'un montant égal au produit de cette déduction par le taux de l'intérêt de retard prévu à l'article 1727. Sur demande de l'exploitant, elle peut être rapportée en tout ou partie au résultat d'un exercice antérieur lorsque ce résultat est inférieur d'au moins 40 p. 100 à la moyenne des résultats des trois exercices précédents. Pour le calcul de cette moyenne, il n'est pas tenu compte des reports déficitaires.
 
-II.L'apport d'une exploitation individuelle dans les conditions visées au I de l'article 151 octies à une société civile agricole par un exploitant agricole qui a pratiqué la déduction au titre d'un exercice précédant celui de l'apport n'est pas considéré pour l'application du I comme une cessation d'activité si la société bénéficiaire de l'apport en remplit les conditions et s'engage à utiliser la déduction conformément à son objet dans les cinq exercices qui suivent celui au cours duquel elle a été pratiquée.
+II.-L'apport d'une exploitation individuelle dans les conditions visées au I de l'article 151 octies à une société civile agricole par un exploitant agricole qui a pratiqué la déduction au titre d'un exercice précédant celui de l'apport n'est pas considéré pour l'application du I comme une cessation d'activité si la société bénéficiaire de l'apport en remplit les conditions et s'engage à utiliser la déduction conformément à son objet dans les cinq exercices qui suivent celui au cours duquel elle a été pratiquée.
 
 Lorsqu'elle n'est pas utilisée conformément à son objet, la déduction est rapportée aux résultats de l'exercice clos à l'occasion de l'apport en société.
 

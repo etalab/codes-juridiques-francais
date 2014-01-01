@@ -1,16 +1,3 @@
-# Section I : Taxe d'apprentissage
+# Section I : Contribution supplémentaire à l'apprentissage
 
-- [Article 224](article-224.md)
-- [Article 225](article-225.md)
-- [Article 225 A](article-225-a.md)
-- [Article 226 bis](article-226-bis.md)
-- [Article 226 B](article-226-b.md)
-- [Article 227](article-227.md)
-- [Article 227 bis](article-227-bis.md)
-- [Article 228](article-228.md)
-- [Article 228 bis](article-228-bis.md)
-- [Article 230 C](article-230-c.md)
-- [Article 230 D](article-230-d.md)
-- [Article 230 B](article-230-b.md)
-- [Article 230 G](article-230-g.md)
 - [Article 230 H](article-230-h.md)

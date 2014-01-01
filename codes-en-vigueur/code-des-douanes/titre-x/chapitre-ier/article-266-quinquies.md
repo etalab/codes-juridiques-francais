@@ -28,7 +28,7 @@ b. Le gaz naturel n'est pas soumis à la taxe intérieure de consommation mentio
 
 5. Le gaz naturel est exonéré de la taxe intérieure de consommation prévue au 1 lorsqu'il est utilisé :
 
-a) Pour la production d'électricité, à l'exclusion du gaz naturel utilisé par les petits producteurs d'électricité au sens du 4° du V de l'article L. 3333-2 du code général des collectivités territoriales.
+a) Pour la production d'électricité, à l'exclusion du gaz naturel utilisé pour leurs besoins par les petits producteurs d'électricité au sens du 4° du V de l'article L. 3333-2 du code général des collectivités territoriales.
 
 Cette exonération ne s'applique pas au gaz naturel destiné à être utilisé dans les installations visées à l'article 266 quinquies A et qui bénéficient d'un contrat d'achat d'électricité conclu en application de l'article L. 314-1 du code de l'énergie ou mentionné à l'article L. 121-27 du même code ;
 
@@ -54,14 +54,18 @@ b. Les fournisseurs qui ne sont pas établis sur le territoire douanier de la Fr
 
 c. Les utilisateurs finals mentionnés au second alinéa du 2 et ceux qui importent du gaz naturel pour leurs besoins propres se font enregistrer auprès de l'administration des douanes et droits indirects. Ils lui communiquent tous les éléments d'assiette nécessaires pour l'établissement de la taxe.
 
-10. La taxe est acquittée, selon une périodicité mensuelle, auprès du service des douanes désigné lors de l'enregistrement.
+d. Les fournisseurs doivent communiquer chaque année à l'administration des douanes la liste de leurs clients non domestiques, selon les modalités définies par arrêté du ministre chargé du budget.
 
-Les quantités d'énergie livrées à un utilisateur final ou importées ou, dans les autres cas, consommées par un utilisateur final au titre d'un mois, pour lesquelles la taxe est devenue exigible, sont portées sur une déclaration déposée avant le 15 du mois suivant. La taxe correspondante est acquittée lors du dépôt de la déclaration.
+10. La taxe est acquittée, selon une périodicité trimestrielle, auprès du service des douanes désigné lors de l'enregistrement.
+
+Les quantités d'énergie livrées à un utilisateur final ou importées ou, dans les autres cas, consommées par un utilisateur final au titre d'un trimestre, pour lesquelles la taxe est devenue exigible, sont portées sur une déclaration déposée dans un délai de deux mois suivant le trimestre concerné. La taxe correspondante est acquittée lors du dépôt de la déclaration.
 
 La forme de la déclaration d'acquittement et les modalités déclaratives sont définies par arrêté du ministre chargé du budget.
 
+La déclaration d'acquittement peut être effectuée par voie électronique.
+
 11. Les personnes qui ont reçu du gaz naturel, sans que ce produit soit soumis à la taxe intérieure de consommation dans les conditions mentionnées au 4, ou en exonération conformément au 5, sont tenues, sans préjudice des pénalités éventuellement applicables, d'acquitter les taxes ou le supplément des taxes dû, lorsque le produit n'a pas été affecté à la destination ou à l'utilisation ayant justifié l'absence de taxation, l'exonération, l'octroi d'un régime fiscal privilégié ou d'un taux réduit.
 
-12. Lorsque le gaz naturel a été normalement soumis à la taxe intérieure de consommation alors qu'il a été employé en tout ou partie par l'utilisateur final à un usage non taxable prévu au 4 ou à un usage exonéré prévu au 5, l'utilisateur final peut demander le remboursement de la taxe ou de la fraction de taxe.
+12. Lorsque le gaz naturel a été normalement soumis à la taxe intérieure de consommation alors qu'il a été employé en tout ou partie par l'utilisateur final à un usage non taxable prévu au 4 ou à un usage exonéré prévu au 5, l'utilisateur final peut demander le remboursement de la taxe ou de la fraction de taxe, dans les conditions prévues à l'article 352.
 
 Lorsque le gaz naturel soumis à la taxe a fait l'objet d'un rachat par le fournisseur auprès de son client, la taxe est remboursée au fournisseur, pour autant que le fournisseur justifie qu'il a précédemment acquitté la taxe. Ce remboursement peut s'effectuer par imputation sur le montant de la taxe due.

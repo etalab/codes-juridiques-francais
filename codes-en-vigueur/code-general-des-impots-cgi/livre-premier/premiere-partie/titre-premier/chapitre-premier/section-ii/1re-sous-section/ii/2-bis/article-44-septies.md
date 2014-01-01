@@ -36,7 +36,7 @@ La fraction des coûts éligibles supérieure à 100 millions d'euros n'est pas 
 
 Lorsque l'activité est implantée dans des zones éligibles dont les taux d'intensité d'aide diffèrent, le bénéfice exonéré ne peut excéder la somme des limites calculées pour chacune des zones éligibles.
 
-5. Ces dispositions s'appliquent aux entreprises créées à compter du 1er janvier 2007 et jusqu'au 31 décembre 2013 dans les zones d'aide à finalité régionale.
+5. Ces dispositions s'appliquent aux entreprises créées à compter du 1er janvier 2007 et jusqu'au 31 décembre 2014 dans les zones d'aide à finalité régionale.
 
 Le bénéfice de cette exonération est subordonné au respect du règlement (CE) n° 1628/2006 de la Commission du 24 octobre 2006 concernant l'application des articles 87 et 88 du traité aux aides nationales à l'investissement à finalité régionale.
 

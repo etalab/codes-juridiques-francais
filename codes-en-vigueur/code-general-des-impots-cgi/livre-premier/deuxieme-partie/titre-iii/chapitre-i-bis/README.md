@@ -9,6 +9,6 @@
 - [Section VIII : Taxe pour le développement de la formation professionnelle dans les métiers de la réparation de l'automobile, du cycle et du motocycle](section-viii)
 - [Section X : Contribution perçue au profit de l'Institut national de prévention et d'éducation pour la santé](section-x)
 - [Section XI : Prélèvements sur les jeux de loterie et les paris sportifs perçus au profit du Centre national pour le développement du sport](section-xi)
-- [Section XII : Redevance sur les paris hippiques en ligne](section-xii)
+- [Section XII : Redevance sur les paris hippiques en ligne perçue au profit des sociétés de courses](section-xii)
 - [Section XIII :  Prélèvements sociaux sur les jeux et paris perçus au profit d'organismes divers concourant au financement de la protection sociale](section-xiii)
 - [Section XIV : Contribution sur les activités privées de sécurité](section-xiv)

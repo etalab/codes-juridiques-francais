@@ -6,7 +6,7 @@ Le bénéfice du présent article est réservé aux entreprises qui se créent d
 
 1° A compter du 1er janvier 1995 et jusqu'au 31 décembre 2010, dans les zones de revitalisation rurale mentionnées à l'article 1465 A ou dans les zones de redynamisation urbaine définies au A du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire ;
 
-2° A compter du 1er janvier 2007 et jusqu'au 31 décembre 2013, dans les zones d'aide à finalité régionale.
+2° A compter du 1er janvier 2007 et jusqu'au 31 décembre 2014, dans les zones d'aide à finalité régionale.
 
 Lorsqu'une entreprise exerce une activité non sédentaire, réalisée en partie en dehors des zones précitées, la condition d'implantation est réputée satisfaite dès lors qu'elle réalise au plus 15 % de son chiffre d'affaires en dehors de ces zones. Au-delà de 15 %, les bénéfices réalisés sont soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés dans les conditions de droit commun en proportion du chiffre d'affaires réalisé en dehors des zones déjà citées. Cette condition de chiffre d'affaires s'apprécie exercice par exercice.
 

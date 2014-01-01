@@ -14,7 +14,7 @@ Lorsqu'ils sont payables en espèces les revenus visés au premier alinéa sont 
 
 3° Les dispositions du 2° ne s'appliquent pas :
 
-a. Aux produits des actions des sociétés d'investissement mentionnées au 1° ter de l'article 208 et des sociétés de capital-risque mentionnées au 3° septies du même article prélevés sur des bénéfices exonérés d'impôt sur les sociétés ;
+a. Aux produits des actions des sociétés de capital-risque mentionnées au 3° septies du même article prélevés sur des bénéfices exonérés d'impôt sur les sociétés ;
 
 b. Aux produits des actions des sociétés mentionnées au 1° bis A de l'article 208 et des sociétés d'investissement de même nature établies hors de France et soumises à un régime fiscal équivalent ;
 
@@ -34,7 +34,7 @@ a. Les organismes de placement collectif en valeurs mobilières ou les placement
 
 b. Les organismes de placement collectif en valeurs mobilières établis dans d'autres Etats membres de la Communauté européenne, ou dans un Etat non membre de cette Communauté partie à l'accord sur l'Espace économique européen ayant conclu une convention fiscale qui contient une clause d'assistance administrative en vue de lutter contre la fraude ou l'évasion fiscale, qui bénéficient de la procédure de reconnaissance mutuelle des agréments prévue par la directive 85/611/ CE du Conseil du 20 décembre 1985 portant coordination des dispositions législatives, réglementaires et administratives concernant certains organismes de placement collectif en valeurs mobilières (OPCVM) ;
 
-c. Les sociétés mentionnées aux 1° ter et 3° septies de l'article 208.
+c. Les sociétés mentionnées au 3° septies de l'article 208.
 
 d. Les fonds de placement immobilier mentionnés à l'article 239 nonies.
 
@@ -94,7 +94,7 @@ La fraction de rentes viagères définie ci-dessus est imposée dans les mêmes 
 
 Ces dispositions ne sont pas applicables aux arrérages correspondant aux cotisations ayant fait l'objet de la déduction prévue au I de l'article 163 quatervicies.
 
-6 bis.-Les gains nets de cession de valeurs mobilières, droits sociaux et titres assimilés sont déterminés conformément aux articles 150-0 A à 150-0 E. Sont également imposables dans cette catégorie les profits réalisés sur les marchés d'instruments financiers et assimilés, déterminés conformément aux articles 150 ter à 150 undecies, les distributions de plus-values mentionnées à l'article 150-0 F et au 1 du II de l'article 163 quinquies C lorsque l'actionnaire est une personne physique fiscalement domiciliée en France.
+6 bis.-Les gains nets de cession de valeurs mobilières, droits sociaux et titres assimilés sont déterminés conformément aux articles 150-0 A à 150-0 E. Sont également imposables dans cette catégorie les profits réalisés sur les marchés d'instruments financiers et assimilés, déterminés conformément à l'article 150 ter, les distributions de plus-values mentionnées à l'article 150-0 F et au 1 du II de l'article 163 quinquies C lorsque l'actionnaire est une personne physique fiscalement domiciliée en France.
 
 6 ter.-Les plus-values latentes sur droits sociaux, valeurs, titres ou droits, les créances trouvant leur origine dans une clause de complément de prix et certaines plus-values en report d'imposition imposables lors du transfert du domicile fiscal hors de France sont déterminées conformément à l'article 167 bis.
 

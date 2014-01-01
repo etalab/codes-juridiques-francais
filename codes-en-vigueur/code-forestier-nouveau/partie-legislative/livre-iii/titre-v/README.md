@@ -1,4 +1,4 @@
 # TITRE V : DISPOSITIONS RELATIVES À L'ASSURANCE
 
 - [Chapitre Ier : Dispositions générales](chapitre-ier)
-- [Chapitre II : Compte épargne d'assurance pour la forêt](chapitre-ii)
+- [Chapitre II : Compte d'investissement forestier et d'assurance](chapitre-ii)

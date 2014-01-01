@@ -12,4 +12,4 @@ Sont notamment considérés comme produits à double usage les combustibles util
 
 II.-Les modalités d'application du I ainsi que les modalités du contrôle de la destination des produits et de leur affectation aux usages qui y sont mentionnés sont fixées par décret.
 
-III.-La consommation de produits énergétiques réalisée dans l'enceinte des établissements de production de produits énergétiques n'est pas soumise aux taxes intérieures de consommation mentionnées aux articles 265 et 266 quater lorsque cette consommation est effectuée pour la production des produits énergétiques eux-mêmes ou pour la production de tout ou partie de l'énergie nécessaire à leur fabrication.
+III.-La consommation de produits énergétiques réalisée dans l'enceinte des établissements de production de produits énergétiques n'est pas soumise aux taxes intérieures de consommation mentionnées aux articles 265 et 266 quater lorsque cette consommation est effectuée pour la production des produits énergétiques eux-mêmes ou pour la production de tout ou partie de l'énergie nécessaire à leur fabrication. Les éléments justificatifs permettant de n'être pas soumis aux taxes sont déterminés par décret.

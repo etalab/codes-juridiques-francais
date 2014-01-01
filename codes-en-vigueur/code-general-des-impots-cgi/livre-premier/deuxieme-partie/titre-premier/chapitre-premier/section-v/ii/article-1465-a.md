@@ -6,7 +6,7 @@ Cette exonération s'applique également aux créations d'activités dans les zo
 
 II.-Les zones de revitalisation rurale comprennent les communes membres d'un établissement public de coopération intercommunale à fiscalité propre, incluses dans un arrondissement ou un canton caractérisé par une très faible densité de population ou par une faible densité de population et satisfaisant à l'un des trois critères socio-économiques suivants :
 
-a. un déclin de la population  constaté sur l'ensemble de l'arrondissement ou du canton ou dans une majorité de leurs communes dont le chef-lieu ;
+a. un déclin de la population constaté sur l'ensemble de l'arrondissement ou du canton ou dans une majorité de leurs communes dont le chef-lieu ;
 
 b. un déclin de la population active ;
 
@@ -22,6 +22,6 @@ Les dispositions des cinquième, sixième, septième et neuvième alinéas de l'
 
 III.-Un décret en Conseil d'Etat précise les conditions d'application du II et en particulier les critères et seuils visant à déterminer le périmètre des zones de revitalisation rurale.
 
-IV.-Le bénéfice des exonérations accordées à compter du 1er janvier 2007 est subordonné au respect du règlement (CE) n° 1998 / 2006 de la Commission du 15 décembre 2006 concernant l'application des articles 87 et 88 du traité aux aides de minimis. Toutefois, sur option des entreprises qui procèdent entre le 1er janvier 2009 et le 31 décembre 2013 aux opérations mentionnées au I dans les zones d'aide à finalité régionale, le bénéfice des exonérations est subordonné au respect de l'article 13 du règlement (CE) n° 800 / 2008 de la Commission du 6 août 2008 déclarant certaines catégories d'aides compatibles avec le marché commun en application des articles 87 et 88 du traité (Règlement général d'exemption par catégorie).
+IV.-Le bénéfice des exonérations accordées à compter du 1er janvier 2007 est subordonné au respect du règlement (CE) n° 1998/2006 de la Commission du 15 décembre 2006 concernant l'application des articles 87 et 88 du traité aux aides de minimis. Toutefois, sur option des entreprises qui procèdent entre le 1er janvier 2009 et le 31 décembre 2014 aux opérations mentionnées au I dans les zones d'aide à finalité régionale, le bénéfice des exonérations est subordonné au respect de l'article 13 du règlement (CE) n° 800/2008 de la Commission du 6 août 2008 déclarant certaines catégories d'aides compatibles avec le marché commun en application des articles 87 et 88 du traité (Règlement général d'exemption par catégorie).
 
 Cette option, exercée distinctement pour chacun des établissements concernés, est irrévocable pour la durée de l'exonération. Elle doit être exercée, selon le cas, dans le délai prévu pour le dépôt de la déclaration annuelle afférente à la première année au titre de laquelle l'exonération prend effet ou de la déclaration provisoire de cotisation foncière des entreprises visée à l'article 1477.

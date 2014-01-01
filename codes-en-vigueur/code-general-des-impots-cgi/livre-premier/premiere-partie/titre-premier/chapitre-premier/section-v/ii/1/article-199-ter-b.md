@@ -2,7 +2,7 @@
 
 I. ― Le crédit d'impôt pour dépenses de recherche défini à l'article 244 quater B est imputé sur l'impôt sur le revenu dû par le contribuable au titre de l'année au cours de laquelle les dépenses de recherche prises en compte pour le calcul du crédit d'impôt ont été exposées. L'excédent de crédit d'impôt constitue au profit de l'entreprise une créance sur l'Etat d'égal montant. Cette créance est utilisée pour le paiement de l'impôt sur le revenu dû au titre des trois années suivant celle au titre de laquelle elle est constatée puis, s'il y a lieu, la fraction non utilisée est remboursée à l'expiration de cette période.
 
-La créance est inaliénable et incessible, sauf dans les cas et conditions prévus par les articles L. 313-23 à L. 313-35 du code monétaire et financier.
+La créance est inaliénable et incessible, sauf dans les cas et conditions prévus par les articles L. 214-169 à L. 214-190 et L. 313-23 à L. 313-35 du code monétaire et financier.
 
 En cas de fusion ou d'opération assimilée intervenant au cours de la période mentionnée à la dernière phrase du premier alinéa, la fraction de la créance qui n'a pas encore été imputée par la société apporteuse est transférée à la société bénéficiaire de l'apport.
 

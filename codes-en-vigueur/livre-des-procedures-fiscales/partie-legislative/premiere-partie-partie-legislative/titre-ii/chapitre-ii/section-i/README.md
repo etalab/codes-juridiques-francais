@@ -10,6 +10,7 @@
 - [18° : Opérations de transfert de fonds à l'étranger](18)
 - [19° : Déplacements intracommunautaires de biens. Assujettis et façonniers astreints à la tenue d'un registre des biens. Obligations du titulaire de l'entrepôt fiscal](19)
 - [2° : Employeurs et débirentiers](2)
+- [20° : Intermédiaires pour des instruments financiers à terme](20)
 - [22° : Etablissements diffuseurs ou distributeurs de services payants de programmes de télévision](22)
 - [23° : Fiducie](23)
 - [24° : Opérateurs de communications électroniques](24)

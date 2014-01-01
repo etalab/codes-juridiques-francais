@@ -18,7 +18,7 @@ Le montant de la taxe dû par les fournisseurs apparaît distinctement, en addit
 
 2° Les personnes qui produisent de l'électricité et l'utilisent pour leurs propres besoins.
 
-4.L'électricité n'est pas soumise à la taxe mentionnée au 1 dans les cas suivants :
+4. L'électricité n'est pas soumise à la taxe mentionnée au 1 dans les cas suivants :
 
 1° Lorsqu'elle est principalement utilisée dans des procédés métallurgiques, d'électrolyse ou de réduction chimique. Le bénéfice de la présente mesure ne s'applique pas aux quantités d'électricité utilisées pour des besoins autres que ceux de ces procédés ;
 
@@ -28,7 +28,7 @@ Le montant de la taxe dû par les fournisseurs apparaît distinctement, en addit
 
 4° Lorsqu'elle est consommée dans l'enceinte des établissements de production de produits énergétiques, pour les besoins de la production des produits énergétiques eux-mêmes ou pour ceux de la production de tout ou partie de l'énergie nécessaire à leur fabrication.
 
-5.L'électricité est exonérée de la taxe mentionnée au 1 lorsqu'elle est :
+5. L'électricité est exonérée de la taxe mentionnée au 1 lorsqu'elle est :
 
 1° Utilisée pour la production de l'électricité et pour le maintien de la capacité de production de l'électricité ;
 
@@ -60,12 +60,18 @@ Ils tiennent une comptabilité des livraisons d'électricité d'une puissance so
 
 La comptabilité des livraisons doit être présentée à toute réquisition de l'administration.
 
-Les fournisseurs d'électricité non établis en France désignent une personne qui y est établie et a été enregistrée auprès de l'administration des douanes et droits indirects pour effectuer en leur lieu et place les obligations qui leur incombent et acquitter la taxe intérieure sur la consommation finale d'électricité.A défaut, la taxe est due par le destinataire du produit soumis à accise.
+Les fournisseurs d'électricité non établis en France désignent une personne qui y est établie et a été enregistrée auprès de l'administration des douanes et droits indirects pour effectuer en leur lieu et place les obligations qui leur incombent et acquitter la taxe intérieure sur la consommation finale d'électricité. A défaut, la taxe est due par le destinataire du produit soumis à accise.
+
+Les fournisseurs communiquent chaque année à l'administration des douanes la liste de leurs clients non domestiques, selon les modalités définies par arrêté du ministre chargé du budget.
 
 9. La taxe est acquittée, selon une périodicité trimestrielle, auprès de l'administration des douanes et des droits indirects.
 
 Les quantités d'électricité de puissance souscrite supérieure à 250 kilovoltampères livrées à un utilisateur final ou consommées par un utilisateur final au titre d'un trimestre, pour lesquelles la taxe est devenue exigible, sont portées sur une déclaration déposée dans un délai de deux mois suivant le trimestre concerné. La taxe correspondante est acquittée lors du dépôt de la déclaration. Toutefois, les petits producteurs mentionnés au 4° du 5 sont dispensés de l'obligation d'établir la déclaration.
 
 La forme de la déclaration d'acquittement et les modalités déclaratives sont définies par arrêté du ministre chargé du budget.
+
+La déclaration d'acquittement peut être effectuée par voie électronique.
+
+10. Lorsque l'électricité a été normalement soumise à la taxe intérieure de consommation alors qu'elle a été employée en tout ou partie par l'utilisateur final à un usage non taxable prévu au 4 ou à un usage exonéré prévu au 5 du présent article, l'utilisateur final peut demander le remboursement de la taxe ou de la fraction de taxe, dans les conditions prévues à l'article 352.
 
 Un décret détermine les modalités d'application de l'assiette de la taxe lorsque les livraisons d'électricité donnent lieu, de la part des fournisseurs, à des décomptes ou à des encaissements successifs ou à la perception d'acomptes financiers. Il détermine également les modalités du contrôle et de la destination de l'électricité et de son affectation aux usages mentionnés aux 4 à 6.
