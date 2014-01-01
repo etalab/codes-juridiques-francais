@@ -2,7 +2,7 @@
 
 La commission de contrôle des opérations électorales exerce les attributions prévues par les articles D. 719-8 et D. 719-18.
 
-La commission de contrôle des opérations électorales connaît de toutes les contestations présentées par les électeurs, par le président de l'établissement ou par le recteur, sur la préparation et le déroulement des opérations de vote, ainsi que sur la proclamation des résultats du scrutin.
+La commission de contrôle des opérations électorales connaît de toutes les contestations présentées par les électeurs, par le président ou le directeur de l'établissement ou par le recteur, sur la préparation et le déroulement des opérations de vote, ainsi que sur la proclamation des résultats du scrutin.
 
 Elle est saisie au plus tard le cinquième jour suivant la proclamation des résultats.
 

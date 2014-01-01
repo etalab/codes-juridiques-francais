@@ -1,6 +1,6 @@
 # Article D719-40
 
-Tout électeur ainsi que le président de l'établissement et le recteur ont le droit d'invoquer l'irrégularité ou la nullité des opérations électorales devant le tribunal administratif territorialement compétent.
+Tout électeur ainsi que le président ou le directeur de l'établissement et le recteur ont le droit d'invoquer l'irrégularité ou la nullité des opérations électorales devant le tribunal administratif territorialement compétent.
 
 Ce recours n'est recevable que s'il a été précédé d'un recours préalable devant la commission de contrôle des opérations électorales.
 

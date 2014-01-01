@@ -14,4 +14,4 @@ Les enseignants-chercheurs et enseignants qui bénéficient d'une décharge de s
 
 Nul ne peut exercer plus de deux fois son droit de vote pour l'élection des conseils d'unités.
 
-Pour l'élection du conseil d'administration, du conseil scientifique et du conseil des études et de la vie universitaire, nul ne peut disposer de plus d'un suffrage.
+Pour l'élection des membres du conseil d'administration, de la commission de la recherche et de la commission de la formation et de la vie universitaire du conseil académique, du conseil scientifique et du conseil des études et de la vie universitaire ou des organes en tenant lieu, nul ne peut disposer de plus d'un suffrage.

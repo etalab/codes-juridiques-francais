@@ -14,7 +14,7 @@ Les sièges non répartis par application des dispositions précédentes sont at
 
 Lorsqu'une liste a obtenu un nombre de voix inférieur au quotient électoral, ce nombre de voix tient lieu de reste.
 
-Lorsque plusieurs listes ont le même reste, le siège revient à la liste ayant obtenu le plus grand nombre de suffrages. Si les listes en cause ont recueilli le même nombre de suffrages, le siège est attribué par tirage au sort.
+Si plusieurs listes ont le même reste pour l'attribution du dernier siège, celui-ci revient à la liste qui a obtenu le plus grand nombre de suffrages. En cas d'égalité de suffrages, le siège est attribué au plus jeune des candidats susceptibles d'être proclamés élus.
 
 Lorsque le nombre de sièges attribués à une liste dépasse le nombre de candidats présentés par cette liste, les sièges excédant ce nombre ne sont pas attribués. Il est alors procédé à une élection partielle.
 

@@ -1,6 +1,6 @@
 # Article D719-6
 
-Pour l'élection des membres des conseils scientifiques, les électeurs concernés sont répartis en collèges électoraux dont la composition est fixée sur les bases suivantes.
+Pour l'élection des membres  de la commission de la recherche du conseil académique ou du conseil scientifique ou de l'organe en tenant lieu, les électeurs concernés sont répartis en collèges électoraux dont la composition est fixée sur les bases suivantes.
 
 I. ― La composition des collèges électoraux des personnels est fixée sur la base suivante :
 
