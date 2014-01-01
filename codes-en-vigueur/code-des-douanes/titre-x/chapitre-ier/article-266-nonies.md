@@ -2,9 +2,9 @@
 
 1. Les tarifs de la taxe mentionnée à l'article 266 sexies sont fixés comme suit :
 
-A.-Pour les déchets ménagers et assimilés mentionnés au 1 de l'article 266 sexies :
+A.-Pour les déchets non dangereux mentionnés au 1 du I de l'article 266 sexies :
 
-a) Déchets ménagers et assimilés réceptionnés dans une installation de stockage de déchets ménagers et assimilés ou transférés vers une telle installation située dans un autre Etat :
+a) Déchets non dangereux réceptionnés dans une installation de stockage de déchets non dangereux ou transférés vers une telle installation située dans un autre Etat :
 
 <table>
 <tbody>
@@ -14,7 +14,7 @@ a) Déchets ménagers et assimilés réceptionnés dans une installation de stoc
 <p align="center">ou opérations imposables</p>
 </td>
 <td rowspan="2">
-<p align="center">UNITÉ </p>
+<p align="center">UNITÉ</p>
 <p align="center">de perception</p>
 </td>
 <td colspan="7">
@@ -41,14 +41,13 @@ a) Déchets ménagers et assimilés réceptionnés dans une installation de stoc
 <p align="center">2014</p>
 </td>
 <td>
-<p align="center">A COMPTER </p>
-<p align="center">de 2015<br/>
+<p align="center">à compter de 2015<br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Déchets réceptionnés dans une installation de stockage de déchets ménagers et assimilés non autorisée en application du titre Ier du livre V du code de l'environnement pour ladite réception ou transférés vers une telle installation située dans un autre Etat.<br/>
+<p align="left">Déchets réceptionnés dans une installation de stockage de déchets non dangereux non autorisée en application du titre Ier du livre V du code de l'environnement pour ladite réception ou transférés vers une telle installation située dans un autre Etat.<br/>
 </p>
 </td>
 <td align="center">Tonne<br/>
@@ -70,7 +69,7 @@ a) Déchets ménagers et assimilés réceptionnés dans une installation de stoc
 </tr>
 <tr>
 <td align="center">
-<p align="left">Déchets réceptionnés dans une installation de stockage de déchets ménagers et assimilés autorisée en application du titre Ier du livre V du code de l'environnement pour ladite réception ou transférés vers une telle installation située dans un autre Etat et autorisée en vertu d'une réglementation d'effet équivalent :<br/>
+<p align="left">Déchets réceptionnés dans une installation de stockage de déchets non dangereux autorisée en application du titre Ier du livre V du code de l'environnement pour ladite réception ou transférés vers une telle installation située dans un autre Etat et autorisée en vertu d'une réglementation d'effet équivalent :<br/>
 </p>
 </td>
 <td align="center"/>
@@ -114,7 +113,8 @@ a) Déchets ménagers et assimilés réceptionnés dans une installation de stoc
 </tr>
 <tr>
 <td align="center">
-<br/>B. ― Faisant l'objet d'une valorisation énergétique du biogaz de plus de 75 %.<br/>
+<p>B. ― Faisant l'objet d'une valorisation énergétique du biogaz de plus de 75 %.<br/>
+</p>
 </td>
 <td align="center">
 <br/>Tonne<br/>
@@ -173,7 +173,8 @@ a) Déchets ménagers et assimilés réceptionnés dans une installation de stoc
 </tr>
 <tr>
 <td align="center">
-<br/>D. ― Autre.<br/>
+<p>D. ― Autre.<br/>
+</p>
 </td>
 <td align="center">
 <br/>Tonne<br/>
@@ -203,11 +204,17 @@ a) Déchets ménagers et assimilés réceptionnés dans une installation de stoc
 </tbody>
 </table>
 
-Les déchets réceptionnés dans une installation de stockage de déchets ménagers ou assimilés visée aux A, B ou C du tableau du présent a ou transférés vers une telle installation située dans un autre Etat et autorisée en vertu d'une réglementation d'effet équivalent bénéficient d'une réduction à raison des tonnages dont le transfert entre le site de regroupement et le site de traitement final est effectué par voie ferroviaire ou fluviale, sous réserve que la desserte routière terminale, lorsqu'elle est nécessaire, n'excède pas 20 % du kilométrage de l'itinéraire global.
+Sur le territoire de la Guyane, pour les déchets réceptionnés dans une installation de stockage de déchets non dangereux accessible par voies terrestres, le tarif de la taxe est fixé à 10 € par tonne de 2013 à 2018 et, pour les déchets réceptionnés dans une installation de stockage de déchets non dangereux non accessible par voies terrestres, le tarif de la taxe est fixé à 3 € par tonne de 2013 à 2018.
+
+Sur le territoire de Mayotte, pour les déchets réceptionnés dans une installation de stockage de déchets non dangereux, le tarif de la taxe est fixé à 0 € par tonne de 2014 à 2017, puis à 10 € par tonne pour 2018.
+
+A compter de 2019, les tarifs fixés au tableau du présent a sont applicables en Guyane et à Mayotte.
+
+Les déchets réceptionnés dans une installation de stockage de déchets non dangereux visée aux A, B ou C du tableau du présent a ou transférés vers une telle installation située dans un autre Etat et autorisée en vertu d'une réglementation d'effet équivalent bénéficient d'une réduction à raison des tonnages dont le transfert entre le site de regroupement et le site de traitement final est effectué par voie ferroviaire ou fluviale, sous réserve que la desserte routière terminale, lorsqu'elle est nécessaire, n'excède pas 20 % du kilométrage de l'itinéraire global.
 
 Cette réduction est égale à 0,50 € par tonne en 2009, 0,60 € par tonne en 2010 et 2011, 0,70 € par tonne en 2012, 0,80 € par tonne en 2013, 0,90 € par tonne en 2014 et 1 € par tonne à compter de 2015. Elle est, à compter du 1er janvier 2016, revalorisée dans la même proportion que la limite supérieure de la première tranche de l'impôt sur le revenu ;
 
-b) Déchets ménagers et assimilés réceptionnés dans une installation d'incinération de déchets ou transférés vers une telle installation située dans un autre Etat :
+b) Déchets non dangereux réceptionnés dans une installation de traitement thermique de déchets ou transférés vers une telle installation située dans un autre Etat :
 
 <table>
 <tbody>
@@ -238,13 +245,12 @@ b) Déchets ménagers et assimilés réceptionnés dans une installation d'incin
 <p align="center">2012</p>
 </td>
 <td>
-<p align="center">A COMPTER </p>
-<p align="center">de 2013</p>
+<p align="center">à compter de 2013</p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">Déchets réceptionnés dans une installation d'incinération de déchets ménagers et assimilés ou transférés vers une telle installation située dans un autre Etat :<br/>
+<p align="left">Déchets réceptionnés dans une installation de traitement thermique de déchets non dangereux ou transférés vers une telle installation située dans un autre Etat :<br/>
 </p>
 </td>
 <td align="center"/>
@@ -304,8 +310,7 @@ b) Déchets ménagers et assimilés réceptionnés dans une installation d'incin
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>C. ― Dont les valeurs d'émission de NOx sont inférieures à 80 mg/Nm³.<br/>
+<p align="left">C. ― Dont les valeurs d'émission de NOx sont inférieures à 80 mg/Nm³.<br/>
 </p>
 </td>
 <td align="center">
@@ -329,8 +334,7 @@ b) Déchets ménagers et assimilés réceptionnés dans une installation d'incin
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>D. ― Relevant à la fois des A et B, des A et C, des B et C ou des A, B et C qui précèdent.<br/>
+<p align="left">D. ― Relevant à la fois des A et B, des A et C, des B et C ou des A, B et C qui précèdent.<br/>
 </p>
 </td>
 <td align="center">
@@ -354,8 +358,7 @@ b) Déchets ménagers et assimilés réceptionnés dans une installation d'incin
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>E. ― Autre.<br/>
+<p align="left">E. ― Autre.<br/>
 </p>
 </td>
 <td align="center">
@@ -380,7 +383,7 @@ b) Déchets ménagers et assimilés réceptionnés dans une installation d'incin
 </tbody>
 </table>
 
-Les déchets réceptionnés dans une installation d'incinération de déchets ménagers ou assimilés visée aux A, B, C ou D du tableau du présent b ou transférés vers une telle installation située dans un autre Etat bénéficient d'une réduction à raison des tonnages dont le transfert entre le site de regroupement et le site de traitement final est effectué par voie ferroviaire ou fluviale, sous réserve que la desserte routière terminale, lorsqu'elle est nécessaire, n'excède pas 20 % du kilométrage de l'itinéraire global.
+Les déchets réceptionnés dans une installation de traitement thermique de déchets non dangereux mentionnée aux A, B, C ou D du tableau du présent b ou transférés vers une telle installation située dans un autre Etat bénéficient d'une réduction à raison des tonnages dont le transfert entre le site de regroupement et le site de traitement final est effectué par voie ferroviaire ou fluviale, sous réserve que la desserte routière terminale, lorsqu'elle est nécessaire, n'excède pas 20 % du kilométrage de l'itinéraire global.
 
 Cette réduction est égale à 0,50 € par tonne en 2009 et 2010, 0,80 € par tonne en 2011 et 2012 et 1 € par tonne à compter de 2013. Elle est, à compter du 1er janvier 2014, revalorisée dans la même proportion que la limite supérieure de la première tranche de l'impôt sur le revenu.
 
@@ -411,7 +414,7 @@ B.-Pour les autres composantes de la taxe mentionnée à l'article 266 sexies, l
 </tr>
 <tr>
 <td>
-<p>Déchets industriels spéciaux réceptionnés dans une installation d'élimination de déchets industriels spéciaux ou transférés vers une telle installation située dans un autre Etat. </p>
+<p align="left">Déchets dangereux réceptionnés dans une installation de traitement thermique ou de tout autre traitement de déchets dangereux ou transférés vers une telle installation située dans un autre Etat. </p>
 </td>
 <td colspan="3">
 <p align="center">Tonne </p>
@@ -422,7 +425,7 @@ B.-Pour les autres composantes de la taxe mentionnée à l'article 266 sexies, l
 </tr>
 <tr>
 <td>
-<p>Déchets réceptionnés dans une installation de stockage de déchets industriels spéciaux ou transférés vers une telle installation située dans un autre Etat. </p>
+<p align="left">Déchets réceptionnés dans une installation de stockage de déchets dangereux ou transférés vers une telle installation située dans un autre Etat. </p>
 </td>
 <td colspan="3">
 <p align="center">Tonne </p>
@@ -433,7 +436,7 @@ B.-Pour les autres composantes de la taxe mentionnée à l'article 266 sexies, l
 </tr>
 <tr>
 <td>
-<p>Substances émises dans l'atmosphère : </p>
+<p align="left">Substances émises dans l'atmosphère : </p>
 <p>-oxydes de soufre et autres composés soufrés </p>
 </td>
 <td colspan="3">
@@ -552,6 +555,69 @@ B.-Pour les autres composantes de la taxe mentionnée à l'article 266 sexies, l
 <td colspan="5">
 <p align="left">50</p>
 </td>
+</tr>
+<tr>
+<td>
+<p align="left">Plomb</p>
+</td>
+<td colspan="3">
+<p align="center">Kilogramme</p>
+</td>
+<td colspan="5">10</td>
+</tr>
+<tr>
+<td>
+<p align="left">Zinc</p>
+</td>
+<td colspan="3">
+<p align="center">Kilogramme</p>
+</td>
+<td colspan="5">5</td>
+</tr>
+<tr>
+<td>
+<p align="left">Chrome</p>
+</td>
+<td colspan="3">
+<p align="center">Kilogramme</p>
+</td>
+<td colspan="5">20</td>
+</tr>
+<tr>
+<td>
+<p align="left">Cuivre</p>
+</td>
+<td colspan="3">
+<p align="center">Kilogramme</p>
+</td>
+<td colspan="5">5</td>
+</tr>
+<tr>
+<td>
+<p align="left">Nickel</p>
+</td>
+<td colspan="3">
+<p align="center">Kilogramme</p>
+</td>
+<td colspan="5">100</td>
+</tr>
+<tr>
+<td>
+<p align="left">Cadmium</p>
+</td>
+<td colspan="3">
+<p align="center">Kilogramme</p>
+</td>
+<td colspan="5">500</td>
+</tr>
+<tr>
+<td>
+<p align="left">Vanadium</p>
+</td>
+<td colspan="3">
+<p align="center">Kilogramme</p>
+</td>
+<td colspan="5">5</td>
 </tr>
 <tr>
 <td>
@@ -702,11 +768,11 @@ c) Du 1er janvier 2015 au tarif applicable aux sacs de caisse à usage unique en
 
 3. (Alinéa abrogé).
 
-4. Le tarif applicable aux déchets réceptionnés dans une installation de stockage de déchets industriels spéciaux ne s'applique pas aux résidus de traitement des installations d'élimination de déchets assujetties à la taxe.
+4. Le tarif applicable aux déchets réceptionnés dans une installation de stockage de déchets dangereux ne s'applique pas aux résidus de traitement des installations de traitement thermique ou de tout autre traitement de déchets assujetties à la taxe.
 
-4 bis. Le tarif applicable aux déchets réceptionnés dans une installation de stockage de déchets ménagers et assimilés ne s'applique pas aux résidus de traitement des installations de traitement de déchets assujetties à la taxe générale sur les activités polluantes lorsque ceux-ci ne peuvent faire l'objet d'aucune valorisation pour des raisons techniques définies par décret ; à défaut de publication de ce décret dans les six mois suivant la promulgation de la loi n° 2010-1657 du 29 décembre 2010 de finances pour 2011, la taxe ne s'applique pas auxdits résidus.
+4 bis. Le tarif applicable aux déchets réceptionnés dans une installation de stockage de déchets non dangereux ne s'applique pas aux résidus de traitement des installations de traitement de déchets assujetties à la taxe générale sur les activités polluantes lorsque ceux-ci ne peuvent faire l'objet d'aucune valorisation pour des raisons techniques définies par décret ; à défaut de publication de ce décret dans les six mois suivant la promulgation de la loi n° 2010-1657 du 29 décembre 2010 de finances pour 2011, la taxe ne s'applique pas auxdits résidus.
 
-5. Les déchets réceptionnés dans une installation de stockage de déchets ménagers et assimilés autorisée à ce titre en application du titre Ier du livre V du code de l'environnement sont taxés, après la date limite d'exploitation figurant dans l'arrêté préfectoral d'autorisation, selon le tarif correspondant aux déchets réceptionnés dans les installations non autorisées en application du même titre Ier.
+5. Les déchets réceptionnés dans une installation de stockage de déchets non dangereux autorisée à ce titre en application du titre Ier du livre V du code de l'environnement sont taxés, après la date limite d'exploitation figurant dans l'arrêté préfectoral d'autorisation, selon le tarif correspondant aux déchets réceptionnés dans les installations non autorisées en application du même titre Ier.
 
 6. Le poids des oxydes d'azote et autres composés oxygénés de l'azote est exprimé en équivalent dioxyde d'azote hormis pour le protoxyde d'azote.
 

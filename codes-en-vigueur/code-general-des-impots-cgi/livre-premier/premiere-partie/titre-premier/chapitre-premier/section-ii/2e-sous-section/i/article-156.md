@@ -30,7 +30,7 @@ Toutefois, lorsque l'activité est exercée, dès le commencement de la location
 
 2° Des déficits provenant d'activités non commerciales au sens de l'article 92, autres que ceux qui proviennent de l'exercice d'une profession libérale ou des charges et offices dont les titulaires n'ont pas la qualité de commerçants ; ces déficits peuvent cependant être imputés sur les bénéfices tirés d'activités semblables durant la même année ou les six années suivantes ;
 
-3° Des déficits fonciers, lesquels s'imputent exclusivement sur les revenus fonciers des dix années suivantes ; cette disposition n'est pas applicable aux propriétaires de monuments classés monuments historiques, inscrits à l'inventaire supplémentaire ou ayant fait l'objet d'un agrément ministériel ou ayant reçu le label délivré par la " Fondation du patrimoine " en application de l'article L. 143-2 du code du patrimoine si ce label a été accordé sur avis favorable du service départemental de l'architecture et du patrimoine.
+3° Des déficits fonciers, lesquels s'imputent exclusivement sur les revenus fonciers des dix années suivantes ; cette disposition n'est pas applicable aux propriétaires de monuments classés monuments historiques, inscrits à l'inventaire supplémentaire ou ayant reçu le label délivré par la " Fondation du patrimoine " en application de l'article L. 143-2 du code du patrimoine si ce label a été accordé sur avis favorable du service départemental de l'architecture et du patrimoine.
 
 Cette disposition n'est pas non plus applicable aux déficits provenant de dépenses autres que les intérêts d'emprunt effectuées sur des locaux d'habitation ou destinés originellement à l'habitation et réaffectés à cet usage par leurs propriétaires et à leur initiative, ou à celle d'une collectivité publique ou d'un organisme chargé par elle de l'opération et répondant à des conditions fixées par décret, en vue de la restauration complète d'un immeuble bâti en application des articles L. 313-1 à L. 313-3 du code de l'urbanisme et payées à compter de la date de publication du plan de sauvegarde et de mise en valeur. Il en est de même, lorsque les travaux de restauration ont été déclarés d'utilité publique en application de l'article L. 313-4-1 du code de l'urbanisme, des déficits provenant des mêmes dépenses effectuées sur un immeuble situé dans un secteur sauvegardé, dès sa création dans les conditions prévues à l'article L. 313-1 du même code, ou dans une zone de protection du patrimoine architectural, urbain et paysager créée en application de l'article 70 de la loi n° 83-8 du 7 janvier 1983 modifiée relative à la répartition de compétences entre les communes, les départements, les régions et l'Etat. Les propriétaires prennent l'engagement de les louer nus, à usage de résidence principale du locataire, pendant une durée de six ans. La location doit prendre effet dans les douze mois qui suivent la date d'achèvement des travaux de restauration.
 
@@ -48,7 +48,7 @@ Un contribuable ne peut pour un même logement ou une même souscription de titr
 
 4° (abrogé à compter de l'imposition des revenus de 1996) ;
 
-5° Des pertes résultant d'opérations mentionnées aux articles 150 ter, 150 octies, 150 nonies et 150 decies, lorsque l'option prévue au 8° du I de l'article 35 n'a pas été exercée ; ces pertes sont imputables exclusivement sur les profits de même nature réalisés au cours de la même année ou des six années suivantes ;
+5° (abrogé)
 
 6° Des pertes résultant d'opérations réalisées à l'étranger sur un marché à terme d'instruments financiers ou d'options négociables ou sur des bons d'option ; ces pertes sont imputables exclusivement sur les profits de même nature réalisés dans les mêmes conditions au cours de la même année ou des six années suivantes.
 
@@ -66,7 +66,7 @@ II. Des charges ci-après lorsqu'elles n'entrent pas en compte pour l'évaluatio
 
 1° bis (sans objet).
 
-1° ter. Dans les conditions fixées par décret, les charges foncières afférentes aux immeubles classés monuments historiques ou inscrits à l'inventaire supplémentaire, ainsi qu'aux immeubles faisant partie du patrimoine national en raison de leur caractère historique ou artistique particulier et qui auront été agréés à cet effet par le ministre chargé du budget, ou en raison du label délivré par la " Fondation du patrimoine " en application de l'article L. 143-2 du code du patrimoine si ce label a été accordé sur avis favorable du service départemental de l'architecture et du patrimoine ;
+1° ter. Dans les conditions fixées par décret, les charges foncières afférentes aux immeubles classés monuments historiques ou inscrits à l'inventaire supplémentaire, ainsi qu'aux immeubles faisant partie du patrimoine national ou en raison du label délivré par la " Fondation du patrimoine " en application de l'article L. 143-2 du code du patrimoine si ce label a été accordé sur avis favorable du service départemental de l'architecture et du patrimoine ;
 
 1° quater (sans objet).
 
