@@ -14,7 +14,7 @@ I. ― Il est institué, au profit des communes et des établissements publics d
 
 II. ― Cette taxe est acquittée par le redevable de la taxe foncière sur les propriétés non bâties au sens de l'article 1400.
 
-III. ― L'assiette de cette taxe est établie d'après la valeur locative cadastrale déterminée conformément au premier alinéa de l'article 1396.
+III. ― L'assiette de cette taxe est établie d'après la valeur locative cadastrale déterminée conformément au I de l'article 1396.
 
 IV. ― Le produit de cette taxe est obtenu en appliquant, chaque année, aux bases imposables la somme des taux départemental et régional de la taxe foncière sur les propriétés non bâties appliqués en 2010 sur le territoire de l'établissement public de coopération intercommunale ou de la commune, multipliée par un coefficient de 1,0485.
 
