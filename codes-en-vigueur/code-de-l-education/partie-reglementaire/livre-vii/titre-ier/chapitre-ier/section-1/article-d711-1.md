@@ -18,13 +18,13 @@ I. ― Universités :
 
 7° Besançon ;
 
-8° Bordeaux-I ;
+8° Bordeaux ;
 
-9° Bordeaux-II ;
+9° (Supprimé)
 
 10° Bordeaux-III ;
 
-11° Bordeaux-IV ;
+11° (Supprimé)
 
 12° Brest ;
 
