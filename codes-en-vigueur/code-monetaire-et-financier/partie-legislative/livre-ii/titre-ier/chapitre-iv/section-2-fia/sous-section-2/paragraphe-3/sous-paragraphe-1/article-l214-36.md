@@ -38,4 +38,4 @@ c) Les instruments financiers qu'elles émettent ne sont pas admis aux négociat
 
 Un décret en Conseil d'Etat définit les règles de dispersion et de plafonnement des risques, notamment en matière de construction, applicables à l'organisme de placement collectif immobilier.
 
-II.-Un organisme de placement collectif immobilier et les sociétés mentionnées au b du I ne peuvent détenir d'actions, parts, droits financiers ou droits de vote dans une entité, quelle que soit sa forme, dont les associés ou membres répondent indéfiniment et solidairement des dettes de l'entité.
+II.-Un organisme de placement collectif immobilier et les sociétés mentionnées au 2° du I ne peuvent détenir d'actions, parts, droits financiers ou droits de vote dans une entité, quelle que soit sa forme, dont les associés ou membres répondent indéfiniment et solidairement des dettes de l'entité.

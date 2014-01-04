@@ -10,4 +10,4 @@ Le résultat net de l'exercice d'un organisme de placement collectif immobilier 
 
 Les modalités d'affectation des frais et charges des 1° à 3° sont définies par décret.
 
-Pour l'application du présent article, les produits et plus-values réalisés par une société mentionnée au 2° du I de l'article L. 214-36 et par un fonds de placement immobilier, un fonds de placement immobilier professionnel ou un organisme de droit étranger, tels que mentionnés à la dernière phrase du 1° de l'article L. 214-37, sont réputés avoir été réalisés par le fonds de placement immobilier à concurrence de ses droits directs ou indirects dans cette société ou dans ce fonds.
+Pour l'application du présent article, les produits et plus-values réalisés par une société mentionnée au 2° du I de l'article L. 214-36 et par un fonds de placement immobilier, un fonds professionnel de placement immobilier ou un organisme de droit étranger, tels que mentionnés à la dernière phrase du 1° de l'article L. 214-37, sont réputés avoir été réalisés par le fonds de placement immobilier à concurrence de ses droits directs ou indirects dans cette société ou dans ce fonds.

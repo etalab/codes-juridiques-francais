@@ -2,7 +2,7 @@
 
 I.-Le dépositaire du FIA est responsable à l'égard du FIA ou à l'égard des porteurs de parts ou actionnaires de la perte par le dépositaire, ou par un tiers auquel la conservation a été déléguée, des instruments financiers conservés conformément au II de l'article L. 214-24-8.
 
-En cas de perte d'instruments financiers conservés, le dépositaire restitue au FIA des instruments financiers, y compris des instruments du marché monétaire, de type identique ou leur équivalent en valeur monétaire sans retard inutile, La responsabilité du dépositaire n'est pas engagée s'il prouve que la perte résulte d'un événement extérieur et que l'ensemble des conditions de l'article 101 du règlement délégué n° 231/2013 de la Commission du 19 décembre 2012 sont remplies.
+En cas de perte d'instruments financiers conservés, le dépositaire restitue au FIA des instruments financiers, y compris des instruments du marché monétaire, de type identique ou leur équivalent en valeur monétaire sans retard inutile, La responsabilité du dépositaire n'est pas engagée s'il prouve que la perte résulte d'un événement extérieur et que l'ensemble des conditions de l'article 101 du règlement délégué (UE) n° 231/2013 de la Commission du 19 décembre 2012 sont remplies.
 
 Le dépositaire est responsable à l'égard du FIA ou à l'égard des porteurs de parts ou actionnaires du FIA, de toute autre perte résultant de la négligence ou de la mauvaise exécution intentionnelle de ses obligations.
 

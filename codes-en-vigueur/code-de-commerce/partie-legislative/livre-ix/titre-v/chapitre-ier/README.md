@@ -1,6 +1,5 @@
 # Chapitre Ier : Dispositions d'adaptation du livre Ier.
 
-- [Article L951-1](article-l951-1.md)
 - [Article L951-1-1](article-l951-1-1.md)
 - [Article L951-1-2](article-l951-1-2.md)
 - [Article L951-2](article-l951-2.md)

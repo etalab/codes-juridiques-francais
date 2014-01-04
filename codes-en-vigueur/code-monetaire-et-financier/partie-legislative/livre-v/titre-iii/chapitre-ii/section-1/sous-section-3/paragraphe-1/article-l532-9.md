@@ -12,11 +12,11 @@ I.-Les sociétés de gestion de portefeuille sont les entreprises d'investisseme
 
 5° " Autres placements collectifs ".
 
-Ne peut toutefois gérer à la fois un ou plusieurs " Autres placements collectifs " et l'un des placements collectifs ou fonds d'investissement mentionnés aux 1° à 4° une société de gestion de portefeuille de FIA :
+Ne peut gérer un ou plusieurs " Autres placements collectifs ", sans gérer d'OPCVM mentionnés aux 1° et 3°, une société de gestion de portefeuille gérant un ou plusieurs FIA :
 
-1° Relevant du II de l'article L. 214-24, à l'exclusion de ceux mentionnés à son dernier alinéa et à l'exclusion des FIA relevant du I de l'article L. 214-167, et de ceux mentionnés au second alinéa du III du présent article ;
+1° Relevant du II de l'article L. 214-24, à l'exclusion de ceux mentionnés au dernier alinéa du même II et à l'exclusion des FIA relevant du I de l'article L. 214-167 et de ceux mentionnés au second alinéa du III du présent article ;
 
-2° Et relevant du 1° du III de l'article L. 214-24.
+2° Ou relevant du 1° du III de l'article L. 214-24.
 
 II.-Les sociétés de gestion de portefeuille sont agréées par l'Autorité des marchés financiers.
 
@@ -46,7 +46,7 @@ Les sociétés de gestion de portefeuille doivent satisfaire à tout moment aux 
 
 III.-Par dérogation au II, ne sont pas soumis à agrément ni aux dispositions législatives et réglementaires qui régissent les sociétés de gestion de portefeuille les gestionnaires qui gèrent exclusivement un ou plusieurs FIA mentionnés à l'article L. 214-24 dont les seuls investisseurs sont le gestionnaire lui-même ou les filiales de ce gestionnaire, ou les entreprises dont le gestionnaire est la filiale, ou d'autres filiales de ces entreprises, à la condition qu'aucun de ces investisseurs ne soit lui-même un FIA.
 
-Sont toutefois soumis à agrément et aux dispositions législatives et réglementaires qui régissent les sociétés de gestion de portefeuille ceux des gestionnaires mentionnés au précédent alinéa qui gèrent un ou plusieurs FIA listés au II de l'article L. 214-24. Ces gestionnaires et leurs FIA ne sont pas soumis aux dispositions des paragraphes 1, 3, 4 et 5 de la sous-section 1 de la section 2 du chapitre IV du titre Ier du livre II.
+Sont toutefois soumis à agrément et aux dispositions législatives et réglementaires qui régissent les sociétés de gestion de portefeuille ceux des gestionnaires mentionnés au précédent alinéa qui gèrent un ou plusieurs FIA listés au II de l'article L. 214-24. Ces gestionnaires et leurs FIA ne sont pas soumis aux dispositions des paragraphes 1,3,4 et 5 de la sous-section 1 de la section 2 du chapitre IV du titre Ier du livre II.
 
 IV.-Les personnes morales qui gèrent, directement ou indirectement, des FIA mentionnés à l'article L. 214-24 dont le volume d'actifs est inférieur aux seuils fixés par décret en Conseil d'Etat doivent obtenir l'agrément mentionné au II, excepté dans le cas prévu au 3° du III de l'article L. 214-24.
 
