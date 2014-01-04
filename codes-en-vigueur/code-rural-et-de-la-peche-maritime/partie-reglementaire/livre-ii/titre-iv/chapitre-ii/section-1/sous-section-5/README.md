@@ -3,4 +3,3 @@
 - [Article R242-28](article-r242-28.md)
 - [Article R242-29](article-r242-29.md)
 - [Article R242-30](article-r242-30.md)
-- [Article R242-31](article-r242-31.md)
