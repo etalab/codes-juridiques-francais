@@ -6,7 +6,7 @@ Est puni de la peine d'amende prévue pour les contraventions de la 5e classe :
 
 2° Le fait de ne pas prendre les mesures imposées en vertu de l'article L. 514-4 sans qu'ait été pris, en raison de l'urgence, l'avis du maire ou de la commission consultative départementale compétente ;
 
-3° Le fait d'exploiter une installation soumise à autorisation sans satisfaire aux règles générales et prescriptions techniques prévues à l'article L. 512-5 et aux articles R. 512-28 à R. 512-31, R. 512-45 et R. 512-75 ;
+3° Le fait d'exploiter une installation soumise à autorisation sans satisfaire aux règles générales et prescriptions techniques prévues à l'article L. 512-5 et aux articles R. 512-28 à R. 512-31, R. 512-46 et au I de l'article R. 515-71 ;
 
 3° bis Le fait d'exploiter une installation soumise à enregistrement sans satisfaire aux prescriptions générales ou particulières prévues par les articles L. 512-7, L. 512-7-3 et L. 512-7-5 ;
 
