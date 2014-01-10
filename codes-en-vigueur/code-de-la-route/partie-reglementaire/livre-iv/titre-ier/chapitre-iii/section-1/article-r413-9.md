@@ -6,4 +6,4 @@ La vitesse des véhicules transportant des matières dangereuses, dont le poids 
 
 2° 60 km/h sur les autres routes. Toutefois, cette vitesse maximale est relevée à 70 km/h sur les routes à caractère prioritaire et signalées comme telles, pour les véhicules possédant des caractéristiques particulières définies par arrêté du ministre chargé des transports ;
 
-3° 50 km/h en agglomération. Toutefois cette vitesse maximale est relevée à 80 km/h sur le boulevard périphérique de Paris.
+3° 50 km/h en agglomération. Toutefois cette vitesse maximale est relevée à 70 km/h sur le boulevard périphérique de Paris.
