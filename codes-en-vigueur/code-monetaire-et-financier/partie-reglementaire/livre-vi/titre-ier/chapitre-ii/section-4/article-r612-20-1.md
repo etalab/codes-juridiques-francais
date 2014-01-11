@@ -8,7 +8,7 @@ III. ― L'Autorité de contrôle prudentiel et de résolution communique au moi
 
 IV. ― L'Autorité de contrôle prudentiel et de résolution communique au moins une fois par an à la Commission européenne et à l'Autorité bancaire européenne le nombre et la nature des cas dans lesquels elle a refusé qu'un établissement de crédit ayant son siège social en France puisse, dans un autre Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace économique européen, créer une succursale en vue de fournir des services bancaires ou poursuivre son activité à la suite d'un changement de situation.
 
-V. ― L'Autorité de contrôle prudentiel et de résolution communique au moins une fois par an à la Commission européenne et à l'Autorité bancaire européenne le nombre et la nature des cas dans lesquels elle a pris les mesures mentionnées au deuxième alinéa de l'article R. 613-28.
+V. ― L'Autorité de contrôle prudentiel et de résolution communique au moins une fois par an à la Commission européenne et à l'Autorité bancaire européenne le nombre et la nature des cas dans lesquels elle a pris les mesures mentionnées au deuxième alinéa de l'article R. 613-31.
 
 VI. ― L'Autorité de contrôle prudentiel et de résolution communique au moins une fois par an à l'Autorité bancaire européenne et à la Commission européenne les agréments délivrés aux succursales d'établissements de crédit ayant leur siège dans un Etat non membre de l'Union européenne ni partie à l'accord sur l'Espace économique européen.
 
