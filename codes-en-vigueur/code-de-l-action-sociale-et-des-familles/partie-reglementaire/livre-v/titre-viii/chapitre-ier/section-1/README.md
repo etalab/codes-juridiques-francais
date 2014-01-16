@@ -1,3 +1,3 @@
 # Section 1 : Dispositions générales
 
-- [Article R531-1](article-r531-1.md)
+- [Article R581-1](article-r581-1.md)

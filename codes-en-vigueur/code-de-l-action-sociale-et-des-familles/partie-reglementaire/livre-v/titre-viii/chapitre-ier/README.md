@@ -2,4 +2,3 @@
 
 - [Section 1 : Dispositions générales](section-1)
 - [Section 2 : Modalités d'autorisation de création, de transformation ou d'extension d'établissements sociaux et médico-sociaux](section-2)
-- [Section 3 : Dispositions budgétaires, comptables et financières](section-3)
