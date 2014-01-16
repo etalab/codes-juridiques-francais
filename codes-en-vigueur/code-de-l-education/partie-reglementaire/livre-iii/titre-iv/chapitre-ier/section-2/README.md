@@ -5,5 +5,4 @@
 - [Article D341-43](article-d341-43.md)
 - [Article D341-44](article-d341-44.md)
 - [Article D341-45](article-d341-45.md)
-- [Article D341-46](article-d341-46.md)
 - [Article R341-40](article-r341-40.md)
