@@ -1,6 +1,6 @@
 # Article L86
 
-I. - Par dérogation aux dispositions du deuxième alinéa de l'article L. 84 et de l'article L. 85, les revenus perçus à l'occasion de l'exercice des activités suivantes peuvent être entièrement cumulés avec la pension :
+I.-Par dérogation au premier alinéa de l'article L. 161-22 du code de la sécurité sociale, ainsi qu'aux dispositions du deuxième alinéa de l'article L. 84 et de l'article L. 85, les revenus perçus à l'occasion de l'exercice des activités suivantes peuvent être entièrement cumulés avec la pension :
 
 1° Activités entraînant affiliation au régime général de la sécurité sociale en application du 15° de l'article L. 311-3 et de l'article L. 382-1 du code de la sécurité sociale ainsi que les activités exercées par les artistes interprètes rattachés au régime mentionné au premier alinéa de l'article L. 622-5 du même code ;
 
@@ -8,7 +8,7 @@ I. - Par dérogation aux dispositions du deuxième alinéa de l'article L. 84 et
 
 3° Participation aux activités juridictionnelles ou assimilées, ou à des instances consultatives ou délibératives réunies en vertu d'un texte législatif ou réglementaire.
 
-II. - En outre, par dérogation aux mêmes dispositions, peuvent cumuler intégralement le montant de leur pension avec des revenus d'activité :
+II.-En outre, par dérogation aux mêmes dispositions, peuvent cumuler intégralement le montant de leur pension avec des revenus d'activité :
 
 1° Les titulaires de pensions civiles et militaires ou d'une solde de réforme allouées pour invalidité ;
 
