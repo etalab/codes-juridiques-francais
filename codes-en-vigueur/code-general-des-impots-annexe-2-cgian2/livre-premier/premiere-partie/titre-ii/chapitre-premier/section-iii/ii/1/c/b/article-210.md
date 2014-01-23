@@ -4,7 +4,7 @@ I.-1. La taxe sur la valeur ajoutée qui a grevé certains biens constituant des
 
 2. La taxe déductible est celle afférente :
 
-1° Aux dépenses exposées pour les investissements publics que l'Etat, les collectivités territoriales ainsi que leurs groupements, ou leurs établissements publics confient à l'entreprise utilisatrice afin qu'elle assure, à ses frais et risques, la gestion du service public qu'ils lui ont déléguée ;
+1° Aux dépenses exposées pour les investissements publics que l'Etat, les collectivités territoriales ainsi que leurs groupements, ou leurs établissements publics n'utilisent pas pour la réalisation d'opérations ouvrant droit à déduction et qu'ils confient à l'entreprise utilisatrice afin qu'elle assure, à ses frais et risques, la gestion du service public qu'ils lui ont déléguée ;
 
 2° Aux immeubles édifiés par les sociétés de construction dont les parts ou actions donnent vocation à l'attribution en propriété ou en jouissance d'un immeuble ou d'une fraction d'immeuble.
 
