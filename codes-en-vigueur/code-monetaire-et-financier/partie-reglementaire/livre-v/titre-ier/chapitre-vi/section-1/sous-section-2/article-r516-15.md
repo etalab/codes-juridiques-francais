@@ -16,9 +16,9 @@ III.-Le conseil d'administration peut déléguer une partie de ses pouvoirs ment
 
 Le comité spécialisé pour les opérations dans les départements et collectivités d'outre-mer et en Nouvelle-Calédonie comprend trois représentants de l'Etat, dont deux nommés par arrêté du ministre chargé de l'outre-mer et un nommé par arrêté du ministre chargé de l'économie.
 
-Le comité spécialisé pour les opérations à l'étranger comprend cinq représentants de l'Etat, dont deux nommés par arrêté du ministre des affaires étrangères, deux nommés par arrêté du ministre chargé de l'économie et un nommé par arrêté du ministre chargé de l'immigration et du développement solidaire.
+Le comité spécialisé pour les opérations à l'étranger comprend cinq représentants de l'Etat, dont deux nommés par arrêté du ministre des affaires étrangères, deux nommés par arrêté du ministre chargé de l'économie et un nommé par arrêté du ministre chargé de l'immigration.
 
-Le comité spécialisé pour l'appui aux initiatives des organisations non gouvernementales comprend quatre représentants de l'Etat dont deux nommés par arrêté du ministre des affaires étrangères, un nommé par arrêté du ministre chargé de l'économie et un nommé par arrêté du ministre chargé de l'immigration et du développement solidaire.
+Le comité spécialisé pour l'appui aux initiatives des organisations non gouvernementales comprend quatre représentants de l'Etat dont deux nommés par arrêté du ministre des affaires étrangères, un nommé par arrêté du ministre chargé de l'économie et un nommé par arrêté du ministre chargé de l'immigration.
 
 Chacun de ces comités spécialisés comprend en outre :
 

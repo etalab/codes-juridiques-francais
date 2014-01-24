@@ -6,7 +6,7 @@ L'Agence nationale pour la cohésion sociale et l'égalité des chances est admi
 
 -le secrétaire général du comité interministériel des villes disposant de quatre voix ;
 
--le      directeur général de la cohésion sociale  disposant d'une voix ;
+-le directeur général de la cohésion sociale disposant d'une voix ;
 
 -le secrétaire général du ministère de l'intérieur disposant de deux voix ;
 
@@ -16,7 +16,7 @@ L'Agence nationale pour la cohésion sociale et l'égalité des chances est admi
 
 -le délégué général à l'emploi et à la formation professionnelle disposant d'une voix ;
 
--le secrétaire général du ministère de l'immigration, de l'intégration, de l'identité nationale et du développement solidaire disposant d'une voix ;
+-le                      directeur général des étrangers en France disposant d'une voix ;
 
 -le directeur général de l'enseignement scolaire disposant d'une voix ;
 

@@ -6,7 +6,7 @@ Les représentants de l'Etat au conseil d'administration sont :
 
 1° Une personnalité nommée par décret du Premier ministre pour une durée de trois ans ;
 
-2° Le secrétaire général du ministère chargé de l'asile ;
+2° Le directeur général des étrangers en France au ministère chargé de l'asile ;
 
 3° Le directeur de la modernisation et de l'action territoriale au ministère de l'intérieur ;
 
@@ -18,9 +18,9 @@ Les représentants de l'Etat au conseil d'administration sont :
 
 7° Le chef du service de l'asile au ministère chargé de l'asile.
 
-Les ministres intéressés désignent des suppléants permanents aux secrétaires généraux, directeurs d'administration ou chefs de service qui les représentent.
+Les ministres intéressés désignent des suppléants permanents aux secrétaires généraux, directeurs généraux, directeurs d'administration ou chefs de service qui les représentent.
 
-En cas d'empêchement du président, la présidence du conseil est assurée par le secrétaire général du ministère chargé de l'asile et, à défaut, par le représentant de l'Etat le plus ancien dans ses fonctions.
+En cas d'empêchement du président, la présidence du conseil est assurée par le directeur général des étrangers en France au ministère chargé de l'asile et, à défaut, par le représentant de l'Etat le plus ancien dans ses fonctions.
 
 Le représentant du personnel de l'office au conseil d'administration et son suppléant sont élus pour une durée de trois ans par le personnel de l'office dans des conditions fixées par arrêté du ministre chargé de l'asile.
 

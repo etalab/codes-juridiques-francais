@@ -10,7 +10,7 @@ b) Deux membres nommés par décret pris sur le rapport du ministre chargé de l
 
 c) Un membre nommé par décret pris sur le rapport du ministre chargé de l'outre-mer ;
 
-d) Un membre nommé par décret pris sur le rapport du ministre chargé de l'immigration et du développement solidaire ;
+d) Un membre nommé par décret pris sur le rapport du ministre chargé de l'immigration ;
 
 2° Quatre membres désignés en raison de leur connaissance des questions économiques et financières, nommés par décret pris sur le rapport du ministre chargé de l'économie, du ministre chargé de la coopération et du ministre chargé de l'outre-mer ;
 
@@ -24,7 +24,7 @@ d) Un membre nommé par décret pris sur le rapport du ministre chargé de l'imm
 
 Chaque membre du conseil d'administration est remplacé en cas d'absence ou d'empêchement par un suppléant désigné dans les mêmes conditions que le titulaire.
 
-II.-Le président du conseil d'administration est nommé par décret pris sur le rapport du ministre chargé de l'économie, du ministre chargé de la coopération, du ministre chargé de l'outre-mer et du ministre chargé de l'immigration et du développement solidaire. La limite d'âge applicable au président du conseil d'aministration est de 70 ans.
+II.-Le président du conseil d'administration est nommé par décret pris sur le rapport du ministre chargé de l'économie, du ministre chargé de la coopération, du ministre chargé de l'outre-mer et du ministre chargé de l'immigration. La limite d'âge applicable au président du conseil d'aministration est de 70 ans.
 
 Il dispose d'une voix prépondérante en cas de partage égal des voix.
 
