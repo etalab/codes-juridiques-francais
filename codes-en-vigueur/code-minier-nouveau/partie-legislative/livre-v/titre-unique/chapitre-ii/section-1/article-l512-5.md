@@ -24,7 +24,7 @@ c) Sans disposer d'un permis exclusif de recherches ;
 
 8° D'effectuer un sondage, un ouvrage souterrain ou un travail de fouille, quel qu'en soit l'objet et dont la profondeur dépasse 10 mètres, sans justifier de la déclaration prévue à l'article L. 411-1 ;
 
-9° De ne pas remettre les échantillons, documents et renseignements mentionnés au deuxième alinéa de l'article L. 175-1 et au deuxième alinéa de l'article L. 412-1 et, plus généralement, de faire obstacle à l'exercice des fonctions des autorités chargées de la police des mines et des carrières ;
+9° De ne pas remettre les échantillons, documents et renseignements mentionnés au deuxième alinéa de l'article L. 175-1 et au deuxième alinéa de l'article L. 412-1 et, plus généralement, de faire obstacle à l'exercice des fonctions des autorités chargées de la police des mines ;
 
 10° De ne pas déclarer les informations mentionnées aux articles L. 411-3 et L. 412-2 dans les conditions prévues par ces articles ;
 

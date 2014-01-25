@@ -1,6 +1,6 @@
 # Article L511-1
 
-Outre les officiers et agents de police judiciaire agissant conformément au code de procédure pénale, sont habilités à constater les infractions aux dispositions législatives du présent code ainsi qu'aux dispositions prévues par les textes pris pour leur application les chefs des services régionaux déconcentrés chargés des mines et des carrières ainsi que les ingénieurs ou les techniciens placés sous leur autorité qu'ils habilitent à cet effet dans des conditions prévues par décret en Conseil d'Etat.
+Outre les officiers et agents de police judiciaire agissant conformément au code de procédure pénale, sont habilités à constater les infractions aux dispositions législatives du présent code ainsi qu'aux dispositions prévues par les textes pris pour leur application les chefs des services régionaux déconcentrés chargés des mines ainsi que les ingénieurs ou les techniciens placés sous leur autorité qu'ils habilitent à cet effet dans des conditions prévues par décret en Conseil d'Etat.
 
 Lorsqu'ils exercent les attributions de l'inspecteur du travail dans les conditions prévues à l'article L. 8112-3 du code du travail, ils sont spécialement habilités à cet effet.
 

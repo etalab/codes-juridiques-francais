@@ -1,4 +1,4 @@
-# TITRE IV : CONDITIONS GENERALES D'EXPLOITATION  ET SURVEILLANCE ADMINISTRATIVE DES CARRIERES
+# TITRE IV : SURVEILLANCE ADMINISTRATIVE DES CARRIÈRES
 
 - [Chapitre Ier : Conditions générales d'exploitation](chapitre-ier)
-- [Chapitre II : Surveillance administrative des carrières](chapitre-ii)
+- [Chapitre unique](chapitre-unique)
