@@ -18,8 +18,6 @@ I. ― Est puni d'une peine d'emprisonnement de deux ans et d'une amende de 30 0
 
 8° De refuser d'obtempérer aux réquisitions prévues par les articles L. 175-3 ou L. 152-1 ;
 
-9° De procéder à des travaux de recherches ou d'exploitation d'une carrière sans se conformer aux mesures prescrites par le représentant de l'Etat dans le département sur le fondement des articles L. 341-1 et L. 342-3 pour assurer la conservation de la carrière ou d'un établissement voisin de mine ou de carrière ;
+9° D'exploiter une mine soumise à une obligation de constitution de garanties financières sans avoir constitué ou communiqué au représentant de l'Etat dans le département les garanties financières requises.
 
-10° D'exploiter une mine soumise à une obligation de constitution de garanties financières sans avoir constitué ou communiqué au représentant de l'Etat dans le département les garanties financières requises.
-
-II.-Les 7°, 8° et 9° du I ne sont pas applicables aux stockages souterrains mentionnés à l'article L. 211-2.
+II. - Le 7° et le 8° du I ne sont pas applicables aux stockages souterrains mentionnés à l'article L. 211-2.
