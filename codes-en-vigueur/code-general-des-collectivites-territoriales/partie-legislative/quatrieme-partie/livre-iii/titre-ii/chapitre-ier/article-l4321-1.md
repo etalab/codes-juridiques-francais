@@ -22,4 +22,6 @@ Sont obligatoires pour la région :
 
 9° Les dettes exigibles ;
 
-10° La contribution prévue à l'article 6 quater de la loi n° 83-634 du 13 juillet 1983 précitée.
+10° La contribution prévue à l'article 6 quater de la loi n° 83-634 du 13 juillet 1983 précitée ;
+
+11° Les dotations aux provisions, notamment pour risques liés à la souscription de produits financiers.

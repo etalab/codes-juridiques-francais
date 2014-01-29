@@ -44,7 +44,7 @@ Sont obligatoires pour le département :
 
 19° Les dotations aux amortissements ;
 
-20° Les dotations aux provisions ;
+20° Les dotations aux provisions, notamment pour risques liés à la souscription de produits financiers  ;
 
 21° La reprise des subventions d'équipement reçues ;
 
