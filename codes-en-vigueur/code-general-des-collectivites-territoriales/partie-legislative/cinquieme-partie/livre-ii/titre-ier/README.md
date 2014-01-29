@@ -6,6 +6,7 @@
 - [CHAPITRE V : Communauté urbaine](chapitre-v)
 - [CHAPITRE VI : Communauté d'agglomération](chapitre-vi)
 - [CHAPITRE VII : Métropole](chapitre-vii)
+- [CHAPITRE IX : La métropole du Grand Paris](chapitre-ix)
 - [Article L5210-1](article-l5210-1.md)
 - [Article L5210-1-1](article-l5210-1-1.md)
 - [Article L5210-1-1 A](article-l5210-1-1-a.md)
