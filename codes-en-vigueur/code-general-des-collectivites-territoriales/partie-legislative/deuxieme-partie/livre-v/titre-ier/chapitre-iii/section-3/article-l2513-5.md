@@ -8,6 +8,8 @@ Viennent en atténuation de ces dépenses :
 
 -les dotations étatiques de droit commun à l'investissement et au fonctionnement prévues par les dispositions législatives et réglementaires en vigueur au profit des services départementaux d'incendie et de secours ;
 
--la participation de la communauté urbaine de Marseille Provence Métropole.
+-la participation de la communauté urbaine de Marseille Provence Métropole ;
+
+- la participation du conseil général des Bouches-du-Rhône.
 
 La commune de Marseille peut en outre recevoir, au titre des missions d'intérêt général effectuées par le bataillon de marins-pompiers de Marseille, des subventions, des fonds de concours, des dotations et des participations, de l'Union européenne, de l'Etat, des collectivités territoriales et des établissements publics.

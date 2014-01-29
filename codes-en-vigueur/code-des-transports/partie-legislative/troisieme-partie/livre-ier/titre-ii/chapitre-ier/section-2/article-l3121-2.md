@@ -1,6 +1,6 @@
 # Article L3121-2
 
-Le titulaire de l'autorisation de stationnement prévue par l'article L. 3121-1 a la faculté de présenter à titre onéreux un successeur à l'autorité administrative qui a délivré celle-ci.
+Le titulaire de l'autorisation de stationnement prévue par l'article L. 3121-1 a la faculté de présenter à titre onéreux un successeur à l'autorité administrative  compétente pour délivrer celle-ci.
 
 Cette faculté est subordonnée à l'exploitation effective et continue de l'autorisation de stationnement pendant une durée de cinq ans à compter de sa date de délivrance.
 

@@ -12,7 +12,7 @@ A compter de la notification de cet arrêté, le conseil municipal de chaque com
 
 Le périmètre de l'établissement public de coopération intercommunale à fiscalité propre ne peut être identique à celui d'un département.
 
-II.-Sans préjudice des dispositions de l'article L. 5217-2, la création de l'établissement public de coopération intercommunale peut être décidée par arrêté du ou des représentants de l'Etat dans le ou les départements concernés après accord des conseils municipaux des communes intéressées sur l'arrêté dressant la liste des communes. Cet accord doit être exprimé par deux tiers au moins des conseils municipaux des communes intéressées représentant plus de la moitié de la population totale de celles-ci, ou par la moitié au moins des conseils municipaux des communes représentant les deux tiers de la population.
+II.-Sans préjudice des dispositions de l'article L. 5217-1, la création de l'établissement public de coopération intercommunale peut être décidée par arrêté du ou des représentants de l'Etat dans le ou les départements concernés après accord des conseils municipaux des communes intéressées sur l'arrêté dressant la liste des communes. Cet accord doit être exprimé par deux tiers au moins des conseils municipaux des communes intéressées représentant plus de la moitié de la population totale de celles-ci, ou par la moitié au moins des conseils municipaux des communes représentant les deux tiers de la population.
 
 Cette majorité doit nécessairement comprendre :
 

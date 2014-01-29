@@ -6,7 +6,7 @@ A l'intérieur d'un périmètre délimité en application de l'article L. 143-1,
 
 2° En dehors de zones de préemption des espaces naturels sensibles, par la société d'aménagement foncier et d'établissement rural exerçant à la demande et au nom du département le droit de préemption prévu par le 9° de l'article L. 143-2 du code rural et de la pêche maritime ;
 
-3° Par un établissement public mentionné au troisième ou au quatrième alinéa de l'article L. 321-1 du présent code ou un établissement public foncier local mentionné à l'article L. 324-1 agissant à la demande et au nom du département ou, avec son accord, d'une autre collectivité territoriale ou d'un établissement public de coopération intercommunale.
+3° Par un établissement public mentionné      à l'article L. 321-1 du présent code ou un établissement public foncier local mentionné à l'article L. 324-1 agissant à la demande et au nom du département ou, avec son accord, d'une autre collectivité territoriale ou d'un établissement public de coopération intercommunale.
 
 En l'absence de société d'aménagement foncier et d'établissement rural compétente, s'il n'a pas donné mandat à un établissement public mentionné à l'alinéa précédent, le département exerce lui-même ce droit de préemption prévu par le 9° de l'article L. 143-2 du code rural et de la pêche maritime dans les conditions prévues par le chapitre III du titre IV du livre Ier du même code.
 

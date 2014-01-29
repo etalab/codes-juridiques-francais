@@ -5,7 +5,7 @@
 - [Section 3 : Taxe locale sur la publicité extérieure](section-3)
 - [Section 6 : Taxes particulières aux stations](section-6)
 - [Section 7 : Taxes de trottoirs et de pavage](section-7)
-- [Section 8 : Versement destiné aux transports en commun](section-8)
+- [Section 8 : Versement destiné aux transports](section-8)
 - [Section 9 : Redevance  pour  l'enlèvement  des  déchets,  ordures  et résidus, redevance d'enlèvement des ordures ménagères sur les terrains de camping et redevance spéciale](section-9)
 - [Section 10 : Redevance d'accès aux sites nordiques aménagés pour les loisirs de neige non motorisés](section-10)
 - [Section 11 : Redevances dues pour le transport et la distribution de l'électricité et du gaz et le transport d'hydrocarbures et de produits chimiques par canalisation](section-11)

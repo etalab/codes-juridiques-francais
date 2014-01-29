@@ -1,4 +1,4 @@
-# TITRE Ier : COMPÉTENCES DU CONSEIL GÉNÉRAL
+# TITRE Ier : COMPÉTENCES DU CONSEIL DEPARTEMENTAL
 
 - [CHAPITRE Ier : Dispositions générales](chapitre-ier)
 - [CHAPITRE II : Budget, contributions et emprunts](chapitre-ii)

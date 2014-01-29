@@ -1,4 +1,4 @@
-# Section 8 : Versement destiné aux transports en commun
+# Section 8 : Versement destiné aux transports
 
 - [Article L2333-64](article-l2333-64.md)
 - [Article L2333-65](article-l2333-65.md)

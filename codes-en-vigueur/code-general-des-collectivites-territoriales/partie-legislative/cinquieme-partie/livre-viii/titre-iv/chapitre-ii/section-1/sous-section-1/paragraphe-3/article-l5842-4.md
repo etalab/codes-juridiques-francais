@@ -1,6 +1,6 @@
 # Article L5842-4
 
-I.-Les articles L. 5211-6, L. 5211-7, à l'exception du I bis, L. 5211-8 à L. 5211-9-1, L. 5211-9-2, à l'exception des troisième et quatrième alinéas du I et du dernier alinéa du IV, L. 5211-10 et L. 5211-11 sont applicables en Polynésie française sous réserve des adaptations prévues aux II et III.
+I.-Les articles L. 5211-6, L. 5211-7, à l'exception du I bis, L. 5211-8 à L. 5211-9-1, L. 5211-9-2, à l'exception des troisième et dernier alinéas du A du I, du premier alinéa du B du même I et du dernier alinéa du IV, L. 5211-10 et L. 5211-11 sont applicables en Polynésie française sous réserve des adaptations prévues aux II et III.
 
 II.-Pour l'application de l'article L. 5211-7 :
 
@@ -10,9 +10,9 @@ II.-Pour l'application de l'article L. 5211-7 :
 
 II bis. ― Pour l'application de l'article L. 5211-9-2 :
 
-1° Au III, la référence : " aux trois premiers alinéas du I ” est remplacée par la référence : " aux deux premiers alinéas du I ” ;
+1° Au III, la référence : "au A du I” est remplacée par les références : "aux premier, deuxième et quatrième alinéas du A du I” ;
 
-2° Au IV, les références : " aux quatrième et dernier alinéas ” sont remplacées par la référence : " au dernier alinéa ”.
+2° Au IV, la référence : "au B du I” est remplacée par la référence : "au second alinéa du B du I” .
 
 III.-Pour l'application de l'article L. 5211-11, il est ajouté l'alinéa suivant :
 

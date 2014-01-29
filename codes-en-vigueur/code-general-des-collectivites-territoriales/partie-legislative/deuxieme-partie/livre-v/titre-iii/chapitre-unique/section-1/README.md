@@ -1,4 +1,4 @@
-# Section 1 : Versement destiné aux transports en commun
+# Section 1 : Versement destiné aux transports
 
 - [Article L2531-2](article-l2531-2.md)
 - [Article L2531-3](article-l2531-3.md)

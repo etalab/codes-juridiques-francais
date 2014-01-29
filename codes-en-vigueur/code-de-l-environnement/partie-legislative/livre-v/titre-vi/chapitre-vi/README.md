@@ -12,4 +12,6 @@
 - [Article L566-10](article-l566-10.md)
 - [Article L566-11](article-l566-11.md)
 - [Article L566-12](article-l566-12.md)
+- [Article L566-12-1](article-l566-12-1.md)
+- [Article L566-12-2](article-l566-12-2.md)
 - [Article L566-13](article-l566-13.md)

@@ -2,6 +2,8 @@
 
 L'Etat peut créer des établissements publics fonciers en considération d'enjeux d'intérêt général en matière d'aménagement et de développement durable.
 
+La région d'Ile-de-France compte un seul établissement public foncier de l'Etat.
+
 Les établissements publics fonciers mettent en place des stratégies foncières afin de mobiliser du foncier et de favoriser le développement durable et la lutte contre l'étalement urbain. Ces stratégies contribuent à la réalisation de logements, notamment de logements sociaux, en tenant compte des priorités définies par les programmes locaux de l'habitat.
 
 Dans le cadre de leurs compétences, ils peuvent contribuer au développement des activités économiques, à la politique de protection contre les risques technologiques et naturels ainsi qu'à titre subsidiaire, à la préservation des espaces naturels et agricoles.

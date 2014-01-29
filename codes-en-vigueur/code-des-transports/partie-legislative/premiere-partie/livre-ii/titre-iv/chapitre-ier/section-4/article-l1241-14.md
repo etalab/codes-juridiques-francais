@@ -4,9 +4,11 @@ Les ressources du Syndicat des transports d'Ile-de-France comprennent :
 
 1° Les concours financiers des collectivités territoriales membres du syndicat ;
 
-2° Le produit du versement destiné aux transports en commun perçu à l'intérieur de la région Ile-de-France et mentionné aux articles L. 2531-2 et suivants du code général des collectivités territoriales ;
+2° Le produit du versement destiné aux transports perçu à l'intérieur de la région Ile-de-France et mentionné aux articles L. 2531-2 et suivants du code général des collectivités territoriales ;
 
 3° La part du produit des amendes de police relatives à la circulation routière, dans les conditions définies par l'article L. 2334-24 du même code ;
+
+3° bis Une part, fixée par décret en Conseil d'Etat, dans la limite de la moitié du produit des forfaits de post-stationnement prévus à l'article L. 2333-87 dudit code et perçus dans la région d'Ile-de-France. La somme de cette ressource et de la ressource perçue en application du 3° du présent article est au moins égale à celle perçue en 2012 par le Syndicat des transports d'Ile-de-France en application du même 3° ;
 
 4° Toutes autres contributions, subventions ou avances qui lui sont apportées par l'Etat, par les collectivités publiques ou par tout organisme public ou privé, notamment pour la mise en œuvre de politiques d'aide à l'usage des transports collectifs au bénéfice de catégories particulières d'usagers ;
 

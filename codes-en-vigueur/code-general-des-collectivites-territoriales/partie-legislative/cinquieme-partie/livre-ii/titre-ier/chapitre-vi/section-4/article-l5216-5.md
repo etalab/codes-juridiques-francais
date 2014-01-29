@@ -4,7 +4,7 @@ I.-La communauté d'agglomération exerce de plein droit au lieu et place des co
 
 1° En matière de développement économique : création, aménagement, entretien et gestion de zones d'activité industrielle, commerciale, tertiaire, artisanale, touristique, portuaire ou aéroportuaire qui sont d'intérêt communautaire ; actions de développement économique d'intérêt communautaire ;
 
-2° En matière d'aménagement de l'espace communautaire : schéma de cohérence territoriale et schéma de secteur ; création et réalisation de zones d'aménagement concerté d'intérêt communautaire ; organisation des transports urbains au sens du chapitre II du titre II de la loi n° 82-1153 du 30 décembre 1982 d'orientation des transports intérieurs, sous réserve des dispositions de l'article 46 de cette loi.A ce titre, elle peut organiser un service de mise à disposition de bicyclettes en libre-service ;
+2° En matière d'aménagement de l'espace communautaire : schéma de cohérence territoriale et schéma de secteur ; création et réalisation de zones d'aménagement concerté d'intérêt communautaire ; organisation de la mobilité au sens du titre III du livre II de la première partie du code des transports, sous réserve de l'article L. 3421-2 du même code ;
 
 3° En matière d'équilibre social de l'habitat : programme local de l'habitat ; politique du logement d'intérêt communautaire ; actions et aides financières en faveur du logement social d'intérêt communautaire ; réserves foncières pour la mise en oeuvre de la politique communautaire d'équilibre social de l'habitat ; action, par des opérations d'intérêt communautaire, en faveur du logement des personnes défavorisées ; amélioration du parc immobilier bâti d'intérêt communautaire ;
 

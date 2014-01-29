@@ -4,4 +4,4 @@ Le Syndicat des transports d'Ile-de-France est l'autorité organisatrice des ser
 
 Le syndicat peut y organiser des services de transports à la demande.
 
-En outre, il y assure les missions et y développe les services mentionnés à l'article L. 1231-8.
+En outre, il y assure les missions et y développe les services mentionnés aux articles L. 1231-1, L. 1231-8 et L. 1231-14 à L. 1231-16.

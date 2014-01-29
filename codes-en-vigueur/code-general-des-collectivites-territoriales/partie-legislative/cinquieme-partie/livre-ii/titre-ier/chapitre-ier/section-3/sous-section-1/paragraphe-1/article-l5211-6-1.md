@@ -1,6 +1,6 @@
 # Article L5211-6-1
 
-I. - Sans préjudice des dispositions de l'article L.  5212-7, le nombre et la répartition des délégués sont établis :
+I. - Sans préjudice des dispositions de l'article L. 5212-7, le nombre et la répartition des délégués sont établis :
 
 - soit, dans les communautés de communes et les communautés d'agglomération, par accord des deux tiers au moins des conseils municipaux des communes intéressées représentant la moitié de la population totale de celles-ci ou de la moitié des conseils municipaux des communes intéressées représentant les deux tiers de la population totale. Cette répartition tient compte de la population de chaque commune. Chaque commune dispose d'au moins un siège et aucune commune ne peut disposer de plus de la moitié des sièges. Le nombre de sièges total ne peut excéder de plus de 25 % le nombre de sièges qui serait attribué en application des III et IV du présent article ;
 
@@ -17,150 +17,181 @@ III. - Chaque organe délibérant est composé de délégués dont le nombre est
 <table>
 <tbody>
 <tr>
-<th>
-<br/>POPULATION MUNICIPALE DE L'ÉTABLISSEMENT <p>public de coopération intercommunale </p>
-<p>à fiscalité propre <br/>
-</p>
-</th>
-<th>
-<br/>NOMBRE <p>de sièges <br/>
-</p>
-</th>
-</tr>
-<tr>
-<td align="center">
-<br/>De moins de 3 500 habitants <br/>
+<td>
+<p align="center">POPULATION MUNICIPALE DE L'ÉTABLISSEMENT public de coopération intercommunale à fiscalité propre</p>
 </td>
-<td align="center">
-<br/>16 <br/>
+<td>
+<p align="center">NOMBRE de sièges</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>De 3 500 à 4 999 habitants <br/>
+<td>
+<p>
+<br/>De moins de 3 500 habitants </p>
 </td>
-<td align="center">
-<br/>18 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>De 5 000 à 9 999 habitants <br/>
-</td>
-<td align="center">
-<br/>22 <br/>
+<td>
+<p align="center">
+<br/>16</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>De 10 000 à 19 999 habitants <br/>
+<td>
+<p>
+<br/>De 3 500 à 4 999 habitants </p>
 </td>
-<td align="center">
-<br/>26 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>De 20 000 à 29 999 habitants <br/>
-</td>
-<td align="center">
-<br/>30 <br/>
+<td>
+<p align="center">
+<br/>18</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>De 30 000 à 39 999 habitants <br/>
+<td>
+<p>
+<br/>De 5 000 à 9 999 habitants </p>
 </td>
-<td align="center">
-<br/>34 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>De 40 000 à 49 999 habitants <br/>
-</td>
-<td align="center">
-<br/>38 <br/>
+<td>
+<p align="center">
+<br/>22</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>De 50 000 à 74 999 habitants <br/>
+<td>
+<p>
+<br/>De 10 000 à 19 999 habitants </p>
 </td>
-<td align="center">
-<br/>40 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>De 75 000 à 99 999 habitants <br/>
-</td>
-<td align="center">
-<br/>42 <br/>
+<td>
+<p align="center">
+<br/>26</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>De 100 000 à 149 999 habitants <br/>
+<td>
+<p>
+<br/>De 20 000 à 29 999 habitants </p>
 </td>
-<td align="center">
-<br/>48 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>De 150 000 à 199 999 habitants <br/>
-</td>
-<td align="center">
-<br/>56 <br/>
+<td>
+<p align="center">
+<br/>30</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>De 200 000 à 249 999 habitants <br/>
+<td>
+<p>
+<br/>De 30 000 à 39 999 habitants </p>
 </td>
-<td align="center">
-<br/>64 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>De 250 000 à 349 999 habitants <br/>
-</td>
-<td align="center">
-<br/>72 <br/>
+<td>
+<p align="center">
+<br/>34</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>De 350 000 à 499 999 habitants <br/>
+<td>
+<p>
+<br/>De 40 000 à 49 999 habitants </p>
 </td>
-<td align="center">
-<br/>80 <br/>
-</td>
-</tr>
-<tr>
-<td align="center">
-<br/>De 500 000 à 699 999 habitants <br/>
-</td>
-<td align="center">
-<br/>90 <br/>
+<td>
+<p align="center">
+<br/>38</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>De 700 000 à 1 000 000 habitants <br/>
+<td>
+<p>
+<br/>De 50 000 à 74 999 habitants </p>
 </td>
-<td align="center">
-<br/>100 <br/>
+<td>
+<p align="center">
+<br/>40</p>
 </td>
 </tr>
 <tr>
-<td align="center">
-<br/>Plus de 1 000 000 habitants <br/>
+<td>
+<p>
+<br/>De 75 000 à 99 999 habitants </p>
 </td>
-<td align="center">
-<br/>130 <br/>
+<td>
+<p align="center">
+<br/>42</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<br/>De 100 000 à 149 999 habitants </p>
+</td>
+<td>
+<p align="center">
+<br/>48</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<br/>De 150 000 à 199 999 habitants </p>
+</td>
+<td>
+<p align="center">
+<br/>56</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<br/>De 200 000 à 249 999 habitants </p>
+</td>
+<td>
+<p align="center">
+<br/>64</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<br/>De 250 000 à 349 999 habitants </p>
+</td>
+<td>
+<p align="center">
+<br/>72</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<br/>De 350 000 à 499 999 habitants </p>
+</td>
+<td>
+<p align="center">
+<br/>80</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<br/>De 500 000 à 699 999 habitants </p>
+</td>
+<td>
+<p align="center">
+<br/>90</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<br/>De 700 000 à 1 000 000 habitants </p>
+</td>
+<td>
+<p align="center">
+<br/>100</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<br/>Plus de 1 000 000 habitants </p>
+</td>
+<td>
+<p align="center">
+<br/>130</p>
 </td>
 </tr>
 </tbody>
@@ -174,7 +205,7 @@ IV. - La répartition des sièges est établie selon les modalités suivantes :
 
 2° Les communes n'ayant pu bénéficier de la répartition de sièges prévue au 1° du présent IV se voient attribuer un siège, au-delà de l'effectif fixé par le tableau du III ;
 
-3° Si, après application des modalités prévues aux 1° et 2° du présent IV, une commune obtient plus de la moitié des sièges du conseil  :
+3° Si, après application des modalités prévues aux 1° et 2° du présent IV, une commune obtient plus de la moitié des sièges du conseil :
 
 - seul un nombre de sièges portant le nombre total de ses délégués à la moitié des sièges du conseil, arrondie à l'entier inférieur, lui est finalement attribué ;
 
@@ -182,11 +213,13 @@ IV. - La répartition des sièges est établie selon les modalités suivantes :
 
 4° Si, par application des modalités prévues aux 1° à 3° du présent IV, le nombre de sièges attribués à une commune est supérieur à celui de ses conseillers municipaux, le nombre total de sièges au sein de l'organe délibérant est réduit à due concurrence du nombre de sièges nécessaire pour que, à l'issue d'une nouvelle application des 1° à 3° du présent IV, cette commune dispose d'un nombre total de sièges inférieur ou égal à celui de ses conseillers municipaux ;
 
+4° bis Dans la métropole d'Aix-Marseille-Provence, sont attribués en supplément, à la représentation proportionnelle à la plus forte moyenne, aux communes ayant bénéficié de la répartition des sièges prévue au 1° du présent IV, 20 % de la totalité des sièges, répartis en application des 1° et 2° du même IV.
+
 5° En cas d'égalité de la plus forte moyenne entre des communes lors de l'attribution du dernier siège, chacune de ces communes se voit attribuer un siège.
 
 V. - Dans les communautés de communes et les communautés d'agglomération, si les sièges attribués sur le fondement du 2° du IV excèdent 30 % du nombre de sièges définis au deuxième alinéa du III, 10 % du nombre total de sièges issus de l'application des III et IV sont attribués aux communes selon les modalités prévues au IV. Dans ce cas, il ne peut être fait application du VI.
 
-VI. - Les communes peuvent créer et répartir un nombre de sièges inférieur ou égal à 10 % du nombre total de sièges issu de l'application des III et IV. Cette décision est prise à la majorité des deux tiers des conseils municipaux des communes intéressées représentant plus de la moitié de la population totale de celles-ci ou par la moitié au moins des conseils municipaux des communes représentant les deux tiers de la population totale.
+VI. - A l'exception des communes de la métropole d'Aix-Marseille-Provence, les communes peuvent créer et répartir un nombre de sièges inférieur ou égal à 10 % du nombre total de sièges issu de l'application des III et IV. Cette décision est prise à la majorité des deux tiers des conseils municipaux des communes intéressées représentant plus de la moitié de la population totale de celles-ci ou par la moitié au moins des conseils municipaux des communes représentant les deux tiers de la population totale.
 
 Pour les communautés urbaines et les métropoles, cette décision peut fixer pour une commune un nombre de sièges supérieur à la moitié des sièges de l'organe délibérant.
 

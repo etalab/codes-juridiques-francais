@@ -49,3 +49,5 @@ Le maire peut, en outre, par délégation du conseil municipal, être chargé, e
 23° De prendre les décisions mentionnées aux articles L. 523-4 et L. 523-5 du code du patrimoine relatives à la réalisation de diagnostics d'archéologie préventive prescrits pour les opérations d'aménagement ou de travaux sur le territoire de la commune.
 
 24° D'autoriser, au nom de la commune, le renouvellement de l'adhésion aux associations dont elle est membre.
+
+Les  délégations consenties en application du 3° du présent article prennent  fin dès l'ouverture de la campagne électorale pour le renouvellement du  conseil municipal.

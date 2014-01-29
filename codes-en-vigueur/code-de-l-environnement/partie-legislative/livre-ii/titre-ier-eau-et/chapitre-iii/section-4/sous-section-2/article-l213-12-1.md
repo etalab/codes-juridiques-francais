@@ -2,7 +2,7 @@
 
 I.-Il est créé un établissement public de l'Etat à caractère administratif pour la gestion de l'eau et de la biodiversité du marais poitevin.
 
-Pour faciliter une gestion équilibrée et durable de la ressource en eau sur le périmètre des bassins hydrographiques du marais poitevin et de leurs aquifères, l'établissement assure les missions mentionnées au premier alinéa de l'article L. 213-12, à l'exclusion de la prévention des risques liés aux inondations. Il coordonne et facilite la mise en œuvre des schémas mentionnés aux articles L. 212-1 et L. 212-3. Compte tenu des compétences des collectivités territoriales, ses autres missions sont :
+Pour faciliter une gestion équilibrée et durable de la ressource en eau sur le périmètre des bassins hydrographiques du marais poitevin et de leurs aquifères, l'établissement assure les missions mentionnées au I de l'article L. 213-12, à l'exclusion de la prévention des risques liés aux inondations. Il coordonne et facilite la mise en œuvre des schémas mentionnés aux articles L. 212-1 et L. 212-3. Compte tenu des compétences des collectivités territoriales, ses autres missions sont :
 
 1° L'étude et le suivi de la ressource en eau, des milieux aquatiques et des usages de l'eau, à l'exclusion de la distribution d'eau potable ;
 

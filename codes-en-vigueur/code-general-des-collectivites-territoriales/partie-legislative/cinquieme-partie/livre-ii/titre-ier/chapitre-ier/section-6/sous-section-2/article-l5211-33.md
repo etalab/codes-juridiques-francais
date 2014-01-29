@@ -4,7 +4,7 @@ I. Les communautés de communes et les communautés d'agglomération ne peuvent 
 
 De 2000 à 2002, les communautés urbaines ne faisant pas application des dispositions de l'article 1609 nonies C du code général des impôts ne peuvent percevoir une attribution par habitant inférieure à la dotation par habitant perçue l'année précédente.
 
-A compter du 1er janvier 2003, les communautés urbaines perçoivent une dotation d'intercommunalité dans les conditions prévues au deuxième alinéa du I de l'article L. 5211-30.
+A compter du 1er janvier 2003, les communautés urbaines perçoivent une dotation d'intercommunalité dans les conditions prévues au 2 du I de l'article L. 5211-30.
 
 Les communautés urbaines faisant application des dispositions de l'article 1609 nonies C du code général des impôts et qui sont issues de la transformation de communautés urbaines existantes l'année de promulgation de la loi n° 99-586 du 12 juillet 1999 relative au renforcement et à la simplification de la coopération intercommunale ne peuvent percevoir en 2000 une dotation par habitant supérieure à 1,5 fois la dotation par habitant qu'elles percevaient l'année précédant leur transformation.
 

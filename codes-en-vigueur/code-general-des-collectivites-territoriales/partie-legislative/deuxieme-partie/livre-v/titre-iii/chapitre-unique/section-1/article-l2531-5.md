@@ -6,6 +6,8 @@ Le Syndicat des transports d'Ile-de-France peut également contribuer sur les re
 
 -de mesures prises en application de la politique tarifaire mentionnée à l'article 1er de l'ordonnance n° 59-151 du 7 janvier 1959 relative à l'organisation des transports de voyageurs en Ile-de-France ;
 
+-des dépenses d'investissement et de fonctionnement de toute action relevant de l'organisation de la mobilité au sens des articles L. 1231-1, L. 1231-8 et L. 1231-14 à L. 1231-16 du code des transports ;
+
 -à titre accessoire et dans le cadre de conventions passées entre le syndicat et les gestionnaires, de dépenses d'exploitation d'ouvrages et d'équipements affectés au transport et mentionnés par le plan de déplacements urbains, tels que des gares routières, des parcs relais et des centres d'échanges correspondant à différents modes de transport ;
 
 -des opérations visant à favoriser l'usage combiné des transports en commun et de la bicyclette.

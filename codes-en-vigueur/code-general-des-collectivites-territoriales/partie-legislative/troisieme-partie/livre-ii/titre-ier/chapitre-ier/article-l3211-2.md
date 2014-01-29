@@ -35,3 +35,5 @@ Dans les limites qu'il aura fixées, le conseil général peut également délé
 15° D'autoriser, au nom du département, le renouvellement de l'adhésion aux associations dont il est membre.
 
 Le président informe le conseil des actes pris dans le cadre de ces délégations.
+
+Les  délégations consenties en application du 1° du présent article prennent  fin dès l'ouverture de la campagne électorale pour le renouvellement du  conseil général.

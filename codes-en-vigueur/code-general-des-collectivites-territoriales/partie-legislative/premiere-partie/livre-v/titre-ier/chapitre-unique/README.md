@@ -2,6 +2,7 @@
 
 - [Article L1511-1](article-l1511-1.md)
 - [Article L1511-1-1](article-l1511-1-1.md)
+- [Article L1511-1-2](article-l1511-1-2.md)
 - [Article L1511-2](article-l1511-2.md)
 - [Article L1511-3](article-l1511-3.md)
 - [Article L1511-4](article-l1511-4.md)
