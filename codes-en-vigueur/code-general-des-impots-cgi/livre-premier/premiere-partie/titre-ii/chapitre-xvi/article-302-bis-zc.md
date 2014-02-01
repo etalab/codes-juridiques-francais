@@ -12,6 +12,12 @@ III.-Le taux de la taxe, compris entre 1,5 % et 5 %, est fixé par arrêté conj
 
 IV.-Lorsqu'une entreprise non établie en France est redevable de la taxe mentionnée au I, elle est tenue de désigner un représentant fiscal établi en France qui s'engage à remplir les formalités incombant à cette entreprise et à acquitter la taxe à sa place ainsi que, le cas échéant, les pénalités qui s'y rapportent.
 
-V.-La taxe est déclarée et liquidée dans les   six mois de son exigibilité sur une déclaration dont le modèle est fixé par l'administration. Elle est acquittée lors du dépôt de cette déclaration.
+V.-La taxe est déclarée et liquidée :
+
+1° Pour les redevables de la taxe sur la valeur ajoutée, sur l'annexe à la déclaration mentionnée au 1 de l'article 287 relative au mois ou au trimestre au cours duquel a été publié l'arrêté mentionné au III du présent article ;
+
+2° Pour les personnes non redevables de la taxe sur la valeur ajoutée, sur l'annexe à la déclaration prévue au 1 du même article 287 déposée auprès du service chargé du recouvrement dont relève leur siège ou principal établissement au plus tard le 25 du mois suivant celui au cours duquel a été publié l'arrêté mentionné au III du présent article.
+
+La taxe est acquittée lors du dépôt de la déclaration.
 
 VI.-La taxe est recouvrée et contrôlée selon les mêmes procédures et sous les mêmes sanctions, garanties et privilèges que la taxe sur la valeur ajoutée. Les réclamations sont présentées, instruites et jugées selon les règles applicables à cette même taxe.
