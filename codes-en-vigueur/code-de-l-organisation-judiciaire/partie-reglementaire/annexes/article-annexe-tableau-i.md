@@ -11,27 +11,13 @@ et procureur général près ladite cour
 <table>
 <tbody>
 <tr>
-<th>
-<br/>AUDIENCE<br/>
-</th>
-<th>
-<br/>ROBE<br/>
-</th>
-<th>
-<br/>SIMARRE<br/>
-</th>
-<th>
-<br/>ÉPITOGE<br/>
-</th>
-<th>
-<br/>CEINTURE<br/>
-</th>
-<th>
-<br/>TOQUE<br/>
-</th>
-<th>
-<br/>CRAVATE<br/>
-</th>
+<td align="center"> AUDIENCE</td>
+<td align="center"> ROBE</td>
+<td align="center"> SIMARRE</td>
+<td align="center"> ÉPITOGE</td>
+<td align="center"> CEINTURE</td>
+<td align="center"> TOQUE</td>
+<td align="center"> CRAVATE</td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -103,27 +89,13 @@ et premiers avocats généraux près ladite cour
 <table>
 <tbody>
 <tr>
-<th>
-<br/>AUDIENCE<br/>
-</th>
-<th>
-<br/>ROBE<br/>
-</th>
-<th>
-<br/>SIMARRE<br/>
-</th>
-<th>
-<br/>ÉPITOGE<br/>
-</th>
-<th>
-<br/>CEINTURE<br/>
-</th>
-<th>
-<br/>TOQUE<br/>
-</th>
-<th>
-<br/>CRAVATE<br/>
-</th>
+<td align="center"> AUDIENCE</td>
+<td align="center"> ROBE</td>
+<td align="center"> SIMARRE</td>
+<td align="center"> ÉPITOGE</td>
+<td align="center"> CEINTURE</td>
+<td align="center"> TOQUE</td>
+<td align="center"> CRAVATE</td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -181,27 +153,13 @@ et avocats généraux près ladite cour
 <table>
 <tbody>
 <tr>
-<th>
-<br/>AUDIENCE<br/>
-</th>
-<th>
-<br/>ROBE<br/>
-</th>
-<th>
-<br/>SIMARRE<br/>
-</th>
-<th>
-<br/>ÉPITOGE<br/>
-</th>
-<th>
-<br/>CEINTURE<br/>
-</th>
-<th>
-<br/>TOQUE<br/>
-</th>
-<th>
-<br/>CRAVATE<br/>
-</th>
+<td align="center"> AUDIENCE</td>
+<td align="center"> ROBE</td>
+<td align="center"> SIMARRE</td>
+<td align="center"> ÉPITOGE</td>
+<td align="center"> CEINTURE</td>
+<td align="center"> TOQUE</td>
+<td align="center"> CRAVATE</td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -259,27 +217,13 @@ et avocats généraux référendaires près ladite cour
 <table>
 <tbody>
 <tr>
-<th>
-<br/>AUDIENCE<br/>
-</th>
-<th>
-<br/>ROBE<br/>
-</th>
-<th>
-<br/>SIMARRE<br/>
-</th>
-<th>
-<br/>ÉPITOGE<br/>
-</th>
-<th>
-<br/>CEINTURE<br/>
-</th>
-<th>
-<br/>TOQUE<br/>
-</th>
-<th>
-<br/>CRAVATE<br/>
-</th>
+<td align="center"> AUDIENCE</td>
+<td align="center"> ROBE</td>
+<td align="center"> SIMARRE</td>
+<td align="center"> ÉPITOGE</td>
+<td align="center"> CEINTURE</td>
+<td align="center"> TOQUE</td>
+<td align="center"> CRAVATE</td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -339,27 +283,13 @@ et procureurs généraux près lesdites cours
 <table>
 <tbody>
 <tr>
-<th>
-<br/>AUDIENCE<br/>
-</th>
-<th>
-<br/>ROBE<br/>
-</th>
-<th>
-<br/>SIMARRE<br/>
-</th>
-<th>
-<br/>ÉPITOGE<br/>
-</th>
-<th>
-<br/>CEINTURE<br/>
-</th>
-<th>
-<br/>TOQUE<br/>
-</th>
-<th>
-<br/>CRAVATE<br/>
-</th>
+<td align="center"> AUDIENCE</td>
+<td align="center"> ROBE</td>
+<td align="center"> SIMARRE</td>
+<td align="center"> ÉPITOGE</td>
+<td align="center"> CEINTURE</td>
+<td align="center"> TOQUE</td>
+<td align="center"> CRAVATE</td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -417,27 +347,13 @@ et avocats généraux près lesdites cours
 <table>
 <tbody>
 <tr>
-<th>
-<br/>AUDIENCE<br/>
-</th>
-<th>
-<br/>ROBE<br/>
-</th>
-<th>
-<br/>SIMARRE<br/>
-</th>
-<th>
-<br/>ÉPITOGE<br/>
-</th>
-<th>
-<br/>CEINTURE<br/>
-</th>
-<th>
-<br/>TOQUE<br/>
-</th>
-<th>
-<br/>CRAVATE<br/>
-</th>
+<td align="center"> AUDIENCE</td>
+<td align="center"> ROBE</td>
+<td align="center"> SIMARRE</td>
+<td align="center"> ÉPITOGE</td>
+<td align="center"> CEINTURE</td>
+<td align="center"> TOQUE</td>
+<td align="center"> CRAVATE</td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -502,27 +418,13 @@ et substituts généraux près lesdites cours
 <table>
 <tbody>
 <tr>
-<th>
-<br/>AUDIENCE<br/>
-</th>
-<th>
-<br/>ROBE<br/>
-</th>
-<th>
-<br/>SIMARRE<br/>
-</th>
-<th>
-<br/>ÉPITOGE<br/>
-</th>
-<th>
-<br/>CEINTURE<br/>
-</th>
-<th>
-<br/>TOQUE<br/>
-</th>
-<th>
-<br/>CRAVATE<br/>
-</th>
+<td align="center"> AUDIENCE</td>
+<td align="center"> ROBE</td>
+<td align="center"> SIMARRE</td>
+<td align="center"> ÉPITOGE</td>
+<td align="center"> CEINTURE</td>
+<td align="center"> TOQUE</td>
+<td align="center"> CRAVATE</td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -577,34 +479,18 @@ TRIBUNAUX DE GRANDE INSTANCE
 
 ET TRIBUNAUX D'INSTANCE
 
-Présidents des tribunaux de grande instance
-
-et procureurs de la République près lesdits tribunaux
+Présidents des tribunaux de grande instance, procureurs de la République près lesdits tribunaux et procureur de la République financier près le tribunal de grande instance de Paris
 
 <table>
 <tbody>
 <tr>
-<th>
-<br/>AUDIENCE<br/>
-</th>
-<th>
-<br/>ROBE<br/>
-</th>
-<th>
-<br/>SIMARRE<br/>
-</th>
-<th>
-<br/>ÉPITOGE<br/>
-</th>
-<th>
-<br/>CEINTURE<br/>
-</th>
-<th>
-<br/>TOQUE<br/>
-</th>
-<th>
-<br/>CRAVATE<br/>
-</th>
+<td align="center"> AUDIENCE</td>
+<td align="center"> ROBE</td>
+<td align="center"> SIMARRE</td>
+<td align="center"> ÉPITOGE</td>
+<td align="center"> CEINTURE</td>
+<td align="center"> TOQUE</td>
+<td align="center"> CRAVATE</td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -634,7 +520,7 @@ et procureurs de la République près lesdits tribunaux
 <br/>Solennelle (et cérémonies publiques).<br/>
 </td>
 <td align="left" valign="top">
-<br/>Comme ci-dessus, sauf pour le président du tribunal de grande instance de Paris et le procureur de la République près cette juridiction : rouge, à grandes manches.<br/>
+<br/>Comme ci-dessus, sauf pour le président du tribunal de grande instance de Paris, le procureur de la République et le procureur de la République financier près cette juridiction : rouge, à grandes manches. <br/>
 </td>
 <td align="left" valign="top">
 <br/>Comme ci-dessus.<br/>
@@ -643,10 +529,10 @@ et procureurs de la République près lesdits tribunaux
 <br/>Comme ci-dessus.<br/>
 </td>
 <td align="left" valign="top">
-<br/>De soie bleu-clair, avec franges, sauf dans le ressort des cours d'appel de Paris et de Versailles : de soie noire, avec franges.<br/>
+<br/>De soie bleu clair, avec franges, sauf dans le ressort des cours d'appel de Paris et de Versailles : de soie noire, avec franges. <br/>
 </td>
 <td align="left" valign="top">
-<br/>Comme ci-dessus, sauf pour le président du tribunal de grande instance de Paris et le procureur de la République près cette juridiction : de velours noir, avec quatre galons d'or.<br/>
+<br/>Comme ci-dessus, sauf pour le président du tribunal de grande instance de Paris, le procureur de la République et le procureur de la République financier près cette juridiction : de velours noir, avec quatre galons d'or. <br/>
 </td>
 <td align="left" valign="top">
 <br/>Comme ci-dessus.<br/>
@@ -662,27 +548,13 @@ procureurs de République adjoints, vice-procureurs et substituts près lesdits 
 <table>
 <tbody>
 <tr>
-<th>
-<br/>AUDIENCE<br/>
-</th>
-<th>
-<br/>ROBE<br/>
-</th>
-<th>
-<br/>SIMARRE<br/>
-</th>
-<th>
-<br/>ÉPITOGE<br/>
-</th>
-<th>
-<br/>CEINTURE<br/>
-</th>
-<th>
-<br/>TOQUE<br/>
-</th>
-<th>
-<br/>CRAVATE<br/>
-</th>
+<td align="center"> AUDIENCE</td>
+<td align="center"> ROBE</td>
+<td align="center"> SIMARRE</td>
+<td align="center"> ÉPITOGE</td>
+<td align="center"> CEINTURE</td>
+<td align="center"> TOQUE</td>
+<td align="center"> CRAVATE</td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -742,27 +614,13 @@ et procureurs de la République près lesdits tribunaux
 <table>
 <tbody>
 <tr>
-<th>
-<br/>AUDIENCE<br/>
-</th>
-<th>
-<br/>ROBE<br/>
-</th>
-<th>
-<br/>SIMARRE<br/>
-</th>
-<th>
-<br/>ÉPITOGE<br/>
-</th>
-<th>
-<br/>CEINTURE<br/>
-</th>
-<th>
-<br/>TOQUE<br/>
-</th>
-<th>
-<br/>CRAVATE<br/>
-</th>
+<td align="center"> AUDIENCE</td>
+<td align="center"> ROBE</td>
+<td align="center"> SIMARRE</td>
+<td align="center"> ÉPITOGE</td>
+<td align="center"> CEINTURE</td>
+<td align="center"> TOQUE</td>
+<td align="center"> CRAVATE</td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -820,27 +678,13 @@ et substituts près lesdits tribunaux
 <table>
 <tbody>
 <tr>
-<th>
-<br/>AUDIENCE<br/>
-</th>
-<th>
-<br/>ROBE<br/>
-</th>
-<th>
-<br/>SIMARRE<br/>
-</th>
-<th>
-<br/>ÉPITOGE<br/>
-</th>
-<th>
-<br/>CEINTURE<br/>
-</th>
-<th>
-<br/>TOQUE<br/>
-</th>
-<th>
-<br/>CRAVATE<br/>
-</th>
+<td align="center"> AUDIENCE</td>
+<td align="center"> ROBE</td>
+<td align="center"> SIMARRE</td>
+<td align="center"> ÉPITOGE</td>
+<td align="center"> CEINTURE</td>
+<td align="center"> TOQUE</td>
+<td align="center"> CRAVATE</td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -896,24 +740,12 @@ Auditeurs de justice
 <table>
 <tbody>
 <tr>
-<th>
-<br/>ROBE<br/>
-</th>
-<th>
-<br/>SIMARRE<br/>
-</th>
-<th>
-<br/>ÉPITOGE<br/>
-</th>
-<th>
-<br/>CEINTURE<br/>
-</th>
-<th>
-<br/>TOQUE<br/>
-</th>
-<th>
-<br/>CRAVATE<br/>
-</th>
+<td align="center"> AUDIENCE</td>
+<td align="center"> SIMARRE</td>
+<td align="center"> ÉPITOGE</td>
+<td align="center"> CEINTURE</td>
+<td align="center"> TOQUE</td>
+<td align="center"> CRAVATE</td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -945,21 +777,11 @@ Juges de proximité
 <table>
 <tbody>
 <tr>
-<th>
-<br/>MÉDAILLE<br/>
-</th>
-<th>
-<br/>BRONZE<br/>
-</th>
-<th>
-<br/>AVERS<br/>
-</th>
-<th>
-<br/>ATTACHE<br/>
-</th>
-<th>
-<br/>RUBAN<br/>
-</th>
+<td align="center"> AUDIENCE</td>
+<td align="center"> BRONZE</td>
+<td align="center"> AVERS</td>
+<td align="center"> ATTACHE</td>
+<td align="center"> RUBAN</td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -986,15 +808,9 @@ Greffiers en chef et greffiers
 <table>
 <tbody>
 <tr>
-<th>
-<br/>JURIDICTION<br/>
-</th>
-<th>
-<br/>GRADE<br/>
-</th>
-<th>
-<br/>COSTUME<br/>
-</th>
+<td align="center"> AUDIENCE</td>
+<td align="center"> GRADE</td>
+<td align="center"> COSTUME</td>
 </tr>
 <tr>
 <td align="left" valign="top">
