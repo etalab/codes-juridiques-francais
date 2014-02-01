@@ -1,6 +1,6 @@
 # Article R212-44
 
-L'assemblée des magistrats du siège et du parquet procède à des échanges de vues sur l'activité de la juridiction.
+L'assemblée des magistrats du siège et du parquet procède à des échanges de vues sur l'activité de la juridiction et sur le rapport annuel de politique pénale présenté par le parquet.
 
 Elle étudie l'évolution de la jurisprudence.
 

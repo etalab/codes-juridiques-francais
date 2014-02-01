@@ -6,3 +6,4 @@
 - [Chapitre IV : La commission d'indemnisation des victimes d'infractions](chapitre-iv)
 - [Chapitre V : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle](chapitre-v)
 - [Chapitre VI : Dispositions particulières au Département de Mayotte](chapitre-vi)
+- [Chapitre VII : Dispositions particulières au tribunal de grande instance de Paris](chapitre-vii)
