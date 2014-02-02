@@ -4,3 +4,4 @@
 - [Article L232-22](article-l232-22.md)
 - [Article L232-23](article-l232-23.md)
 - [Article L232-24](article-l232-24.md)
+- [Article L232-25](article-l232-25.md)
