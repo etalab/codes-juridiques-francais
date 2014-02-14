@@ -7,68 +7,90 @@ Ressort territorial et siège des commissions interrégionales de la recherche a
 <table>
 <tbody>
 <tr>
-<th>COMMISSION INTERRÉGIONALE<br/>
+<th>COMMISSION INTERRÉGIONALE <br/>
 </th>
-<th>RESSORT<br/>
+<th>
+<br/>RESSORT <br/>
 </th>
-<th>SIÈGE<br/>
+<th>
+<br/>SIÈGE <br/>
 </th>
 </tr>
 <tr>
-<td align="center">Commission Centre-Est<br/>
+<td align="center">
+<br/>Commission Centre-Est <br/>
 </td>
-<td align="center">Auvergne, Rhône-Alpes<br/>
+<td align="center">
+<br/>Auvergne, Rhône-Alpes <br/>
 </td>
-<td align="center">Lyon<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Commission Centre-Nord<br/>
-</td>
-<td align="center">Centre, Ile-de-France, Nord - Pas-de-Calais, Picardie<br/>
-</td>
-<td align="center">Orléans<br/>
+<td align="center">
+<br/>Lyon <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Commission Ouest<br/>
+<td align="center">
+<br/>Commission Centre-Nord <br/>
 </td>
-<td align="center">Bretagne, Basse-Normandie, Haute-Normandie, Pays de la Loire<br/>
+<td align="center">
+<br/>Centre, Ile-de-France, Nord-Pas-de-Calais, Picardie <br/>
 </td>
-<td align="center">Rennes<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Commission Est<br/>
-</td>
-<td align="center">Alsace, Bourgogne, Champagne-Ardenne, Franche-Comté, Lorraine<br/>
-</td>
-<td align="center">Dijon<br/>
+<td align="center">
+<br/>Orléans <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Commission Sud-Est<br/>
+<td align="center">
+<br/>Commission Ouest <br/>
 </td>
-<td align="center">Corse, Languedoc-Roussillon, Provence-Alpes-Côte d'Azur<br/>
+<td align="center">
+<br/>Bretagne, Basse-Normandie, Haute-Normandie, Pays de la Loire <br/>
 </td>
-<td align="center">Marseille<br/>
-</td>
-</tr>
-<tr>
-<td align="center">Commission Sud-Ouest<br/>
-</td>
-<td align="center">Aquitaine, Limousin, Midi-Pyrénées, Poitou-Charentes<br/>
-</td>
-<td align="center">Bordeaux<br/>
+<td align="center">
+<br/>Rennes <br/>
 </td>
 </tr>
 <tr>
-<td align="center">Commission de l'outre-mer<br/>
+<td align="center">
+<br/>Commission Est <br/>
 </td>
-<td align="center">Guadeloupe, Guyane, Martinique, Réunion<br/>
+<td align="center">
+<br/>Alsace, Bourgogne, Champagne-Ardenne, Franche-Comté, Lorraine <br/>
 </td>
-<td align="center">Fort-de-France<br/>
+<td align="center">
+<br/>Dijon <br/>
 </td>
+</tr>
+<tr>
+<td align="center">
+<br/>Commission Sud-Est <br/>
+</td>
+<td align="center">
+<br/>Corse, Languedoc-Roussillon, Provence-Alpes-Côte d'Azur <br/>
+</td>
+<td align="center">
+<br/>Marseille <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Commission Sud-Ouest <br/>
+</td>
+<td align="center">
+<br/>Aquitaine, Limousin, Midi-Pyrénées, Poitou-Charentes <br/>
+</td>
+<td align="center">
+<br/>Bordeaux <br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Commission de l'outre-mer <br/>
+</td>
+<td align="center">
+<br/>Guadeloupe, Guyane, Martinique, La Réunion, Mayotte, Saint-Pierre-et-Miquelon, Saint-Barthélemy, Saint-Martin <br/>
+</td>
+<td align="center">
+<br/>Fort-de-France</td>
 </tr>
 </tbody>
 </table>

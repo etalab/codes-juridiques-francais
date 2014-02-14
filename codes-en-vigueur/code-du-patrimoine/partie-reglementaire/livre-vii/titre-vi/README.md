@@ -1,0 +1,16 @@
+# TITRE VI : DISPOSITIONS APPLICABLES  DANS LES ÎLES WALLIS ET FUTUNA
+
+- [Article D760-2](article-d760-2.md)
+- [Article D760-4](article-d760-4.md)
+- [Article R760-1](article-r760-1.md)
+- [Article R760-3](article-r760-3.md)
+- [Article R760-5](article-r760-5.md)
+- [Article R760-6](article-r760-6.md)
+- [Article R760-7](article-r760-7.md)
+- [Article R760-8](article-r760-8.md)
+- [Article R760-9](article-r760-9.md)
+- [Article R760-10](article-r760-10.md)
+- [Article R760-11](article-r760-11.md)
+- [Article R760-12](article-r760-12.md)
+- [Article R760-13](article-r760-13.md)
+- [Article R760-14](article-r760-14.md)

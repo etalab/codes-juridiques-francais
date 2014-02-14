@@ -6,4 +6,5 @@
 - [LIVRE IV : MUSÉES](livre-iv)
 - [LIVRE V : ARCHÉOLOGIE](livre-v)
 - [LIVRE VI : MONUMENTS HISTORIQUES,  SITES ET ESPACES PROTÉGÉS](livre-vi)
+- [LIVRE VII : DISPOSITIONS RELATIVES À L'OUTRE-MER](livre-vii)
 - [Annexes](annexes)
