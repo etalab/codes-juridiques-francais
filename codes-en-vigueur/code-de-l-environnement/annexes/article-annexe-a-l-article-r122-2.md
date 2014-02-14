@@ -480,7 +480,7 @@
 <br clear="none"/>23° Forages. <br clear="none"/>
 </td>
 <td align="left" valign="top">
-<br clear="none"/>Travaux de forage d'exploration et d'exploitation minière, à l'exclusion des forages géothermiques de minime importance, des forages de moins de 100 mètres de profondeur, et des forages pour étudier la stabilité des sols. <br clear="none"/>
+<br clear="none"/>Forages soumis à autorisation au titre de l'article L. 162-1 du code minier et de l'article 3 du décret n° 2006-649 du 2 juin 2006 relatif aux travaux miniers, aux travaux de stockage souterrain et à la police des mines et des stockages souterrains.<br clear="none"/>
 </td>
 <td align="left" valign="top"/>
 </tr>
@@ -489,70 +489,20 @@
 <br clear="none"/>24° Travaux miniers et de stockage souterrain. <br clear="none"/>
 </td>
 <td align="left" valign="top">
-<br clear="none"/>a) Ouverture de travaux d'exploitation de mines de substances mentionnées à l'article L. 111-1 du code minier ainsi que des haldes et terrils non soumis au régime prévu par l'article L. 335-1 du code minier, à l'exception des autorisations d'exploitation délivrées dans les départements d'outre-mer au titre de l'article L. 611-3 du code minier. <br clear="none"/>
+<br clear="none"/>a) Travaux miniers soumis à autorisation au titre de l'article L. 162-1 du code minier et de l'article 3 du décret n° 2006-649 du 2 juin 2006 relatif aux travaux miniers, aux travaux de stockage souterrain et à la police des mines et des stockages souterrains. </td>
+<td align="left" valign="top"/>
+</tr>
+<tr>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<br clear="none"/>b) Ouverture de travaux d'exploitation concernant les substances minérales ou fossiles contenues dans les fonds marins du domaine public et du plateau continental métropolitains. <br clear="none"/>
 </td>
 <td align="left" valign="top"/>
 </tr>
 <tr>
 <td align="left" valign="top"/>
 <td align="left" valign="top">
-<br clear="none"/>b) Ouverture de travaux de recherches de mines autres que les hydrocarbures liquides ou gazeux, lorsqu'il est prévu que les travaux provoquent un terrassement total d'un volume supérieur à 20 000 mètres cubes ou entraînent la dissolution de certaines couches du sous-sol, ou doivent être effectués, sauf en ce qui concerne le département de la Guyane, sur des terrains humides ou des marais. <br clear="none"/>
-</td>
-<td align="left" valign="top"/>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br clear="none"/>c) Ouverture de travaux de recherches et d'exploitation des gîtes géothermiques mentionnés à l'article L. 112-1 du code minier. <br clear="none"/>
-</td>
-<td align="left" valign="top"/>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br clear="none"/>d) Ouverture de travaux de création et d'aménagement de cavités de stockage souterrain mentionnées à l'article L. 211-2 du code minier. <br clear="none"/>
-</td>
-<td align="left" valign="top"/>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br clear="none"/>e) Pour les stockages souterrains, l'ouverture de travaux de forage de puits, à l'exception de ceux de forage des puits de contrôle remplissant les conditions prévues au 3° de l'article 4 du décret n° 2006-649. <br clear="none"/>
-</td>
-<td align="left" valign="top"/>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br clear="none"/>f) Pour les stockages souterrains, les essais d'injection et de soutirage de substances lorsque ceux-ci portent sur des quantités qui, dans le décret n° 53-578 du 20 mai 1953 relatif à la nomenclature des établissements dangereux, insalubres ou incommodes, nécessitent une autorisation avec possibilité d'institution de servitudes d'utilité publique. <br clear="none"/>
-</td>
-<td align="left" valign="top"/>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br clear="none"/>g) Mise en exploitation d'un stockage souterrain. <br clear="none"/>
-</td>
-<td align="left" valign="top"/>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br clear="none"/>h) Pour la recherche de formations aptes au stockage géologique de dioxyde de carbone, l'ouverture d'essais d'injection et de soutirage. <br clear="none"/>
-</td>
-<td align="left" valign="top"/>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br clear="none"/>i) Ouverture de travaux d'exploitation concernant les substances minérales ou fossiles contenues dans les fonds marins du domaine public et du plateau continental métropolitains. <br clear="none"/>
-</td>
-<td align="left" valign="top"/>
-</tr>
-<tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<br clear="none"/>j) Permis exclusifs de carrières. <br clear="none"/>
+<br clear="none"/>c) Permis exclusifs de carrières. <br clear="none"/>
 </td>
 <td align="left" valign="top"/>
 </tr>
@@ -904,9 +854,7 @@ et portant sur une superficie totale, même fragmentée, de plus de 0,5 hectare 
 <tr>
 <td align="left" valign="top"/>
 <td align="left" valign="top">
-<br clear="none"/>b) Dérogations à l'interdiction générale de défrichement mentionnée à l'article L. 374-1 du code forestier ayant pour objet des opérations d'urbanisation ou d'implantation industrielle ou d'exploitation de matériaux. <br clear="none"/>
-<br clear="none"/>
-</td>
+<br clear="none"/>b) Dérogations à l'interdiction générale de défrichement mentionnée à l'article L. 374-1 du code forestier ayant pour objet des opérations d'urbanisation ou d'implantation industrielle ou d'exploitation de matériaux. </td>
 <td align="left" valign="top"/>
 </tr>
 <tr>
