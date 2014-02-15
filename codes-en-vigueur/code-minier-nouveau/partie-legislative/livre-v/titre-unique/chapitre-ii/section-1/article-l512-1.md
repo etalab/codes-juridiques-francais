@@ -18,6 +18,12 @@ I. ― Est puni d'une peine d'emprisonnement de deux ans et d'une amende de 30 0
 
 8° De refuser d'obtempérer aux réquisitions prévues par les articles L. 175-3 ou L. 152-1 ;
 
-9° D'exploiter une mine soumise à une obligation de constitution de garanties financières sans avoir constitué ou communiqué au représentant de l'Etat dans le département les garanties financières requises.
+9° D'exploiter une mine soumise à une obligation de constitution de garanties financières sans avoir constitué ou communiqué au représentant de l'Etat dans le département les garanties financières requises ;
 
-II. - Le 7° et le 8° du I ne sont pas applicables aux stockages souterrains mentionnés à l'article L. 211-2.
+10° (abrogé) ;
+
+11° De détenir du mercure ou tout ou partie d'un concasseur ou d'un corps de pompe, depuis plus d'un mois, sans détenir le récépissé de déclaration prévu à l'article L. 621-13 ;
+
+12° De transporter du mercure ou tout ou partie d'un concasseur ou d'un corps de pompe sans détenir la copie du récépissé de déclaration prévue à l'article L. 621-14.
+
+II.-Le 7° et le 8° du I ne sont pas applicables aux stockages souterrains mentionnés à l'article L. 211-2.
