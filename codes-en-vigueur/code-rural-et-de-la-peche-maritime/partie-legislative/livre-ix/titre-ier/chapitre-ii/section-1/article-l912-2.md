@@ -10,7 +10,8 @@ c) De participer à la réalisation d'actions économiques et sociales en faveur
 
 d) De participer à la mise en œuvre des politiques publiques de protection et de mise en valeur de l'environnement, afin notamment de favoriser une gestion durable de la pêche maritime et des élevages marins ;
 
-e) D'exercer, dans le secteur de la pêche maritime et des élevages marins, les fonctions prévues à l'article L. 342-2 du code de la recherche ;
+e) D'exercer, dans le secteur de la pêche maritime et des élevages marins, les fonctions prévues à l'article L. 521-2 du code de la recherche
+;
 
 f) D'émettre des avis sur les questions dont il peut être saisi dans le cadre de l'élaboration des dispositions législatives et réglementaires applicables aux équipages et salariés de la pêche maritime et des élevages marins, notamment en matière de sécurité, de formation et de promotion des métiers ;
 
