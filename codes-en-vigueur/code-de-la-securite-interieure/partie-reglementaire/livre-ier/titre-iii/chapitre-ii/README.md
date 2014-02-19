@@ -6,3 +6,4 @@
 - [Section 4 : Conseil intercommunal de sécurité  et de prévention de la délinquance](section-4)
 - [Section 5 : Plan de prévention de la délinquance  dans le département](section-5)
 - [Section 6 : Dispositions particulières à Paris](section-6)
+- [Section 7 : Dispositions particulières au département des Bouches-du-Rhône](section-7)
