@@ -2,7 +2,7 @@
 
 Le commissaire général à la mobilisation industrielle est chargé de préparer dès le temps de paix et de coordonner en temps de guerre l'activité des entreprises industrielles.
 
-Au titre des délégations prévues à l'article D. 1142-21, il dresse le plan d'emploi de ces entreprises pour le temps de guerre et, après avis du comité de mobilisation industrielle, le soumet à l'approbation du ministre chargé de l'industrie.
+Au titre des délégations prévues à l'article D. 1142-21, il dresse le plan d'emploi de ces entreprises pour le temps de guerre et le soumet à l'approbation du ministre chargé de l'industrie.
 
 En liaison avec les ministres intéressés :
 
