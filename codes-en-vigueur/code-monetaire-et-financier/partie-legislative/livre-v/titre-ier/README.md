@@ -1,4 +1,4 @@
-# Titre Ier : Prestataires de services bancaire
+# Titre Ier : Prestataires de services bancaires
 
 - [Chapitre Ier : Dispositions générales](chapitre-ier)
 - [Chapitre II : Les banques mutualistes ou coopératives](chapitre-ii)

@@ -1,4 +1,4 @@
-# Section 7 : Dispositions prudentielles et contrôle interne
+# Section 7 : Dispositions prudentielles
 
 - [Article L511-40](article-l511-40.md)
 - [Article L511-41](article-l511-41.md)
