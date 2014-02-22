@@ -18,7 +18,7 @@ Le secrétaire général de l'Autorité de contrôle prudentiel et de résolutio
 
 8° Aux institutions de gestion de retraite supplémentaire qui lui sont liées ;
 
-9° Aux agents et aux personnes auxquelles des fonctions opérationnelles importantes ou essentielles sont confiées.
+9° Aux agents et aux personnes auxquelles sont confiées des fonctions ou activités opérationnelles.
 
 Les faits recueillis à l'occasion de cette extension du contrôle peuvent être communiqués par le secrétaire général à la personne mentionnée au premier alinéa du présent article sans que puisse y faire obstacle le secret professionnel mentionné à l'article L. 612-17.
 

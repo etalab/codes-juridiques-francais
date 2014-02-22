@@ -11,3 +11,5 @@ Les nominations effectuées par le conseil, en application du troisième alinéa
 Lorsque le conseil néglige de procéder aux nominations requises ou si l'assemblée n'est pas convoquée, tout intéressé peut demander en justice la désignation d'un mandataire chargé de convoquer l'assemblée générale à l'effet de procéder aux nominations ou de ratifier les nominations prévues au troisième alinéa du présent I.
 
 II.-En cas de cessation du mandat du président, le conseil d'administration ou le conseil de surveillance peut déléguer un administrateur ou un membre du conseil de surveillance dans les fonctions de président. Cette délégation est donnée pour une durée limitée et n'est pas renouvelable. Elle doit faire l'objet d'une notification auprès de l'Autorité de contrôle prudentiel et de résolution, dans les conditions fixées à l'article L. 612-23-1.
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent article.

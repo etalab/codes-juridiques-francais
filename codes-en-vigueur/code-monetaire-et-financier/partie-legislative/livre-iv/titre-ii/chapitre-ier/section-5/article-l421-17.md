@@ -14,7 +14,7 @@ d) Et détiennent des ressources suffisantes pour faire face à leurs obligation
 
 Les membres du marché ne sont pas tenus de respecter, les uns vis-à-vis des autres, les obligations énoncées aux articles L. 533-11 à L. 533-16, L. 533-18 et L. 533-19 pour ce qui concerne les transactions conclues sur le marché réglementé.
 
-Les règles du marché doivent autoriser l'admission directe ou à distance des prestataires de services d'investissement agréés dans un autre Etat membre de la Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen.
+Les règles du marché doivent autoriser l'admission directe ou à distance des prestataires de services d'investissement agréés dans un autre Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen.
 
 L'entreprise de marché communique régulièrement la liste des membres du marché réglementé à l'Autorité des marchés financiers.
 

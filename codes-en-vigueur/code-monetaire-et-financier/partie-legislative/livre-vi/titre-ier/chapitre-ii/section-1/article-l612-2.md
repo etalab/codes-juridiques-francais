@@ -18,7 +18,9 @@ d) Les personnes habilitées à exercer les activités de conservation ou d'admi
 
 3° Les établissements de paiement ;
 
-4° Les compagnies financières et les compagnies financières holding mixtes ;
+4° Les compagnies financières holding et les compagnies financières holding mixtes ;
+
+4° bis Les compagnies holding mixtes pour les seules dispositions qui leur sont applicables en vertu de l'article L. 517-10 ;
 
 5° Les changeurs manuels ;
 
@@ -28,7 +30,11 @@ d) Les personnes habilitées à exercer les activités de conservation ou d'admi
 
 8° Les établissements de monnaie électronique ;
 
-9° Les sociétés de financement.
+9° Les sociétés de financement ;
+
+10° Les entreprises mères de société de financement ;
+
+11° Les entreprises mères mixtes de société de financement pour les seules dispositions qui leur sont applicables en vertu de l'article L. 517-10.
 
 Le contrôle de l'Autorité s'exerce sur l'activité de prestation de services d'investissement des personnes mentionnées aux 1° et 2° sous réserve de la compétence de l'Autorité des marchés financiers en matière de contrôle des règles de bonne conduite et autres obligations professionnelles.
 
@@ -62,4 +68,4 @@ II.-L'Autorité peut soumettre à son contrôle :
 
 Lorsqu'elle a soumis à son contrôle l'une des personnes mentionnées aux 1° à 3° du présent II, la section 2 du chapitre III du présent titre est applicable.
 
-III.-L'Autorité de contrôle prudentiel est chargée de veiller au respect par les personnes mentionnées aux I et II exerçant en France en libre prestation de service ou libre établissement des dispositions qui leur sont applicables, en tenant compte de la surveillance exercée par les autorités compétentes de l'Etat membre où elles ont leur siège social qui sont seules chargées notamment de l'examen de leurs situation financière, conditions d'exploitation, solvabilité et de leur capacité à tenir à tout moment leurs engagements à l'égard de leurs assurés, adhérents, bénéficiaires et entreprises réassurées.
+III.-L'Autorité de contrôle prudentiel est chargée de veiller au respect par les personnes mentionnées aux I et II exerçant en France en libre prestation de service ou libre établissement des dispositions qui leur sont applicables, en tenant compte de la surveillance exercée par les autorités compétentes de l'Etat membre où elles ont leur siège social qui sont seules chargées notamment de l'examen de leurs situation financière, conditions d'exploitation, solvabilité, liquidité et de leur capacité à tenir à tout moment leurs engagements à l'égard de leurs assurés, adhérents, bénéficiaires et entreprises réassurées.
