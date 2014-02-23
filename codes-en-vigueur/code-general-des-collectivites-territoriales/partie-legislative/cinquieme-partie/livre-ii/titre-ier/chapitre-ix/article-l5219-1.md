@@ -1,6 +1,6 @@
 # Article L5219-1
 
-I. ― Il est créé au 1er janvier 2016 un établissement public de coopération intercommunale à fiscalité propre à statut particulier dénommé  la métropole du Grand Paris , qui regroupe :
+I. - Il est créé au 1er janvier 2016 un établissement public de coopération intercommunale à fiscalité propre à statut particulier dénommé la métropole du Grand Paris , qui regroupe :
 
 1° La commune de Paris ;
 
@@ -18,7 +18,7 @@ La métropole du Grand Paris est constituée en vue de la définition et de la m
 
 Ce projet métropolitain définit les orientations générales de la politique conduite par la métropole du Grand Paris. Il participe à la mise en œuvre du schéma directeur de la région d'Ile-de-France. Il comporte un diagnostic général, social, économique et environnemental du territoire métropolitain, des orientations stratégiques pour le développement de la métropole ainsi que des domaines d'intervention prioritaires. Le projet métropolitain peut être élaboré avec l'appui de l'Agence foncière et technique de la région parisienne, de l'Atelier international du Grand Paris, des agences d'urbanisme et de toute autre structure utile.
 
-II. ― La métropole du Grand Paris est soumise au chapitre VII du présent titre Ier, sous réserve des dispositions du présent chapitre. Elle exerce de plein droit, en lieu et place de ses communes membres, les compétences suivantes :
+II. - La métropole du Grand Paris est soumise au chapitre VII du présent titre Ier, sous réserve des dispositions du présent chapitre. Elle exerce de plein droit, en lieu et place de ses communes membres, les compétences suivantes :
 
 1° En matière d'aménagement de l'espace métropolitain :
 
@@ -38,9 +38,11 @@ d) Aménagement, entretien et gestion des aires d'accueil des gens du voyage ;
 
 3° En matière de politique de la ville :
 
-a) Dispositifs contractuels de développement urbain, de développement local et d'insertion économique et sociale ;
+a) Elaboration du diagnostic du territoire et définition des orientations du contrat de ville ;
 
-b) Dispositifs locaux de prévention de la délinquance ;
+b) Animation et coordination des dispositifs contractuels de développement urbain, de développement local et d'insertion économique et sociale ainsi que des dispositifs locaux de prévention de la délinquance ;
+
+c) Programmes d'actions définis dans le contrat de ville ;
 
 4° En matière de développement et d'aménagement économique, social et culturel :
 
@@ -70,9 +72,9 @@ Lorsque l'exercice des compétences mentionnées au présent II est subordonné 
 
 Les actions de développement économique de la métropole prennent en compte les orientations définies par le conseil régional.
 
-III. ― Les communes membres de la métropole du Grand Paris peuvent transférer à celle-ci certaines de leurs compétences dans les conditions prévues à l'article L. 5211-17. Pour l'application du même article L. 5211-17, les conditions de majorité requises sont celles prévues au II de l'article L. 5211-5.
+III. - Les communes membres de la métropole du Grand Paris peuvent transférer à celle-ci certaines de leurs compétences dans les conditions prévues à l'article L. 5211-17. Pour l'application du même article L. 5211-17, les conditions de majorité requises sont celles prévues au II de l'article L. 5211-5.
 
-IV. ― La métropole du Grand Paris élabore un plan local d'urbanisme dans les conditions prévues au chapitre III du titre II du livre Ier du code de l'urbanisme, sous réserve des dispositions du présent IV. Le plan regroupe les plans de territoire élaborés par les conseils de territoire qui tiennent lieu de plans de secteur au sens de l'article L. 123-1-1-1 du même code.
+IV. - La métropole du Grand Paris élabore un plan local d'urbanisme dans les conditions prévues au chapitre III du titre II du livre Ier du code de l'urbanisme, sous réserve des dispositions du présent IV. Le plan regroupe les plans de territoire élaborés par les conseils de territoire qui tiennent lieu de plans de secteur au sens de l'article L. 123-1-1-1 du même code.
 
 Le conseil de la métropole élabore le rapport de présentation et le projet d'aménagement et de développement durables. En cohérence avec ces documents, les conseils de territoire élaborent dans un délai de vingt-quatre mois un plan de territoire sur leur périmètre, qui précise les orientations d'aménagement et de programmation ainsi que le règlement spécifiques à ce territoire.
 
@@ -88,7 +90,7 @@ Le plan est compatible avec le schéma directeur de la région d'Ile-de-France e
 
 Un décret en Conseil d'Etat précise les conditions d'application du présent IV.
 
-V. ― La métropole du Grand Paris définit et met en œuvre des programmes d'action en vue de lutter contre la pollution de l'air et de favoriser la transition énergétique, notamment en améliorant l'efficacité énergétique des bâtiments et en favorisant le développement des énergies renouvelables et celui de l'action publique pour la mobilité durable.
+V. - La métropole du Grand Paris définit et met en œuvre des programmes d'action en vue de lutter contre la pollution de l'air et de favoriser la transition énergétique, notamment en améliorant l'efficacité énergétique des bâtiments et en favorisant le développement des énergies renouvelables et celui de l'action publique pour la mobilité durable.
 
 La métropole du Grand Paris élabore un plan métropolitain de l'habitat et de l'hébergement. Ce plan est compatible avec le schéma directeur de la région d'Ile-de-France et prend en compte le schéma régional de l'habitat et de l'hébergement en Ile-de-France. Il tient lieu de programme local de l'habitat et poursuit, à ce titre, les objectifs énoncés à l'article L. 302-1 du code de la construction et de l'habitation. Il comporte également une programmation pluriannuelle de réalisation et de rénovation de places d'accueil et de services associés en faveur de l'insertion des personnes sans domicile fixe et des populations les plus fragilisées.
 
@@ -110,7 +112,7 @@ La métropole du Grand Paris peut également proposer à l'Etat, pour la réalis
 
 L'Etat peut mettre à la disposition de la métropole du Grand Paris les établissements publics d'aménagement de l'Etat.
 
-VI. ― Afin de favoriser la construction de logements neufs, la réhabilitation des logements anciens et la résorption de l'habitat indigne, l'Etat peut déléguer par convention à la métropole du Grand Paris, sur sa demande, dès lors qu'elle dispose d'un plan métropolitain de l'habitat et de l'hébergement exécutoire, la totalité des compétences suivantes, sans pouvoir les dissocier :
+VI. - Afin de favoriser la construction de logements neufs, la réhabilitation des logements anciens et la résorption de l'habitat indigne, l'Etat peut déléguer par convention à la métropole du Grand Paris, sur sa demande, dès lors qu'elle dispose d'un plan métropolitain de l'habitat et de l'hébergement exécutoire, la totalité des compétences suivantes, sans pouvoir les dissocier :
 
 1° L'attribution des aides au logement locatif social et la notification aux bénéficiaires, ainsi que, par délégation de l'Agence nationale de l'habitat, l'attribution des aides en faveur de l'habitat privé et la signature des conventions mentionnées à l'article L. 321-4 du code de la construction et de l'habitation ;
 
