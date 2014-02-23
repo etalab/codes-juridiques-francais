@@ -6,11 +6,13 @@ I.-La communauté de communes exerce de plein droit au lieu et place des commune
 
 2° Actions de développement économique intéressant l'ensemble de la communauté. Quand la communauté de communes opte pour le régime fiscal défini à l'article 1609 nonies C du code général des impôts, l'aménagement, la gestion et l'entretien des zones d'activité industrielle, commerciale, tertiaire, artisanale, touristique, portuaire ou aéroportuaire d'intérêt communautaire sont inclus dans cette compétence ;
 
-II.-La communauté de communes doit par ailleurs exercer dans les mêmes conditions des compétences relevant d'au moins trois des six groupes suivants :
+II.-La communauté de communes doit par ailleurs exercer dans les mêmes conditions des compétences relevant d'au moins trois des sept groupes suivants :
 
 1° Protection et mise en valeur de l'environnement, le cas échéant dans le cadre de schémas départementaux et soutien aux actions de maîtrise de la demande d'énergie ;
 
 2° Politique du logement et du cadre de vie ;
+
+2° bis En matière de politique de la ville : élaboration du diagnostic du territoire et définition des orientations du contrat de ville ; animation et coordination des dispositifs contractuels de développement urbain, de développement local et d'insertion économique et sociale ainsi que des dispositifs locaux de prévention de la délinquance ; programmes d'actions définis dans le contrat de ville ;
 
 3° Création, aménagement et entretien de la voirie ;
 

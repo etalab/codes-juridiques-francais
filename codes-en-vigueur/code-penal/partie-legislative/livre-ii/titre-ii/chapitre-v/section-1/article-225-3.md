@@ -10,4 +10,8 @@ Les dispositions de l'article précédent ne sont pas applicables :
 
 4° Aux discriminations fondées, en matière d'accès aux biens et services, sur le sexe lorsque cette discrimination est justifiée par la protection des victimes de violences à caractère sexuel, des considérations liées au respect de la vie privée et de la décence, la promotion de l'égalité des sexes ou des intérêts des hommes ou des femmes, la liberté d'association ou l'organisation d'activités sportives ;
 
-5° Aux refus d'embauche fondés sur la nationalité lorsqu'ils résultent de l'application des dispositions statutaires relatives à la fonction publique.
+5° Aux refus d'embauche fondés sur la nationalité lorsqu'ils résultent de l'application des dispositions statutaires relatives à la fonction publique ;
+
+6° Aux discriminations liées au lieu de résidence lorsque la personne chargée de la fourniture d'un bien ou service se trouve en situation de danger manifeste.
+
+Les mesures prises en faveur des personnes résidant dans certaines zones géographiques et visant à favoriser l'égalité de traitement ne constituent pas une discrimination.
