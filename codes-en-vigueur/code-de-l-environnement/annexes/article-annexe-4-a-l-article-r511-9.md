@@ -1535,7 +1535,7 @@
 <td/>
 </tr>
 <tr>
-<td rowspan="9" valign="top" width="21">
+<td rowspan="10" valign="top" width="21">
 <p>2564 </p>
 </td>
 <td valign="top" width="437">
@@ -1679,6 +1679,13 @@
 <td/>
 </tr>
 <tr>
+<td/>
+<td/>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
 <td rowspan="10" valign="top" width="21">
 <p>2565 </p>
 </td>
@@ -1700,81 +1707,102 @@
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top" width="437">
 <p>1. Lorsqu'il y a mise en œuvre : </p>
 </td>
-<td>
-<p align="center">A<br/>
-</p>
+<td valign="top" width="32">
+<br/>
 </td>
-<td>
-<p align="center">1<br/>
-</p>
+<td valign="top" width="29"/>
+<td valign="top" width="155">
+<p align="left">1. Quelle que soit la capacité</p>
 </td>
-<td>
-<p align="left">1. Quelle que soit la capacité </p>
-</td>
-<td>
+<td valign="top" width="26">
 <p align="center">4</p>
 </td>
 </tr>
 <tr>
-<td>
-<p>a) De cadmium </p>
+<td valign="top" width="437">
+<p>a) De cadmium</p>
 </td>
-<td>
+<td valign="top" width="32">
 <p align="center">A</p>
 </td>
-<td>
+<td valign="top" width="29">
 <p align="center">1</p>
 </td>
-<td/>
-<td/>
+<td valign="top" width="155">
+<p align="left">1.a. Lorsqu'il y a mise en œuvre de cadmium </p>
+</td>
+<td valign="top" width="26">
+<p align="center">1</p>
+</td>
 </tr>
 <tr>
-<td>
+<td valign="top" width="437">
 <p>b) De cyanures, le volume des cuves étant supérieur à 200 l </p>
 </td>
-<td/>
-<td/>
-<td/>
-<td/>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">2. Procédés utilisant des liquides (sans mise en œuvre de cadmium ni de cyanures, et à l'exclusion de la vibro-abrasion), le volume des cuves de traitement étant : </p>
+<td valign="top" width="32">
+<p align="center">A </p>
 </td>
-<td align="left" valign="top"/>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
-<p align="left">2. Le volume des cuves de traitement étant : </p>
+<td valign="top" width="29">
+<p align="center">1 </p>
 </td>
-<td align="left" valign="top"/>
-</tr>
-<tr>
-<td>
-<p>a) Supérieur à 1 500 l </p>
+<td valign="top" width="155">
+<p align="left">1.b. Lorsqu'il y a mise en œuvre de cyanures, le volume des cuves étant supérieur à 200 l <br/>
+</p>
 </td>
-<td>
-<p align="center">A</p>
-</td>
-<td>
-<p align="center">1</p>
-</td>
-<td>a) supérieur à 25 000 l </td>
-<td>
-<p align="center">4<br/>
+<td valign="top" width="26">
+<p align="center">1<br/>
 </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top"/>
-<td align="left" valign="top"/>
-<td align="left" valign="top"/>
-<td align="left" valign="top">
+<td valign="top" width="437">
+<p align="left">2. Procédés utilisant des liquides (sans mise en œuvre de cadmium ni de cyanures, et à l'exclusion de la vibro-abrasion), le volume des cuves de traitement étant : </p>
+</td>
+<td valign="top" width="32">
+<br/>
+<br/>
+</td>
+<td valign="top" width="29">
+<br/>
+<br/>
+</td>
+<td valign="top" width="155">
+<p align="left">2. Le volume des cuves de traitement étant : </p>
+</td>
+<td valign="top" width="26">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="437">
+<p>a) Supérieur à 1 500 l</p>
+</td>
+<td valign="top" width="32">
+<p align="center">A</p>
+</td>
+<td valign="top" width="29">
+<p align="center">1<br/>
+</p>
+</td>
+<td valign="top" width="155">
+<p align="left">a) supérieur à 25 000 l </p>
+</td>
+<td valign="top" width="26">
+<p align="center">4</p>
+</td>
+</tr>
+<tr>
+<td/>
+<td/>
+<td/>
+<td>
 <p align="left">supérieur à 5 000 l, mais inférieur ou égal à 25 000 l </p>
 </td>
-<td align="left" valign="top">
+<td>
 <p align="center">1</p>
 </td>
 </tr>
@@ -1783,7 +1811,9 @@
 <p align="left">b) Supérieur à 200 l, mais inférieur ou égal à 1 500 l <br/>
 </p>
 </td>
-<td align="center">DC</td>
+<td align="center">
+<p align="center">DC</p>
+</td>
 <td/>
 <td/>
 <td/>
@@ -1852,8 +1882,9 @@
 </td>
 <td/>
 <td/>
-<td/>
-<td/>
+<td>1. La capacité volumique du four étant supérieure à 2 000 l </td>
+<td align="center">1<br/>
+</td>
 </tr>
 <tr>
 <td>
@@ -1887,8 +1918,10 @@
 <td align="left" valign="top">
 <p align="center">1</p>
 </td>
-<td align="left" valign="top"/>
-<td align="left" valign="top"/>
+<td align="left" valign="top">2. Quelle que soit la capacité <br/>
+</td>
+<td align="center" valign="top">1<br/>
+</td>
 </tr>
 <tr>
 <td rowspan="7" valign="top" width="21">
@@ -6493,8 +6526,10 @@
 </td>
 <td align="center">3<br/>
 </td>
-<td/>
-<td/>
+<td>a. Quelle que soit la capacité<br/>
+</td>
+<td align="center">3<br/>
+</td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -6508,8 +6543,10 @@
 <p align="center">3<br/>
 </p>
 </td>
-<td align="left" valign="top"/>
-<td align="left" valign="top"/>
+<td align="left" valign="top">b. Quelle que soit la capacité<br/>
+</td>
+<td align="center" valign="top">3<br/>
+</td>
 </tr>
 <tr>
 <td align="left" valign="top">
