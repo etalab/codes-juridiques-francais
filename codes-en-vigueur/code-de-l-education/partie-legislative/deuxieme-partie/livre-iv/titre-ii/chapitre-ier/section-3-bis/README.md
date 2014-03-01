@@ -1,0 +1,15 @@
+# Section 3 bis : Dispositions particulières relatives à l'Ecole européenne de Strasbourg
+
+- [Article L421-19-1](article-l421-19-1.md)
+- [Article L421-19-2](article-l421-19-2.md)
+- [Article L421-19-3](article-l421-19-3.md)
+- [Article L421-19-4](article-l421-19-4.md)
+- [Article L421-19-5](article-l421-19-5.md)
+- [Article L421-19-6](article-l421-19-6.md)
+- [Article L421-19-7](article-l421-19-7.md)
+- [Article L421-19-8](article-l421-19-8.md)
+- [Article L421-19-9](article-l421-19-9.md)
+- [Article L421-19-10](article-l421-19-10.md)
+- [Article L421-19-11](article-l421-19-11.md)
+- [Article L421-19-12](article-l421-19-12.md)
+- [Article L421-19-13](article-l421-19-13.md)
