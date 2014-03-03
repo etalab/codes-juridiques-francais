@@ -2884,10 +2884,17 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td/>
 </tr>
 <tr>
-<td>BP JEPS, spécialité basket-ball . <br clear="none"/>
+<td>BP JEPS, spécialité "basket-ball". <br clear="none"/>
 </td>
 <td>
 <br clear="none"/>Encadrement, enseignement et animation d'activités de découverte, de loisir et d'initiation. Conduite de cycles d'apprentissage jusqu'aux premiers niveaux de compétition en basket-ball.</td>
+<td/>
+</tr>
+<tr>
+<td>BP JEPS, spécialité "patinage sur glace".<br clear="none"/>
+</td>
+<td>Encadrement, enseignement et animation d'activités de découverte, de loisir et d'initiation. Conduite de cycles d'apprentissage jusqu'aux premiers niveaux de compétition en patinage sur glace. <br clear="none"/>
+</td>
 <td/>
 </tr>
 <tr>
@@ -3879,6 +3886,36 @@ E-2. Certificats de qualification délivrés par la Commission paritaire nationa
 <tr>
 <td>CQP technicien sportif de cheerleading . </td>
 <td>Encadrement en autonomie de séances d'entraînement en cheerleading pour tout public.</td>
+<td/>
+</tr>
+<tr>
+<td>CQP "moniteur de canoë-kayak", option "canoë-kayak en eau calme et en eau vive". <br clear="none"/>
+</td>
+<td>Encadrement en autonomie du canoë-kayak en eau calme et en eau vive pour tout public, sur tout support ou embarcation propulsée à la pagaie dans les conditions techniques et de sécurité définies aux articles A. 322-42 et suivants du code du sport.<br clear="none"/>
+</td>
+<td>A l'exclusion du raft.<p>Jusqu'en classe II incluse, avec des passages de classe III non successifs.</p>
+</td>
+</tr>
+<tr>
+<td>CQP "moniteur de canoë-kayak", option "canoë-kayak en eau calme et en mer".<br clear="none"/>
+</td>
+<td>Encadrement en autonomie du canoë-kayak en eau calme et en mer pour tout public, sur tout support ou embarcation propulsée à la pagaie dans les conditions techniques et de sécurité définies aux articles A. 322-42 et suivants du code du sport.<br clear="none"/>
+</td>
+<td>Jusqu'à 1 mille d'un abri.<p>Par vent de force 3 Beaufort maximum sur le site d'évolution.</p>
+</td>
+</tr>
+<tr>
+<td>CQP "technicien sportif de rugby à XV ". <br clear="none"/>
+</td>
+<td>Encadrement en autonomie de séances d'entraînement en rugby à XV des catégories de moins de 15 ans, jusqu'en fédérale 2.<br clear="none"/>
+</td>
+<td/>
+</tr>
+<tr>
+<td>CQP "animateur de patinoire", option " hockey sur glace".<br clear="none"/>
+</td>
+<td>Encadrement en autonomie de séances d'initiation et de découverte des activités en patinoire.<p>Encadrement en autonomie du hockey sur glace jusqu'aux premiers niveaux de compétition, pour un public de moins de treize ans.</p>
+</td>
 <td/>
 </tr>
 </tbody>
