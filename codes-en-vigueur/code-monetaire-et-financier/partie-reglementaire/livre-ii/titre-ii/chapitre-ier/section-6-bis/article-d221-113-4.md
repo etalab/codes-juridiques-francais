@@ -1,4 +1,4 @@
-# Article D221-112
+# Article D221-113-4
 
 La Banque de France collecte auprès des teneurs de compte-conservateurs, dans le cadre des dispositions de l'article L. 141-7, des informations statistiques relatives aux plans d'épargne en actions, définies par arrêté du ministre chargé de l'économie.
 
