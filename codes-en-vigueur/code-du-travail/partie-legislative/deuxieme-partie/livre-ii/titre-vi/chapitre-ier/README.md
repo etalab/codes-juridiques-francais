@@ -7,3 +7,4 @@
 - [Section 5 : Dénonciation](section-5)
 - [Section 6 : Mise en cause.](section-6)
 - [Section 7 : Extension et élargissement](section-7)
+- [Section 8 : Restructuration des branches professionnelles](section-8)

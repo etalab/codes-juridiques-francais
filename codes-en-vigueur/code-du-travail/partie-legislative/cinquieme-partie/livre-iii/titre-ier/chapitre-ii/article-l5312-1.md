@@ -1,6 +1,6 @@
 # Article L5312-1
 
-Une institution nationale publique dotée de la personnalité morale et de l'autonomie financière a pour mission de :
+Pôle emploi est une institution nationale publique dotée de la personnalité morale et de l'autonomie financière qui a pour mission de :
 
 1° Prospecter le marché du travail, développer une expertise sur l'évolution des emplois et des qualifications, procéder à la collecte des offres d'emploi, aider et conseiller les entreprises dans leur recrutement, assurer la mise en relation entre les offres et les demandes d'emploi et participer activement à la lutte contre les discriminations à l'embauche et pour l'égalité professionnelle ;
 
@@ -14,4 +14,4 @@ Une institution nationale publique dotée de la personnalité morale et de l'aut
 
 6° Mettre en œuvre toutes autres actions qui lui sont confiées par l'Etat, les collectivités territoriales et l'organisme gestionnaire du régime d'assurance chômage en relation avec sa mission.
 
-L'institution nationale agit en collaboration avec les instances territoriales intervenant dans le domaine de l'emploi, en particulier les maisons de l'emploi, ainsi qu'avec les associations nationales et les réseaux spécialisés d'accueil et d'accompagnement, par des partenariats adaptés.
+Pôle emploi agit en collaboration avec les instances territoriales intervenant dans le domaine de l'emploi, en particulier les maisons de l'emploi, ainsi qu'avec les associations nationales et les réseaux spécialisés d'accueil et d'accompagnement, par des partenariats adaptés.
