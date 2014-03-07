@@ -10,4 +10,6 @@ En ce qui concerne les personnes handicapées, des aménagements sont apportés 
 
 4° L. 6222-19, relatif à la rupture du contrat avant le terme fixé en cas d'obtention du diplôme ou du titre préparé ;
 
-5° L. 6223-3 et L. 6223-4, relatifs aux obligations de l'employeur en matière de formation.
+5° L. 6223-3 et L. 6223-4, relatifs aux obligations de l'employeur en matière de formation ;
+
+6° Et du second alinéa de l'article L. 6222-24, relatif à la durée du temps de travail dans l'entreprise.

@@ -4,7 +4,7 @@ Il est créé, au sein de l'institution mentionnée à l'article L. 5312-1, un m
 
 Le médiateur national est le correspondant du Défenseur des droits.
 
-Il remet chaque année au conseil d'administration de l'institution mentionnée à l'article L. 5312-1 un rapport dans lequel il formule les propositions qui lui paraissent de nature à améliorer le fonctionnement du service rendu aux usagers. Ce rapport est transmis au ministre chargé de l'emploi, au Conseil national de l'emploi mentionné à l'article L. 5112-1 et au Défenseur des droits.
+Il remet chaque année au conseil d'administration de l'institution mentionnée à l'article L. 5312-1 un rapport dans lequel il formule les propositions qui lui paraissent de nature à améliorer le fonctionnement du service rendu aux usagers. Ce rapport est transmis au ministre chargé de l'emploi, au Conseil national de l'emploi, de la formation et de l'orientation professionnelles mentionné à l'article L. 6123-1 et au Défenseur des droits.
 
 En dehors de celles qui mettent en cause l'institution mentionnée à l'article L. 5312-1, les réclamations qui relèvent de la compétence du Défenseur des droits en application de la loi organique n° 2011-333 du 29 mars 2011 relative au Défenseur des droits sont transmises à ce dernier.
 

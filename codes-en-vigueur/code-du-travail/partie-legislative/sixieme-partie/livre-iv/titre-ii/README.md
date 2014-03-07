@@ -2,3 +2,4 @@
 
 - [Chapitre Ier : Garanties.](chapitre-ier)
 - [Chapitre II : Congé pour validation des acquis de l'expérience](chapitre-ii)
+- [Chapitre III : Accompagnement à la validation       des acquis de l'expérience](chapitre-iii)

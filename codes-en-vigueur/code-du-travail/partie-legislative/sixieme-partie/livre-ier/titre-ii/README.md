@@ -2,4 +2,4 @@
 
 - [Chapitre Ier : Rôle des régions.](chapitre-ier)
 - [Chapitre II : Rôle de l'Etat.](chapitre-ii)
-- [Chapitre III : Institutions de la formation professionnelle](chapitre-iii)
+- [Chapitre III : Coordination des politiques de l'emploi, de l'orientation et de la formation professionnelles](chapitre-iii)

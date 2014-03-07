@@ -12,3 +12,5 @@
 - [Article L6313-10](article-l6313-10.md)
 - [Article L6313-11](article-l6313-11.md)
 - [Article L6313-12](article-l6313-12.md)
+- [Article L6313-13](article-l6313-13.md)
+- [Article L6313-14](article-l6313-14.md)

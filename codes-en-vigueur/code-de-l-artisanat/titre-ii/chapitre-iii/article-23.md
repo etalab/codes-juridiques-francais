@@ -36,7 +36,7 @@ Les chambres de métiers et de l'artisanat de région peuvent également prêter
 
 II.-Les chambres de métiers et de l'artisanat de région peuvent être consultées par les pouvoirs publics sur toute question relative à l'artisanat, au développement économique, à la formation professionnelle et à l'aménagement du territoire dans leur région. Elles peuvent, de leur propre initiative, émettre des avis et des vœux sur ces questions.
 
-Elles peuvent être consultées par le conseil régional sur le schéma régional d'aménagement et de développement du territoire mentionné à l'article L. 4251-1 du code général des collectivités territoriales, sur le contrat de plan régional de développement des formations professionnelles mentionné à l'article L. 214-13 du code de l'éducation et, plus généralement, sur tout dispositif d'appui aux entreprises dont la région envisage la création.
+Elles peuvent être consultées par le conseil régional sur le schéma régional d'aménagement et de développement du territoire mentionné à l'article L. 4251-1 du code général des collectivités territoriales, sur le contrat de plan régional de développement des formations et de l'orientation professionnelles mentionné à l'article L. 214-13 du code de l'éducation et, plus généralement, sur tout dispositif d'appui aux entreprises dont la région envisage la création.
 
 Elles peuvent être consultées, à leur demande, sur l'élaboration des schémas de cohérence territoriale et des plans locaux d'urbanisme mentionnés à l'article L. 121-4 du code de l'urbanisme et peuvent réaliser, de leur propre initiative, les études économiques nécessaires à la préparation des documents prévisionnels d'organisation artisanale.
 

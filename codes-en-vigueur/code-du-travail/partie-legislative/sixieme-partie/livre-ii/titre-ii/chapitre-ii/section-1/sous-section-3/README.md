@@ -1,6 +1,7 @@
 # Sous-section 3 : Durée du contrat.
 
 - [Article L6222-7](article-l6222-7.md)
+- [Article L6222-7-1](article-l6222-7-1.md)
 - [Article L6222-8](article-l6222-8.md)
 - [Article L6222-9](article-l6222-9.md)
 - [Article L6222-10](article-l6222-10.md)
