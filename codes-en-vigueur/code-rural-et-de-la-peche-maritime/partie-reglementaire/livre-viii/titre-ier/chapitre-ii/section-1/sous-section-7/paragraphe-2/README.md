@@ -1,0 +1,18 @@
+# Paragraphe 2 : Composition des juridictions disciplinaires statuant en premier ressort
+
+- [Article R812-24-3](article-r812-24-3.md)
+- [Article R812-24-4](article-r812-24-4.md)
+- [Article R812-24-5](article-r812-24-5.md)
+- [Article R812-24-6](article-r812-24-6.md)
+- [Article R812-24-7](article-r812-24-7.md)
+- [Article R812-24-8](article-r812-24-8.md)
+- [Article R812-24-9](article-r812-24-9.md)
+- [Article R812-24-10](article-r812-24-10.md)
+- [Article R812-24-11](article-r812-24-11.md)
+- [Article R812-24-12](article-r812-24-12.md)
+- [Article R812-24-13](article-r812-24-13.md)
+- [Article R812-24-14](article-r812-24-14.md)
+- [Article R812-24-15](article-r812-24-15.md)
+- [Article R812-24-16](article-r812-24-16.md)
+- [Article R812-24-17](article-r812-24-17.md)
+- [Article R812-24-18](article-r812-24-18.md)

@@ -6,3 +6,4 @@
 - [Sous-section 4 : Conseils consultatifs](sous-section-4)
 - [Sous-section 5 : Dispositions communes au conseil d'administration et aux conseils consultatifs](sous-section-5)
 - [Sous-section 6 : Régime financier](sous-section-6)
+- [Sous-section 7  : Discipline](sous-section-7)
