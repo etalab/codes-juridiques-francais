@@ -931,7 +931,9 @@ Les industries dans lesquelles sont utilisées les matières susceptibles d'alt�
 <td valign="top" width="321"/>
 </tr>
 <tr>
-<td> Bricolage (établissements de commerce de détail) (1)</td>
+<td>
+<p align="left">Bricolage (établissements de commerce de détail).</p>
+</td>
 <td/>
 </tr>
 <tr>
