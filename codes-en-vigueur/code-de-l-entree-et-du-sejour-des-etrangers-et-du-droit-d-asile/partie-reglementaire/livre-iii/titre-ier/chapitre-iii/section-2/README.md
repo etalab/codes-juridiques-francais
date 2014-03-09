@@ -8,5 +8,5 @@
 - [Sous-section 5 : La carte de séjour temporaire autorisant l'exercice d'une activité professionnelle.](sous-section-5)
 - [Sous-section 6 : La carte de séjour temporaire portant la mention "vie privée et familiale"](sous-section-6)
 - [Sous-section 7 : L'admission exceptionnelle au séjour.](sous-section-7)
-- [Sous-section 8 : La carte de séjour temporaire délivrée au ressortissant de pays tiers titulaire du statut de résident de longue durée-CE dans un autre Etat membre de l'Union européenne](sous-section-8)
-- [Sous-section 9 : Avis du maire de la commune de résidence du ressortissant de pays tiers titulaire du statut de résident de longue durée-CE dans un autre Etat membre de l'Union européenne et des membres de sa famille](sous-section-9)
+- [Sous-section 8 : La carte de séjour temporaire délivrée au ressortissant de pays tiers titulaire du statut de résident de longue durée-UE dans un autre Etat membre de l'Union européenne](sous-section-8)
+- [Sous-section 9 : Avis du maire de la commune de résidence du ressortissant de pays tiers titulaire du statut de résident de longue durée-UE dans un autre Etat membre de l'Union européenne et des membres de sa famille](sous-section-9)

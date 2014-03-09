@@ -8,7 +8,7 @@ Le titre de séjour est retiré :
 
 3° Si l'étranger titulaire d'une carte de résident s'est absenté du territoire français pendant une période de plus de trois ans consécutifs sans que cette période ait fait l'objet d'une autorisation de prolongation ;
 
-4° Si l'étranger titulaire d'une carte de résident portant la mention " résident de longue durée-CE " accordée par la France a résidé en dehors du territoire des Etats membres de l'Union européenne pendant une période de plus de trois ans consécutifs sans que cette période ait fait l'objet d'une autorisation de prolongation, ou a résidé en dehors du territoire français pendant une période de plus de six ans consécutifs, ou a acquis le statut de résident de longue durée-CE dans un autre Etat membre de l'Union européenne ;
+4° Si l'étranger titulaire d'une carte de résident portant la mention "     résident de longue durée-UE " accordée par la France a résidé en dehors du territoire des Etats membres de l'Union européenne pendant une période de plus de trois ans consécutifs sans que cette période ait fait l'objet d'une autorisation de prolongation, ou a résidé en dehors du territoire français pendant une période de plus de six ans consécutifs, ou a acquis le statut de     résident de longue durée-UE dans un autre Etat membre de l'Union européenne ;
 
 5° Si son détenteur fait l'objet d'une mesure d'expulsion ;
 
