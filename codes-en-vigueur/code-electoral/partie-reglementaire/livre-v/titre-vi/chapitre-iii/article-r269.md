@@ -1,3 +1,3 @@
 # Article R269
 
-Pour l'application de l'article L. 438, les candidatures doivent être déposées au plus tard le deuxième vendredi qui précède le jour du scrutin, à minuit.
+L'article R. 127-1 est applicable à toutes les communes composées de communes associées.
