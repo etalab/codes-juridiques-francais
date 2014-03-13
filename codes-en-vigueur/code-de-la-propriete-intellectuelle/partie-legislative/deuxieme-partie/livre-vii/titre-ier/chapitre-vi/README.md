@@ -1,5 +1,6 @@
 # Chapitre VI : Contentieux
 
+- [Chapitre VI bis :  La retenue](chapitre-vi-bis)
 - [Article L716-1](article-l716-1.md)
 - [Article L716-2](article-l716-2.md)
 - [Article L716-3](article-l716-3.md)
@@ -8,6 +9,7 @@
 - [Article L716-6](article-l716-6.md)
 - [Article L716-7](article-l716-7.md)
 - [Article L716-7-1](article-l716-7-1.md)
+- [Article L716-7-1 A](article-l716-7-1-a.md)
 - [Article L716-8](article-l716-8.md)
 - [Article L716-8-1](article-l716-8-1.md)
 - [Article L716-8-2](article-l716-8-2.md)
