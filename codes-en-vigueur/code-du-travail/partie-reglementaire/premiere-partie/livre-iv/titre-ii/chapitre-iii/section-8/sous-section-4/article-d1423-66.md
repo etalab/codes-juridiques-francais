@@ -14,8 +14,7 @@ Le nombre d'heures indemnisables qu'un conseiller prud'homme peut déclarer avoi
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Procès-verbal de conciliation </p>
+<p align="left">Procès-verbal de conciliation </p>
 </td>
 <td align="center">
 <p align="center">
@@ -24,8 +23,7 @@ Le nombre d'heures indemnisables qu'un conseiller prud'homme peut déclarer avoi
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Jugement </p>
+<p align="left">Jugement </p>
 </td>
 <td align="center">
 <p align="center">
@@ -34,8 +32,7 @@ Le nombre d'heures indemnisables qu'un conseiller prud'homme peut déclarer avoi
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Ordonnance </p>
+<p align="left">Ordonnance </p>
 </td>
 <td align="center">
 <p align="center">
@@ -45,7 +42,7 @@ Le nombre d'heures indemnisables qu'un conseiller prud'homme peut déclarer avoi
 </tbody>
 </table>
 
-Lorsque le conseiller consacre à la rédaction d'un jugement, d'un procès-verbal de conciliation ou d'une ordonnance un temps supérieur à ces durées, il en réfère au président du bureau de jugement ou de la formation de référé qui saisit sans délai, par requête motivée, le président du conseil de prud'hommes.
+Lorsque le conseiller consacre à la rédaction d'un jugement, d'un procès-verbal de conciliation ou d'une ordonnance un temps supérieur à ces durées, il saisit sans délai le président du conseil de prud'hommes.
 
 Le président du conseil décide de la durée de rédaction dans les huit jours de sa saisine, au vu du dossier et de la copie de la minute après avis du vice-président du conseil. Le temps fixé ne peut être inférieur aux durées fixées au tableau ci-dessus.
 
