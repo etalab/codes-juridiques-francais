@@ -18,8 +18,10 @@ Il sera statué par des décrets en Conseil d'Etat sur les mesures à prendre po
 
 8° Les conditions matérielles dans lesquelles les indications, visées au dernier alinéa de l'article L. 213-4, devront être portées à la connaissance des acheteurs sur les étiquettes, annonces, réclames, papiers de commerce ;
 
-Les décrets prévus au présent article sont pris après avis de l'Agence nationale chargée de la sécurité sanitaire de l'alimentation, de l'environnement et du travail lorsqu'ils portent sur des produits entrant dans son champ de compétence ou qu'ils comportent des dispositions visant à prévenir des risques sanitaires ou nutritionnels. Ces avis sont rendus publics.
-
 9° La traçabilité des marchandises.
 
 10° Les exigences de précision, de vérification et de prise en compte des éléments significatifs du cycle de vie des produits dans l'élaboration des allégations à caractère environnemental ou utilisant les termes de développement durable ou ses synonymes, lorsque ces allégations sont présentées sur les produits destinés à la vente aux consommateurs ou accompagnent leur commercialisation sous forme de mentions sur les emballages, les publications, la publicité, la télémercatique ou d'insertions sur supports numériques ou électroniques.
+
+Les décrets prévus au présent article sont pris après avis de l'agence mentionnée à l'article L. 1313-1 du code de la santé publique lorsqu'ils comportent des dispositions visant à prévenir des risques sanitaires ou nutritionnels. Ces avis sont rendus publics.
+
+Toutefois, l'avant-dernier alinéa du présent article ne s'applique pas aux décrets qui ont pour objet la mise en conformité de la réglementation avec les actes communautaires contraignants.

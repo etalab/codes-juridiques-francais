@@ -1,6 +1,6 @@
 # Article L344-3
 
-Sont exceptées des dispositions des articles L. 322-1 et L. 322-2 :
+Sont exceptées des dispositions des           articles L. 322-1, L. 322-2 et L. 322-2-1 :
 
 1° Les loteries proposées au public dans les casinos autorisés ;
 

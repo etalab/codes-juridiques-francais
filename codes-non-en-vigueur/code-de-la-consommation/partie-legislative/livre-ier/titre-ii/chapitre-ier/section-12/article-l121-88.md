@@ -4,7 +4,7 @@ Le contrat souscrit par un consommateur avec un fournisseur d'électricité ou d
 
 1° La date de prise d'effet du contrat et sa date d'échéance s'il est à durée déterminée ;
 
-2° Les modalités d'exercice du droit de rétractation prévu aux articles L. 121-20 et L. 121-25 ;
+2° Les modalités d'exercice du droit de rétractation prévu aux articles L. 121-21 et L. 121-21-1 ;
 
 3° Les coordonnées du gestionnaire de réseau auquel est raccordé le client ;
 

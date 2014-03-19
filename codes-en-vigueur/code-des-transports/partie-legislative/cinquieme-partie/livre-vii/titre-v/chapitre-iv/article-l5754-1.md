@@ -1,6 +1,6 @@
 # Article L5754-1
 
-Les dispositions du chapitre Ier du titre III du livre IV ne sont pas applicables à Saint-Pierre-et-Miquelon.
+Les dispositions de l'article L. 5421-13 et du chapitre Ier du titre III du livre IV ne sont pas applicables à Saint-Pierre-et-Miquelon.
 
 Les articles L. 5431-2 et L. 5431-3 sont applicables aux transports maritimes réguliers publics de personnes pour la desserte de ports ou appontements du littoral.
 

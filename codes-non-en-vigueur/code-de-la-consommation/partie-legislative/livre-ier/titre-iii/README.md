@@ -8,3 +8,4 @@
 - [Chapitre VI : Reconduction des contrats](chapitre-vi)
 - [Chapitre VII : Prescription](chapitre-vii)
 - [Chapitre VIII : Dispositions relatives à l'outre-mer](chapitre-viii)
+- [Chapitre IX : Droit applicable](chapitre-ix)

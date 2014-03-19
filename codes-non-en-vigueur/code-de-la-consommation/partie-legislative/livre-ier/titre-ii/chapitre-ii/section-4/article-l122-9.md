@@ -10,4 +10,4 @@ Les dispositions de l'article L. 122-8 sont applicables, dans les mêmes conditi
 
 4° Soit lorsque la transaction a été faite dans des lieux non destinés à la commercialisation du bien ou du service proposé ou dans le cadre de foires ou de salons ;
 
-5° Soit lorsque la transaction a été conclue dans une situation d'urgence ayant mis la victime de l'infraction dans l'impossibilité de consulter un ou plusieurs professionnels qualifiés, tiers ou contrat.
+5° Soit lorsque la transaction a été conclue dans une situation d'urgence ayant mis la victime de l'infraction dans l'impossibilité de consulter un ou plusieurs professionnels qualifiés, tiers au contrat.

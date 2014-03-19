@@ -24,6 +24,8 @@ g) Le traitement des réclamations et les droits du consommateur ;
 
 II.-Une pratique commerciale est également trompeuse si, compte tenu des limites propres au moyen de communication utilisé et des circonstances qui l'entourent, elle omet, dissimule ou fournit de façon inintelligible, ambiguë ou à contretemps une information substantielle ou lorsqu'elle n'indique pas sa véritable intention commerciale dès lors que celle-ci ne ressort pas déjà du contexte.
 
+Lorsque le moyen de communication utilisé impose des limites d'espace ou de temps, il y a lieu, pour apprécier si des informations substantielles ont été omises, de tenir compte de ces limites ainsi que de toute mesure prise par le professionnel pour mettre ces informations à la disposition du consommateur par d'autres moyens.
+
 Dans toute communication commerciale constituant une invitation à l'achat et destinée au consommateur mentionnant le prix et les caractéristiques du bien ou du service proposé, sont considérées comme substantielles les informations suivantes :
 
 1° Les caractéristiques principales du bien ou du service ;

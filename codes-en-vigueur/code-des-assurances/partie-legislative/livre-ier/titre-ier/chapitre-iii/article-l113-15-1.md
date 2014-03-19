@@ -6,4 +6,4 @@ Lorsque cette information ne lui a pas été adressée conformément aux disposi
 
 L'assuré est tenu au paiement de la partie de prime ou de cotisation correspondant à la période pendant laquelle le risque a couru, période calculée jusqu'à la date d'effet de la résiliation. Le cas échéant, l'assureur doit rembourser à l'assuré, dans un délai de trente jours à compter de la date d'effet de la résiliation, la partie de prime ou de cotisation correspondant à la période pendant laquelle le risque n'a pas couru, période calculée à compter de ladite date d'effet. A défaut de remboursement dans ces conditions, les sommes dues sont productives d'intérêts au taux légal.
 
-Les dispositions du présent article ne sont applicables ni aux assurances sur la vie ni aux contrats de groupe et autres opérations collectives.
+Les dispositions du présent article ne s'appliquent ni aux assurances sur la vie, ni aux assurances de groupe relevant de l'article L. 141-1.

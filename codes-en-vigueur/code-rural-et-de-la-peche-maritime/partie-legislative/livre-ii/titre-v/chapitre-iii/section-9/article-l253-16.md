@@ -1,6 +1,6 @@
 # Article L253-16
 
-Est puni d'un an d'emprisonnement et de 30 000 € d'amende :
+Est puni d'un an d'emprisonnement et      d'une amende de 150 000 €, dont le montant peut être porté, de manière proportionnée aux avantages tirés du manquement, à 10 % du chiffre d'affaires moyen annuel, calculé sur les trois derniers chiffres d'affaires annuels connus à la date des faits :
 
 1° Le fait de faire une publicité pour un produit visé à l'article L. 253-1, sans que celle-ci comporte les mentions imposées par le 1 de l'article 66 du règlement (CE) n° 1107/2009, ou qui comporte des informations potentiellement trompeuses, des allégations non justifiées sur le plan technique, une représentation visuelle de pratiques potentiellement dangereuses, ou qui n'attire pas l'attention sur les phrases et les symboles de mise en garde appropriés figurant sur l'étiquetage, en méconnaissance de l'article 66 du règlement (CE) n° 1107/2009 ;
 

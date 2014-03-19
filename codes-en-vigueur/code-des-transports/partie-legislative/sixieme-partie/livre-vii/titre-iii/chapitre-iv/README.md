@@ -6,3 +6,4 @@
 - [Article L6734-4](article-l6734-4.md)
 - [Article L6734-5](article-l6734-5.md)
 - [Article L6734-6](article-l6734-6.md)
+- [Article L6734-7](article-l6734-7.md)

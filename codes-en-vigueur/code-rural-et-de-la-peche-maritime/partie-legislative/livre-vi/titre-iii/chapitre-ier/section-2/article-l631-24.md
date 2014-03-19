@@ -2,7 +2,7 @@
 
 I.-La conclusion de contrats de vente écrits entre producteurs et acheteurs, ou entre opérateurs économiques mentionnés au premier alinéa de l'article L. 551-1, propriétaires de la marchandise, et acheteurs, peut être rendue obligatoire pour les produits agricoles destinés à la revente ou à la transformation.
 
-Ces contrats écrits comportent des clauses relatives à la durée du contrat, aux volumes et aux caractéristiques des produits à livrer, aux modalités de collecte ou de livraison des produits, aux critères et modalités de détermination du prix, aux modalités de paiement et aux modalités de révision et de résiliation du contrat ou au préavis de rupture. Ces clauses prévoient l'interdiction, pour les acheteurs, de retourner aux producteurs ou aux opérateurs économiques mentionnés au premier alinéa les produits qu'ils ont acceptés lors de la livraison ; cette interdiction ne s'applique pas en cas de non-conformité des produits à des normes légales ou réglementaires. Sauf stipulations contraires, ces contrats sont renouvelables par tacite reconduction pour une période équivalente à celle pour laquelle ils ont été conclus.
+Ces contrats écrits comportent des clauses relatives à la durée du contrat, aux volumes et aux caractéristiques des produits à livrer, aux modalités de collecte ou de livraison des produits, aux critères et modalités de détermination du prix, aux modalités de paiement et aux modalités de révision et de résiliation du contrat ou au préavis de rupture. Ces clauses prévoient l'interdiction, pour les acheteurs, de retourner aux producteurs ou aux opérateurs économiques mentionnés au premier alinéa les produits qu'ils ont acceptés lors de la livraison ; cette interdiction ne s'applique pas en cas de non-conformité des produits à des normes légales ou réglementaires. Sauf stipulations contraires, ces contrats sont renouvelables par tacite reconduction pour une période équivalente à celle pour laquelle ils ont été conclus. Les trois premiers alinéas de l'article L. 441-8 du code de commerce leur sont applicables.
 
 Ils peuvent être rendus obligatoires :
 
@@ -12,7 +12,7 @@ b) Ou, si aucun accord interprofessionnel ayant le même objet n'a été étendu
 
 L'accord interprofessionnel mentionné au a ou le décret en Conseil d'Etat mentionné au b fixe, par produit ou catégorie de produits et par catégorie d'acheteurs, la durée minimale du contrat qui est de un à cinq ans, ainsi que les modes de commercialisation pour lesquels une durée inférieure est admise.
 
-Les  dispositions relatives à la durée minimale du contrat prévues à  l'avant-dernier alinéa ne sont applicables ni aux produits soumis à  accises, ni aux raisins, moûts et vins dont ils résultent. Pour  l'ensemble de ces produits, tant des contrats pluriannuels que des  contrats ponctuels peuvent être conclus.
+Les dispositions relatives à la durée minimale du contrat prévues à l'avant-dernier alinéa ne sont applicables ni aux produits soumis à accises, ni aux raisins, moûts et vins dont ils résultent. Pour l'ensemble de ces produits, tant des contrats pluriannuels que des contrats ponctuels peuvent être conclus.
 
 II. ― La conclusion de contrats soumis aux dispositions du I doit être précédée d'une proposition écrite de l'acheteur conforme aux stipulations de l'accord interprofessionnel mentionné au a du I ou aux dispositions du décret en Conseil d'Etat mentionné au b du I.
 

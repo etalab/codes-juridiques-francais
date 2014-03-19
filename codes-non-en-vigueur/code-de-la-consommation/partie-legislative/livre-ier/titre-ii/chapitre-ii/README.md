@@ -5,3 +5,4 @@
 - [Section 3 : Ventes ou prestations "à la boule de neige"](section-3)
 - [Section 4 : Abus de faiblesse](section-4)
 - [Section 5 : Pratiques commerciales agressives](section-5)
+- [Section 6 : Frais de recouvrement](section-6)

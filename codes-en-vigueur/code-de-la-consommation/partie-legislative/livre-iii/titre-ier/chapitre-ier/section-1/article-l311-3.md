@@ -8,7 +8,7 @@ Sont exclus du champ d'application du présent chapitre :
 
 3° Les opérations consenties sous la forme d'une autorisation de découvert remboursable dans un délai d'un mois ;
 
-4° Les opérations de crédit comportant un délai de remboursement ne dépassant pas trois mois qui ne sont assorties d'aucun intérêt ou d'aucuns frais ou seulement de frais d'un montant négligeable ;
+4° Les opérations de crédit comportant un délai de remboursement ne dépassant pas trois mois qui ne sont assorties d'aucun intérêt ni d'aucuns frais ou seulement d'intérêts et de frais d'un montant négligeable ;
 
 5° Les opérations mentionnées au 3 de l'article L. 511-6 du code monétaire et financier ;
 

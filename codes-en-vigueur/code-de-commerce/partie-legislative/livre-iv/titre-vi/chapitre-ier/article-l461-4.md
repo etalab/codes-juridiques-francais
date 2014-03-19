@@ -2,7 +2,7 @@
 
 L'Autorité de la concurrence dispose de services d'instruction dirigés par un rapporteur général nommé par arrêté du ministre chargé de l'économie après avis du collège.
 
-Ces services procèdent aux investigations nécessaires à l'application des titres II et III du présent livre.
+Ces services procèdent aux investigations nécessaires à l'application des titres II, III et VI du présent livre.
 
 Les rapporteurs généraux adjoints, les rapporteurs permanents ou non permanents et les enquêteurs des services d'instruction sont nommés par le rapporteur général, par décision publiée au Journal officiel.
 

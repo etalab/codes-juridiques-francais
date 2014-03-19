@@ -1,6 +1,6 @@
 # Article L324-8
 
-Les personnes morales déclarées pénalement responsables, dans les conditions prévues par l'article 121-2 du code pénal, de la violation des interdictions prévues aux articles L. 322-1 et L. 322-2 encourent, outre l'amende suivant les modalités prévues par l'article 131-38 du code pénal :
+Les personnes morales déclarées pénalement responsables, dans les conditions prévues par l'article 121-2 du code pénal, de la violation des interdictions prévues aux           articles L. 322-1, L. 322-2 et L. 322-2-1 encourent, outre l'amende suivant les modalités prévues par l'article 131-38 du code pénal :
 
 1° Les peines mentionnées aux 1°, 4°, 8° et 9° de l'article 131-39 du code pénal ;
 

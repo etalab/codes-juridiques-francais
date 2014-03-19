@@ -1,6 +1,6 @@
 # Article L324-7
 
-Les personnes physiques coupables de la violation des interdictions prévues aux articles L. 322-1 et L. 322-2 encourent également les peines complémentaires suivantes :
+Les personnes physiques coupables de la violation des interdictions prévues aux           articles L. 322-1, L. 322-2 et L. 322-2-1 encourent également les peines complémentaires suivantes :
 
 1° L'interdiction des droits civiques, civils et de famille dans les conditions prévues à l'article 131-26 du code pénal ;
 
