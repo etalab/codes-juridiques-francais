@@ -10,4 +10,6 @@ La direction générale du travail :
 
 4° Veille au respect des règles déontologiques des agents de l'inspection du travail ;
 
-5° Coordonne les liaisons avec les services exerçant des fonctions d'inspection du travail relevant d'autres départements ministériels.
+5° Coordonne les liaisons avec les services exerçant des fonctions d'inspection du travail relevant d'autres départements ministériels ;
+
+6° Conduit des actions spécifiques de contrôle.
