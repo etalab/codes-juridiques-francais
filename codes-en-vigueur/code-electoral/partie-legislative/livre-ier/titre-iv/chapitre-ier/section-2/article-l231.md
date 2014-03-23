@@ -18,7 +18,7 @@ Ne peuvent être élus conseillers municipaux dans les communes situées dans le
 
 7° Les directeurs et les chefs de bureau de préfecture et les secrétaires en chef de sous-préfecture ;
 
-8° Les directeurs de cabinet du président du conseil général et du président du conseil régional, les directeurs généraux, les directeurs, les directeurs adjoints, chefs de service et chefs de bureau de conseil général et de conseil régional, le directeur de cabinet du président de l'assemblée et le directeur de cabinet du président du conseil exécutif de Corse, les directeurs généraux, les directeurs, les directeurs adjoints, chefs de service et chefs de bureau de la collectivité territoriale de Corse et de ses établissements publics ;
+8° Les personnes exerçant, au sein du conseil régional, du conseil départemental, de la collectivité territoriale de Corse, de Guyane ou de Martinique, d'un établissement public de coopération intercommunale à fiscalité propre ou de leurs établissements publics, les fonctions de directeur général des services, directeur général adjoint des services, directeur des services, directeur adjoint des services ou chef de service, ainsi que les fonctions de directeur de cabinet, directeur adjoint de cabinet ou chef de cabinet en ayant reçu délégation de signature du président, du président de l'assemblée ou du président du conseil exécutif ;
 
 9° En tant que chargés d'une circonscription territoriale de voirie : les ingénieurs en chef, ingénieurs divisionnaires et ingénieurs des travaux publics de l'Etat, les chefs de section principaux et chefs de section des travaux publics de l'Etat.
 

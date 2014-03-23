@@ -6,6 +6,6 @@ Sont éligibles au conseil municipal tous les électeurs de la commune et les ci
 
 Toutefois, dans les communes de plus de 500 habitants, le nombre des conseillers qui ne résident pas dans la commune au moment de l'élection ne peut excéder le quart des membres du conseil.
 
-Dans les communes de 500 habitants au plus, ce nombre ne peut excéder quatre pour les conseils municipaux comportant neuf membres et cinq pour les conseils municipaux comportant onze membres.
+Dans les communes de 500 habitants au plus, ce nombre ne peut excéder quatre pour les conseils municipaux comportant sept membres et cinq pour les conseils municipaux comportant onze membres.
 
 Si les chiffres visés ci-dessus sont dépassés, la préférence est déterminée suivant les règles posées à l'article R 121-11 du code des communes.

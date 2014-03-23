@@ -12,4 +12,4 @@ La transformation d'un syndicat intercommunal en communauté de communes ou en c
 
 Le nombre et la répartition des membres de l'organe délibérant de la communauté de communes ou de la communauté d'agglomération sont déterminés dans les conditions prévues à l'article L. 5211-6-1.
 
-Jusqu'au prochain renouvellement général des conseils municipaux suivant la transformation en communauté de communes ou communauté d'agglomération, les délégués des communes sont désignés dans les conditions prévues au 1° de l'article L. 5211-6-2. Le mandat des délégués en fonctions avant la transformation de l'établissement est prorogé jusqu'à l'installation du nouvel organe délibérant dans le mois suivant la transformation.
+Jusqu'au prochain renouvellement général des conseils municipaux suivant la transformation en communauté de communes ou communauté d'agglomération, les conseillers communautaires sont désignés dans les conditions prévues au 1° de l'article L. 5211-6-2. Le mandat des délégués en fonctions avant la transformation de l'établissement est prorogé jusqu'à l'installation du nouvel organe délibérant dans le mois suivant la transformation.
