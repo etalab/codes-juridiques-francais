@@ -1,4 +1,4 @@
-# Titre Ier : Dispositions communes à l'élection des députés, des conseillers généraux et des  conseillers municipaux
+# Titre Ier : Dispositions communes à l'élection des députés, des conseillers départementaux, des conseillers municipaux et des conseillers communautaires
 
 - [Chapitre Ier : Conditions requises pour être électeur](chapitre-ier)
 - [Chapitre II : Listes électorales](chapitre-ii)
