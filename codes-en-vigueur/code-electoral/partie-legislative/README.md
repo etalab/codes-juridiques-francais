@@ -1,6 +1,6 @@
 # Partie législative
 
-- [Livre Ier : Election des députés, des conseillers généraux et des conseillers municipaux](livre-ier)
+- [Livre Ier : Election des députés, des conseillers départementaux, des conseillers municipaux et des conseillers communautaires](livre-ier)
 - [Livre II : Election des sénateurs des départements](livre-ii)
 - [Livre V : Dispositions applicables à la 
 Nouvelle-Calédonie, à la Polynésie française et aux îles Wallis et Futuna](livre-v)

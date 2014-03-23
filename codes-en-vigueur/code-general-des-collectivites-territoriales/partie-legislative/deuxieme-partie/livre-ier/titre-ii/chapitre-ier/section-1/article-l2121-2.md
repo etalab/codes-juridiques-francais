@@ -17,7 +17,7 @@ Le nombre des membres du conseil municipal des communes est fixé conformément 
 <p>De moins de 100 habitants</p>
 </td>
 <td valign="top" width="228">
-<p align="center">9</p>
+<p align="center">7</p>
 </td>
 </tr>
 <tr>
