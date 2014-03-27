@@ -1,4 +1,4 @@
-# Section 3 : Union d'économie sociale du logement.
+# Section 3 : Union des entreprises et des salariés pour le logement
 
 - [Article L313-17](article-l313-17.md)
 - [Article L313-18](article-l313-18.md)
