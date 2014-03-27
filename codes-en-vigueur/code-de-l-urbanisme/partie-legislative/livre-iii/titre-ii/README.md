@@ -7,3 +7,4 @@
 - [Chapitre VI : Etablissements publics locaux d'aménagement.](chapitre-vi)
 - [Chapitre VII : Sociétés publiques locales d'aménagement.](chapitre-vii)
 - [Chapitre VIII : Etablissement public de gestion du quartier d'affaires de La Défense](chapitre-viii)
+- [Chapitre IX](chapitre-ix)

@@ -1,3 +1,3 @@
 # Article L252-2
 
-Les personnes mentionnées au premier alinéa de l'article L. 251-1, qui ont droit à l'aide médicale de l'Etat et se trouvent sans domicile fixe, doivent, pour bénéficier de cette aide, élire domicile soit auprès d'un organisme agréé à cet effet par le représentant de l'Etat dans le département soit auprès d'un centre communal ou intercommunal d'action sociale.
+Les personnes mentionnées au premier alinéa de l'article L. 251-1, qui ont droit à l'aide médicale de l'Etat et se trouvent sans domicile fixe, doivent, pour bénéficier de cette aide, élire domicile dans les conditions prévues au chapitre IV du titre VI du présent livre II.

@@ -10,6 +10,6 @@ La zone est délimitée après enquête publique conduite dans les conditions d�
 
 Une carte précisant le mode d'occupation du sol est annexée au décret en Conseil d'Etat précité.
 
-L'interdiction d'urbaniser dans la zone de protection vaut servitude d'utilité publique et est annexée aux plans locaux d'urbanisme des communes intéressées, dans les conditions prévues par l'article L. 126-1 du présent code.
+L'interdiction d'urbaniser dans la zone de protection vaut servitude d'utilité publique et est annexée aux plans locaux d'urbanisme ou aux cartes communales des communes intéressées, dans les conditions prévues par l'article L. 126-1 du présent code.
 
 Les communes intéressées disposent d'un délai de six mois à compter de la publication du décret en Conseil d'Etat visé au premier alinéa du présent article pour mettre en compatibilité leur plan local d'urbanisme.

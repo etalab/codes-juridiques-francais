@@ -4,7 +4,7 @@ En cas de sous-occupation du logement telle que définie à l'article L. 621-2, 
 
 Le loyer principal du nouveau logement doit être inférieur à celui du logement d'origine.
 
-Les conditions d'une aide à la mobilité prise en charge par le bailleur sont définies par décret.
+Les conditions d'une aide à la mobilité et d'une aide au stockage des meubles prises en charge par le bailleur sont définies par décret.
 
 Dans les logements situés sur les territoires définis au 7° de l'article 10 de la loi n° 48-1360 du 1er septembre 1948 portant modification et codification de la législation relative aux rapports des bailleurs et locataires ou occupants de locaux d'habitation ou à usage professionnel et instituant des allocations de logement, le locataire ayant refusé trois offres de relogement, faites par le bailleur en application du premier alinéa du présent article et respectant les conditions prévues à l'article 13 bis de la même loi ne bénéficie plus du droit au maintien dans les lieux.A l'expiration d'un délai de six mois à compter de la notification de la troisième offre de relogement, le locataire est déchu de tout titre d'occupation des locaux loués.
 

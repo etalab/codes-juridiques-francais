@@ -1,9 +1,9 @@
 # Article L322-15
 
-L'acte d'apport en société éteint par lui-même et à sa date les droits réels existant sur l'immeuble apporté en société. Ces droits s'exercent avec leur rang antérieur sur les parts attribuées au propriétaire en contrepartie de son apport.
+L'autorité administrative soumet le projet de création de l'association à enquête publique, conformément à l'article 12 de l'ordonnance n° 2004-632 du 1er juillet 2004 précitée. Le dossier d'enquête publique comprend, le cas échéant, les prescriptions mentionnées à l'article L. 322-6.
 
-Les créanciers dont les droits ont été régulièrement inscrits sur l'immeuble apporté, soit avant la publication de l'acte d'apport au bureau des hypothèques, soit postérieurement à ladite publication en ce qui concerne les privilèges conservés selon les prescriptions des articles 2108 et 2109 du code civil, peuvent exiger que les parts soient nanties à leur profit.
+Après enquête publique, l'autorité administrative peut, après avoir recueilli l'accord du conseil municipal ou de l'organe délibérant de l'établissement public de coopération intercommunale compétent en matière de plan local d'urbanisme, autoriser la création de l'association foncière urbaine.
 
-Les droits réels mentionnés à l'alinéa premier sont, le cas échéant, reportés avec leur rang antérieur sur les immeubles ou fractions d'immeubles attribués à l'associé en représentation de ses parts.
+Lorsque le projet de l'association est prévu dans le cadre d'une opération d'intérêt national, l'autorité administrative peut, sur avis du conseil municipal ou de l'organe délibérant de l'établissement public de coopération intercommunale compétent en matière de plan local d'urbanisme, autoriser la création de l'association foncière urbaine de projet.
 
-Les reports des droits mentionnés au présent article s'opèrent dans les conditions fixées par un règlement d'administration publique.
+L'acte autorisant la création de l'association foncière urbaine de projet est publié, affiché dans chaque commune sur le territoire de laquelle s'étend le périmètre de l'association et notifié aux propriétaires, dans les conditions prévues par décret en Conseil d'Etat.

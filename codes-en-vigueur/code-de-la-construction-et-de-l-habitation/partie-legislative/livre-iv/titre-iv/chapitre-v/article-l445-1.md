@@ -2,7 +2,7 @@
 
 Avant le 1er juillet 2011, les organismes d'habitations à loyer modéré concluent avec l'Etat, sur la base du plan stratégique de patrimoine mentionné à l'article L. 411-9 et en tenant compte des programmes locaux de l'habitat, une convention d'utilité sociale d'une durée de six ans renouvelable.
 
-Les établissements publics de coopération intercommunale dotés d'un programme local de l'habitat et les départements sont associés, selon des modalités définies par décret en Conseil d'Etat, à l'élaboration des dispositions des conventions d'utilité sociale relatives aux immeubles situés sur leur territoire. Ils sont signataires des conventions d'utilité sociale conclues par les organismes qui leur sont rattachés et peuvent l'être pour les organismes disposant d'un patrimoine sur leur territoire.
+Les établissements publics de coopération intercommunale dotés d'un programme local de l'habitat et les départements sont associés, selon des modalités définies par décret en Conseil d'Etat, à l'élaboration des dispositions des conventions d'utilité sociale relatives aux immeubles situés sur leur territoire. Ils sont signataires des conventions d'utilité sociale conclues par les organismes qui leur sont rattachés ainsi que pour les organismes disposant d'un patrimoine représentant plus de 20 % du parc social sur leur territoire. Ils peuvent l'être pour les autres organismes disposant d'un patrimoine sur leur territoire.
 
 La convention d'utilité sociale comporte :
 
@@ -18,7 +18,8 @@ La convention d'utilité sociale comporte :
 
 La convention d'utilité sociale comporte des indicateurs permettant de mesurer si les objectifs fixés pour chaque aspect de la politique des organismes mentionnés au présent article ont été atteints. Ces indicateurs sont définis par décret en Conseil d'Etat. Dans les zones géographiques se caractérisant par un déséquilibre entre l'offre et la demande de logements, la convention prévoit également un dispositif de modulation du supplément de loyer de solidarité selon des seuils et des modalités définis par décret en Conseil d'Etat.
 
-Si un organisme d'habitations à loyer modéré n'a pas adressé un projet de convention d'utilité sociale au représentant de l'Etat du département de son siège avant le 30 juin 2010, le ministre chargé du logement peut lui retirer une ou plusieurs des compétences mentionnées aux articles L. 421-1 à L. 421-4, L. 422-2 et L. 422-3, pendant une durée qui ne peut excéder cinq ans. Le ministre chargé du logement peut en outre, pour la même durée, majorer la cotisation due par cet organisme en vertu de l'article L. 452-4, dans une proportion qui ne peut excéder le quintuple du montant initialement dû.
+Si un organisme d'habitations à loyer modéré n'a pas adressé un projet de convention d'utilité sociale au représentant de l'Etat du département de son siège avant le 30 juin 2010, le ministre chargé du logement peut lui retirer une ou plusieurs des compétences mentionnées aux articles L. 421-1 à L. 421-4,
+L. 422-2 et L. 422-3, pendant une durée qui ne peut excéder cinq ans. Le ministre chargé du logement peut en outre, pour la même durée, majorer la cotisation due par cet organisme en vertu de l'article L. 452-4, dans une proportion qui ne peut excéder le quintuple du montant initialement dû.
 
 Si, au cours de la durée de la convention, le représentant de l'Etat signataire de la convention constate que l'organisme n'a pas respecté les engagements définis par la convention, il le met en demeure de présenter ses observations et, le cas échéant, de faire des propositions permettant de remédier aux manquements constatés dans un délai d'un mois.
 

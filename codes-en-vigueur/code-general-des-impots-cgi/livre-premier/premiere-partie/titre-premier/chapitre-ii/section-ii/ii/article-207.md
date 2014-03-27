@@ -30,7 +30,7 @@ Les sociétés coopératives agricoles et leurs unions sont tenues de produire, 
 
 4° Les organismes d'habitations à loyer modéré mentionnés à l'article L. 411-2 du code de la construction et de l'habitation, à l'exception des sociétés anonymes de crédit immobilier, les sociétés d'économie mixte visées à l'article L. 481-1 du même code et les sociétés anonymes de coordination entre les organismes d'habitations à loyer modéré mentionnées à l'article L. 423-1-1 du même code pour :
 
-a.-les opérations réalisées au titre du service d'intérêt général défini aux septième, huitième et neuvième alinéas de l'article L. 411-2 du même code ainsi que les services accessoires à ces opérations ;
+a.-les opérations réalisées au titre du service d'intérêt général défini aux septième, huitième, neuvième et dixième  alinéas de l'article L. 411-2 du même code ainsi que les services accessoires à ces opérations ;
 
 b.-les produits engendrés par les locaux annexes et accessoires des ensembles d'habitations mentionnés à l'article L. 411-1 du même code, à la condition que ces locaux soient nécessaires à la vie économique et sociale de ces ensembles ;
 
@@ -88,7 +88,9 @@ e.-opérations de rénovation urbaine.
 
 10° Les personnes morales créées pour la gestion d'un pôle de recherche et d'enseignement supérieur ou d'un réseau thématique de recherche avancée ;
 
-11° Les fondations reconnues d'utilité publique du secteur de la recherche, parmi lesquelles les fondations de coopération scientifique.
+11° Les fondations reconnues d'utilité publique du secteur de la recherche, parmi lesquelles les fondations de coopération scientifique ;
+
+12° Les bénéfices, plus-values latentes et profits qui résulteraient de la transformation de la société de gestion du patrimoine immobilier des houillères du bassin du Nord et du Pas-de-Calais en société anonyme d'habitations à loyer modéré, pour les logements qui seront conventionnés à l'aide personnalisée au logement dans le cadre de la transformation.
 
 Les exonérations dont bénéficient les personnes morales visées aux 9°, 10° et 11° s'appliquent aux revenus tirés des activités conduites dans le cadre des missions du service public de l'enseignement supérieur et de la recherche définies aux articles L. 123-3 du code de l'éducation et L. 112-1 du code de la recherche.
 

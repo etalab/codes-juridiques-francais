@@ -2,4 +2,4 @@
 
 Les règles financières budgétaires et comptables applicables aux organismes d'habitations à loyer modéré sont déterminées par décrets.
 
-Ces décrets précisent les documents administratifs que les organismes d'habitations à loyer modéré sont tenus de fournir annuellement à l'autorité administrative.
+Ces décrets précisent les documents administratifs que les organismes d'habitations à loyer modéré sont tenus de fournir annuellement à l'autorité administrative et à la Caisse de garantie du logement locatif social.

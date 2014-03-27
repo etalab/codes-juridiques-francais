@@ -26,7 +26,7 @@ III.-L'article L. 312-5 est ainsi modifié :
 
 IV.-L'article L. 312-5-3 est ainsi modifié :
 
-1° Au deuxième alinéa du I, les mots : " des centres d'accueil pour demandeurs d'asile, " sont supprimés ;
+1° Abrogé
 
 2° Le II n'est pas applicable ;
 

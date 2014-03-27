@@ -6,4 +6,4 @@ Des mesures compensatoires devront alors être mises en oeuvre permettant le mai
 
 Ces installations organisent ou préservent l'accès et la libre circulation le long du rivage.
 
-II. ― Sont autorisés dans les secteurs occupés par une urbanisation diffuse à la date de publication de la loi n° 96-1241 du 30 décembre 1996 précitée, ou, à Mayotte, à la date du 29 juillet 2005, situés dans la bande littorale définie à l'article L. 156-2, l'adaptation, le changement de destination, la réfection et l'extension limitée des constructions existantes.
+II. ― Sont autorisés dans les secteurs occupés par une urbanisation diffuse à la date de publication de la loi n° 96-1241 du 30 décembre 1996 précitée, ou, à Mayotte, à la date du 29 juillet 2005, situés dans la bande littorale définie à l'article L. 156-2, l'adaptation, le changement de destination, la réfection, la reconstruction et l'extension limitée des constructions existantes.

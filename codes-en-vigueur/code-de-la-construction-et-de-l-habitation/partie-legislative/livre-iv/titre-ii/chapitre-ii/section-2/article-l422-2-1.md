@@ -18,7 +18,7 @@ II.-L'actionnaire de référence peut être constitué d'un groupe de deux ou tr
 
 En cas de rupture du pacte ou en cas de modification de la composition du capital ayant un effet sur l'actionnaire de référence, les instances statutaires de la société anonyme d'habitations à loyer modéré demandent un renouvellement de l'agrément mentionné à l'article L. 422-5.
 
-Les associés de l'Union d'économie sociale du logement sont considérés comme un seul actionnaire. Il en va de même des organismes à but non lucratif ayant pour objet l'insertion des personnes en difficulté.
+Les associés de l'Union des entreprises et des salariés pour le logement sont considérés comme un seul actionnaire. Il en va de même des organismes à but non lucratif ayant pour objet l'insertion des personnes en difficulté.
 
 III.-L'actionnaire de référence mentionné au 1° du I détient la majorité des droits de vote aux assemblées générales d'actionnaires, sans que la proportion des droits de vote qu'il détient puisse être supérieure à la part de capital dont il dispose.
 
@@ -28,7 +28,7 @@ Les représentants des locataires mentionnés au 3° du I détiennent au moins 1
 
 Le total des droits de vote des établissements publics et collectivités territoriales mentionnés au 2° du I et des représentants des locataires mentionnés au 3° du I est égal au tiers des voix plus une.
 
-Les personnes physiques et les organismes de placement collectif en valeurs mobilières ou les placements collectifs relevant des paragraphes 1, 2 et 6 de la sous-section 2, du paragraphe 2 ou du sous-paragraphe 1 du paragraphe 1 de la sous-section 3 de la section 2 du chapitre IV du titre Ier du livre II du code monétaire et financier dont la majorité des parts est détenue par des salariés de la société anonyme d'habitations à loyer modéré ne peuvent pas avoir la qualité d'actionnaire de référence. Les personnes physiques ne peuvent détenir au total plus de 5 % du capital. La répartition des droits de vote résiduels entre les actionnaires mentionnés au 4° du I s'effectue en proportion de la quotité de capital qu'ils détiennent.
+Les personnes physiques et les organismes de placement collectif en valeurs mobilières ou les placements collectifs relevant des paragraphes 1,2 et 6 de la sous-section 2, du paragraphe 2 ou du sous-paragraphe 1 du paragraphe 1 de la sous-section 3 de la section 2 du chapitre IV du titre Ier du livre II du code monétaire et financier dont la majorité des parts est détenue par des salariés de la société anonyme d'habitations à loyer modéré ne peuvent pas avoir la qualité d'actionnaire de référence. Les personnes physiques ne peuvent détenir au total plus de 5 % du capital. La répartition des droits de vote résiduels entre les actionnaires mentionnés au 4° du I s'effectue en proportion de la quotité de capital qu'ils détiennent.
 
 Les statuts prévoient, dans des conditions fixées par décret en Conseil d'Etat, les modalités du rachat par l'actionnaire de référence des actions détenues par les actionnaires mentionnés au 4° du I.
 

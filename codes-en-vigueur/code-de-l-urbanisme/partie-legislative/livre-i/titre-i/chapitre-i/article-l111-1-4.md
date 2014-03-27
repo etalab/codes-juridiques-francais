@@ -6,15 +6,15 @@ Cette interdiction s'applique également dans une bande de soixante-quinze mètr
 
 Elle ne s'applique pas :
 
--aux constructions ou installations liées ou nécessaires aux infrastructures routières ;
+― aux constructions ou installations liées ou nécessaires aux infrastructures routières ;
 
--aux services publics exigeant la proximité immédiate des infrastructures routières ;
+― aux services publics exigeant la proximité immédiate des infrastructures routières ;
 
--aux bâtiments d'exploitation agricole ;
+― aux bâtiments d'exploitation agricole ;
 
--aux réseaux d'intérêt public.
+― aux réseaux d'intérêt public.
 
-Elle ne s'applique pas non plus à l'adaptation, au changement de destination, à la réfection ou à l'extension de constructions existantes. Un règlement local de publicité pris en application de l'article L. 581-14 du code de l'environnement est établi par l'établissement public de coopération intercommunale compétent en matière de plan local d'urbanisme ou la commune. L'élaboration et l'approbation des dispositions d'urbanisme et du règlement local de publicité font l'objet d'une procédure unique et d'une même enquête publique.
+Elle ne s'applique pas non plus à l'adaptation, au changement de destination, à la réfection ou à l'extension de constructions existantes.
 
 Le plan local d'urbanisme, ou un document d'urbanisme en tenant lieu, peut fixer des règles d'implantation différentes de celles prévues par le présent article lorsqu'il comporte une étude justifiant, en fonction des spécificités locales, que ces règles sont compatibles avec la prise en compte des nuisances, de la sécurité, de la qualité architecturale, ainsi que de la qualité de l'urbanisme et des paysages.
 

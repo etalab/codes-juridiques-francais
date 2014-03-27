@@ -24,7 +24,7 @@ d) Les mesures contractuelles permettant, de façon privilégiée, d'assurer la 
 
 e) Les mesures prévues pour accompagner la mise en œuvre des continuités écologiques pour les communes concernées par le projet de schéma.
 
-Les collectivités territoriales et leurs groupements compétents en matière d'aménagement de l'espace ou d'urbanisme prennent en compte les schémas régionaux de cohérence écologique lors de l'élaboration ou de la révision de leurs documents d'aménagement de l'espace ou d'urbanisme.
+Les collectivités territoriales et leurs groupements compétents en matière d'aménagement de l'espace ou d'urbanisme prennent en compte les schémas régionaux de cohérence écologique lors de l'élaboration ou de la révision de leurs documents d'aménagement de l'espace ou d'urbanisme dans les conditions fixées à l'article L. 111-1-1 du code de l'urbanisme.
 
 Sans préjudice de l'application des dispositions du chapitre II du titre II du livre Ier relatives à l'évaluation environnementale, les documents de planification et les projets de l'Etat, des collectivités territoriales et de leurs groupements prennent en compte les schémas régionaux de cohérence écologique et précisent les mesures permettant d'éviter, de réduire et, le cas échéant, de compenser les atteintes aux continuités écologiques que la mise en œuvre de ces documents de planification, projets ou infrastructures linéaires sont susceptibles d'entraîner. Les projets d'infrastructures linéaires de transport de l'Etat prennent en compte les schémas régionaux de cohérence écologique.
 

@@ -1,3 +1,3 @@
-# Titre III : Dispositions spéciales aux départements d'outre-mer et à la collectivité territoriale de Saint-Pierre et Miquelon.
+# Titre III : Dispositions particulières à la Guadeloupe, à la Guyane, à la Martinique, à La Réunion, à Mayotte, à Saint-Martin et à Saint-Pierre-et-Miquelon.
 
 - [Chapitre unique.](chapitre-unique)

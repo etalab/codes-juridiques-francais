@@ -1,8 +1,8 @@
 # Article L3211-7
 
-I. - L'Etat peut procéder à l'aliénation de terrains de son domaine privé à un prix inférieur à la valeur vénale lorsque ces terrains, bâtis ou non, sont destinés à la réalisation de programmes de constructions comportant essentiellement des logements dont une partie au moins est réalisée en logement social. Pour la part du programme destinée aux logements sociaux, la décote ainsi consentie, qui peut atteindre 100 % de la valeur vénale du terrain, est fixée en fonction de la catégorie à laquelle ces logements appartiennent. Elle prend notamment en considération les circonstances locales tenant à la situation du marché foncier et immobilier, à la situation financière de l'acquéreur du terrain, à la proportion et à la typologie des logements sociaux existant sur le territoire de la collectivité considérée et aux conditions financières et techniques de l'opération. La décote ne saurait excéder 50 % pour les logements financés en prêts locatifs sociaux et pour les logements en accession à la propriété bénéficiant des dispositifs mentionnés au VIII.
+I.-L'Etat peut procéder à l'aliénation de terrains de son domaine privé à un prix inférieur à la valeur vénale lorsque ces terrains, bâtis ou non, sont destinés à la réalisation de programmes de constructions comportant essentiellement des logements dont une partie au moins est réalisée en logement social. Pour la part du programme destinée aux logements sociaux, la décote ainsi consentie, qui peut atteindre 100 % de la valeur vénale du terrain, est fixée en fonction de la catégorie à laquelle ces logements appartiennent. Elle prend notamment en considération les circonstances locales tenant à la situation du marché foncier et immobilier, à la situation financière de l'acquéreur du terrain, à la proportion et à la typologie des logements sociaux existant sur le territoire de la collectivité considérée et aux conditions financières et techniques de l'opération. La décote ne saurait excéder 50 % pour les logements financés en prêts locatifs sociaux et pour les logements en accession à la propriété bénéficiant des dispositifs mentionnés au VIII.
 
-II. - Une décote est de droit lorsque les deux conditions suivantes sont satisfaites :
+II.-Une décote est de droit lorsque les deux conditions suivantes sont satisfaites :
 
 1° Les terrains sont cédés au profit d'une collectivité territoriale, d'un établissement public de coopération intercommunale à fiscalité propre, d'un établissement public mentionné aux chapitres Ier et IV du titre II du livre III du code de l'urbanisme, d'un organisme agréé mentionné à l'article L. 365-2 du code de la construction et de l'habitation, d'un organisme mentionné à l'article L. 411-2 du même code, d'une société d'économie mixte mentionnée à l'article L. 481-1 dudit code ou d'un opérateur lié à une collectivité ou un établissement public de coopération intercommunale à fiscalité propre par une concession d'aménagement dont l'objet prévoit notamment la réalisation de logement social ;
 
@@ -12,7 +12,7 @@ Les présentes dispositions ne s'appliquent aux organismes agréés mentionnés 
 
 Pour les communes qui ne font pas l'objet d'un constat de carence, dans le cadre d'un programme de construction de logements sociaux, dans les conditions fixées au présent article, une décote est également de droit pour la part du programme dont l'objet est la construction d'équipements publics destinés en tout ou partie aux occupants de ces logements. La décote ainsi consentie est alignée sur la décote allouée pour la part du programme consacrée aux logements sociaux. Les modalités d'application du présent alinéa et la liste des équipements publics concernés sont fixées par décret en Conseil d'Etat.
 
-III. - L'avantage financier résultant de la décote est exclusivement et en totalité répercuté sur le prix de revient des logements locatifs sociaux.
+III.-L'avantage financier résultant de la décote est exclusivement et en totalité répercuté sur le prix de revient des logements locatifs sociaux.
 
 Cette décote est également répercutée sur le prix de cession des logements en accession à la propriété bénéficiant des dispositifs mentionnés au VIII du présent article.
 
@@ -22,13 +22,13 @@ Lorsque le primo-acquéreur d'un logement le loue dans les dix ans qui suivent l
 
 A peine de nullité, les contrats de vente comportent la mention des obligations visées aux troisième et quatrième alinéas du présent III et du montant de la décote consentie.
 
-IV. - Pour les programmes ayant bénéficié de la cession d'un terrain avec une décote dans les conditions du présent article :
+IV.-Pour les programmes ayant bénéficié de la cession d'un terrain avec une décote dans les conditions du présent article :
 
 1° Les conventions mentionnées à l'article L. 351-2 du code de la construction et de l'habitation sont d'une durée au moins égale à vingt ans. Cette durée ne peut être inférieure à la période restant à courir pour l'amortissement du prêt. Le remboursement anticipé du prêt n'a pas d'incidence sur la durée de la convention ;
 
 2° Le délai de dix ans mentionné au premier alinéa de l'article L. 443-7 du même code est porté à vingt ans. Cette disposition s'applique également aux opérations des organismes agréés mentionnés à l'article L. 365-2 dudit code.
 
-V. - Une convention conclue entre le représentant de l'Etat dans la région et l'acquéreur, jointe à l'acte d'aliénation, fixe les conditions d'utilisation du terrain cédé et détermine le contenu du programme de logements à réaliser.
+V.-Une convention conclue entre le représentant de l'Etat dans la région et l'acquéreur, jointe à l'acte d'aliénation, fixe les conditions d'utilisation du terrain cédé et détermine le contenu du programme de logements à réaliser.
 
 Les données dont l'Etat dispose sur le patrimoine naturel du terrain faisant l'objet de la cession sont annexées à cette convention.
 
@@ -36,19 +36,21 @@ L'acte d'aliénation mentionne le montant de la décote consentie. Il prévoit, 
 
 L'acte d'aliénation prévoit, en cas de réalisation partielle du programme de logements ou de réalisation dans des conditions différentes de celles prises en compte pour la fixation du prix de cession, le paiement d'un complément de prix correspondant à l'avantage financier indûment consenti.
 
+Lorsque la cession d'un terrain, bâti ou non, du domaine privé de l'Etat s'inscrit dans une opération d'aménagement, au sens de l'article L. 300-1 du code de l'urbanisme, qui porte sur un périmètre de plus de cinq hectares, et après accord des ministres chargés du logement et du domaine, au vu du rapport transmis par le représentant de l'Etat dans la région, la convention conclue entre le représentant de l'Etat dans la région et l'acquéreur peut prévoir une réalisation de l'opération par tranches échelonnées sur une durée totale supérieure à cinq ans et permettant chacune un contrôle du dispositif de décote, dans les conditions prévues aux troisième et quatrième alinéas du présent V.
+
 La convention peut prévoir, en outre, le droit de réservation d'un contingent plafonné à 10 % des logements sociaux construits, au profit de l'administration qui cède son terrain avec décote, pour le logement de ses agents, au-delà du contingent dont dispose l'Etat.
 
-VI. - Le représentant de l'Etat dans la région, assisté du comité régional de l'habitat, contrôle l'effectivité de toute convention annexée à un acte d'aliénation et définie au V du présent article. A cet effet, l'acquéreur des terrains mentionnés au 2° du II rend compte de l'état d'avancement du programme de constructions au comité régional de l'habitat ainsi qu'à la commune sur le territoire de laquelle se trouve le terrain cédé. Cette obligation prend fin au jour de la livraison effective du programme de logements ou au jour de la résiliation de la convention.
+VI.-Le représentant de l'Etat dans la région, assisté du comité régional de l'habitat, contrôle l'effectivité de toute convention annexée à un acte d'aliénation et définie au V du présent article. A cet effet, l'acquéreur des terrains mentionnés au 2° du II rend compte de l'état d'avancement du programme de constructions au comité régional de l'habitat ainsi qu'à la commune sur le territoire de laquelle se trouve le terrain cédé. Cette obligation prend fin au jour de la livraison effective du programme de logements ou au jour de la résiliation de la convention.
 
 En cas de manquements constatés aux engagements pris par un acquéreur dans la convention qui accompagne l'acte de cession, le représentant de l'Etat dans la région, assisté du comité régional de l'habitat, mène la procédure contradictoire pouvant aboutir à la résolution de la vente dans les conditions prévues au V.
 
 Le représentant de l'Etat dans la région établit chaque année un bilan qui dresse notamment la liste des terrains disponibles, des terrains cédés au cours de l'année écoulée, des modalités et des prix de cession ainsi que des logements sociaux mis en chantier sur les parcelles cédées. Ce bilan est transmis à la commission nationale mentionnée au VII chargée d'établir, pour le compte du ministre chargé du logement, le rapport annuel au Parlement sur la mise en œuvre du dispositif, lequel fait l'objet d'un débat devant les commissions permanentes.
 
-VII. - Il est créé, auprès des ministres chargés du logement et de l'urbanisme, une Commission nationale de l'aménagement, de l'urbanisme et du foncier. Elle est composée de deux membres de l'Assemblée nationale et de deux membres du Sénat, de représentants de l'Etat dont notamment de représentants des ministres chargés du logement et de l'urbanisme, de représentants du ministre chargé du Domaine, de représentants des associations représentatives des collectivités locales, des organismes mentionnés aux articles L. 365-1, L. 411-2 et L. 481-1 du code de la construction et de l'habitation, des professionnels de l'immobilier, des organisations de défense de l'environnement et des organisations œuvrant dans le domaine de l'insertion, et de personnalités qualifiées.
+VII.-Il est créé, auprès des ministres chargés du logement et de l'urbanisme, une Commission nationale de l'aménagement, de l'urbanisme et du foncier. Elle est composée de deux membres de l'Assemblée nationale et de deux membres du Sénat, de représentants de l'Etat dont notamment de représentants des ministres chargés du logement et de l'urbanisme, de représentants du ministre chargé du Domaine, de représentants des associations représentatives des collectivités locales, des organismes mentionnés aux articles L. 365-1, L. 411-2 et L. 481-1 du code de la construction et de l'habitation, des professionnels de l'immobilier, des organisations de défense de l'environnement et des organisations œuvrant dans le domaine de l'insertion, et de personnalités qualifiées.
 
 La commission nationale mentionnée au présent VII est chargée de suivre le dispositif de mobilisation du foncier public en faveur du logement. Elle est en particulier chargée de s'assurer que la stratégie adoptée par l'Etat et les établissements publics concernés est de nature à favoriser la cession de biens appartenant à leur domaine privé au profit de la construction de logements sociaux. Le décret en Conseil d'Etat prévu au IX précise sa composition et fixe ses modalités de travail et de décision.
 
-VIII. - Pour l'application du présent article, sont assimilés aux logements locatifs mentionnés aux 3° et 5° de l'article L. 351-2 du code de la construction et de l'habitation :
+VIII.-Pour l'application du présent article, sont assimilés aux logements locatifs mentionnés aux 3° et 5° de l'article L. 351-2 du code de la construction et de l'habitation :
 
 1° Les structures d'hébergement temporaire ou d'urgence bénéficiant d'une aide de l'Etat ;
 
@@ -64,4 +66,4 @@ a) Les logements occupés par des titulaires de contrats de location-accession m
 
 b) Les logements faisant l'objet d'une opération d'accession dans les conditions définies au huitième alinéa de l'article L. 411-2 dudit code.
 
-IX. - Un décret en Conseil d'Etat précise les conditions d'application des I à VII.
+IX.-Un décret en Conseil d'Etat précise les conditions d'application des I à VII.

@@ -10,6 +10,8 @@ A cet effet, elle est compétente pour y réaliser :
 
 3° Tous ouvrages de bâtiment ou d'infrastructure, en qualité de mandataire au sens de l'article 3 de la loi du 12 juillet 1985 relative à la maîtrise d'ouvrage publique et ses rapports avec la maîtrise d'œuvre privée.
 
+Elle peut mener des opérations de requalification des copropriétés dégradées mentionnées à l'article L. 741-1 du code de la construction et de l'habitation ou apporter son concours à l'établissement public foncier d'Ile-de-France pour la réalisation d'opérations de requalification des copropriétés dégradées d'intérêt national.
+
 Afin de favoriser la protection et la mise en valeur de l'environnement, elle peut procéder dans la même région, à titre secondaire, à des acquisitions foncières d'espaces naturels, agricoles ou forestiers dont la préservation doit être assurée.
 
 Elle peut également y conduire des missions présentant un caractère complémentaire à ses missions principales en vue de favoriser le développement durable du territoire. Elle exerce ces missions à titre accessoire.

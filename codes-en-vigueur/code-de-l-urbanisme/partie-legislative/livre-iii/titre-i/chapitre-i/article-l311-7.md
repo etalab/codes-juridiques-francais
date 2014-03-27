@@ -12,7 +12,7 @@ a) D'une modification, à condition que le changement apporté au plan d'aménag
 
 -ne comporte pas de graves risques de nuisance.
 
-b) (supprimé)
+b) D'une modification simplifiée dans les conditions définies aux articles L. 123-13-1 et L. 123-13-3 ;
 
 c) D'une mise en compatibilité selon les modalités définies par les articles L. 123-14 et L. 123-14-2.
 

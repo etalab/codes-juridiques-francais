@@ -1,7 +1,7 @@
 # Article L322-14
 
-Les statuts de la société civile doivent être conformes à des statuts types fixés par décret en Conseil d'Etat.
+Les propriétaires intéressés à la création d'une association foncière urbaine de projet adressent la demande d'autorisation à l'autorité administrative.
 
-La durée de la société ne peut être inférieure à dix ans.
+Le dossier de la demande de création comprend notamment le projet de statuts et le périmètre des opérations envisagé, qui peut intégrer tout ou partie des unités foncières sur lesquelles porte le projet de l'association. Les statuts sont conformes au second alinéa de l'article 7 de l'ordonnance n° 2004-632 du 1er juillet 2004 relative aux associations syndicales de propriétaires.
 
-La responsabilité de chacun des associés est limitée au montant de ses apports.
+Une copie du dossier est transmise à la commune ou à l'établissement public de coopération intercommunale compétent en matière de plan local d'urbanisme, sur le territoire duquel est prévu le projet de l'association.

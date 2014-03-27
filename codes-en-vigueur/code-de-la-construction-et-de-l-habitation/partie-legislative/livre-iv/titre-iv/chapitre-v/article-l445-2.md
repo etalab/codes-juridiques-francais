@@ -10,7 +10,7 @@ Il fixe notamment, par immeuble ou ensemble immobilier :
 
 -les conditions dans lesquelles l'organisme peut exiger des locataires le paiement d'un supplément de loyer de solidarité, et ses modalités de calcul ;
 
--le montant maximal total des loyers, rapporté à la surface utile ou à la surface corrigée totale, exprimé en euros par mètre carré et par mois. Il tient compte du classement des immeubles ou groupes d'immeubles mentionné à l'article L. 445-1. Pour l'établissement de la première convention d'utilité sociale, l'organisme peut déroger au présent alinéa.
+-le montant maximal total des loyers, rapporté à la surface utile ou à la surface corrigée totale, exprimé en euros par mètre carré et par mois. Il tient compte du classement des immeubles ou groupes d'immeubles mentionné à l'article L. 445-1. Pour l'établissement de la première convention d'utilité sociale, l'organisme peut déroger au présent alinéa. Toutefois, pendant la durée de la première convention, il peut être procédé par avenant à la fixation de ce montant maximal total des loyers, dans le respect des dispositions relatives au classement des immeubles prévues à l'article L. 445-1. Cette fixation prend effet au début d'une année civile.
 
 Les engagements du cahier des charges se substituent à ceux prévus par la réglementation en vigueur à la date de son établissement.
 

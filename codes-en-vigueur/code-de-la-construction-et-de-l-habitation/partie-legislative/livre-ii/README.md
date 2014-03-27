@@ -1,5 +1,6 @@
 # Livre II : Statut des constructeurs.
 
+- [Titre préliminaire : Les sociétés d'habitat participatif](titre-preliminaire)
 - [Titre Ier : Statut des sociétés de construction.](titre-ier)
 - [Titre II : Promotion immobilière.](titre-ii)
 - [Titre IV : Dispositions communes diverses.](titre-iv)

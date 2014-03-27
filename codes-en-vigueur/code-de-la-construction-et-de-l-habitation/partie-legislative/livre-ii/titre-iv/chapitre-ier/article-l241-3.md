@@ -22,7 +22,7 @@ Ne peuvent participer, en droit ou en fait, directement ou par personne interpos
 
 10° Délit prévu par l'article 21 de la loi du 13 juin 1941 (1) sur l'exercice de la profession bancaire, délit prévu par le deuxième alinéa de l'article 6 de la loi du 14 juin 1941 (2) relative à la réglementation et à l'organisation des professions se rattachant à la profession de banquier ;
 
-11° Délit prévu par l'article 4 de la loi n° 60-580 du 21 juin 1960 (3) interdisant certaines pratiques en matière de transactions portant sur des immeubles et des fonds de commerce, et par les articles 16, 17 et 18 de la loi n° 70-9 du 2 janvier 1970 réglementant les conditions d'exercice des activités relatives à certaines opérations portant sur les immeubles et les fonds de commerce ;
+11° Délit prévu par l'article 4 de la loi n° 60-580 du 21 juin 1960 (3) interdisant certaines pratiques en matière de transactions portant sur des immeubles et des fonds de commerce, et par le a bis de l'article 14 et les articles 16,17 et 18 de la loi n° 70-9 du 2 janvier 1970 réglementant les conditions d'exercice des activités relatives à certaines opérations portant sur les immeubles et les fonds de commerce ;
 
 12° Délit prévu par les articles L. 241-1, L. 241-2, L. 241-5, L. 241-6, L. 263-1 et L. 263-2 ;
 

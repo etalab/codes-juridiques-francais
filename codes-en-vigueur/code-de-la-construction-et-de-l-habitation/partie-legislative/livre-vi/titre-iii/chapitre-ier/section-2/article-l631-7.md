@@ -9,3 +9,5 @@ Pour l'application de la présente section, un local est réputé à usage d'hab
 Toutefois, lorsqu'une autorisation administrative subordonnée à une compensation a été accordée après le 1er janvier 1970 pour changer l'usage d'un local mentionné à l'alinéa précédent, le local autorisé à changer d'usage et le local ayant servi de compensation sont réputés avoir l'usage résultant de l'autorisation.
 
 Sont nuls de plein droit tous accords ou conventions conclus en violation du présent article.
+
+Le fait de louer un local meublé destiné à l'habitation de manière répétée pour de courtes durées à une clientèle de passage qui n'y élit pas domicile constitue un changement d'usage au sens du présent article.

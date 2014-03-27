@@ -4,7 +4,7 @@ Les terrains situés dans les espaces urbains et les secteurs occupés par une u
 
 A défaut d'identification des personnes mentionnées à l'alinéa précédent, ces terrains peuvent être déclassés aux fins de cession à titre onéreux aux occupants de constructions affectées à leur habitation édifiées avant le 1er janvier 1995.
 
-Les demandes de cession faites en application du présent article doivent, sous peine de forclusion, être déposées avant le 1er janvier 2015.
+Les demandes de cession faites en application du présent article doivent, sous peine de forclusion, être déposées avant le 1er janvier 2016.
 
 Le prix de cession est déterminé d'après la valeur vénale du terrain nu à la date du dépôt de la demande de cession. Il est fixé selon les règles applicables à l'aliénation des immeubles du domaine privé.
 
