@@ -4,7 +4,7 @@ I. ― Le document d'orientation et d'objectifs définit les objectifs et les pr
 
 Il détermine les conditions d'un développement équilibré dans l'espace rural entre l'habitat, l'activité économique et artisanale, et la préservation des sites naturels, agricoles et forestiers.
 
-II. ― Il détermine les espaces et sites naturels, agricoles, forestiers ou urbains à protéger. Il peut en définir la localisation ou la délimitation.
+II. ― Il détermine les espaces et sites naturels, agricoles, forestiers ou urbains à protéger. Il peut en définir la localisation ou la délimitation. Il transpose les dispositions pertinentes des chartes de parcs naturels régionaux et leurs délimitations cartographiques à une échelle appropriée, afin de permettre leur déclinaison dans les plans locaux d'urbanisme ou les documents en tenant lieu et les cartes communales.
 
 Il précise les modalités de protection des espaces nécessaires au maintien de la biodiversité et à la préservation ou à la remise en bon état des continuités écologiques.
 
@@ -41,3 +41,5 @@ Dans ces secteurs, les règles des plans locaux d'urbanisme et des documents d'u
 Passé ce délai, le permis de construire, d'aménager ou de démolir ne peut être refusé et les projets faisant l'objet d'une déclaration préalable ne peuvent faire l'objet d'une opposition sur le fondement d'une règle contraire aux normes minimales fixées par le schéma de cohérence territoriale ou le schéma de secteur.
 
 IX. Le document d'orientation et d'objectifs peut, sous réserve d'une justification particulière, définir des secteurs, situés à proximité des transports collectifs existants ou programmés, dans lesquels les plans locaux d'urbanisme doivent imposer une densité minimale de construction.
+
+X. - Le document d'orientation et d'objectifs peut préciser les objectifs de qualité paysagère.

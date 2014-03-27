@@ -1,6 +1,6 @@
 # Article L122-16
 
-Lorsqu'un schéma de cohérence territoriale doit être rendu compatible avec une directive territoriale d'aménagement ou avec les dispositions particulières aux zones de montagne et au littoral, ou pour permettre la réalisation d'un projet d'intérêt général postérieur à son approbation, le préfet en informe l'établissement public prévu aux articles L. 122-4 et L. 122-4-1.
+Lorsqu'un schéma de cohérence territoriale doit être rendu compatible avec une directive territoriale d'aménagement ou avec les dispositions particulières aux zones de montagne et au littoral, ou pour permettre la réalisation d'un projet d'intérêt général postérieur à son approbation, le préfet en informe l'établissement public prévu à l'article L. 122-4.
 
 Il en est de même lorsque, à l'issue du délai de trois ans mentionné à l'article L. 111-1-1, le schéma de cohérence territoriale n'a pas, s'il y a lieu, été rendu compatible avec :
 
