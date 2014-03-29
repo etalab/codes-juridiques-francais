@@ -1,7 +1,7 @@
 # Article Annexe 3-3
 
 <div align="center">
-<b> 					Epreuves juridiques, réglementation<br/> 					professionnelle, économie et comptabilité</b>
+<b>Epreuves juridiques, réglementation<br/>professionnelle, économie et comptabilité</b>
 <br/>
 </div>
 
@@ -25,9 +25,11 @@ Le droit de la vente de meubles aux enchères publiques :
 
 ― le trafic illicite des œuvres d'art.
 
+La lutte contre le blanchiment des capitaux et le financement du terrorisme.
+
 Réglementation professionnelle :
 
-Statut des sociétés de ventes volontaires de meubles aux enchères publiques et des personnes habilitées à diriger des ventes volontaires ;
+Statut des opérateurs de ventes volontaires de meubles aux enchères publiques et des personnes habilitées à diriger des ventes volontaires ;
 
 Organisation et attributions du conseil des ventes volontaires de meubles aux enchères publiques ;
 
@@ -168,3 +170,19 @@ La pratique :
 Pratiques particulières :
 
 Inventaire, estimation et vente du matériel industriel, commercial et agricole, des stocks des entreprises et des véhicules.
+
+Pratique des ventes en gros.
+
+Langues vivantes
+
+Allemand.
+
+Anglais.
+
+Chinois.
+
+Espagnol.
+
+Italien.
+
+Russe.
