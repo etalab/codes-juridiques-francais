@@ -1,7 +1,5 @@
-# Chapitre unique
+# Section 1 : Commission prévue à l'article L. 311-5
 
-- [Section 1 : Commission prévue à l'article L. 311-5](section-1)
-- [Section 2 : Information des acquéreurs de supports d'enregistrement soumis à la rémunération pour copie privée](section-2)
 - [Article D311-8](article-d311-8.md)
 - [Article R311-1](article-r311-1.md)
 - [Article R311-2](article-r311-2.md)
