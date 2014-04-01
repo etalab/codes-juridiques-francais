@@ -6,4 +6,4 @@ Le classement est prononcé pour une durée de cinq ans.
 
 Dès lors que l'exploitant a accompli les formalités nécessaires au contrôle mentionnées à l'article D. 332-2, son classement demeure jusqu'à la notification de la nouvelle décision relative à ce classement.
 
-En cas d'augmentation supérieure à 10 % du nombre d'emplacements indiqué dans la décision de classement, l'exploitant, s'il souhaite conserver un classement, est tenu d'effectuer une nouvelle demande conformément à l'article D. 332-2.
+Pour les terrains de camping classés dans une des catégories désignées par un nombre d'étoiles croissant, en cas d'augmentation supérieure à 10 % du nombre d'emplacements indiqué dans la décision de classement, l'exploitant, s'il souhaite conserver un classement, est tenu d'effectuer une nouvelle demande conformément à l'article D. 332-2.
