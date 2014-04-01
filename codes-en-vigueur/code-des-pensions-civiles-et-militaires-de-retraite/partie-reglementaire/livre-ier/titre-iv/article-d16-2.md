@@ -12,8 +12,14 @@ II. ― Sont également réputées avoir donné lieu à cotisations les période
 
 1° Les trimestres réputés cotisés au titre du service national ne peuvent excéder quatre trimestres ;
 
-2° Les trimestres réputés cotisés au titres des périodes pendant lesquelles les fonctionnaires ont été placés en congé de maladie statutaire et des périodes réputées cotisées dans un ou plusieurs autres régimes obligatoires au titre de la maladie, de la maternité et de l'inaptitude temporaire ne peuvent excéder au total six trimestres, sans que le nombre total de trimestres réputés cotisés au titre de la maladie et de l'inaptitude temporaire ne puisse excéder quatre trimestres ;
+2° Les trimestres réputés cotisés au titre des périodes pendant lesquelles les fonctionnaires ont été placés en congé de maladie statutaire et les trimestres réputés cotisés dans un ou plusieurs autres régimes obligatoires au titre de la maladie et de l'inaptitude temporaire ne peuvent excéder au total quatre trimestres ;
 
-3° Les trimestres réputés cotisés au titre des périodes comptées comme périodes d'assurance au titre du chômage ne peuvent excéder deux trimestres.
+3° Les trimestres réputés cotisés dans un ou plusieurs autres régimes obligatoires de base au titre de la maternité sont intégralement pris en compte ;
+
+4° Les trimestres réputés cotisés dans un ou plusieurs autres régimes obligatoires de base au titre de l'invalidité ne peuvent excéder deux trimestres ;
+
+5° Les trimestres de majoration de durée d'assurance acquis au titre de l'article L. 351-6-1 du code de la sécurité sociale sont intégralement pris en compte ;
+
+6° Les trimestres réputés cotisés au titre des périodes comptées comme périodes d'assurance au titre du chômage ne peuvent excéder quatre trimestres.
 
 III. ― Pour l'application de la condition de durée d'assurance ayant donné lieu à cotisations à la charge des fonctionnaires, il est retenu un nombre de trimestres au plus égal à quatre au titre de chaque année civile au cours de laquelle l'assuré a été affilié successivement ou simultanément à plusieurs régimes obligatoires.
