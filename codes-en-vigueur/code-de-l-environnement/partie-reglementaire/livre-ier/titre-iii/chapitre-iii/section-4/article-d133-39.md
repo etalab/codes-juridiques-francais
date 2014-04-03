@@ -16,7 +16,7 @@ Outre le président et le vice-président, la commission comprend :
 
 -le directeur général de l'aménagement, du logement et de la nature ;
 
--le délégué interministériel à l'aménagement du territoire et à l'attractivité régionale ;
+-le             commissaire général à l'égalité des territoires  ;
 
 -le directeur général du Trésor ;
 

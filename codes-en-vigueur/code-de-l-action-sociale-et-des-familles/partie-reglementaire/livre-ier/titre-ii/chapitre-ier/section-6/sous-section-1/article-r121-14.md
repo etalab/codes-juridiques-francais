@@ -4,7 +4,7 @@ L'Agence nationale pour la cohésion sociale et l'égalité des chances est admi
 
 1° Treize représentants de l'Etat disposant de la moitié des voix :
 
--le secrétaire général du comité interministériel des villes disposant de quatre voix ;
+-le      commissaire général délégué à l'égalité des territoires disposant de quatre voix ;
 
 -le directeur général de la cohésion sociale disposant d'une voix ;
 
@@ -16,7 +16,7 @@ L'Agence nationale pour la cohésion sociale et l'égalité des chances est admi
 
 -le délégué général à l'emploi et à la formation professionnelle disposant d'une voix ;
 
--le                      directeur général des étrangers en France disposant d'une voix ;
+-le directeur général des étrangers en France disposant d'une voix ;
 
 -le directeur général de l'enseignement scolaire disposant d'une voix ;
 

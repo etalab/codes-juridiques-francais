@@ -16,7 +16,7 @@ e) Le chef du service de l'accès au droit et à la justice et de l'aide aux vic
 
 f) Le secrétaire général du comité interministériel de prévention de la délinquance ;
 
-g) Le secrétaire général du comité interministériel des villes ;
+g) Le      commissaire général délégué à l'égalité des territoires ;
 
 2° Un représentant de l'Agence nationale pour la cohésion sociale et l'égalité des chances, désigné par celle-ci ;
 
