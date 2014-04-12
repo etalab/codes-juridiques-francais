@@ -1743,19 +1743,13 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 <p align="left">Cayenne </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Cantons d'Approuague-Kaw, Cayenne 1er canton Nord-Ouest,<br/>Cayenne 2e canton Nord-Est, Cayenne 3e canton Sud-Ouest,<br/>Cayenne 4e canton Centre, Cayenne 5e canton Sud, Cayenne<br/>6e canton Sud-Est, Iracoubo, Kourou, Macouria, Mana,<br/>Maripasoula, Matoury, Montsinéry-Tonnegrande, Remire-Montjoly,<br/>Roura, Saint-Georges-Oyapoc, Saint-Laurent-du-Maroni et<br/>Sinnamary. </p>
+<p align="left">Cantons d'Approuague-Kaw, Cayenne 1er canton Nord-Ouest, Cayenne 2e canton Nord-Est, Cayenne 3e canton Sud-Ouest, Cayenne 4e canton Centre, Cayenne 5e canton Sud, Cayenne 6e canton Sud-Est, Iracoubo, Kourou, Macouria, Mana, Maripasoula, Matoury, Montsinéry-Tonnegrande, Remire-Montjoly, Roura, Saint-Georges-Oyapoc, Saint-Laurent-du-Maroni et Sinnamary. </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">Dont une chambre détachée à Saint-Laurent-du-Maroni </p>
-</td>
-<td align="left" valign="top">
-<br/>
-</td>
-<td align="left" valign="top">
-<p align="left">Ressort de la chambre détachée à Saint-Laurent-du-Maroni :<br/>Mana, Maripasoula, Saint-Laurent-du-Maroni</p>
-</td>
+<td>Dont une chambre détachée à Saint-Laurent-du-Maroni </td>
+<td/>
+<td>Ressort de la chambre détachée à Saint-Laurent-du-Maroni : Mana, Maripasoula, Saint-Laurent-du-Maroni</td>
 </tr>
 <tr>
 <td colspan="3" width="596">
@@ -2649,9 +2643,7 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 </td>
 </tr>
 <tr>
-<td valign="top" width="154">
-<p>[Bourgoin-Jallieu (19)] </p>
-</td>
+<td valign="top" width="154">Bourgoin-Jallieu</td>
 <td valign="top" width="109">
 <p>Bourgoin-Jallieu </p>
 </td>
@@ -2660,68 +2652,30 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 </td>
 </tr>
 <tr>
-<td rowspan="4" valign="top" width="154">
+<td rowspan="2" valign="top" width="154">
 <p>Grenoble </p>
 </td>
 <td valign="top" width="109">
-<p>[Grenoble </p>
+<p>Grenoble </p>
 </td>
 <td valign="top" width="333">
-<p>Cantons d'Allevard, Domène, Échirolles-Est, Échirolles-Ouest, Eybens, Fontaine-Sassenage, Fontaine-Seyssinet, Goncelin, Grenoble 1er canton, Grenoble 2e canton, Grenoble 3e canton, Grenoble 4e canton, Grenoble 5e canton, Grenoble 6e canton, Le Bourg-d'Oisans, Le Touvet, Meylan, Saint-Égrève, Saint-Ismier, Saint-Laurent-du-Pont, Saint-Martin-d'Hères-Nord, Saint-Martin-d'Hères-Sud, Vif, Villard-de-Lans, Vizille et Voiron. (3)] </p>
+<p align="left">Cantons d'Allevard, Clelles, Corps, Domène, Echirolles-Est, Echirolles-Ouest, Eybens, Fontaine-Sassenage, Fontaine-Seyssinet, Goncelin, Grenoble 1er canton, Grenoble 2e canton, Grenoble 3e canton, Grenoble 4e canton, Grenoble 5e canton, Grenoble 6e canton, La Mure, Le Bourg-d'Oisans, Le Touvet, Mens, Meylan, Monestier-de-Clermont, Pont-en-Royans, Rives, Roybon, Saint-Egrève, Saint-Etienne-de-Saint-Geoirs, Saint-Ismier, Saint-Laurent-du-Pont, Saint-Marcellin, Saint-Martin-d'Hères-Nord, Saint-Martin-d'Hères-Sud, Tullins, Valbonnais, Vif, Villard-de-Lans, Vinay, Vizille et Voiron. </p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="109">
-<p>[Grenoble </p>
-</td>
-<td valign="top" width="333">
-<p>Cantons d'Allevard, Clelles, Corps, Domène, Échirolles-Est, Échirolles-Ouest, Eybens, Fontaine-Sassenage, Fontaine-Seyssinet, Goncelin, Grenoble 1er canton, Grenoble 2e canton, Grenoble 3e canton, Grenoble 4e canton, Grenoble 5e canton, Grenoble 6e canton, La Mure, Le Bourg-d'Oisans, Le Touvet, Mens, Meylan, Monestier de-Clermont, Pont-en-Royans, Rives, Roybon, Saint-Égrève, Saint-Étienne-de-Saint-Geoirs, Saint-Ismier, Saint-Laurent-du-Pont, Saint-Marcellin, Saint-Martin-d'Hères-Nord, Saint-Martin-d'Hères-Sud, Tullins, Valbonnais, Vif, Villard-de-Lans, Vinay, Vizille et Voiron. (4)] </p>
-</td>
+<td valign="top" width="109"/>
+<td valign="top" width="333"/>
 </tr>
 <tr>
-<td valign="top" width="109">
-<p>[La Mure </p>
-</td>
-<td valign="top" width="333">
-<p>Cantons de Clelles, Corps, La Mure, Mens, Monestier-de-Clermont et Valbonnais. (3)] </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="109">
-<p>[Saint-Marcellin </p>
-</td>
-<td valign="top" width="333">
-<p>Cantons de Pont-en-Royans, Rives, Roybon, Saint-Étienne-de-Saint-Geoirs, Saint-Marcellin, Tullins et Vinay. (3)] </p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" valign="top" width="154">
-<p align="left">[Vienne (19)] </p>
-<p align="left">[Villefontaine (20)] <br/>
+<td valign="top" width="154">
+<p>Vienne <br/>
 </p>
 </td>
 <td valign="top" width="109">
-<p align="left">Vienne </p>
+<p>Vienne </p>
 </td>
 <td valign="top" width="333">
-<p align="left">Cantons de Beaurepaire, Heyrieux, La Côte-Saint-André, La Verpillière, L'Isle-d'Abeau, Pont-de-Chéruy, Roussillon, Saint-Jean de-Bournay, Vienne-Nord et Vienne-Sud. </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="109">
-<p align="left">[Bourgoin-Jallieu] </p>
-</td>
-<td valign="top" width="333">
-<p align="left">Cantons de Bourgoin-Jallieu-Nord, Bourgoin-Jallieu-Sud, Crémieu, La Tour-du-Pin, Le Grand-Lemps, Le Pont-de-Beauvoisin, Morestel, Saint-Geoire-en-Valdaine et Virieu. </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">[Vienne </p>
-</td>
-<td align="left" valign="top">
-<p align="left">Cantons de Beaurepaire, Heyrieux, La Côte-Saint-André,<br/>La Verpillière, L'Isle-d'Abeau, Pont-de-Chéruy, Roussillon,<br/>Saint-Jean-de-Bournay, Vienne-Nord et Vienne-Sud. <br/>
-</p>
+<p>Cantons de Beaurepaire, Heyrieux, La Côte-Saint-André, La Verpillière, L'Isle-d'Abeau, Pont-de-Chéruy, Roussillon, Saint-Jean de-Bournay, Vienne-Nord et Vienne-Sud. </p>
 </td>
 </tr>
 <tr>
@@ -2787,29 +2741,29 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 </tr>
 <tr>
 <td rowspan="3" valign="top" width="154">
-<p align="left">Guéret </p>
+<p>Guéret </p>
 </td>
 <td valign="top" width="109">
-<p align="left">[Bourganeuf </p>
+<p>[Bourganeuf </p>
 </td>
 <td valign="top" width="333">
-<p align="left">Cantons de Bénévent-l'Abbaye, Bourganeuf, Pontarion et Royère-de-Vassivière. (9)] </p>
+<p>Cantons de Bénévent-l'Abbaye, Bourganeuf, Pontarion et Royère-de-Vassivière. (9)] </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="109">
-<p align="left">[Guéret </p>
+<p>[Guéret </p>
 </td>
 <td valign="top" width="333">
-<p align="left">Cantons d'Ahun, Aubusson, Auzances, Bellegarde-en-Marche, Bonnat, Boussac, Chambon-sur-Voueize, Châtelus-Malvaleix Chénérailles, Crocq, Dun-le-Palestel, Évaux-les-Bains, Felletin, Gentioux-Pigerolles, Guéret-Nord, Guéret Sud-Est, Guéret-Sud-Ouest, Jarnages, La Courtine, La Souterraine, Le Grand-Bourg, Saint-Sulpice-les Champs et Saint-Vaury. (9)] </p>
+<p>Cantons d'Ahun, Aubusson, Auzances, Bellegarde-en-Marche, Bonnat, Boussac, Chambon-sur-Voueize, Châtelus-Malvaleix Chénérailles, Crocq, Dun-le-Palestel, Évaux-les-Bains, Felletin, Gentioux-Pigerolles, Guéret-Nord, Guéret Sud-Est, Guéret-Sud-Ouest, Jarnages, La Courtine, La Souterraine, Le Grand-Bourg, Saint-Sulpice-les Champs et Saint-Vaury. (9)] </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">[Guéret </p>
+<p>[Guéret </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Cantons d'Ahun, Aubusson, Auzances, Bellegarde-en-Marche,<br/>Bénévent-l'Abbaye, Bonnat, Bourganeuf, Boussac, Chambon-sur-Voueize,<br/>Châtelus-Malvaleix, Chénérailles, Crocq, Dun-le-Palestel,<br/>Évaux-les-Bains, Felletin, Gentioux-Pigerolles, Guéret-Nord,<br/>Guéret Sud-Est, Guéret-Sud-Ouest, Jarnages, La Courtine,<br/>La Souterraine, Le Grand-Bourg, Pontarion, Royère-de-Vassière,<br/>Saint-Sulpice-les Champs et Saint-Vaury. (10)] </p>
+<p>Cantons d'Ahun, Aubusson, Auzances, Bellegarde-en-Marche,<br/>Bénévent-l'Abbaye, Bonnat, Bourganeuf, Boussac,<br/>Chambon-sur-Voueize, Châtelus-Malvaleix, Chénérailles, Crocq,<br/>Dun-le-Palestel, Évaux-les-Bains, Felletin, Gentioux-Pigerolles,<br/>Guéret-Nord, Guéret Sud-Est, Guéret-Sud-Ouest, Jarnages, La Courtine,<br/>La Souterraine, Le Grand-Bourg, Pontarion, Royère-de-Vassière,<br/>Saint-Sulpice-les Champs et Saint-Vaury. (10)] </p>
 </td>
 </tr>
 <tr>
@@ -3488,56 +3442,60 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 </tr>
 <tr>
 <td rowspan="5" valign="top" width="154">
-<p align="left">Epinal </p>
+<p>Epinal </p>
 </td>
 <td valign="top" width="109">
-<p align="left">[Epinal </p>
+<p>[Epinal </p>
 </td>
 <td valign="top" width="333">
-<p align="left">Cantons de Bains-les-Bains, Bruyères, Bulgnéville, Châtel-sur-Moselle, Châtenois, Coussey, Épinal-Est, Épinal-Ouest, Lamarche, Neufchâteau, Rambervillers et Xertigny. (11)] </p>
+<p>Cantons de Bains-les-Bains, Bruyères, Bulgnéville, Châtel-sur-Moselle, Châtenois, Coussey, Épinal-Est, Épinal-Ouest, Lamarche, Neufchâteau, Rambervillers et Xertigny. (11)] </p>
 </td>
 </tr>
 <tr>
-<td align="left" valign="top">
-<p align="left">[Epinal </p>
+<td>
+<p>[Epinal </p>
 </td>
-<td align="left" valign="top">
-<p align="left">Cantons de Bains-les-Bains, Bruyères, Bulgnéville,<br/>Châtel-sur-Moselle, Châtenois, Coussey, Épinal-Est,<br/>Épinal-Ouest, Lamarche, Le Thillot, Neufchâteau,<br/>Plombière-les-Bains, Rambervillers, Remiremont,<br/>Saulxures-sur-Moselotte et Xertigny. (12 et 3)] </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="109">
-<p align="left">[Mirecourt </p>
-</td>
-<td valign="top" width="333">
-<p align="left">Cantons de Charmes, Darney, Dompaire, Mirecourt, Monthureux-sur-Saône et Vittel. (3)] </p>
+<td>
+<p>Cantons de Bains-les-Bains, Bruyères, Bulgnéville, </p>
+<p>Châtel-sur-Moselle, Châtenois, Coussey, Épinal-Est, </p>
+<p>Épinal-Ouest, Lamarche, Le Thillot, Neufchâteau, </p>
+<p>Plombière-les-Bains, Rambervillers, Remiremont, </p>
+<p>Saulxures-sur-Moselotte et Xertigny. (12 et 3)] </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="109">
-<p align="left">[Remiremont </p>
+<p>[Mirecourt </p>
 </td>
 <td valign="top" width="333">
-<p align="left">Cantons de Le Thillot, Plombières-les-Bains, Remiremont et Saulxures-sur-Moselotte. (11)] </p>
+<p>Cantons de Charmes, Darney, Dompaire, Mirecourt, Monthureux-sur-Saône et Vittel. (3)] </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="109">
-<p align="left">[Saint-Dié-des-Vosges (6)] </p>
+<p>[Remiremont </p>
 </td>
 <td valign="top" width="333">
-<p align="left">Cantons de Brouvelieures, Corcieux, Fraize, Gérardmer, Provenchères-sur-Fave, Raon-l'Étape, Saint-Dié-des-Vosges-Est, Saint-Dié-des-Vosges-Ouest et Senones. </p>
+<p>Cantons de Le Thillot, Plombières-les-Bains, Remiremont et Saulxures-sur-Moselotte. (11)] </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="109">
+<p>[Saint-Dié-des-Vosges (6)] </p>
+</td>
+<td valign="top" width="333">
+<p>Cantons de Brouvelieures, Corcieux, Fraize, Gérardmer, Provenchères-sur-Fave, Raon-l'Étape, Saint-Dié-des-Vosges-Est, Saint-Dié-des-Vosges-Ouest et Senones. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="154">
-<p align="left">[Saint-Dié-des-Vosges (5)] </p>
+<p>[Saint-Dié-des-Vosges (5)] </p>
 </td>
 <td valign="top" width="109">
-<p align="left">Saint-Dié-des-Vosges </p>
+<p>Saint-Dié-des-Vosges </p>
 </td>
 <td valign="top" width="333">
-<p align="left">Cantons de Brouvelieures, Corcieux, Fraize, Gérardmer, Provenchères-sur-Fave, Raon-l'Étape, Saint-Dié-des-Vosges-Est, Saint-Dié-des-Vosges-Ouest et Senones. </p>
+<p>Cantons de Brouvelieures, Corcieux, Fraize, Gérardmer, Provenchères-sur-Fave, Raon-l'Étape, Saint-Dié-des-Vosges-Est, Saint-Dié-des-Vosges-Ouest et Senones. </p>
 </td>
 </tr>
 <tr>
@@ -3868,7 +3826,7 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 <p>[Vendôme </p>
 </td>
 <td valign="top" width="333">
-<p>Cantons de Droué, Mondoubleau, Montoire-sur-le-Loir, Morée, Saint-Amand-Longpré, Savigny-sur-Braye, Selommes, Vendôme 1er canton et Vendôme 2e canton. (3)] </p>
+<p>Cantons de Droué, Mondoubleau, Montoire-sur-le-Loir, Morée, Saint-Amand-Longpré, Savigny-sur-Braye, Selommes, Vendôme 1 ` t canton et Vendôme 2e canton. (3)] </p>
 </td>
 </tr>
 <tr>
@@ -6360,7 +6318,8 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 <tbody>
 <tr>
 <td width="312">
-<p align="center">Siège du tribunal de première instance<br/>et de la juridiction de proximité </p>
+<p align="center">Siège du tribunal de première instance </p>
+<p align="center">et de la juridiction de proximité </p>
 </td>
 <td width="302">
 <p align="center">Ressort </p>
@@ -6378,10 +6337,10 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 </tr>
 <tr>
 <td width="312">
-<p align="left">Saint-Pierre </p>
+<p>Saint-Pierre </p>
 </td>
 <td width="302">
-<p align="left">Collectivité territoriale de Saint-Pierre-et-Miquelon </p>
+<p>Collectivité territoriale de Saint-Pierre-et-Miquelon </p>
 </td>
 </tr>
 </tbody>
@@ -6420,10 +6379,6 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 (17) Applicable jusqu'au 5 septembre 2010.
 
 (18) Applicable à compter du 6 septembre 2010.
-
-(19) Applicable jusqu'au 30 juin 2014.
-
-(20) Applicable à compter du 1er juillet 2014.
 
 (21) Applicable jusqu'au 31 décembre 2011.
 
