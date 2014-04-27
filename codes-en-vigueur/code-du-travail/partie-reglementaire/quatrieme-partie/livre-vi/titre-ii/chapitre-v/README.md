@@ -2,3 +2,4 @@
 
 - [Section 1 : Travailleur temporaire.](section-1)
 - [Section 2 : Salarié saisonnier.](section-2)
+- [Section 3 : Travailleurs éloignés](section-3)
