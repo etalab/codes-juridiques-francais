@@ -11,7 +11,6 @@
 - [Article L5210-1](article-l5210-1.md)
 - [Article L5210-1-1](article-l5210-1-1.md)
 - [Article L5210-1-1 A](article-l5210-1-1-a.md)
-- [Article L5210-1-2](article-l5210-1-2.md)
 - [Article L5210-2](article-l5210-2.md)
 - [Article L5210-3](article-l5210-3.md)
 - [Article L5210-4](article-l5210-4.md)
