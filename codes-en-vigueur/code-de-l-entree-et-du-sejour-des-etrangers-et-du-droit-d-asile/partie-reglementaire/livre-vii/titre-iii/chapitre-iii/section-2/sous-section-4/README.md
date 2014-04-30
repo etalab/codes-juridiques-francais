@@ -8,5 +8,6 @@
 - [Article R733-22](article-r733-22.md)
 - [Article R733-23](article-r733-23.md)
 - [Article R733-24](article-r733-24.md)
+- [Article R733-25](article-r733-25.md)
 - [Article R733-26](article-r733-26.md)
 - [Article R733-27](article-r733-27.md)
