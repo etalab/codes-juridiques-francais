@@ -1,0 +1,18 @@
+# Sous-section 1 : Election des représentants des collectivités territoriales et des établissements publics de coopération intercommunale à fiscalité propre
+
+- [Article R1213-2](article-r1213-2.md)
+- [Article R1213-3](article-r1213-3.md)
+- [Article R1213-4](article-r1213-4.md)
+- [Article R1213-5](article-r1213-5.md)
+- [Article R1213-6](article-r1213-6.md)
+- [Article R1213-7](article-r1213-7.md)
+- [Article R1213-8](article-r1213-8.md)
+- [Article R1213-9](article-r1213-9.md)
+- [Article R1213-10](article-r1213-10.md)
+- [Article R1213-11](article-r1213-11.md)
+- [Article R1213-12](article-r1213-12.md)
+- [Article R1213-13](article-r1213-13.md)
+- [Article R1213-14](article-r1213-14.md)
+- [Article R1213-15](article-r1213-15.md)
+- [Article R1213-16](article-r1213-16.md)
+- [Article R1213-17](article-r1213-17.md)
