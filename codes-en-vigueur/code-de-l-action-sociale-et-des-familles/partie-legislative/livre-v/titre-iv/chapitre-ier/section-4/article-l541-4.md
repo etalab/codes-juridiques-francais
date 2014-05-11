@@ -24,7 +24,7 @@ IV.-L'article L. 146-5 est ainsi modifié :
 
 3° Au dernier alinéa, les mots : " les organismes d'assurance maladie, les caisses d'allocations familiales, " sont remplacés par les mots : " les organismes de sécurité sociale, " et les mots : " l'association mentionnée à l'article L. 323-8-3 du code du travail, le fonds prévu à l'article L. 323-8-6-1 du même code " sont remplacés par les mots : " l'association mentionnée à l'article L. 328-45 du code du travail applicable à Mayotte ".
 
-V.-Les articles L. 148-1 et L. 148-2 ne sont pas applicables à Mayotte.
+V.-(Abrogé).
 
 VI.-L'article L. 14-10-4 n'est pas applicable.
 
