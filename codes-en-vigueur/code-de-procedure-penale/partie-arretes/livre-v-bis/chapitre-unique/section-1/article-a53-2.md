@@ -6,6 +6,8 @@ Le système d'information qui met en œuvre la signature électronique fait l'ob
 
 Cette homologation couvre l'ensemble du processus lié à la mise en œuvre de la signature électronique et des éléments permettant la création, la vérification, la conservation des actes signés par ce procédé.
 
+Au titre des procédés mentionnés au premier alinéa du présent article, figure le parapheur électronique. Cet outil dispose de fonctions autorisant le regroupement de procès-verbaux de constatation d'infractions pour leur vérification et l'apposition d'une signature sur chacun des actes. Chaque signature est vérifiée indépendamment des autres.
+
 Les prestataires de services de certification électronique qui délivrent les certificats électroniques nécessaires à la mise en œuvre de la signature électronique doivent faire l'objet d'une qualification selon la procédure prévue au chapitre IV du décret n° 2010-112, qui atteste de leur conformité aux exigences du référentiel général de sécurité.
 
 Les signatures électroniques réalisées par les personnes énumérées aux articles A. 53-3 et A. 53-4 font l'objet d'une vérification qui est attestée par un cachet électronique et un horodatage conformes aux exigences du référentiel général de sécurité.
