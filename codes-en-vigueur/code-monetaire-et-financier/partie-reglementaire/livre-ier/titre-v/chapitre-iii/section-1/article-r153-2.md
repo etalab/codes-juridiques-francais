@@ -1,6 +1,6 @@
 # Article R153-2
 
-Relèvent d'une procédure d'autorisation au sens du I de l'article L. 151-3 les investissements étrangers mentionnés à l'article R. 153-1 réalisés par une personne physique qui n'est pas ressortissante d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen ayant conclu une convention d'assistance administrative avec la France, par une entreprise dont le siège social ne se situe pas dans l'un de ces mêmes Etats ou par une personne physique de nationalité française qui n'y est pas résidente, dans les activités suivantes :
+Relèvent d'une procédure d'autorisation au sens du I de l'article L. 151-3 les investissements étrangers mentionnés à l'article R. 153-1 réalisés par une personne physique qui n'est pas ressortissante d'un Etat membre de l'Union européenne ou d'un Etat partie à l'accord sur l'Espace économique européen ayant conclu une convention d'assistance administrative avec la France en vue de lutter contre la fraude et l'évasion fiscale, par une entreprise dont le siège social ne se situe pas dans l'un de ces mêmes Etats ou par une personne physique de nationalité française qui n'y est pas résidente, dans les activités suivantes :
 
 1° Activités dans les secteurs des jeux d'argent à l'exception des casinos ;
 
@@ -22,4 +22,18 @@ Relèvent d'une procédure d'autorisation au sens du I de l'article L. 151-3 les
 
 10° Activités de recherche, de production ou de commerce d'armes, de munitions, de poudres et substances explosives destinées à des fins militaires ou de matériels de guerre et assimilés réglementés par le titre III ou le titre V du livre III de la deuxième partie du code de la défense ;
 
-11° Activités exercées par les entreprises ayant conclu un contrat d'étude ou de fourniture d'équipements au profit du ministère de la défense, soit directement, soit par sous-traitance, pour la réalisation d'un bien ou d'un service relevant d'un secteur mentionné aux points 7° à 10° ci-dessus.
+11° Activités exercées par les entreprises ayant conclu un contrat d'étude ou de fourniture d'équipements au profit du ministère de la défense, soit directement, soit par sous-traitance, pour la réalisation d'un bien ou d'un service relevant d'un secteur mentionné aux points 7° à 10° ci-dessus ;
+
+12° Autres activités portant sur des matériels, des produits ou des prestations de services, y compris celles relatives à la sécurité et au bon fonctionnement des installations et équipements, essentielles à la garantie des intérêts du pays en matière d'ordre public, de sécurité publique ou de défense nationale énumérés ci-après :
+
+a) Intégrité, sécurité et continuité de l'approvisionnement en électricité, gaz, hydrocarbures ou autre source énergétique ;
+
+b) Intégrité, sécurité et continuité de l'approvisionnement en eau dans le respect des normes édictées dans l'intérêt de la santé publique ;
+
+c) Intégrité, sécurité et continuité d'exploitation des réseaux et des services de transport ;
+
+d) Intégrité, sécurité et continuité d'exploitation des réseaux et des services de communications électroniques ;
+
+e) Intégrité, sécurité et continuité d'exploitation d'un établissement, d'une installation ou d'un ouvrage d'importance vitale au sens des articles L. 1332-1 et L. 1332-2 du code de la défense ;
+
+f) Protection de la santé publique.
