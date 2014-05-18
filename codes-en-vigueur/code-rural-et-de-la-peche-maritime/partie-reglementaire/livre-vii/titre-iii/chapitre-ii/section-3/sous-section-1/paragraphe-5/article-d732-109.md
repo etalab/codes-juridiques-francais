@@ -10,11 +10,13 @@ a) D'une part, d'une durée d'assurance ou de périodes reconnues équivalentes 
 
 b) D'autre part, d'une durée d'assurance non salariée agricole exercée à titre exclusif ou principal, au moins égale à vingt-deux années et demie au 1er janvier 2009, puis à dix-sept années et demie au 1er janvier 2011 ;
 
-3° Les personnes dont la pension de retraite servie à titre personnel a pris effet à compter du 1er janvier 2009, qui justifient :
+3° Les personnes dont la pension de retraite servie à titre personnel a pris effet à compter du 1er janvier 2009 et avant le 1er février 2014, qui justifient :
 
-a) D'une part, d'une durée d'assurance ou de périodes reconnues équivalentes dans un ou plusieurs régimes obligatoires au moins égale à celle requise par l'article R. 732-39, lorsqu'elles sont âgées de moins de soixante-cinq ans ou ne relèvent pas de l'article L. 732-23 ;
+a) D'une part, d'une durée d'assurance ou de périodes reconnues équivalentes dans un ou plusieurs régimes obligatoires au moins égale à celle requise par l'article R. 732-39, lorsqu'elles n'ont pas atteint l'âge mentionné à l'article L. 732-25 ou qu'elles ne relèvent pas des articles L. 732-18-3 et L. 732-23 ;
 
 b) D'autre part, d'une durée d'assurance non salariée agricole exercée à titre exclusif ou principal, au moins égale à vingt-deux années et demie. Cette durée est fixée à dix-sept années et demie à compter du 1er janvier 2011.
+
+4° Les personnes dont la pension de retraite servie à titre personnel prend effet à compter du 1er février 2014, qui justifient d'une durée d'assurance ou de périodes reconnues équivalentes dans un ou plusieurs régimes obligatoires au moins égales à celles mentionnées à l'article R. 732-39 dans sa rédaction applicable à la date d'effet de la pension de retraite lorsqu'elles n'ont pas atteint l'âge mentionné à l'article L. 732-25 ou qu'elles ne relèvent pas des articles L. 732-18-3 et L. 732-23.
 
 Pour apprécier les durées d'assurance non salariée agricole, mentionnées au 1° et aux b du 2° et du 3° du présent article, sont prises en considération les périodes qui ont donné lieu à versement des cotisations ouvrant droit à la retraite forfaitaire ou à validation au titre de périodes assimilées pour l'obtention de cette même retraite.
 
