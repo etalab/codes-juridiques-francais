@@ -1,77 +1,61 @@
 # Article Annexe V à l'article R813-47
 
+Le nombre de postes de formateurs nécessaires par groupe de formation de dix-huit élèves est fixé à compter de l'année civile 2014 conformément au tableau ci-dessous :
+
 <table>
-<thead>
-<tr>
-<td colspan="2" rowspan="2" width="227">
-<p align="center">Nombre de postes de formateurs nécessaire par groupe de formation de dix-huit élèves</p>
-</td>
-<td colspan="2" width="227">
-<br/>
-<p align="center">Rythme approprié</p>
-</td>
-</tr>
-<tr>
-<td width="113">
-<br/>
-<p align="center">Par alternance</p>
-</td>
-<td width="113">
-<br/>
-<p align="center">Par une autre méthode pédagogique</p>
-</td>
-</tr>
-</thead>
 <tbody>
 <tr>
-<td valign="top">
+<td colspan="3">
+<p align="center">RYTHME APPROPRIE</p>
+</td>
+</tr>
+<tr>
+<td>
 <br/>
 </td>
-<td valign="top">
-<p align="center">4<sup>e</sup> - 3<sup>e</sup>
-</p>
+<td>
+<p align="center">Par alternance</p>
 </td>
-<td valign="top">
-<p align="center">1.30</p>
-</td>
-<td valign="top">
-<p align="center">1.77</p>
+<td>
+<p align="center">Par une autre méthode<br/>pédagogique</p>
 </td>
 </tr>
 <tr>
-<td valign="top">
-<p>Cycle court</p>
+<td>
+<p>Cycle court : 4e, 3e</p>
 </td>
-<td valign="top">
-<p align="center">CAPA-BEPA</p>
+<td>
+<p align="center">1,30</p>
 </td>
-<td valign="top">
-<p align="center">1.77</p>
-</td>
-<td valign="top">
-<p align="center">1.78</p>
+<td>
+<p align="center">1,77</p>
 </td>
 </tr>
 <tr>
-<td valign="top">
-<p>Cycle long</p>
+<td>
+<p>CAPA, BEPA</p>
 </td>
-<td valign="top">
-<p align="center">BTA</p>
+<td>
+<p align="center">1,95</p>
 </td>
-<td colspan="2" valign="top">
-<p align="center">1.82</p>
+<td>
+<p align="center">1,95</p>
 </td>
 </tr>
 <tr>
-<td valign="top">
-<p>Cycle supérieur court</p>
+<td>
+<p>Cycle long :<br/>baccalauréat</p>
 </td>
-<td valign="top">
-<p align="center">BTSA</p>
+<td colspan="2">
+<p align="center">2</p>
 </td>
-<td colspan="2" valign="top">
-<p align="center">1.82</p>
+</tr>
+<tr>
+<td>
+<p>Cycle supérieur court :<br/>BTSA</p>
+</td>
+<td colspan="2">
+<p align="center">2</p>
 </td>
 </tr>
 </tbody>

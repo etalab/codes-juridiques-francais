@@ -1,6 +1,6 @@
-# Article R813-47
+# Article D813-47
 
-Pour chaque niveau de formation, le nombre de postes de formateur nécessaire par groupe de formation est fixé à l'annexe V du présent livre selon les caractéristiques de rythme approprié précisées à l'article R. 813-42.
+Pour chaque niveau de formation, le nombre de postes de formateur nécessaire par groupe de formation est fixé à l'annexe V du présent livre selon les caractéristiques de rythme approprié précisées à l'article R. 813-42. Ce nombre est fixé par année civile.
 
 Pour le calcul du nombre de postes de formateur nécessaire, sont pris en compte :
 
