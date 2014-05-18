@@ -3,3 +3,4 @@
 - [Article R712-17](article-r712-17.md)
 - [Article R712-18](article-r712-18.md)
 - [Article R712-19](article-r712-19.md)
+- [Article R712-20](article-r712-20.md)
