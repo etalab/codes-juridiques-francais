@@ -24,11 +24,11 @@ h) Les entreprises mentionnées au n du 2° de l'article L. 531-2 ;
 
 4. Les personnes morales remplissant au moins deux des trois critères suivants, sur la base des états comptables individuels :
 
-- total du bilan égal ou supérieur à 20 millions d'euros ;
+-total du bilan égal ou supérieur à 20 millions d'euros ;
 
-- chiffre d'affaires net ou recettes nettes égaux ou supérieurs à 40 millions d'euros ;
+-chiffre d'affaires net ou recettes nettes égaux ou supérieurs à 40 millions d'euros ;
 
-- capitaux propres égaux ou supérieurs à 2 millions d'euros.
+-capitaux propres égaux ou supérieurs à 2 millions d'euros.
 
 Le prestataire de services d'investissement qui conclut des transactions conformément aux dispositions de l'article L. 533-20 avec une personne morale mentionnée au premier alinéa du présent 4 doit obtenir de celle-ci la confirmation expresse qu'elle accepte d'être traitée comme contrepartie éligible. Le prestataire de services d'investissement peut obtenir cette confirmation soit sous la forme d'un accord général, soit pour chaque transaction.
 
@@ -38,4 +38,4 @@ Le prestataire de services d'investissement qui conclut des transactions conform
 
 7. Les entités de droit étranger équivalentes à celles mentionnées aux 1, 2 et 4.
 
-Lorsqu'une personne morale mentionnée au 4 a son siège social ou sa direction effective en dehors de la France métropolitaine et des départements d'outre-mer, le prestataire de services d'investissement tient compte du statut de ladite personne morale tel qu'il est défini par les dispositions en vigueur dans l'Etat où elle a son siège social ou sa direction effective.
+Lorsqu'une personne morale mentionnée au 4 a son siège social ou sa direction effective en dehors de la France métropolitaine, des départements d'outre-mer et du Département de Mayotte, le prestataire de services d'investissement tient compte du statut de ladite personne morale tel qu'il est défini par les dispositions en vigueur dans l'Etat où elle a son siège social ou sa direction effective.
