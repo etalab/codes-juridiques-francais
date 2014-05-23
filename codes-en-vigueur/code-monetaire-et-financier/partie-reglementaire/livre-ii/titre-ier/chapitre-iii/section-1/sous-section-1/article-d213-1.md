@@ -4,7 +4,7 @@ I. - Les titres de créance négociables définis à l'article L. 213-1 comprenn
 
 1° Les certificats de dépôt, d'une durée initiale inférieure ou égale à un an, émis par les établissements de crédit ainsi que par la Caisse des dépôts et consignations ;
 
-2° Les billets de trésorerie, d'une durée initiale inférieure ou égale à un an, émis par des entreprises d'investissement et par les émetteurs mentionnés aux 2 à 11 de l'article L. 213-3 ;
+2° Les billets de trésorerie, d'une durée initiale inférieure ou égale à un an, émis par des entreprises d'investissement et par les émetteurs mentionnés aux 1 bis à 11 de l'article L. 213-3 ;
 
 3° Les bons à moyen terme négociables, d'une durée initiale supérieure à un an, émis par l'ensemble des émetteurs mentionnés à l'article L. 213-3, à l'exception de celui mentionné au 12 du même article.
 
