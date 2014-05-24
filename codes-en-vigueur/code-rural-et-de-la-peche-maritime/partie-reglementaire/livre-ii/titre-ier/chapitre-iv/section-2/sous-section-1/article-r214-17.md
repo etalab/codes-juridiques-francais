@@ -10,4 +10,6 @@ Il est interdit à toute personne qui, à quelque fin que ce soit, élève, gard
 
 4° D'utiliser, sauf en cas de nécessité absolue, des dispositifs d'attache ou de contention ainsi que de clôtures, des cages ou plus généralement tout mode de détention inadaptés à l'espèce considérée ou de nature à provoquer des blessures ou des souffrances.
 
+Les normes et spécifications techniques permettant de mettre en œuvre les interdictions prévues par les dispositions du présent article sont précisées par arrêté du ministre chargé de l'agriculture et, lorsqu'il comporte des dispositions spécifiques à l'outre-mer, du ministre chargé de l'outre-mer.
+
 Si, du fait de mauvais traitements ou d'absence de soins, des animaux domestiques ou des animaux sauvages apprivoisés ou tenus en captivité sont trouvés gravement malades ou blessés ou en état de misère physiologique, le préfet prend les mesures nécessaires pour que la souffrance des animaux soit réduite au minimum ; il peut ordonner l'abattage ou la mise à mort éventuellement sur place. Les frais entraînés par la mise en oeuvre de ces mesures sont à la charge du propriétaire.
