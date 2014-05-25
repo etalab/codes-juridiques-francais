@@ -6,5 +6,3 @@
 - [Article R5312-10](article-r5312-10.md)
 - [Article R5312-11](article-r5312-11.md)
 - [Article R5312-12](article-r5312-12.md)
-- [Article R5312-18](article-r5312-18.md)
-- [Article R5312-19](article-r5312-19.md)
