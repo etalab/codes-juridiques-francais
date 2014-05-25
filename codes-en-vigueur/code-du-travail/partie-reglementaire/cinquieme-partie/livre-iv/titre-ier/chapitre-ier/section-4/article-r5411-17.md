@@ -4,4 +4,4 @@ Cesse d'être inscrit sur la liste des demandeurs d'emploi ou est transféré da
 
 1° Soit qui ne satisfait pas à l'obligation de renouvellement périodique de sa demande d'emploi ;
 
-2° Soit pour lequel l'employeur ou un organisme lui assurant une indemnisation, un avantage social ou une formation porte à la connaissance de l'     institution mentionnée à l'article L. 5312-1 du code du travail  une reprise d'emploi ou d'activité, une entrée en formation ou tout autre changement affectant sa situation au regard des conditions d'inscription ou de classement dans une catégorie.
+2° Soit pour lequel l'employeur ou un organisme lui assurant une indemnisation, un avantage social ou une formation porte à la connaissance de                Pôle emploi une reprise d'emploi ou d'activité, une entrée en formation ou tout autre changement affectant sa situation au regard des conditions d'inscription ou de classement dans une catégorie.

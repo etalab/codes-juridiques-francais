@@ -4,6 +4,6 @@ Sous réserve des dispositions de l'article R. 1522-17, l'utilisation du titre d
 
 1° Des articles R. 243-13, R. 243-14 ou R. 243-17 du code de la sécurité sociale ;
 
-2° Des articles R. 5422-5 à R. 5422-8 du présent code relatifs à l'obligation d'assurance contre le risque de privation d'emploi et à l'obligation pour l'employeur d'adresser à l'institution mentionnée à l'article L. 5312-1 des déclarations (1);
+2° Des articles R. 5422-5 à R. 5422-8 du présent code relatifs à l'obligation d'assurance contre le risque de privation d'emploi et à l'obligation pour l'employeur d'adresser à            Pôle emploi des déclarations (1) ;
 
 3° De l'article 87 du code général des impôts ou des dispositions fiscales particulières applicables à Saint-Pierre-et-Miquelon.

@@ -20,7 +20,7 @@ g) Articles R. 4622-1 à R. 4622-4, relatifs à l'organisation du service de san
 
 h) Articles R. 4624-10 à R. 4624-14, relatifs à l'examen médical d'embauche ;
 
-i) Articles R. 5422-5 et R. 5422-6, relatifs à l'obligation d'assurance contre le risque de privation d'emploi et à l'obligation pour l'employeur d'adresser à l'institution mentionnée à l'article L. 5312-1 des déclarations (1);
+i) Articles R. 5422-5 et R. 5422-6, relatifs à l'obligation d'assurance contre le risque de privation d'emploi et à l'obligation pour l'employeur d'adresser à            Pôle emploi des déclarations (1) ;
 
 j) Article D. 7121-40, relatif à l'affiliation à la caisse de congés payés des artistes du spectacle ;
 
@@ -28,7 +28,7 @@ j) Article D. 7121-40, relatif à l'affiliation à la caisse de congés payés d
 
 a) Aux organismes chargés du recouvrement des cotisations et contributions du régime général de la sécurité sociale ;
 
-b) A l'institution mentionnée à l'article L. 5312-1 pour le compte de l'organisme mentionné à l'article L. 5427-1 (2);
+b) A            Pôle emploi pour le compte de l'organisme mentionné à l'article L. 5427-1 (2) ;
 
 c) Aux institutions mettant en œuvre les régimes de retraite complémentaire mentionnés au chapitre premier du titre II du livre IX du code de la sécurité sociale ;
 

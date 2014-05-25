@@ -10,7 +10,7 @@ L'agence est administrée par un conseil d'administration qui comprend :
 
 4° Un représentant de la caisse d'allocations familiales désigné par le président du conseil d'administration de cette caisse ;
 
-5° Un représentant de l'institution mentionnée à l'article L. 5312-1 du code du travail ou son représentant ;
+5° Un représentant de         Pôle emploi ou son représentant ;
 
 6° Deux personnalités nommées par le président du conseil général en raison de leurs compétences particulières dans le domaine de l'insertion et appartenant à des institutions ou associations intervenant dans le domaine de l'insertion et de la lutte contre le chômage.
 

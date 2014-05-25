@@ -1,6 +1,6 @@
 # Article R5323-13
 
-L'organisme privé de placement adresse à l'organisme du service public de l'emploi commanditaire de la prestation de placement et, dans tous les cas, à l'     institution mentionnée à l'article L. 5312-1 du code du travail , les informations relatives au demandeur d'emploi qui sont nécessaires, notamment :
+L'organisme privé de placement adresse à l'organisme du service public de l'emploi commanditaire de la prestation de placement et, dans tous les cas, à                Pôle emploi, les informations relatives au demandeur d'emploi qui sont nécessaires, notamment :
 
 1° A l'adaptation dans le temps du projet personnalisé d'accès à l'emploi du demandeur d'emploi ;
 

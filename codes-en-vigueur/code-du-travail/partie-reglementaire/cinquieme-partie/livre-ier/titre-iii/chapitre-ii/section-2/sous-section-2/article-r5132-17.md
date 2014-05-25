@@ -8,4 +8,4 @@ La convention de coopération prévue à l'article L. 5132-8 comporte, notamment
 
 3° Les actions susceptibles d'être réalisées par l'agence pour faciliter l'accès à l'emploi des personnes salariées de l'association ;
 
-4° Le cas échéant, les conditions dans lesquelles l'association intermédiaire réalise des prestations pour le compte de l'institution mentionnée à l'article L. 5312-1 du code du travail, ainsi que les conditions de financement de ces prestations.
+4° Le cas échéant, les conditions dans lesquelles l'association intermédiaire réalise des prestations pour le compte de         Pôle emploi, ainsi que les conditions de financement de ces prestations.

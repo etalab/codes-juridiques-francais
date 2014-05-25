@@ -14,7 +14,7 @@ Doivent notamment être regardées comme des personnes rencontrant des difficult
 
 -les bénéficiaires de l'allocation spécifique de solidarité, de l'allocation temporaire d'attente, de l'allocation parent isolé ou de l'allocation adulte handicapé ;
 
--les personnes visées à l'article L. 5132-3 agréées par l'institution mentionnée à l'article L. 5312-1 du code du travail ;
+- les personnes mentionnées à l'article L. 5132-3 du code du travail, agréées par Pôle emploi ;
 
 -les salariés recrutés en contrat d'accompagnement dans l'emploi ou en contrat initiative emploi ;
 

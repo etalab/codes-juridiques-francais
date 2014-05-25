@@ -2,7 +2,7 @@
 
 Peuvent également participer aux séances du conseil national, avec voix consultative :
 
-1° Le directeur général de l'     institution mentionnée à l'article L. 5312-1 du code du travail  ou son représentant ;
+1° Le directeur général de                Pôle emploi ou son représentant ;
 
 2° Le directeur de l'Association nationale pour la formation professionnelle des adultes, ou son représentant ;
 

@@ -42,7 +42,7 @@ e) Un représentant nommé sur proposition de la Fédération nationale des synd
 
 5° Le directeur général et deux membres du conseil d'administration, nommés sur proposition de ce conseil, de l'organisme gestionnaire de l'assurance chômage mentionné à l'article L. 5427-1 ;
 
-6° Le président du conseil d'administration et le directeur général de l'institution mentionnée à l'article L. 5312-1 ;
+6° Le président du conseil d'administration et le directeur général de            Pôle emploi ;
 
 7° Le directeur général de l'Association nationale pour la formation professionnelle des adultes ;
 

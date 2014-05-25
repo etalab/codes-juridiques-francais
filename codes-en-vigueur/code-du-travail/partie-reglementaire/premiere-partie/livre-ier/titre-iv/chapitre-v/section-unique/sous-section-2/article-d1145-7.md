@@ -12,7 +12,7 @@ c) Le ministre chargé de l'emploi ou son représentant, vice-président ;
 
 d) Le ministre chargé de la formation professionnelle ou son représentant, vice-président ;
 
-e) Le directeur général de la cohésion sociale  ;
+e) Le directeur général de la cohésion sociale ;
 
 f) Le directeur général de la forêt et des affaires rurales du ministère chargé de l'agriculture ;
 
@@ -20,7 +20,7 @@ g) Le directeur général de l'enseignement scolaire au ministère de l'éducati
 
 2° Trois directeurs d'établissement public :
 
-a) Le directeur de l'     institution mentionnée à l'article L. 5312-1 du code du travail  ;
+a) Le directeur de                Pôle emploi ;
 
 b) Le directeur de l'Agence nationale pour l'amélioration des conditions de travail ;
 

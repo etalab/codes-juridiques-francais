@@ -24,7 +24,7 @@ g) Un nommé par arrêté du ministre chargé de la jeunesse ;
 
 a) Le délégué à l'information et à l'orientation ou son représentant ;
 
-b) Le directeur général de l'institution mentionnée à l'article L. 5312-1 du code du travail ou son représentant ;
+b) Le directeur général de Pôle emploi ou son représentant ;
 
 c) Le chef du service des droits des femmes et de l'égalité entre les femmes et les hommes au ministère chargé des droits des femmes ou son représentant ;
 
@@ -42,7 +42,7 @@ d) Le président du conseil prévu à l'article L. 6123-1 du code du travail ou 
 
 8° Le président du conseil d'orientation de l'office et un membre choisi parmi les personnalités particulièrement compétentes dans les domaines qui intéressent l'office, désigné sur proposition du directeur de l'office.
 
-Le directeur, le directeur adjoint, le secrétaire général, l'agent comptable, le        contrôleur budgétaire ainsi que toute personne dont la présence est jugée utile par le président assistent aux séances avec voix consultative.
+Le directeur, le directeur adjoint, le secrétaire général, l'agent comptable, le contrôleur budgétaire ainsi que toute personne dont la présence est jugée utile par le président assistent aux séances avec voix consultative.
 
 Les membres mentionnés aux 3°, 4°, 5°, 6°, 7° et 8° sont nommés par arrêté conjoint des ministres chargés de l'éducation et de l'enseignement supérieur.
 

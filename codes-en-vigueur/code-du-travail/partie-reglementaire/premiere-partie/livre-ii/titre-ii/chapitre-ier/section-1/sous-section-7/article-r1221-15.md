@@ -6,7 +6,7 @@ Les modalités de la transmission mentionnée à l'article R. 1221-14 sont fixé
 
 a) Le ministre chargé du travail ;
 
-b) L'institution mentionnée à l'article L. 5312-1 ;
+b) Pôle emploi ;
 
 c) La Caisse nationale de l'assurance maladie des travailleurs salariés ;
 
@@ -16,7 +16,7 @@ d) La Caisse nationale d'assurance vieillesse des travailleurs salariés ;
 
 a) Le ministre chargé du travail ;
 
-b) L'institution mentionnée à l'article L. 5312-1 ;
+b) Pôle emploi ;
 
 c) Les institutions de retraite complémentaire et de prévoyance mentionnées à l'article L. 727-2 du code rural et de la pêche maritime.
 

@@ -24,7 +24,7 @@ f) Le président de l'Union nationale des centres communaux d'action sociale ;
 
 5° Huit personnalités désignées en raison de leurs compétences en matière de lutte contre la pauvreté et l'exclusion sociale nommées par le Premier ministre sur proposition du ministre chargé des affaires sociales ;
 
-6° Le directeur général de la Caisse nationale d'assurance maladie des travailleurs salariés, le directeur de la Caisse nationale des allocations familiales, le directeur de la Caisse centrale de mutualité sociale agricole, le directeur général de l'institution mentionnée à l'article L. 5312-1 du code du travail et le délégué général de l'Union sociale pour l'habitat ;
+6° Le directeur général de la Caisse nationale d'assurance maladie des travailleurs salariés, le directeur de la Caisse nationale des allocations familiales, le directeur de la Caisse centrale de mutualité sociale agricole, le directeur général de            Pôle emploi et le délégué général de l'Union sociale pour l'habitat ;
 
 7° Le président du Conseil économique, social et environnemental, le président du Haut Comité pour le logement des personnes défavorisées, le président du Conseil national de l'insertion par l'activité économique, le président du Conseil national des missions locales, les deux vice-présidents du Conseil national des villes, le président de l'Observatoire national de la pauvreté et de l'exclusion sociale et le vice-président du Conseil supérieur du travail social ;
 

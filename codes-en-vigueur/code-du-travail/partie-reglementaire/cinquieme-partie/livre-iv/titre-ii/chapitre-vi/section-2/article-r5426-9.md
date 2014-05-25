@@ -6,7 +6,7 @@ La commission chargée de donner un avis sur le projet d'une décision de suppre
 
 2° De deux membres titulaires ou suppléants de l'instance paritaire mentionnée à l'article L. 5312-10, proposés par celle-ci ;
 
-3° D'un représentant de l'institution mentionnée à l'article L. 5312-1.
+3° D'un représentant de            Pôle emploi.
 
 Ce dernier assure le secrétariat de cette commission.
 

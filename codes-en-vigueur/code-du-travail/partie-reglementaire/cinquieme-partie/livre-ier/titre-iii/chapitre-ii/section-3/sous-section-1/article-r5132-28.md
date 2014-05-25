@@ -24,7 +24,7 @@ La convention conclue pour la mise en place d'un ou plusieurs ateliers et chanti
 
 11° La nature et le montant des aides privées dont l'organisme conventionné est susceptible de bénéficier pour réaliser des ateliers et chantiers d'insertion et, pour ceux qui ont une activité de commercialisation, le montant des ressources tirées de la commercialisation des biens et services produits ;
 
-12° Les modalités de collaboration avec les organismes et les services locaux chargés de l'emploi, notamment celles relatives au dépôt des offres d'emploi à l'institution mentionnée à l'article L. 5312-1 du code du travail, avec les organismes chargés de la formation professionnelle et de l'action sociale et avec les collectivités territoriales ;
+12° Les modalités de collaboration avec les organismes et les services locaux chargés de l'emploi, notamment celles relatives au dépôt des offres d'emploi à         Pôle emploi, avec les organismes chargés de la formation professionnelle et de l'action sociale et avec les collectivités territoriales ;
 
 13° Les modalités de suivi, de contrôle et d'évaluation de la convention ;
 

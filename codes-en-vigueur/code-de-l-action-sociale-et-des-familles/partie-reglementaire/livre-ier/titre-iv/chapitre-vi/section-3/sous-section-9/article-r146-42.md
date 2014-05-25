@@ -10,7 +10,7 @@ I.-Sont destinataires des informations strictement nécessaires à l'exercice de
 
 4° Les agents des services départementaux de l'éducation nationale, pour la mise en oeuvre des décisions relatives à la scolarisation des jeunes handicapés ;
 
-5° Les agents de la direction départementale du travail, de l'emploi et de la formation professionnelle, de l'     institution mentionnée à l'article L. 5312-1 du code du travail , des organismes en charge du service public de l'emploi et des organismes mentionnés à l'article L. 323-11 du code du travail, pour la mise en oeuvre les décisions d'orientation professionnelle ;
+5° Les agents de la direction départementale du travail, de l'emploi et de la formation professionnelle, de                Pôle emploi, des organismes en charge du service public de l'emploi et des organismes mentionnés à l'article L. 323-11 du code du travail, pour la mise en oeuvre les décisions d'orientation professionnelle ;
 
 6° Les agents des établissements et services médico-sociaux accueillant des personnes handicapées ;
 

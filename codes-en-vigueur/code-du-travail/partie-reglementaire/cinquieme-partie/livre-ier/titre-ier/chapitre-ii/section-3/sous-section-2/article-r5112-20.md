@@ -42,4 +42,4 @@ e) De la Fédération nationale des syndicats d'exploitants agricoles (FNSEA) ;
 
 10° Un représentant régional de l'association chargée de la gestion du fonds de développement pour l'insertion professionnelle des handicapés désigné par le préfet de région ;
 
-11° Le directeur régional de l'institution mentionnée à l'article L. 5312-1.
+11° Le directeur régional de            Pôle emploi.

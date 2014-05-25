@@ -14,7 +14,7 @@ Le comité de coordination régional de l'emploi et de la formation professionne
 
 6° Le directeur du travail, de l'emploi et de la formation professionnelle ;
 
-7° Le directeur délégué de l'institution mentionnée à l'article L. 5312-1 du code du travail ;
+7° Le directeur régional de Pôle emploi ou son représentant ;
 
 8° Le directeur de l'agriculture et de la forêt ;
 

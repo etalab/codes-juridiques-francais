@@ -12,4 +12,4 @@ Ces conseils territoriaux de l'emploi comprennent, outre un président, les memb
 
 5° Trois représentants des organismes territoriaux du service public de l'emploi désigné par le représentant de l'Etat ;
 
-6° Le directeur régional territorialement compétent de l'institution mentionnée à l'article L. 5312-1.
+6° Le directeur régional territorialement compétent de            Pôle emploi.

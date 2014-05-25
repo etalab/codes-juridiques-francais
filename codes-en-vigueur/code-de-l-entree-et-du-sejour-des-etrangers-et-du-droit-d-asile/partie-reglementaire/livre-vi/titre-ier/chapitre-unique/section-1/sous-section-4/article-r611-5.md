@@ -16,7 +16,7 @@ Pour les besoins exclusifs des missions énumérées ci-après, peuvent consulte
 
 a) Les agents des organismes chargés de la gestion d'un régime obligatoire de sécurité sociale, assurant l'affiliation, le versement des prestations ou le recouvrement des cotisations, individuellement désignés et spécialement habilités respectivement par les directeurs de ces organismes, à la seule fin de vérifier que les assurés étrangers satisfont à la condition de régularité de leur situation en France prévue par les articles L. 115-6, L. 115-7, L. 161-16-1, L. 161-18-1, L. 161-25-1, L. 161-25-2, L. 512-2 et L. 831-1 du code de la sécurité sociale ainsi que par l'article L. 262-4 du code de l'action sociale et des familles ;
 
-b) Les agents de l'institution mentionnée à l'article L. 5312-1 du code du travail, individuellement désignés et spécialement habilités par leur directeur, à la seule fin de vérifier, en application de l'article L. 5411-4 du code du travail, que les étrangers disposent lors de l'inscription sur la liste des demandeurs d'emploi des titres de séjour et de travail requis pour exercer une activité professionnelle salariée ;
+b) Les agents de Pôle emploi, individuellement désignés et spécialement habilités par leur directeur, à la seule fin de vérifier, en application de l'article L. 5411-4 du code du travail, que les étrangers disposent lors de l'inscription sur la liste des demandeurs d'emploi des titres de séjour et de travail requis pour exercer une activité professionnelle salariée ;
 
 c) Les agents des préfectures et sous-préfectures compétents, individuellement désignés et spécialement habilités par le préfet et, à Paris, par le préfet de police, à la seule fin d'instruire les demandes de délivrance ou d'échange des permis de conduire ;
 

@@ -2,7 +2,7 @@
 
 La limite indiquée au 1 du I de l'article 150-0 A du code général des impôts s'entend de la moyenne des cessions de l'année considérée et des deux années précédentes dans les cas suivants :
 
-a) Licenciement du contribuable ou de l'un des époux soumis à une imposition commune ; bénéficient de cette disposition les personnes qui se trouvent privées d'activité professionnelle pour des raisons indépendantes de leur volonté et sont inscrites comme demandeurs d'emploi à l'institution mentionnée à l'article L. 5312-1 du code du travail ;
+a) Licenciement du contribuable ou de l'un des époux soumis à une imposition commune ; bénéficient de cette disposition les personnes qui se trouvent privées d'activité professionnelle pour des raisons indépendantes de leur volonté et sont inscrites comme demandeurs d'emploi à Pôle emploi ;
 
 b) Départ à la retraite ou en préretraite du contribuable ou de l'un des époux soumis à une imposition commune, sous réserve que l'intéressé ne poursuive ou ne reprenne aucune activité professionnelle ; les personnes qui partent à la retraite ne bénéficient de la mesure que lorsqu'elles n'en ont pas déjà obtenu l'application à l'occasion de leur départ en préretraite ;
 
