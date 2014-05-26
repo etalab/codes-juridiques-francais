@@ -4,7 +4,7 @@ Sauf si sa présence constitue une menace pour l'ordre public, la carte de séjo
 
 1° A l'étranger dans l'année qui suit son dix-huitième anniversaire ou entrant dans les prévisions de l'article L. 311-3, dont l'un des parents au moins est titulaire de la carte de séjour temporaire ou de la carte de résident, ainsi qu'à l'étranger entré en France régulièrement dont le conjoint est titulaire de l'une ou de l'autre de ces cartes, s'ils ont été autorisés à séjourner en France au titre du regroupement familial dans les conditions prévues au livre IV ;
 
-2° A l'étranger dans l'année qui suit son dix-huitième anniversaire ou entrant dans les prévisions de l'article L. 311-3, qui justifie par tout moyen avoir résidé habituellement en France avec au moins un de ses parents légitimes, naturels ou adoptifs depuis qu'il a atteint au plus l'âge de treize ans, la filiation étant établie dans les conditions prévues à l'article L. 314-11 ; la condition prévue à l'article L. 311-7 n'est pas exigée ;
+2° A l'étranger dans l'année qui suit son dix-huitième anniversaire ou entrant dans les prévisions de l'article L. 311-3, qui justifie par tout moyen avoir résidé habituellement en France avec au moins un de ses parents légitimes, naturels ou adoptifs depuis qu'il a atteint au plus l'âge de treize ans ou, à Mayotte, depuis qu'il a atteint au plus l'âge de treize ans, avec au moins un de ses parents légitimes, naturels ou adoptifs titulaire de la carte de séjour temporaire ou de la carte de résident, la filiation étant établie dans les conditions prévues à l'article L. 314-11 ; la condition prévue à l'article L. 311-7 n'est pas exigée ;
 
 2° bis A l'étranger dans l'année qui suit son dix-huitième anniversaire ou entrant dans les prévisions de l'article L. 311-3, qui a été confié, depuis qu'il a atteint au plus l'âge de seize ans, au service de l'aide sociale à l'enfance et sous réserve du caractère réel et sérieux du suivi de la formation, de la nature de ses liens avec la famille restée dans le pays d'origine et de l'avis de la structure d'accueil sur l'insertion de cet étranger dans la société française. La condition prévue à l'article L. 311-7 n'est pas exigée ;
 
@@ -14,7 +14,7 @@ La carte de séjour temporaire portant la mention " vie privée et familiale ”
 
 4° A l'étranger ne vivant pas en état de polygamie, marié avec un ressortissant de nationalité française, à condition que la communauté de vie n'ait pas cessé depuis le mariage, que le conjoint ait conservé la nationalité française et, lorsque le mariage a été célébré à l'étranger, qu'il ait été transcrit préalablement sur les registres de l'état civil français ;
 
-5° (alinéa abrogé)
+5° (Alinéa abrogé).
 
 6° A l'étranger ne vivant pas en état de polygamie, qui est père ou mère d'un enfant français mineur résidant en France, à la condition qu'il établisse contribuer effectivement à l'entretien et à l'éducation de l'enfant dans les conditions prévues par l'article 371-2 du code civil depuis la naissance de celui-ci ou depuis au moins deux ans, sans que la condition prévue à l'article L. 311-7 soit exigée ;
 

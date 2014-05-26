@@ -16,7 +16,7 @@ III. ― A l'article L. 262-4 :
 
 1° Les mots : " depuis au moins cinq ans ” sont remplacés par les mots : " depuis au moins quinze ans ” ;
 
-2° Après les mots : " titre de séjour autorisant à travailler ” sont ajoutés les mots : " en vertu des dispositions de l'ordonnance n° 2000-373 du 26 avril 2000 relative aux conditions d'entrée et de séjour des étrangers à Mayotte ” ;
+2° (Abrogé) ;
 
 3° Le b du 2° est supprimé ;
 
@@ -24,17 +24,7 @@ III. ― A l'article L. 262-4 :
 
 IV. ― A l'article L. 262-5 :
 
-1° Les mots : " doivent remplir les conditions mentionnées à l'article L. 512-2 du code de la sécurité sociale ” sont remplacés par les mots : " doivent justifier de l'une des conditions suivantes :
-
-― leur naissance en France ;
-
-― leur entrée régulière dans le cadre de la procédure de regroupement familial prévue par le titre VII de l'ordonnance n° 2000-373 du 26 avril 2000 relative aux conditions d'entrée et de séjour des étrangers à Mayotte ;
-
-― leur qualité de membre de famille de réfugié, d'apatride ou de bénéficiaire de la protection subsidiaire ;
-
-― leur qualité d'enfant d'étranger titulaire de la carte de séjour temporaire portant la mention " liens personnels et familiaux ”, mentionnée au II de l'article 15 de cette ordonnance ;
-
-― leur qualité d'étranger titulaire de la carte de séjour temporaire portant la mention : " scientifique ”, mentionnée au III de l'article 15 de cette ordonnance.
+1° (Abrogé) ;
 
 2° Il est ajouté un troisième alinéa ainsi rédigé :
 

@@ -8,7 +8,7 @@ Pour l'application du présent livre à Mayotte :
 
 3° Les mots : " registre du commerce et des sociétés " sont remplacés par les mots : " répertoire local des entreprises " ;
 
-4° Au 5° de l'article L. 612-16 et au 6° de l'article L. 622-14, les mots : " du code de l'entrée et du séjour des étrangers et du droit d'asile " sont remplacés par les mots : " de l'ordonnance n° 2000-373 du 26 avril 2000 relative aux conditions d'entrée et de séjour des étrangers à Mayotte " et les mots : " code du travail " sont remplacés par les mots : " code du travail applicable à Mayotte " ;
+4° Au 5° de l'article L. 612-16 et au 6° de l'article L. 622-14, les  mots : " code du travail " sont remplacés par les mots : " code du travail applicable à Mayotte " ;
 
 5° Au 4° de l'article L. 612-20 et au 2° de l'article L. 622-19, après les mots : " territoire national ", la fin de l'alinéa est supprimée ;
 

@@ -28,4 +28,4 @@ VII. ― A l'article L. 115-2, les mots : " l'institution mentionnée à l'artic
 
 VIII. ― Au premier alinéa de l'article L. 115-3, les mots : " de son patrimoine, " sont supprimés.
 
-IX. ― A l'article L. 117-1, les mots : " à l'article L. 311-9 du code de l'entrée et du séjour des étrangers et du droit d'asile " sont remplacés par les mots : " à l'article 6-3 de l'ordonnance n° 2000-373 du 26 avril 2000 relative aux conditions d'entrée et de séjour des étrangers à Mayotte ".
+IX. ― Abrogé.

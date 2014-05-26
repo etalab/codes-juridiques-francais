@@ -20,7 +20,7 @@ VI. - A l'article L. 344-5, la phrase : " Ce minimum est majoré, le cas échéa
 
 VII. - A l'article L. 345-1 :
 
-1°  Les mots : " en application du livre VII du code de l'entrée et du séjour des étrangers et du droit d'asile " sont remplacés par les mots : " en application de l'ordonnance n° 2000-373 du 26 avril 2000 relative aux conditions d'entrée et de séjour des étrangers à Mayotte " ;
+1° (Abrogé) ;
 
 2° Les mots : " la rémunération mentionnée à l'article L. 241-12 du code la sécurité sociale lorsqu'elles prennent part aux activités d'insertion professionnelle prévues à l'alinéa précédent " sont remplacés par les mots : " une rémunération ".
 
