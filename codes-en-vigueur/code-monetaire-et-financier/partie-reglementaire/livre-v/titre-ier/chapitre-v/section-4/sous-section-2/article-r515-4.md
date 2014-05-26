@@ -14,7 +14,7 @@ II.-Les parts ou titres mentionnés à l'article L. 513-5 émis par des organism
 
 III.-Les parts ou titres mentionnés à l'article L. 513-5 émis par des organismes de titrisation ou entités similaires mentionnées audit article, dont l'actif est constitué à au moins 90 % de prêts mentionnés à l'article L. 513-3 et qui ne relèvent pas du II ci-dessus, ne peuvent être refinancés par des obligations foncières et autres ressources bénéficiant du privilège mentionnées au 2 du I de l'article L. 515-13 (1), émises par la société de crédit foncier, que dans la limite de 10 % du montant nominal des obligations foncières et autres ressources privilégiées.
 
-IV.-Jusqu'au 31 décembre 2013, la limite de 10 %, mentionnée aux II et III ci-dessus, n'est pas applicable à la double condition que :
+IV.-Jusqu'au 31 décembre 2017, la limite de 10 %, mentionnée aux II et III ci-dessus, n'est pas applicable à la double condition que :
 
 a) Les prêts qui constituent au moins 90 % de l'actif de l'organisme de titrisation ou de l'entité similaire visée à l'article L. 513-5 aient été cédés par une société appartenant au même groupe, ou par un organisme affilié au même organe central, que la société de crédit foncier émettrice des obligations foncières, cette participation ou affiliation étant déterminée au moment où les parts ou titres mentionnés à l'article L. 513-5 sont constitués en sûreté pour les obligations foncières ;
 
