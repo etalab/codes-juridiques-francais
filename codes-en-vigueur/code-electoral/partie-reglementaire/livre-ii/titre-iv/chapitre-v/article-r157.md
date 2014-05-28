@@ -2,7 +2,7 @@
 
 Au plus tard le troisième lundi précédant le scrutin, un arrêté préfectoral institue une commission de propagande qui est chargée :
 
-1° D'adresser, au plus tard le mercredi précédant le scrutin, à tous les membres du collège électoral, sous enveloppe fermée, une circulaire accompagnée d'un bulletin de vote de chaque candidat ou de chaque liste de candidats ;
+1° D'adresser, au plus tard le mercredi précédant le scrutin, à tous les membres du collège électoral une circulaire accompagnée d'un bulletin de vote de chaque candidat ou de chaque liste de candidats ;
 
 2° De mettre en place au lieu de l'élection et avant l'ouverture du scrutin les bulletins de vote de chaque candidat ou liste de candidats, en nombre au moins égal au nombre des membres du collège électoral ;
 

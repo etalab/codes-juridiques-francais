@@ -1,5 +1,5 @@
 # Article R*136
 
-Dans les communes de 9000 habitants à 30999 habitants jusqu'à 30999 habitants), les conseils municipaux n'élisent que des suppléants.
+Pour l'application du présent titre, la population à prendre en compte est celle prévue au premier alinéa de l'article R. 25-1.
 
-Dans les communes de 31000 habitants et plus, les conseils municipaux élisent des délégués supplémentaires et des suppléants.
+L'effectif du conseil municipal à prendre en compte pour l'application de l'article L. 284 est celui qui résulte du dernier renouvellement du conseil municipal.
