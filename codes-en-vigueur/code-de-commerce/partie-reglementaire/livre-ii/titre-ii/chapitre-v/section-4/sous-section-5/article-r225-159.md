@@ -4,7 +4,7 @@ Le registre des achats tenu en application de l'article L. 225-211 pour relater 
 
 1° La date de chaque opération ;
 
-2° Le cours d'achat ;
+2° Le cours d'achat ou, à défaut, le prix unitaire d'achat ;
 
 3° Le nombre des actions achetées à chaque cours ;
 
