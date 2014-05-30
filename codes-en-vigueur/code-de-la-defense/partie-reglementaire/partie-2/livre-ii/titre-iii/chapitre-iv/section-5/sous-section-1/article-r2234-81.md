@@ -1,12 +1,12 @@
 # Article R2234-81
 
-Lorsque la commission départementale d'évaluation est chargée d'examiner des dossiers de réquisitions immobilières ou de réquisitions de services comportant des prestations immobilières, elle est composée de douze membres :
+Lorsque la commission départementale d'évaluation est chargée d'examiner des dossiers de réquisitions immobilières ou de réquisitions de services comportant des prestations immobilières, elle est composée de dix membres :
 
 1° Un membre de l'administration préfectorale, président ;
 
-2° Le directeur des services fiscaux du département (contributions directes et cadastre) ou son représentant ;
+2° Le directeur départemental ou, le cas échéant, régional des finances publiques ou son représentant ;
 
-3° Le directeur des services fiscaux du département (contributions indirectes) ou son représentant ;
+3° Abrogé ;
 
 4° Un commissaire de l'armée de terre ou son suppléant, désignés par l'officier général commandant la région terre ;
 

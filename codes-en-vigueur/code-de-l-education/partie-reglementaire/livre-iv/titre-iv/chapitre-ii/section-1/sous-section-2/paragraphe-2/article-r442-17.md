@@ -1,6 +1,6 @@
 # Article R442-17
 
-Le contrôle exercé par le trésorier-payeur général a pour objet de :
+Le contrôle exercé par le   directeur départemental ou, le cas échéant, régional des finances publiques a pour objet de :
 
 1° Vérifier l'exactitude des divers éléments pris en compte dans les mandatements énumérés aux articles R. 442-11, R. 442-12 et R. 442-14 ;
 

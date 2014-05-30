@@ -11,5 +11,4 @@
 - [Article R237-23](article-r237-23.md)
 - [Article R237-24](article-r237-24.md)
 - [Article R237-25](article-r237-25.md)
-- [Article R237-26](article-r237-26.md)
 - [Article R237-27](article-r237-27.md)

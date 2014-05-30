@@ -18,6 +18,6 @@ Le compte financier est visé par l'ordonnateur qui certifie que le montant des 
 
 Avant l'expiration du quatrième mois suivant la clôture de l'exercice le conseil d'administration arrête le compte financier après avoir entendu l'agent comptable.
 
-Le compte financier accompagné éventuellement des observations du conseil d'administration et de celles de l'agent comptable est transmis à la collectivité de rattachement et au         directeur régional de l'alimentation, de l'agriculture et de la forêt  dans les trente jours suivant son adoption.
+Le compte financier accompagné éventuellement des observations du conseil d'administration et de celles de l'agent comptable est transmis à la collectivité de rattachement et au directeur régional de l'alimentation, de l'agriculture et de la forêt dans les trente jours suivant son adoption.
 
-L'agent comptable adresse le compte financier susmentionné et les pièces annexes nécessaires, avant l'expiration du sixième mois suivant la clôture de l'exercice, au comptable supérieur du Trésor territorialement compétent qui, après l'avoir mis en état d'examen, le transmet à la chambre régionale des comptes avant l'expiration du dixième mois suivant la clôture de l'exercice.
+L'agent comptable adresse le compte financier susmentionné et les pièces annexes nécessaires, avant l'expiration du sixième mois suivant la clôture de l'exercice, au   directeur départemental ou, le cas échéant, régional des finances publiques territorialement compétent qui, après l'avoir mis en état d'examen, le transmet à la chambre régionale des comptes avant l'expiration du dixième mois suivant la clôture de l'exercice.

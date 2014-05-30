@@ -6,7 +6,7 @@ Le comité consultatif du crédit institué par l'article 214 de la loi organiqu
 
 a) le secrétaire général du haut-commissariat ou son représentant ;
 
-b) le trésorier-payeur général ou son représentant ;
+b) le   directeur chargé de la direction des finances publiques de la Nouvelle-Calédonie ou son représentant ;
 
 c) le directeur de l'agence locale de l'Institut d'émission d'outre-mer ou son représentant ;
 
@@ -28,7 +28,7 @@ a) le président du comité local de la Fédération bancaire française ou son 
 
 b) un représentant des établissements de crédit non membres de la Fédération bancaire française, ou son suppléant, nommés par le haut-commissaire de la République après avis du président du gouvernement de la Nouvelle-Calédonie ;
 
-c) le président de la      chambre de commerce et d'industrie territoriale ou son représentant ;
+c) le président de la chambre de commerce et d'industrie territoriale ou son représentant ;
 
 d) le président de la chambre d'agriculture ou son représentant ;
 

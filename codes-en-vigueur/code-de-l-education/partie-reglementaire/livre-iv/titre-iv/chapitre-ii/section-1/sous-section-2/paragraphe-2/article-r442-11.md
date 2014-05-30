@@ -2,7 +2,7 @@
 
 La rémunération des maîtres contractuels ou agréés et des maîtres délégués exerçant leur enseignement dans les classes placées sous le régime de l'association ou sous le régime du contrat simple est mandatée mensuellement et à terme échu, selon les règles applicables au paiement des traitements des maîtres de l'enseignement public.
 
-A l'appui du premier mandat de rémunération adressé au trésorier-payeur général sont jointes les pièces justificatives suivantes, établies en triple exemplaire :
+A l'appui du premier mandat de rémunération adressé au   directeur départemental ou, le cas échéant, régional des finances publiques sont jointes les pièces justificatives suivantes, établies en triple exemplaire :
 
 1° La fiche d'identification du maître comportant notamment les renseignements d'état civil et de situation de famille ainsi que les éléments de base de rémunération. Cette fiche est signée par le maître, attestée par le chef d'établissement et visée par l'ordonnateur ;
 

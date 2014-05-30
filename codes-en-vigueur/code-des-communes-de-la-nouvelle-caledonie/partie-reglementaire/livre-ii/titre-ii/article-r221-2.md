@@ -8,4 +8,4 @@ Ne peuvent donner lieu à attribution d'indemnités que les travaux et déplacem
 
 3° Les participations à des jurys d'examen et de concours et les missions d'enseignement confiées à des agents des services extérieurs de l'Etat ou des établissements publics de l'Etat ;
 
-4° L'aide technique apportée aux communes et à leurs établissements publics par les agents des services extérieurs du Trésor.
+4° L'aide technique apportée aux communes et à leurs établissements publics par les     agents des services déconcentrés de la direction générale des finances publiques.

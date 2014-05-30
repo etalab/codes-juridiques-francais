@@ -12,4 +12,4 @@ La pénalité est notifiée à l'employeur défaillant par décision motivée :
 
 Le préfet établit un titre de perception pour la somme correspondante.
 
-Il transmet ce titre au trésorier-payeur général qui en assure le recouvrement.
+Il transmet ce titre au   directeur départemental ou, le cas échéant, régional des finances publiques qui en assure le recouvrement.

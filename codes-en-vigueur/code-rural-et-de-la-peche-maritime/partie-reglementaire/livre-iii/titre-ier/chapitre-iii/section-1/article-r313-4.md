@@ -14,9 +14,9 @@ Elle comprend :
 
 -le directeur régional de l'alimentation de l'agriculture et de la forêt ou son représentant ;
 
--les directeurs départementaux de l'agriculture et de la forêt ou leurs représentants ;
+-les directeurs départementaux des territoires et de la mer ou leurs représentants ;
 
--les trésoriers-payeurs généraux ou leurs représentants ;
+-le directeur régional des finances publiques de Corse et du département de Corse-du-Sud et le directeur départemental des finances publiques de Haute-Corse ;
 
 -quatre représentants de l'Assemblée de Corse ;
 

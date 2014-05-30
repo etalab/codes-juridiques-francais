@@ -8,6 +8,6 @@ II.-Pour tout ou partie de leur montant, les subventions versées à l'aménageu
 
 2° Le coût des travaux engagés pour la viabilisation, la dépollution ou les fouilles archéologiques des terrains ou des biens immobiliers appartenant à la commune, cédés ou mis ultérieurement par elle à disposition des maîtres d'ouvrages par bail emphytéotique, bail à construction ou bail à réhabilitation, dans la mesure où ces travaux sont effectivement destinés à la production de logements sociaux. La déduction n'est toutefois possible qu'autant que la délibération du conseil municipal autorisant les travaux mentionnés ci-dessus précise le nombre de logements locatifs sociaux projetés et identifie chaque maître d'ouvrage concerné.
 
-3° Les moins-values correspondant à la différence entre le prix de cession de terrains ou de biens immobiliers devant effectivement donner lieu à la réalisation de logements locatifs sociaux et leur valeur vénale estimée, à la date de la cession, par le service des domaines.
+3° Les moins-values correspondant à la différence entre le prix de cession de terrains ou de biens immobiliers devant effectivement donner lieu à la réalisation de logements locatifs sociaux et leur valeur vénale estimée, à la date de la cession, par le directeur départemental ou, le cas échéant, régional des finances publiques.
 
 Seule peut être admise en déduction la fraction des dépenses qui n'a pas fait l'objet d'une subvention du fonds d'aménagement urbain.

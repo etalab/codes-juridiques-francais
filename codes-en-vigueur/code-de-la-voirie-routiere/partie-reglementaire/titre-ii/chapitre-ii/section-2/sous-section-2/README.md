@@ -2,7 +2,6 @@
 
 - [Article R*122-16](article-r-122-16.md)
 - [Article R*122-17](article-r-122-17.md)
-- [Article R*122-18](article-r-122-18.md)
 - [Article R*122-19](article-r-122-19.md)
 - [Article R*122-20](article-r-122-20.md)
 - [Article R*122-21](article-r-122-21.md)

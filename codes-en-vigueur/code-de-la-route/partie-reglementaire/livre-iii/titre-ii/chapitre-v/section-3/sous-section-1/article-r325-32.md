@@ -18,14 +18,14 @@ II.-Cette notification comporte les mentions obligatoires suivantes :
 
 a) De dix jours pour un véhicule qu'un expert aura estimé d'une valeur marchande inférieure à un montant fixé par arrêté interministériel et déclaré hors d'état de circuler dans des conditions normales de sécurité ;
 
-b) De   trente jours  dans les autres cas,
+b) De trente jours dans les autres cas,
 
 ces délais commençant à courir un jour franc après la date de notification ;
 
-6° Avertissement au propriétaire que son absence de réponse dans les délais impartis vaudra abandon de son véhicule et que ledit véhicule sera, dans les conditions prévues par décret, soit remis au service des domaines en vue de son aliénation, soit livré à la destruction ;
+6° Avertissement au propriétaire que son absence de réponse dans les délais impartis vaudra abandon de son véhicule et que ledit véhicule sera, dans les conditions prévues par décret, soit remis   à l'administration chargée des domaines en vue de son aliénation, soit livré à la destruction ;
 
 7° Nature et montant des frais qu'il sera tenu de rembourser ;
 
 8° Enoncé des voies de recours.
 
-III.-Si le traitement automatisé mis en œuvre pour l'immatriculation des véhicule révèle l'inscription d'un gage, copie de la notification de mise en fourrière est adressée par l'auteur de la prescription de mise en fourrière au créancier-gagiste, par lettre recommandée avec demande d'accusé de réception, qui fait référence au décret n° 72-823 du 6 septembre 1972 (art. 5,6 et 7) fixant les conditions de remise au service des domaines des véhicules non retirés de fourrière par leurs propriétaires.
+III.-Si le traitement automatisé mis en œuvre pour l'immatriculation des véhicule révèle l'inscription d'un gage, copie de la notification de mise en fourrière est adressée par l'auteur de la prescription de mise en fourrière au créancier-gagiste, par lettre recommandée avec demande d'accusé de réception, qui fait référence au décret n° 72-823 du 6 septembre 1972 (art. 5,6 et 7) fixant les conditions de remise   à l'administration chargée des domaines des véhicules non retirés de fourrière par leurs propriétaires.
