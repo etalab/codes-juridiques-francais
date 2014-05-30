@@ -36,7 +36,7 @@ Un décret en Conseil d'Etat précise les conditions d'application du présent 3
 
 4° Lorsque l'administration n'a pas répondu de manière motivée dans un délai de trois mois à un contribuable de bonne foi qui a demandé, à partir d'une présentation écrite précise et complète de la situation de fait, si son entreprise constitue une jeune entreprise innovante au sens de l'article 44 sexies-0 A du code général des impôts. Un décret en Conseil d'Etat précise les modalités d'application du présent 4° concernant les documents et informations qui doivent être fournis ;
 
-5° Lorsque l'administration n'a pas répondu de manière motivée dans un délai de trois mois à un contribuable de bonne foi qui a demandé, à partir d'une présentation écrite précise et complète de la situation de fait, si son entreprise pouvait bénéficier des dispositions de l'article 44 undecies du code général des impôts. Un décret en Conseil d'Etat précise les modalités d'application du présent 5° concernant les documents et informations qui doivent être fournis ;
+5° (périmé) ;
 
 6° Lorsque l'administration n'a pas répondu dans un délai de trois mois à un contribuable de bonne foi qui a demandé, à partir d'une présentation écrite précise et complète de la situation de fait, l'assurance qu'il ne dispose pas en France d'un établissement stable ou d'une base fixe au sens de la convention fiscale liant la France à l'État dans lequel ce contribuable est résident.
 

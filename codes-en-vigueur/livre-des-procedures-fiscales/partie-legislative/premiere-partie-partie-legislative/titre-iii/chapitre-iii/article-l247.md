@@ -18,6 +18,6 @@ Aucune autorité publique ne peut accorder de remise totale ou partielle de droi
 
 L'administration ne peut transiger :
 
-a) Lorsqu'elle envisage de mettre en mouvement l'action publique pour les infractions mentionnées au code général des impôts ;
+1°) Lorsqu'elle envisage de mettre en mouvement l'action publique pour les infractions mentionnées au code général des impôts ;
 
-b) Lorsque le contribuable met en œuvre des manœuvres dilatoires visant à nuire au bon déroulement du contrôle.
+2°) Lorsque le contribuable met en œuvre des manœuvres dilatoires visant à nuire au bon déroulement du contrôle.
