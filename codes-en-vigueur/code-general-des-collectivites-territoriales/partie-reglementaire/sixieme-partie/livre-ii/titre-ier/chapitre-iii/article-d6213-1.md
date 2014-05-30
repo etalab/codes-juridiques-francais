@@ -10,7 +10,7 @@ Pour l'application à Saint-Barthélemy des dispositions mentionnées aux articl
 
 4° La référence au président du conseil régional est remplacée par la référence au président du conseil territorial ;
 
-5° La référence au trésorier-payeur général de région est remplacée par la référence au trésorier-payeur général de la Guadeloupe ;
+5° La référence au directeur régional des finances publiques est remplacée par la référence au directeur régional des finances publiques de la Guadeloupe ;
 
 6° La référence à la chambre régionale des comptes est remplacée par la référence à la chambre territoriale des comptes de Saint-Barthélemy ;
 

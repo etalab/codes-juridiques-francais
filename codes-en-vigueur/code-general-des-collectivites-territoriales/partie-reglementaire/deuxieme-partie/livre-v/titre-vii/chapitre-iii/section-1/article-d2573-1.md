@@ -8,4 +8,6 @@ Pour l'application des dispositions de la deuxième partie aux communes de la Po
 
 3° La référence à la chambre régionale des comptes est remplacée par la référence à la chambre territoriale des comptes ;
 
-4° Les montants en euros sont remplacés par des montants équivalents en monnaie locale compte tenu de la contre-valeur de l'euro dans cette monnaie.
+4° Les montants en euros sont remplacés par des montants équivalents en monnaie locale compte tenu de la contre-valeur de l'euro dans cette monnaie ;
+
+5° Les références au "directeur départemental ou, le cas échéant, régional des finances publiques" sont remplacées par des références au "directeur chargé de la direction des finances publiques de la Polynésie française".

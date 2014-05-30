@@ -472,7 +472,7 @@ Certificat administratif mentionnant la date de la notification aux créanciers 
 
 3. Demande de paiement d'acompte de l'exproprié ;
 
-4. Justification du droit de l'exproprié par l'expropriant, précisant notamment que le juge de l'expropriation a été saisi pour fixation de l'indemnité, que le relogement de l'exproprié ne sera pas assuré par l'expropriant et indiquant, en outre, le montant des propositions chiffrées de l'expropriant ainsi que celles du service des domaines.
+4. Justification du droit de l'exproprié par l'expropriant, précisant notamment que le juge de l'expropriation a été saisi pour fixation de l'indemnité, que le relogement de l'exproprié ne sera pas assuré par l'expropriant et indiquant, en outre, le montant des propositions chiffrées de l'expropriant ainsi que celles du directeur départemental ou, le cas échéant, régional des finances publiques.
 
 5312 - Mandatement d'indemnités mobilières
 
@@ -520,7 +520,7 @@ Pièces prévues à la rubrique 531165.
 
 1. Copie de l'arrêté du représentant de l'Etat dans la région ou dans le département.
 
-2. Copie de l'évaluation de l'indemnité provisionnelle par le service des domaines.
+2. Copie de l'évaluation de l'indemnité provisionnelle par le directeur départemental ou, le cas échéant, régional des finances publiques.
 
 3. Justification, selon les formes signifiées prévues à l'article I <sup>er </sup>du décret du 13 février 1961, du droit de propriété de l'exproprié.
 

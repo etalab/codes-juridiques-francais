@@ -118,7 +118,7 @@ Copie de l'ordonnance du président du tribunal de grande instance du lieu d'ouv
 
 0252 - Successions vacantes
 
-Copie du jugement du tribunal de grande instance du lieu d'ouverture de la succession déclarant la vacance et désignant un curateur (le service des domaines).
+Copie du jugement du tribunal de grande instance du lieu d'ouverture de la succession déclarant la vacance et désignant un curateur (l'administration chargée des domaines).
 
 0253 - Successions en déshérence
 

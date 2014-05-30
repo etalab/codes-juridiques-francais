@@ -4,9 +4,9 @@ La commission consultative prévue à l'article L. 5334-6 est composée de la ma
 
 1° Le préfet du département siège du syndicat d'agglomération nouvelle ou son représentant, président ;
 
-2° Le trésorier-payeur général ou son représentant ;
+2° Le directeur départemental ou, le cas échéant, régional des finances publiques  ou son représentant ;
 
-3° Le directeur départemental des services fiscaux ou son représentant ;
+3° (Supprimé)
 
 4° Le directeur départemental de l'équipement ou son représentant ;
 

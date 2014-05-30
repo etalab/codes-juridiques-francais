@@ -4,7 +4,7 @@ La somme remboursée en application de l'article D. 1441-97 ne peut excéder cel
 
 1° Le préfet ou son représentant, président ;
 
-2° Le trésorier-payeur général ou son représentant ;
+2° Le   directeur départemental ou, le cas échéant, régional des finances publiques ou son représentant ;
 
 3° Le directeur départemental de la concurrence, de la consommation et de la répression des fraudes ou son représentant ;
 

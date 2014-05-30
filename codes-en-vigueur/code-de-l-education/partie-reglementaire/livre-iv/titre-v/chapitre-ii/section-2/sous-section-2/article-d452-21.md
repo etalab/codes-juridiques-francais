@@ -4,4 +4,4 @@ Le contrôle de la gestion des comptables secondaires des établissements en ges
 
 1° Par les inspecteurs de l'inspection générale des affaires étrangères ;
 
-2° Par le trésorier-payeur général pour l'étranger et, le cas échéant, par les comptables du Trésor territorialement compétents.
+2° Par le trésorier-payeur général pour l'étranger et, le cas échéant, par les  comptables de la direction générale des finances publiques territorialement compétents.

@@ -6,7 +6,7 @@ Pour l'application de la présente partie du code dans les Terres australes et a
 
 2° Le deuxième et le troisième alinéa de l'article R. * 1311-25 sont remplacés par les dispositions suivantes :
 
-" Ce comité comprend les préfets des régions et des départements, le trésorier-payeur général ou l'administrateur exerçant la fonction de directeur régional des finances publiques dont la circonscription comprend le chef-lieu de la zone, l'officier général commandant supérieur, l'officier commandant la gendarmerie au siège de la zone de défense, le chef d'état-major de zone, s'il y a lieu les commandants des forces, le commandant territorial de la gendarmerie, le ou les chefs de service de la police nationale désignés à cet effet par le préfet de zone de défense et de sécurité. " ;
+" Ce comité comprend les préfets des régions et des départements, le            directeur régional des finances publiques dont la circonscription comprend le chef-lieu de la zone, l'officier général commandant supérieur, l'officier commandant la gendarmerie au siège de la zone de défense, le chef d'état-major de zone, s'il y a lieu les commandants des forces, le commandant territorial de la gendarmerie, le ou les chefs de service de la police nationale désignés à cet effet par le préfet de zone de défense et de sécurité. " ;
 
 3° Le deuxième alinéa de l'article R. * 1311-33 est remplacé par l'alinéa suivant :
 
