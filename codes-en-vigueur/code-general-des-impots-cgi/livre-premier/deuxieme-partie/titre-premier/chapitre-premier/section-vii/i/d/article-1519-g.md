@@ -22,32 +22,29 @@ III.-Le montant de l'imposition est fixé en fonction de la tension en amont des
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Supérieure à 350 <br/>
+<p>Supérieure à 350 <br/>
 </p>
 </td>
 <td align="center">
-<br/>140 924 <br/>
+<br/>142 756<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Supérieure à 130 et inférieure ou égale à 350 <br/>
+<p>Supérieure à 130 et inférieure ou égale à 350 <br/>
 </p>
 </td>
 <td align="center">
-<br/>47 823 <br/>
+<br/>48 445<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Supérieure à 50 et inférieure ou égale à 130 <br/>
+<p>Supérieure à 50 et inférieure ou égale à 130 <br/>
 </p>
 </td>
 <td align="center">
-<br/>13 736 <br/>
+<br/>13 915<br/>
 </td>
 </tr>
 </tbody>
