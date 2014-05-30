@@ -90,9 +90,9 @@ L'exonération s'applique sous réserve du dépôt de l'accord d'intéressement,
 
 Les dispositions du premier alinéa bénéficient également, dans les mêmes conditions et limites aux dividendes des actions de travail attribuées aux salariés des sociétés anonymes à participation ouvrière régies par la loi du 26 avril 1917, à compter du 1er janvier 1991 ;
 
-19° Dans la limite de 5,29 € par titre, le complément de rémunération résultant de la contribution de l'employeur à l'acquisition par le salarié des titres-restaurant émis conformément aux dispositions du chapitre II du titre VI du livre II de la troisième partie du code du travail, lorsque cette contribution est comprise entre un minimum et un maximum fixés par arrêté du ministre chargé du budget. La limite d'exonération est relevée chaque année dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu de l'année précédant celle de l'acquisition des titres-restaurant et arrondie, s'il y a lieu, au centime d'euro le plus proche.
+19° Dans la limite de 5,33 € par titre, le complément de rémunération résultant de la contribution de l'employeur à l'acquisition par le salarié des titres-restaurant émis conformément aux dispositions du chapitre II du titre VI du livre II de la troisième partie du code du travail, lorsque cette contribution est comprise entre un minimum et un maximum fixés par arrêté du ministre chargé du budget. La limite d'exonération est relevée chaque année dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu de l'année précédant celle de l'acquisition des titres-restaurant et arrondie, s'il y a lieu, au centime d'euro le plus proche.
 
-Cette exonération est subordonnée à la condition que le salarié se conforme aux obligations qui sont mises à sa charge par le même chapitre II  ;
+Cette exonération est subordonnée à la condition que le salarié se conforme aux obligations qui sont mises à sa charge par le même chapitre II ;
 
 19° bis l'avantage résultant de la contribution de l'employeur à l'acquisition des chèques-vacances dans les conditions et limite prévues à la section 1 du chapitre Ier du titre Ier du livre IV du code du tourisme ;
 

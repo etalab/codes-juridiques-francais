@@ -2,89 +2,109 @@
 
 I. - Les plafonds de loyer et de ressources du locataire mentionnés au 2° du XII de l'article 199 novovicies du code général des impôts sont fixés comme suit :
 
-1. Les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont, pour les baux conclus en 2013, fixés à 9,88 € en Guadeloupe, en Guyane, en Martinique, à La Réunion et à Mayotte ainsi qu'à Saint-Martin et à Saint-Pierre-et-Miquelon, et à 12,27 € en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.
+1. Les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont, pour les baux conclus en 2014, fixés à 10,02 € en Guadeloupe, en Guyane, en Martinique, à La Réunion et à Mayotte ainsi qu'à Saint-Martin et à Saint-Pierre-et-Miquelon, et à 12,45 € en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.
 
 Aux plafonds de loyer définis à l'alinéa précédent, il est fait application du coefficient multiplicateur défini au 1 du I de l'article 2 terdecies D.
 
 Pour l'application du présent 1, la surface à prendre en compte s'entend de celle prévue au III de l'article 46 AG terdecies.
 
-2. Les plafonds annuels de ressources des locataires sont, pour les baux conclus en 2013, les suivants :
+2. Les plafonds annuels de ressources des locataires sont, pour les baux conclus en 2014, les suivants :
 
 <table>
 <tbody>
 <tr>
-<td>
-<p align="center">COMPOSITION du foyer locataire </p>
+<th>COMPOSITION DU FOYER LOCATAIRE<br/>
+</th>
+<th>
+<br/>LIEU DE SITUATION DU LOGEMENT :<br/>
+<br/>Guadeloupe, Guyane, Martinique,<br/>
+<br/>La Réunion, Mayotte, Saint-Martin,<br/>
+<br/>ou Saint-Pierre-et-Miquelon<br/>
+<br/>(en euros)<br/>
+</th>
+<th>
+<br/>LIEU DE SITUATION DU LOGEMENT :<br/>
+<br/>Nouvelle-Calédonie,<br/>
+<br/>Polynésie française<br/>
+<br/>îles Wallis et Futuna<br/>
+<br/>(en euros)<br/>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Personne seule<br/>
 </td>
-<td>
-<p align="center">LIEU DE SITUATION DU LOGEMENT <br/>Guadeloupe, Guyane, Martinique La Réunion, Mayotte, Saint-Martin ou Saint-Pierre-et-Miquelon<br/>(en euros) </p>
+<td align="center">
+<br/>27 160<br/>
 </td>
-<td align="center">LIEU DE SITUATION DU LOGEMENT :<p>Nouvelle-Calédonie, Polynésie française, îles Wallis et Futuna</p>
-<p>(en euros)</p>
+<td align="center">
+<br/>30 169<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p>Personne seule </p>
+<br/>Couple<br/>
 </td>
 <td align="center">
-<br/>26 776 <br/>
+<br/>36 270<br/>
 </td>
-<td align="center">29 721 </td>
+<td align="center">
+<br/>40 288<br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<p>Couple </p>
+<br/>Personne seule ou couple ayant une personne à charge<br/>
 </td>
 <td align="center">
-<br/>35 757 <br/>
+<br/>43 619<br/>
 </td>
-<td align="center"> 39 690</td>
+<td align="center">
+<br/>48 451<br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<p>Personne seule ou couple ayant une personne à charge </p>
+<br/>Personne seule ou couple ayant deux personnes à charge<br/>
 </td>
 <td align="center">
-<br/>43 002 <br/>
+<br/>52 658<br/>
 </td>
-<td align="center"> 47 732</td>
+<td align="center">
+<br/>58 491<br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<p>Personne seule ou couple ayant deux personnes à charge </p>
+<br/>Personne seule ou couple ayant trois personnes à charge<br/>
 </td>
 <td align="center">
-<br/>51 913 <br/>
+<br/>61 945<br/>
 </td>
-<td align="center"> 57 623</td>
+<td align="center">
+<br/>68 808<br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<p>Personne seule ou couple ayant trois personnes à charge </p>
+<br/>Personne seule ou couple ayant quatre personnes à charge<br/>
 </td>
 <td align="center">
-<br/>61 069 <br/>
+<br/>69 811<br/>
 </td>
-<td align="center">67 787 </td>
+<td align="center">
+<br/>77 546<br/>
+</td>
 </tr>
 <tr>
 <td align="center">
-<p>Personne seule ou couple ayant quatre personnes à charge </p>
+<br/>Majoration par personne à charge supplémentaire à partir de la cinquième<br/>
 </td>
 <td align="center">
-<br/>68 824 <br/>
-</td>
-<td align="center"> 76 395</td>
-</tr>
-<tr>
-<td align="center">
-<p>Majoration par personne à charge supplémentaire à partir de la cinquième </p>
+<br/>+ 7 788<br/>
 </td>
 <td align="center">
-<br/>+ 7 677 <br/>
-</td>
-<td align="center">+ 8 521<br/>
+<br/>+ 8 650<br/>
 </td>
 </tr>
 </tbody>

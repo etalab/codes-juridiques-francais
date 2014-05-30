@@ -24,7 +24,7 @@ Les conditions mentionnées aux quatrième et cinquième alinéas du présent 1 
 
 Par dérogation aux mêmes quatrième et cinquième alinéas, pour les organismes constitués avant le 1er janvier 2014, le quota de 75 % doit être respecté au plus tard lors de la clôture du premier exercice ouvert à compter de cette même date et de manière continue jusqu'à la date de la cession, du rachat ou de la dissolution ou jusqu'à la date de la distribution.
 
-1 quater. A.-Par dérogation au 1 ter, lorsque les conditions prévues au B du présent 1 quater sont remplies, les gains nets sont réduits d'un abattement égal à :
+1 quater. A.-Par dérogation au 1 ter, lorsque les conditions prévues au B sont remplies, les gains nets sont réduits d'un abattement égal à :
 
 1° 50 % de leur montant lorsque les actions, parts ou droits sont détenus depuis au moins un an et moins de quatre ans à la date de la cession ;
 
@@ -52,7 +52,7 @@ Lorsque la société émettrice des droits cédés est une société holding ani
 
 Les conditions prévues aux quatrième à avant-dernier alinéas du présent 1° s'apprécient de manière continue depuis la date de création de la société ;
 
-2° Lorsque le gain est réalisé dans les conditions prévues à l'article 150-0 D ter ; (1)
+2° Lorsque le gain est réalisé dans les conditions prévues à l'article 150-0 D ter ;
 
 3° Lorsque le gain résulte de la cession de droits, détenus directement ou indirectement par le cédant avec son conjoint, leurs ascendants et descendants ainsi que leurs frères et sœurs, dans les bénéfices sociaux d'une société soumise à l'impôt sur les sociétés ou à un impôt équivalent et ayant son siège dans un Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales qui ont dépassé ensemble 25 % de ces bénéfices à un moment quelconque au cours des cinq dernières années, pendant la durée de la société, à l'une des personnes mentionnées au présent 3°, si tout ou partie de ces droits sociaux n'est pas revendu à un tiers dans un délai de cinq ans. A défaut, la plus-value, réduite, le cas échéant, de l'abattement mentionné au 1 ter, est imposée au nom du premier cédant au titre de l'année de la revente des droits au tiers. (1)
 
@@ -60,7 +60,7 @@ C.-L'abattement mentionné au A ne s'applique pas :
 
 1° Aux gains nets de cession ou de rachat de parts ou d'actions d'organismes de placement collectif en valeurs mobilières ou de placements collectifs, relevant des articles L. 214-24-24 à L. 214-32-1, L. 214-139 à L. 214-147 et L. 214-152 à L. 214-166 du code monétaire et financier, ou d'entités de même nature constituées sur le fondement d'un droit étranger, ou de dissolution de tels organismes, placements ou entités ;
 
-2° Aux distributions mentionnées aux 7 et 7 bis, aux deux derniers alinéas du 8 du II de l'article 150-0 A, à l'article 150-0 F et au 1 du II de l'article 163 quinquies C du présent code, y compris lorsqu'elles sont effectuées par des entités de même nature constituées sur le fondement d'un droit étranger.
+2° Aux distributions mentionnées aux 7 et 7 bis, aux deux derniers alinéas du 8 du II de l'article 150-0 A, à l'article 150-0 F et au 1 du II de l'article 163 quinquies C, y compris lorsqu'elles sont effectuées par des entités de même nature constituées sur le fondement d'un droit étranger.
 
 1 quinquies. Pour l'application de l'abattement mentionné au 1, la durée de détention est décomptée à partir de la date de souscription ou d'acquisition des actions, parts, droits ou titres, et :
 
@@ -92,7 +92,7 @@ En cas de cessions antérieures de titres ou droits de la société concernée p
 
 Pour les distributions mentionnées aux 7,7 bis et aux deux derniers alinéas du 8 du II de l'article 150-0 A, à l'article 150-0 F et au 1 du II de l'article 163 quinquies C, la durée de détention est décomptée à partir de la date d'acquisition ou de souscription des titres du fonds, de l'entité ou de la société de capital-risque concerné.
 
-Pour l'application du dernier alinéa du 1 ter du présent article, en cas de cession à titre onéreux ou de rachat de parts ou d'actions d'organismes de placement collectif en valeurs mobilières ou de placements collectifs, constitués avant le 1er janvier 2014, ou en cas de distributions effectuées par de tels organismes, la durée de détention est décomptée :
+Pour l'application du dernier alinéa du 1 ter, en cas de cession à titre onéreux ou de rachat de parts ou d'actions d'organismes de placement collectif en valeurs mobilières ou de placements collectifs, constitués avant le 1er janvier 2014, ou en cas de distributions effectuées par de tels organismes, la durée de détention est décomptée :
 
 -à partir de la date de souscription ou d'acquisition de ces parts ou actions, lorsque les parts ou actions ont été souscrites ou acquises à une date où l'organisme respecte le quota d'investissement mentionné aux quatrième et cinquième alinéas du même 1 ter ;
 

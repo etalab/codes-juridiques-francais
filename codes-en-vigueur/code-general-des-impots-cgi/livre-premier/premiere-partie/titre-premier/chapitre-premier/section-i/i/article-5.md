@@ -6,7 +6,7 @@ Sont affranchis de l'impôt sur le revenu :
 
 2° Les personnes physiques qui bénéficient principalement de traitements, salaires, pensions et rentes viagères et dont le revenu global n'est pas supérieur au montant du minimum garanti prévu à l'article L. 3231-12 du code du travail ;
 
-2° bis Les contribuables dont le revenu net de frais professionnels, n'excède pas, par foyer fiscal, 8 610 €, ou 9 410 € s'ils sont âgés de plus de soixante-cinq ans ; ces limites sont identiques, quelle que soit la nature des revenus perçus ;
+2° bis Les contribuables dont le revenu net de frais professionnels, n'excède pas, par foyer fiscal, 8 680 €, ou 9 490 € s'ils sont âgés de plus de soixante-cinq ans ; ces limites sont identiques, quelle que soit la nature des revenus perçus ;
 
 La condition d'âge ci-dessus mentionnée est considérée comme remplie si l'un des époux soumis à une imposition commune est âgé de plus de soixante-cinq ans.
 

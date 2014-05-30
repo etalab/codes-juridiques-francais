@@ -10,7 +10,7 @@ Les dispositions de l'article 344-0 A s'appliquent :
 
 4° Aux déclarations de taxe sur la valeur ajoutée et taxes assimilées prévues à l'article 287 du même code, ainsi qu'aux déclarations et documents se rapportant aux taxes, contributions et redevances assises et contrôlées comme en matière de taxe sur la valeur ajoutée ;
 
-5° Aux déclarations de taxes et participations assises sur les salaires prévues à l'article 235 ter J du code précité, 161 de l'annexe II et 369 de l'annexe III au même code ;
+5° Aux déclarations de taxes et participations assises sur les salaires prévues à l'article 235 ter J du code précité, à l'article 161 de l'annexe II et à l'article 369 de l'annexe III au même code ;
 
 6° A la déclaration prévue au II de l'article 1586 octies du même code ;
 
@@ -20,7 +20,7 @@ Les dispositions de l'article 344-0 A s'appliquent :
 
 9° (Sans objet) ;
 
-10° A la déclaration de taxe sur la valeur vénale des immeubles possédés en France prévue à l'article 990 F du même code ;
+10° A la déclaration de taxe sur la valeur vénale des immeubles possédés en France prévue à l'article 990 F du code général des impôts ;
 
 11° A la déclaration de contribution au fonds commun des accidents du travail agricole prévue à l'article 336 bis ;
 
@@ -28,6 +28,6 @@ Les dispositions de l'article 344-0 A s'appliquent :
 
 13° (Sans objet) ;
 
-14° A la déclaration de taxe sur les véhicules de tourisme des sociétés prévue à l'article 1010 du même code ;
+14° A la déclaration de taxe sur les véhicules de tourisme des sociétés prévue à l'article 1010 du code général des impôts ;
 
-15° Sur option, à la déclaration de taxe annuelle sur les locaux à usage de bureaux, les locaux commerciaux et de stockage dans la région Ile-de-France prévue à l'article 231 ter du même code. L'option ne peut être exercée que si l'entreprise a opté pour le paiement des taxes foncières auprès du comptable du service des grandes entreprises mentionné au premier alinéa de l'article 344-0 A. Elle est formulée dans les mêmes conditions que celles prévues pour l'option mentionnée à l'article 406 terdecies.
+15° Sur option, à la déclaration de taxe annuelle sur les locaux à usage de bureaux, les locaux commerciaux et de stockage dans la région Ile-de-France prévue à l'article 231 ter du code général des impôts. L'option ne peut être exercée que si l'entreprise a opté pour le paiement des taxes foncières auprès du comptable du service des grandes entreprises mentionné au premier alinéa de l'article 344-0 A. Elle est formulée dans les mêmes conditions que celles prévues pour l'option mentionnée à l'article 406 terdecies.

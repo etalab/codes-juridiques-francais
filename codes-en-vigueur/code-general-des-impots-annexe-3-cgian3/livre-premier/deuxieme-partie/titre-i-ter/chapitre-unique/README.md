@@ -1,5 +1,4 @@
-# Chapitre unique : Impôts directs et taxes assimilées
+# Chapitre unique : Taxe d'apprentissage
 
-- [Article 328 I](article-328-i.md)
-- [Article 328 H](article-328-h.md)
-- [Article 328 J](article-328-j.md)
+- [Article 328 J bis](article-328-j-bis.md)
+- [Article 328 J ter](article-328-j-ter.md)

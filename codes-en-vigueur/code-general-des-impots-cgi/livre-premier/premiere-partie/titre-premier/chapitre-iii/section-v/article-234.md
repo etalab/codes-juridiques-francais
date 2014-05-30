@@ -1,10 +1,10 @@
 # Article 234
 
-I. ― Il est institué une taxe annuelle due à raison des loyers perçus au titre de logements situés dans des communes classées dans des zones géographiques se caractérisant par un déséquilibre particulièrement important entre l'offre et la demande de logements, donnés en location nue ou meublée pour une durée minimale de neuf mois et dont la surface habitable, au sens du code de la construction et de l'habitation, est inférieure ou égale à 14 mètres carrés, lorsque le montant du loyer mensuel, charges non comprises, des logements concernés excède un montant, fixé par décret, compris entre 30,66 et 45,99 € par mètre carré de surface habitable.
+I. ― Il est institué une taxe annuelle due à raison des loyers perçus au titre de logements situés dans des communes classées dans des zones géographiques se caractérisant par un déséquilibre particulièrement important entre l'offre et la demande de logements, donnés en location nue ou meublée pour une durée minimale de neuf mois et dont la surface habitable, au sens du code de la construction et de l'habitation, est inférieure ou égale à 14 mètres carrés, lorsque le montant du loyer mensuel, charges non comprises, des logements concernés excède un montant, fixé par décret, compris entre 31,03 et 46,54 € par mètre carré de surface habitable.
 
 Le montant mentionné au premier alinéa peut être majoré, par le décret mentionné au même alinéa, au maximum de 10 % pour les locations meublées. Il peut, par le même décret, être modulé selon la tension du marché locatif au sein des zones géographiques concernées.
 
-Le montant mentionné au premier alinéa, éventuellement majoré ou modulé dans les conditions prévues au deuxième alinéa, ainsi que les limites de 30,66 et 45,99 € mentionnées au premier alinéa sont révisés au 1er janvier de chaque année selon les modalités prévues au premier alinéa de l'article L. 353-9-2 du code de la construction et de l'habitation et arrondis au centime d'euro le plus proche.
+Le montant mentionné au premier alinéa, éventuellement majoré ou modulé dans les conditions prévues au deuxième alinéa, ainsi que les limites de 31,03 et 46,54 € mentionnées au premier alinéa sont révisés au 1er janvier de chaque année selon les modalités prévues au premier alinéa de l'article L. 353-9-2 du code de la construction et de l'habitation et arrondis au centime d'euro le plus proche.
 
 Un arrêté des ministres chargés du budget et du logement, révisé au moins tous les trois ans, établit le classement des communes par zone.
 

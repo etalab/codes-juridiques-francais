@@ -6,6 +6,7 @@
 - [Section VI : Taxe d'aéroport](section-vi)
 - [Section VI bis : Taxe sur les nuisances sonores aériennes](section-vi-bis)
 - [Section VII : Contribution à la formation professionnelle des chefs d'entreprise individuelle exerçant une activité artisanale et bénéficiant du régime prévu à l'article L. 133-6-8 du code de la sécurité sociale](section-vii)
+- [Section VII bis : Contribution supplémentaire à l'apprentissage](section-vii-bis)
 - [Section VIII : Taxe pour le développement de la formation professionnelle dans les métiers de la réparation de l'automobile, du cycle et du motocycle](section-viii)
 - [Section X : Contribution perçue au profit de l'Institut national de prévention et d'éducation pour la santé](section-x)
 - [Section XI : Prélèvements sur les jeux de loterie et les paris sportifs perçus au profit du Centre national pour le développement du sport](section-xi)

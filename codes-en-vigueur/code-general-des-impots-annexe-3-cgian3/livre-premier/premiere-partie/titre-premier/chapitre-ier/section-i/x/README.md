@@ -6,5 +6,4 @@
 - [Article 41 duovicies E](article-41-duovicies-e.md)
 - [Article 41 duovicies F](article-41-duovicies-f.md)
 - [Article 41 duovicies G](article-41-duovicies-g.md)
-- [Article 41 duovicies G bis](article-41-duovicies-g-bis.md)
 - [Article 41 duovicies H](article-41-duovicies-h.md)

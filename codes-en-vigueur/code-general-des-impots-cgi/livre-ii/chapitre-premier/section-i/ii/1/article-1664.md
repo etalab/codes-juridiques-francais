@@ -1,12 +1,12 @@
 # Article 1664
 
-1. En ce qui concerne les contribuables qui auront été compris dans les rôles de l'année précédente pour une somme au moins égale à 342 €, l'impôt sur le revenu donne lieu, par dérogation aux dispositions de l'article 1663 et en l'absence d'option pour le paiement mensuel telle qu'elle est prévue à l'article 1681 A, à deux versements d'acomptes le 31 janvier et le 30 avril de l'année suivant celle au cours de laquelle sont réalisés les revenus servant de base de calcul de l'impôt.
+1. En ce qui concerne les contribuables qui auront été compris dans les rôles de l'année précédente pour une somme au moins égale à 345 €, l'impôt sur le revenu donne lieu, par dérogation aux dispositions de l'article 1663 et en l'absence d'option pour le paiement mensuel telle qu'elle est prévue à l'article 1681 A, à deux versements d'acomptes le 31 janvier et le 30 avril de l'année suivant celle au cours de laquelle sont réalisés les revenus servant de base de calcul de l'impôt.
 
 Le montant de chaque acompte est égal au tiers des cotisations mises à la charge du redevable dans les rôles concernant la dernière année au titre de laquelle il a été imposé.
 
 Les contribuables dont la cotisation d'impôt sur le revenu est mise en recouvrement entre le 1er janvier et le 15 avril de la deuxième année suivant celle de la réalisation du revenu sont assujettis, en l'absence d'option pour le paiement mensuel, au versement d'un acompte provisionnel égal à 60 % de cette cotisation et payable au plus tard le 15 mai de la même année.
 
-Cet acompte n'est pas dû si le montant de la cotisation n'atteint pas la somme de 342 €.
+Cet acompte n'est pas dû si le montant de la cotisation n'atteint pas la somme de 345 €.
 
 La somme prévue aux premier et quatrième alinéas est relevée chaque année dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu.
 

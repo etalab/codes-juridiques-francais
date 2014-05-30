@@ -30,7 +30,7 @@ d) Des bénéfices agricoles mentionnés à l'article 63 ;
 
 e) Des bénéfices tirés de l'exercice d'une profession non commerciale mentionnés au 1 de l'article 92.
 
-Les revenus exonérés en application des articles 44 sexies à 44 undecies, 44 terdecies à 44 quindecies ou du 9 de l'article 93 sont retenus pour l'appréciation du montant des revenus définis aux c, d et e. Il n'est pas tenu compte des déficits des années antérieures ainsi que des plus-values et moins-values professionnelles à long terme.
+Les revenus exonérés en application des articles 44 sexies à 44 nonies, 44 terdecies à 44 quindecies ou du 9 de l'article 93 sont retenus pour l'appréciation du montant des revenus définis aux c, d et e. Il n'est pas tenu compte des déficits des années antérieures ainsi que des plus-values et moins-values professionnelles à long terme.
 
 Pour l'appréciation du montant des revenus définis aux c et e, les revenus soumis aux versements libératoires prévus par l'article 151-0 sont retenus pour leur montant diminué, selon le cas, de l'abattement prévu au 1 de l'article 50-0 ou de la réfaction forfaitaire prévue au 1 de l'article 102 ter.
 

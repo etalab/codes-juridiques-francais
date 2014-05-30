@@ -14,7 +14,6 @@
 - [Article 199 ter K](article-199-ter-k.md)
 - [Article 199 ter N](article-199-ter-n.md)
 - [Article 199 ter P](article-199-ter-p.md)
-- [Article 199 ter Q](article-199-ter-q.md)
 - [Article 199 ter R](article-199-ter-r.md)
 - [Article 199 ter S](article-199-ter-s.md)
 - [Article 199 ter T](article-199-ter-t.md)

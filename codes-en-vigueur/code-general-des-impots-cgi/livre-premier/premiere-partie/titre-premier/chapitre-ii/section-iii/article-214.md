@@ -20,7 +20,7 @@ Cette disposition n'est pas applicable aux sociétés d'intérêt collectif agri
 
 Le 2° est toutefois applicable aux sociétés coopératives ouvrières de production issues de la transformation d'autres sociétés dans les conditions prévues aux articles 48 à 52 de la loi n° 78-763 du 19 juillet 1978 précitée et pour lesquelles les associés non coopérateurs s'engagent, au moment de la transformation et dans des conditions fixées par décret, à céder un nombre de parts sociales suffisant pour permettre aux associés coopérateurs de détenir au moins 50 % du capital de la société au plus tard à la clôture du septième exercice qui suit celui de la transformation en société coopérative ouvrière de production.
 
-En cas de non-respect de l'engagement mentionné au deuxième alinéa du présent 7°, la société rapporte au résultat imposable du septième exercice suivant celui de la transformation en société coopérative ouvrière de production une somme correspondant aux distributions déduites. Les droits correspondants sont majorés de l'intérêt de retard prévu à l'article 1727 du présent code, décompté à partir de l'exercice au cours duquel les distributions ont été déduites ;
+En cas de non-respect de l'engagement mentionné au deuxième alinéa, la société rapporte au résultat imposable du septième exercice suivant celui de la transformation en société coopérative ouvrière de production une somme correspondant aux distributions déduites. Les droits correspondants sont majorés de l'intérêt de retard prévu à l'article 1727, décompté à partir de l'exercice au cours duquel les distributions ont été déduites ;
 
 8° En ce qui concerne les groupements d'employeurs fonctionnant dans les conditions prévues aux articles L. 1253-1 à L. 1253-18 du code du travail, les sommes dans la limite de 10 000 € au titre d'un même exercice.
 
@@ -34,8 +34,8 @@ Lorsque les sommes déposées sur le compte ne sont pas utilisées au cours des 
 
 Lorsque les sommes déposées sur le compte sont utilisées à des emplois autres que celui défini ci-dessus au cours des cinq exercices qui suivent celui de leur dépôt, l'ensemble des déductions correspondant aux sommes figurant sur le compte au jour de cette utilisation est rapporté au résultat de l'exercice au cours duquel cette utilisation a été effectuée. Le compte précité est un compte courant qui retrace exclusivement les opérations définies ci-dessus.
 
-1 bis. Lorsqu'une société exerce l'option pour le régime de groupe mentionné à l'article 223 A, les dispositions du 1 ci-dessus ne sont pas applicables pour la détermination des résultats des exercices clos au cours de la période de cinq ans à compter de la date d'ouverture du premier exercice au titre duquel elle a exercé cette option.
+1 bis. Lorsqu'une société exerce l'option pour le régime de groupe mentionné à l'article 223 A, les dispositions du 1 ne sont pas applicables pour la détermination des résultats des exercices clos au cours de la période de cinq ans à compter de la date d'ouverture du premier exercice au titre duquel elle a exercé cette option.
 
-Les sommes mentionnées aux 1°,2° et 5° du 1 ci-dessus non déduites en application du premier alinéa conservent le caractère de ristournes pour les personnes qui les reçoivent.
+Les sommes mentionnées aux 1°, 2° et 5° du 1 non déduites en application du premier alinéa conservent le caractère de ristournes pour les personnes qui les reçoivent.
 
 2. et 3. (Dispositions périmées).

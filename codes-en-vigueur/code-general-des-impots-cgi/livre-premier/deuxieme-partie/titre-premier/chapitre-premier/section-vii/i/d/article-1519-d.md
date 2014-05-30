@@ -4,7 +4,7 @@ I.-L'imposition forfaitaire mentionnée à l'article 1635-0 quinquies s'applique
 
 II.-L'imposition forfaitaire est due chaque année par l'exploitant de l'installation de production d'électricité au 1er janvier de l'année d'imposition.
 
-III.-Le tarif annuel de l'imposition forfaitaire est fixé à 7,12 € par kilowatt de puissance installée au 1er janvier de l'année d'imposition.
+III.-Le tarif annuel de l'imposition forfaitaire est fixé à 7,21 € par kilowatt de puissance installée au 1er janvier de l'année d'imposition.
 
 IV.-Le redevable de la taxe déclare, au plus tard le deuxième jour ouvré suivant le 1er mai de l'année d'imposition :
 

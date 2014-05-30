@@ -2,7 +2,6 @@
 
 - [2 : Impôt sur le revenu](2)
 - [3 : Impôt sur les sociétés](3)
-- [03 bis : Imposition forfaitaire annuelle des sociétés](03-bis)
 - [3 quater : Contribution sociale sur l'impôt sur les sociétés](3-quater)
 - [6 : Taxe sur les salaires](6)
 - [8 : Retenue à la source afférente aux revenus des actions et parts, aux revenus assimilés et aux intérêts et produits des obligations et titres participatifs](8)

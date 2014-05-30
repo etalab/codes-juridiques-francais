@@ -1,7 +1,6 @@
 # Chapitre III : Taxes diverses
 
 - [Section 0I : Contribution exceptionnelle sur les hauts revenus.](section-0i)
-- [Section I : Contribution supplémentaire à l'apprentissage](section-i)
 - [Section II : Taxe sur les salaires](section-ii)
 - [Section II bis : Taxe annuelle sur les locaux à usage de bureaux, les locaux commerciaux, les locaux de stockage et les surfaces de stationnement perçue dans la région Ile-de-France](section-ii-bis)
 - [Section III : Taxe annuelle sur les logements vacants.](section-iii)

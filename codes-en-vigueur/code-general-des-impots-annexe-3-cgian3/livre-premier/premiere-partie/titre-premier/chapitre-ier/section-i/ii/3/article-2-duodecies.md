@@ -2,7 +2,7 @@
 
 Pour l'application du premier alinéa du j du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer et de ressources du locataire sont les suivants :
 
-a) Pour les baux conclus en 2013, les plafonds de loyer mensuel, charges non comprises, sont fixés à 18,16 € par mètre carré en zone A, 11,87 € en zone B et 8,60 € en zone C. Ces plafonds sont révisés au 1er janvier de chaque année selon les modalités prévues au premier alinéa de l'article L. 353-9-2 du code de la construction et de l'habitation, et arrondis au centime d'euro le plus proche.
+a) Pour les baux conclus en 2014, les plafonds de loyer mensuel, charges non comprises, sont fixés à 18,38 € par mètre carré en zone A, 12,01 € en zone B et 8,70 € en zone C. Ces plafonds sont révisés au 1er janvier de chaque année selon les modalités prévues au premier alinéa de l'article L. 353-9-2 du code de la construction et de l'habitation, et arrondis au centime d'euro le plus proche.
 
 Pour l'application du présent article, les zones A, B et C sont définies par arrêté des ministres chargés du budget et du logement.
 
@@ -10,137 +10,135 @@ La surface à prendre en compte pour l'appréciation du plafond de loyer s'enten
 
 b) Les ressources du locataire s'entendent du revenu fiscal de référence au sens du 1° du IV de l'article 1417 du code général des impôts, figurant sur l'avis d'imposition établi au titre de l'avant-dernière année précédant celle de la signature du contrat de location.
 
-Pour les baux conclus en 2013, les plafonds annuels de ressources sont les suivants :
+Pour les baux conclus en 2014, les plafonds annuels de ressources sont les suivants :
 
-(en euros)
+(En euros)
 
 <table>
 <tbody>
 <tr>
-<td rowspan="2">
-<p align="center"> COMPOSITION DU FOYER LOCATAIRE</p>
-</td>
-<td colspan="3">
-<p align="center">LIEU DE LOCATION </p>
-</td>
+<th>
+<br/>
+<br/>
+<br/>COMPOSITION DU FOYER LOCATAIRE<br/>
+</th>
+<th colspan="3">
+<br/>LIEU DE LOCATION<br/>
+</th>
 </tr>
 <tr>
-<td>
-<p align="center"> Zone A</p>
-</td>
-<td>
-<p align="center"> Zone B</p>
-</td>
-<td>
-<p align="center"> Zone C</p>
-</td>
+<th>
+<br/>
+</th>
+<th>
+<br/>Zone A<br/>
+<br/>(en euros)<br/>
+</th>
+<th>
+<br/>Zone B<br/>
+<br/>(en euros)<br/>
+</th>
+<th>
+<br/>Zone C<br/>
+<br/>(en euros)<br/>
+</th>
 </tr>
 <tr>
-<td> Personne seule</td>
-<td>
-<p align="center"> 46 214</p>
+<td align="center">
+<br/>Personne seule<br/>
 </td>
-<td>
-<p align="center"> 35 718</p>
+<td align="center">
+<br/>46 630<br/>
 </td>
-<td>
-<p align="center"> 31 255</p>
+<td align="center">
+<br/>36 039<br/>
+</td>
+<td align="center">
+<br/>31 536<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
 <br/>Couple<br/>
-</p>
 </td>
 <td align="center">
-<br/>69 066<br/>
+<br/>69 688<br/>
 </td>
 <td align="center">
-<br/>47 695<br/>
+<br/>48 124<br/>
 </td>
 <td align="center">
-<br/>42 008<br/>
+<br/>42 386<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
 <br/>Personne seule ou couple ayant une personne à charge<br/>
-</p>
 </td>
 <td align="center">
-<br/>83 023<br/>
+<br/>83 770<br/>
 </td>
 <td align="center">
-<br/>57 356<br/>
+<br/>57 872<br/>
 </td>
 <td align="center">
-<br/>50 289<br/>
+<br/>50 742<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
 <br/>Personne seule ou couple ayant deux personnes à charge<br/>
-</p>
 </td>
 <td align="center">
-<br/>99 448<br/>
+<br/>100 343<br/>
 </td>
 <td align="center">
-<br/>69 239<br/>
+<br/>69 862<br/>
 </td>
 <td align="center">
-<br/>60 863<br/>
+<br/>61 411<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
 <br/>Personne seule ou couple ayant trois personnes à charge<br/>
-</p>
 </td>
 <td align="center">
-<br/>117 728<br/>
+<br/>118 788<br/>
 </td>
 <td align="center">
-<br/>81 449<br/>
+<br/>82 182<br/>
 </td>
 <td align="center">
-<br/>71 432<br/>
+<br/>72 075<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
 <br/>Personne seule ou couple ayant quatre personnes à charge<br/>
-</p>
 </td>
 <td align="center">
-<br/>132 474<br/>
+<br/>133 666<br/>
 </td>
 <td align="center">
-<br/>91 790<br/>
+<br/>92 616<br/>
 </td>
 <td align="center">
-<br/>80 578<br/>
+<br/>81 303<br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
 <br/>Majoration par personne à charge à partir de la cinquième<br/>
-</p>
 </td>
 <td align="center">
-<br/>+ 14 766<br/>
+<br/>+ 14 899<br/>
 </td>
 <td align="center">
-<br/>+ 10 238<br/>
+<br/>+ 10 330<br/>
 </td>
 <td align="center">
-<br/>+ 9 153<br/>
+<br/>+ 9 235<br/>
 </td>
 </tr>
 </tbody>

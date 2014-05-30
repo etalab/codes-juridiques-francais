@@ -20,7 +20,7 @@ IV.-Pour le calcul des surfaces visées au 3° du V et au VI, il est tenu compte
 
 V.-Sont exonérés de la taxe :
 
-1° Les locaux à usage de bureaux, les locaux commerciaux, les locaux de stockage et les surfaces de stationnement annexées à ces catégories de locaux, situés dans une zone de redynamisation urbaine ou dans une zone franche urbaine, telle que définie par les A et B du 3 de l'article 42 modifié de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire ;
+1° Les locaux à usage de bureaux, les locaux commerciaux, les locaux de stockage et les surfaces de stationnement annexées à ces catégories de locaux, situés dans une zone de redynamisation urbaine ou dans une zone franche urbaine, telle que définie par les A et B du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire ;
 
 2° Les locaux et les surfaces de stationnement appartenant aux fondations et aux associations, reconnues d'utilité publique, dans lesquels elles exercent leur activité, ainsi que les locaux spécialement aménagés pour l'archivage administratif et pour l'exercice d'activités de recherche ou à caractère sanitaire, social, éducatif ou culturel ;
 
@@ -46,7 +46,7 @@ Dans chaque circonscription, pour le calcul de la taxe relative aux locaux à us
 
 b. (Abrogé)
 
-2. Les tarifs au mètre carré sont fixés, pour l'année 2013, conformément aux dispositions ci-dessous :
+2. Les tarifs au mètre carré sont fixés, pour l'année 2014, conformément aux dispositions ci-dessous :
 
 a) Pour les locaux à usage de bureaux :
 
@@ -77,12 +77,12 @@ a) Pour les locaux à usage de bureaux :
 <td align="center">Tarif réduit </td>
 </tr>
 <tr>
-<td align="center">17,48</td>
-<td align="center">8,66</td>
-<td align="center">10,37</td>
-<td align="center">6,20</td>
-<td align="center">4,96</td>
-<td align="center">4,49</td>
+<td align="center">17,18</td>
+<td align="center">8,51</td>
+<td align="center">10,19</td>
+<td align="center">6,10</td>
+<td align="center">4,88</td>
+<td align="center">4,42</td>
 </tr>
 </tbody>
 </table>
@@ -106,12 +106,12 @@ a) Pour les locaux à usage de bureaux :
 </tr>
 <tr>
 <td align="center">
-<br/>7,70<br/>
+<br/>7,57<br/>
 </td>
 <td align="center">
-<br/>3,96<br/>
+<br/>3,90<br/>
 </td>
-<td align="center">1,99</td>
+<td align="center">1,96</td>
 </tr>
 </tbody>
 </table>
@@ -135,13 +135,13 @@ c) Pour les locaux de stockage :
 </tr>
 <tr>
 <td align="center">
-<br/>3,97<br/>
+<br/>3,91<br/>
 </td>
 <td align="center">
-<br/>1,99<br/>
+<br/>1,96<br/>
 </td>
 <td align="center">
-<br/>1,00</td>
+<br/>0,99</td>
 </tr>
 </tbody>
 </table>
@@ -163,13 +163,13 @@ c) Pour les locaux de stockage :
 </tr>
 <tr>
 <td align="center">
-<br/>2,32<br/>
+<br/>2,28<br/>
 </td>
 <td align="center">
-<br/>1,33<br/>
+<br/>1,31<br/>
 </td>
 <td align="center">
-<br/>0,67</td>
+<br/>0,66</td>
 </tr>
 </tbody>
 </table>

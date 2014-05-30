@@ -6,7 +6,7 @@ L'imposition mentionnée au premier alinéa n'est pas due au titre des installat
 
 II.-L'imposition forfaitaire est due chaque année par l'exploitant de l'installation de production d'électricité au 1er janvier de l'année d'imposition.
 
-III.-Le montant de l'imposition forfaitaire est établi en fonction de la puissance installée dans chaque installation. Il est égal à 2 964 € par mégawatt de puissance installée au 1er janvier de l'année d'imposition.
+III.-Le montant de l'imposition forfaitaire est établi en fonction de la puissance installée dans chaque installation. Il est égal à 3 003 € par mégawatt de puissance installée au 1er janvier de l'année d'imposition.
 
 IV.-Le redevable de la taxe déclare, au plus tard le deuxième jour ouvré suivant le 1er mai de l'année d'imposition, le nombre d'installations de production d'électricité d'origine nucléaire ou thermique à flamme et dont la puissance électrique installée est supérieure ou égale à 50 mégawatts par commune et, pour chacune d'elles, la puissance électrique installée.
 

@@ -46,7 +46,6 @@
 - [XXXVIII : Crédit d'impôt pour formation des dirigeants](xxxviii)
 - [XL : Crédit d'impôt en faveur des métiers d'art](xl)
 - [XLII : Crédit d'impôt en faveur des maîtres restaurateurs](xlii)
-- [XLIII : Crédit d'impôt en faveur des débitants de tabac](xliii)
 - [XLV : Crédit d'impôt au titre des primes d'intéressement](xlv)
 - [XLVI : Crédit d'impôt au titre des avances remboursables ne portant pas intérêt pour le financement de travaux d'amélioration de la performance énergétique des logements anciens](xlvi)
 - [XLVII : Crédit d'impôt au profit des établissements de crédit et des sociétés de financement qui octroient des prêts à taux zéro permettant la première accession à la propriété](xlvii)

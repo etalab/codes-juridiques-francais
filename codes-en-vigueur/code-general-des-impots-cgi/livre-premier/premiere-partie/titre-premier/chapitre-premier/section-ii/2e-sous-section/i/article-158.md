@@ -30,7 +30,7 @@ f. Abrogé ;
 
 4° Les dispositions du 2° sont également applicables pour la part des revenus de la nature et de l'origine de ceux mentionnés au 2°, sous réserve du 3°, prélevés sur des bénéfices n'ayant pas supporté l'impôt sur les sociétés ou un impôt équivalent, distribués ou répartis par :
 
-a. Les organismes de placement collectif en valeurs mobilières ou les placements collectifs relevant des paragraphes 1, 2 et 6 de la sous-section 2, du paragraphe 2 ou du sous-paragraphe 1 du paragraphe 1 de la sous-section 3, ou de la sous-section 4 de la section 2 du chapitre IV du titre Ier du livre II du code monétaire et financier ;
+a. Les organismes de placement collectif en valeurs mobilières ou les placements collectifs relevant des paragraphes 1,2 et 6 de la sous-section 2, du paragraphe 2 ou du sous-paragraphe 1 du paragraphe 1 de la sous-section 3, ou de la sous-section 4 de la section 2 du chapitre IV du titre Ier du livre II du code monétaire et financier ;
 
 b. Les organismes de placement collectif en valeurs mobilières établis dans d'autres Etats membres de la Communauté européenne, ou dans un Etat non membre de cette Communauté partie à l'accord sur l'Espace économique européen ayant conclu une convention fiscale qui contient une clause d'assistance administrative en vue de lutter contre la fraude ou l'évasion fiscale, qui bénéficient de la procédure de reconnaissance mutuelle des agréments prévue par la directive 85/611/ CE du Conseil du 20 décembre 1985 portant coordination des dispositions législatives, réglementaires et administratives concernant certains organismes de placement collectif en valeurs mobilières (OPCVM) ;
 
@@ -54,9 +54,9 @@ Dans le cas des entreprises industrielles, commerciales, artisanales ou agricole
 
 5. a. Les revenus provenant de traitements publics et privés, indemnités, émoluments, salaires et pensions ainsi que de rentes viagères autres que celles mentionnées au 6 sont déterminés conformément aux dispositions des articles 79 à 90.
 
-Les pensions et retraites font l'objet d'un abattement de 10 % qui ne peut excéder 3 660 €. Ce plafond s'applique au montant total des pensions et retraites perçues par l'ensemble des membres du foyer fiscal. Chaque année, il est révisé selon les mêmes modalités que la limite supérieure de la première tranche du barème de l'impôt sur le revenu.
+Les pensions et retraites font l'objet d'un abattement de 10 % qui ne peut excéder 3 689 €. Ce plafond s'applique au montant total des pensions et retraites perçues par l'ensemble des membres du foyer fiscal. Chaque année, il est révisé selon les mêmes modalités que la limite supérieure de la première tranche du barème de l'impôt sur le revenu.
 
-L'abattement indiqué au deuxième alinéa ne peut être inférieur à 374 €, sans pouvoir excéder le montant brut des pensions et retraites. Cette disposition s'applique au montant des pensions ou retraites perçu par chaque retraité ou pensionné membre du foyer fiscal. La somme de 374 € est révisée chaque année dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu.
+L'abattement indiqué au deuxième alinéa ne peut être inférieur à 377 €, sans pouvoir excéder le montant brut des pensions et retraites. Cette disposition s'applique au montant des pensions ou retraites perçu par chaque retraité ou pensionné membre du foyer fiscal. La somme de 377 € est révisée chaque année dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu.
 
 b. Les dispositions du a sont applicables aux allocations et indemnités mentionnées aux articles L. 3232-6, L. 5122-1, L. 5122-2, L. 5123-2, L. 5422-1, L. 5423-1 et L. 5423-8 du code du travail, aux participations en espèces et, à compter du 1er janvier 1991, aux dividendes des actions de travail, alloués aux travailleurs mentionnés au 18° bis de l'article 81, lorsque ces sommes sont imposables.
 

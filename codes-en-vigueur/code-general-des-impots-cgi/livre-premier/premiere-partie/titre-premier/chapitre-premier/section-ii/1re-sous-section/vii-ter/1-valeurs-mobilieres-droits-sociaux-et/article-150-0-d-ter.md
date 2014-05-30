@@ -2,11 +2,11 @@
 
 I.-1. Les gains nets mentionnés au 1 de l'article 150-0 D et déterminés dans les conditions prévues au même article retirés de la cession à titre onéreux d'actions, de parts de sociétés ou de droits portant sur ces actions ou parts sont réduits d'un abattement fixe de 500 000 € et, pour le surplus éventuel, de l'abattement prévu au 1 quater dudit article 150-0 D lorsque les conditions prévues au 3 du présent I sont remplies.
 
-L'abattement fixe prévu au premier alinéa du présent 1 s'applique à l'ensemble des gains afférents à des actions, parts ou droits portant sur ces actions ou parts émis par une même société et, si cette société est issue d'une scission intervenue au cours des deux années précédant la cession à titre onéreux, par les autres sociétés issues de cette même scission.
+L'abattement fixe prévu au premier alinéa s'applique à l'ensemble des gains afférents à des actions, parts ou droits portant sur ces actions ou parts émis par une même société et, si cette société est issue d'une scission intervenue au cours des deux années précédant la cession à titre onéreux, par les autres sociétés issues de cette même scission.
 
 2. Le complément de prix prévu au 2 du I de l'article 150-0 A, afférent à la cession de titres ou de droits mentionnés au 1 du présent I, est réduit de l'abattement fixe prévu au même 1, à hauteur de la fraction non utilisée lors de cette cession, et, pour le surplus éventuel, de l'abattement prévu au 1 quater de l'article 150-0 D appliqué lors de cette même cession.
 
-3. Le bénéfice des abattements mentionnés au 1 du présent I est subordonné au respect des conditions suivantes :
+3. Le bénéfice des abattements mentionnés au 1 est subordonné au respect des conditions suivantes :
 
 1° La cession porte sur l'intégralité des actions, parts ou droits détenus par le cédant dans la société dont les titres ou droits sont cédés ou sur plus de 50 % des droits de vote ou, en cas de la seule détention de l'usufruit, sur plus de 50 % des droits dans les bénéfices sociaux de cette société ;
 
@@ -42,7 +42,7 @@ II bis.-Le I ne s'applique pas :
 
 1° Aux plus-values mentionnées aux articles 238 bis HK et 238 bis HS et aux pertes constatées dans les conditions prévues aux 12 et 13 de l'article 150-0 D ;
 
-2° Aux gains nets de cession d'actions de sociétés d'investissement mentionnées aux 1° bis, 1° ter et 3° septies de l'article 208 et de sociétés unipersonnelles d'investissement à risque pendant la période au cours de laquelle elles bénéficient de l'exonération d'impôt sur les sociétés prévue à l'article 208 D, ainsi que des sociétés de même nature établies hors de France et soumises à un régime fiscal équivalent ;
+2° Aux gains nets de cession d'actions de sociétés d'investissement mentionnées aux 1° bis et 3° septies de l'article 208 et de sociétés unipersonnelles d'investissement à risque pendant la période au cours de laquelle elles bénéficient de l'exonération d'impôt sur les sociétés prévue à l'article 208 D, ainsi que des sociétés de même nature établies hors de France et soumises à un régime fiscal équivalent ;
 
 3° Aux gains nets de cession d'actions des sociétés de placement à prépondérance immobilière à capital variable régies par les articles L. 214-62 à L. 214-70 du code monétaire et financier et des sociétés de même nature établies hors de France et soumises à un régime fiscal équivalent.
 

@@ -1,7 +1,5 @@
 # I : Centres de gestion agréés et associations de gestion et de comptabilité
 
 - [Article 1649 quater C](article-1649-quater-c.md)
-- [Article 1649 quater D](article-1649-quater-d.md)
 - [Article 1649 quater E](article-1649-quater-e.md)
-- [Article 1649 quater E-0 bis](article-1649-quater-e-0-bis.md)
 - [Article 1649 quater E bis](article-1649-quater-e-bis.md)

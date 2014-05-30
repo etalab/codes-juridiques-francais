@@ -38,5 +38,4 @@
 - [Article 217 duodecies](article-217-duodecies.md)
 - [Article 217 terdecies](article-217-terdecies.md)
 - [Article 217 quindecies](article-217-quindecies.md)
-- [Article 217 sexdecies](article-217-sexdecies.md)
 - [Article 217 septdecies](article-217-septdecies.md)

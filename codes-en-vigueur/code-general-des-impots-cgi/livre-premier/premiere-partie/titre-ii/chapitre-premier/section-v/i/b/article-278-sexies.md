@@ -34,7 +34,7 @@ II. - Les livraisons à soi-même d'immeubles dont l'acquisition aurait bénéfi
 
 III. - (Abrogé) ;
 
-IV. - A. - Les livraisons à soi-même de travaux de rénovation portant sur les locaux mentionnés aux 2 à 8 du I et ayant pour objet de concourir directement à :
+IV. - 1. - Les livraisons à soi-même de travaux de rénovation portant sur les locaux mentionnés aux 2 à 8 du I et ayant pour objet de concourir directement à :
 
 1° La réalisation d'économies d'énergie et de fluides, concernant :
 
@@ -62,4 +62,4 @@ h) Les systèmes de répartition des frais d'eau et de chauffage ;
 
 5° La protection des locataires en matière de prévention et de lutte contre les incendies, de sécurité des ascenseurs, de sécurité des installations de gaz et d'électricité, de prévention des risques naturels, miniers et technologiques ou d'installation de dispositifs de retenue des personnes.
 
-B. - Les livraisons à soi-même de travaux induits et indissociablement liés aux travaux prévus au A.
+2. - Les livraisons à soi-même de travaux induits et indissociablement liés aux travaux prévus au 1.

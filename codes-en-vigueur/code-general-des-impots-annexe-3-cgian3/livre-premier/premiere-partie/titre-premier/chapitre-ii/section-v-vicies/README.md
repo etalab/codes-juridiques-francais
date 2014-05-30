@@ -5,4 +5,3 @@
 - [Article 49 septies ZZC](article-49-septies-zzc.md)
 - [Article 49 septies ZZD](article-49-septies-zzd.md)
 - [Article 49 septies ZZE](article-49-septies-zze.md)
-- [Article 49 septies ZZE bis](article-49-septies-zze-bis.md)
