@@ -4,4 +4,3 @@
 - [Chapitre III : Réglementation des machines à timbrer](chapitre-iii)
 - [Chapitre IV : Systèmes informatiques sécurisés et matériels de validation](chapitre-iv)
 - [Chapitre premier : Obligations déclaratives](chapitre-premier)
-- [Chapitre 0I bis : Déclaration des transferts de sommes, titres ou valeurs](chapitre-0i-bis)
