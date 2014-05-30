@@ -149,9 +149,9 @@ b) Pour les véhicules autres que ceux mentionnés au a, le tarif applicable est
 </tbody>
 </table>
 
-Les véhicules  combinant l'énergie électrique et une motorisation à l'essence ou au gazole dont  les émissions sont inférieures ou égales à 110 grammes de dioxyde de carbone par  kilomètre parcouru sont exonérés de la composante de la taxe prévue aux a et b  pendant une période de huit trimestres, décomptée à partir du premier jour du  premier trimestre en cours à la date de première mise en circulation du  véhicule.
+Les véhicules combinant l'énergie électrique et une motorisation à l'essence ou au gazole dont les émissions sont inférieures ou égales à 110 grammes de dioxyde de carbone par kilomètre parcouru sont exonérés de la composante de la taxe prévue aux a et b pendant une période de huit trimestres, décomptée à partir du premier jour du premier trimestre en cours à la date de première mise en circulation du véhicule.
 
-c. Le tarif applicable à la composante relative  aux émissions de polluants atmosphériques, déterminé en fonction du type de  carburant, est le suivant :
+c. Le tarif applicable à la composante relative aux émissions de polluants atmosphériques, déterminé en fonction du type de carburant, est le suivant :
 
 (En euros)
 
@@ -161,16 +161,16 @@ c. Le tarif applicable à la composante relative  aux émissions de polluants at
 <tbody>
 <tr>
 <th>
-<br/>ANNÉE DE PREMIÈRE MISE<br/>
-<br/>en circulation du  véhicule<br/>
+<br/>ANNÉE DE PREMIÈRE MISE <p>en circulation du véhicule<br/>
+</p>
 </th>
 <th>
-<br/>ESSENCE<br/>
-<br/>et assimilé<br/>
+<br/>ESSENCE <p>et assimilé<br/>
+</p>
 </th>
 <th>
-<br/>DIESEL<br/>
-<br/>et assimilé<br/>
+<br/>DIESEL <p>et assimilé<br/>
+</p>
 </th>
 </tr>
 <tr>
@@ -233,11 +233,11 @@ c. Le tarif applicable à la composante relative  aux émissions de polluants at
 
 </div>
 
-Les mots : "Diesel et assimilé” désignent les véhicules ayant une motorisation au gazole  ainsi que les véhicules combinant une motorisation électrique et une  motorisation au gazole émettant plus de 110 grammes de dioxyde de carbone par  kilomètre parcouru.
+Les mots : "Diesel et assimilé” désignent les véhicules ayant une motorisation au gazole ainsi que les véhicules combinant une motorisation électrique et une motorisation au gazole émettant plus de 110 grammes de dioxyde de carbone par kilomètre parcouru.
 
-Les mots : "Essence et assimilé”  désignent des véhicules autres que ceux mentionnés au troisième alinéa du  présent c.
+Les mots : "Essence et assimilé” désignent des véhicules autres que ceux mentionnés au deuxième alinéa.
 
-Ce tarif ne s'applique pas aux véhicules  fonctionnant exclusivement au moyen de l'énergie électrique.
+Ce tarif ne s'applique pas aux véhicules fonctionnant exclusivement au moyen de l'énergie électrique.
 
 La taxe n'est toutefois pas applicable aux véhicules destinés exclusivement soit à la vente, soit à la location de courte durée, soit à l'exécution d'un service de transport à la disposition du public, lorsque ces opérations correspondent à l'activité normale de la société propriétaire.
 
