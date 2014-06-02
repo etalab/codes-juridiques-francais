@@ -52,7 +52,7 @@ III.-Sont membres de la commission avec voix consultative :
 
 4° Au plus quatre personnels des services techniques, comptables ou financiers de l'autorité compétente pour délivrer l'autorisation, désignés par le président ou à parité par les coprésidents de la commission en qualité d'experts dans le domaine de l'appel à projet correspondant.
 
-IV.-Le mandat des membres de la commission mentionnés aux II et 1° du III est de trois ans. Il est renouvelable. Des membres suppléants sont désignés dans les mêmes conditions, sous réserve des dispositions des articles 3 et 4 du décret n° 2006-672 du 8 juin 2006 relatif à la création, à la composition et au fonctionnement de commissions administratives à caractère consultatif qui sont applicables aux membres de la commission.
+IV.-Le mandat des membres de la commission mentionnés aux II et 1° du III est de trois ans. Il est renouvelable. Des membres suppléants sont désignés dans les mêmes conditions, sous réserve des dispositions des articles 3 et 4 du décret n° 2006-672 du 8 juin 2006 relatif à la création, à la composition et au fonctionnement de commissions administratives à caractère consultatif qui sont applicables aux membres de la commission. Lorsque le représentant et le suppléant d'une association ou d'un organisme d'usagers mentionnés aux 1° à 6° du II sont empêchés pour l'examen d'un appel à projet, ils peuvent être remplacés par le représentant d'une autre association ou d'un autre organisme relevant de la même catégorie de membres, mandaté par le représentant empêché.
 
 Les membres mentionnés aux 2° à 4° du III sont désignés pour chaque appel à projet.
 

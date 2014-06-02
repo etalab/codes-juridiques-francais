@@ -10,7 +10,7 @@ Cet avis précise :
 
 3° Les critères de sélection et les modalités de notation ou d'évaluation des projets qui seront appliqués ;
 
-4° Le délai de réception des réponses des candidats, qui ne peut être inférieur à soixante jours et supérieur à quatre-vingt-dix jours à compter de la date de publication de l'avis d'appel à projet ;
+4° Le délai de réception des réponses des candidats, qui ne peut être inférieur à soixante jours et supérieur à cent vingt jours à compter de la date de publication de l'avis d'appel à projet ;
 
 5° Les modalités de dépôt des réponses ainsi que les pièces justificatives exigibles ;
 
