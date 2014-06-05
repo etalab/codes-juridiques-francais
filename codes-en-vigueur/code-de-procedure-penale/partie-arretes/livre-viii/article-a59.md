@@ -19,33 +19,28 @@ Le siège du service pénitentiaire d'insertion et de probation et la liste des 
 </td>
 </tr>
 <tr>
-<td valign="top">
-<p>Polynésie française.</p>
+<td rowspan="2" valign="top">
+<p align="left">Polynésie française.</p>
+</td>
+<td rowspan="2" valign="top">
+<p align="left">Papeete.</p>
 </td>
 <td valign="top">
-<p>Papeete.</p>
+<p align="left">Antenne de Papeete.</p>
 </td>
 <td valign="top">
-<p>Néant.</p>
-</td>
-<td valign="top">
-<p>Centre pénitentiaire de Faa'a-Nuutanie.</p>
-</td>
-</tr>
-<tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top">
-<p>Centre de détention d'Uturoa (Raïatea).</p>
+<p align="left">Collectivité d'outre-mer de la Polynésie française, à l'exception des îles Sous-le-Vent. <br/>
+<br/>Centre pénitentiaire de Faa'a-Nuutania. <br/>
+<br/>Centre de détention de Taiohae (Marquises).</p>
 </td>
 </tr>
 <tr>
-<td valign="top"/>
-<td valign="top"/>
-<td valign="top"/>
 <td valign="top">
-<p>Centre de détention de Taiohae (Marquises), Polynésie française.</p>
+<p align="left">Antenne d'Uturoa. </p>
+</td>
+<td valign="top">
+<p align="left">Iles Sous-le-Vent. <br/>
+<br/>Centre de détention d'Uturoa (Raïatea).</p>
 </td>
 </tr>
 </tbody>
