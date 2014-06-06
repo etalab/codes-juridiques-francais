@@ -6,7 +6,7 @@ La déclaration collective est accompagnée des déclarations individuelles de c
 
 -attestant de l'identité de chacun des candidats par la copie d'une pièce d'identité ;
 
--attestant sur l'honneur n'être frappé d'aucune des incapacités énoncées aux articles L. 5 à L. 7 du code électoral et satisfaire aux obligations prévues aux articles L. 723-19 et L. 723-20 ;
+-attestant sur l'honneur n'être frappé d'aucune des incapacités énoncées aux articles L. 5 et L. 6 du code électoral et satisfaire aux obligations prévues aux articles L. 723-19 et L. 723-20 ;
 
 -attestant sur l'honneur que les renseignements fournis dans sa déclaration de candidature sont exacts.
 

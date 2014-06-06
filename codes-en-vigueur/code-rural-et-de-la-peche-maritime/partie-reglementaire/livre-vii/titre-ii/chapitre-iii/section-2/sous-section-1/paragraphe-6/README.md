@@ -6,4 +6,5 @@
 - [Article R723-82](article-r723-82.md)
 - [Article R723-83](article-r723-83.md)
 - [Article R723-84](article-r723-84.md)
+- [Article R723-84-1](article-r723-84-1.md)
 - [Article R723-85](article-r723-85.md)
