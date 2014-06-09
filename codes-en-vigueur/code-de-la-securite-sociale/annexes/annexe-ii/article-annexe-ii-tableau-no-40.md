@@ -1,7 +1,10 @@
 # Article Annexe II : Tableau n° 40
 
-**Maladies dues aux bacilles tuberculeux et à certaines mycobactéries atypiques : Mycobacterium avium/intracellulare, Mycobacterium kansasii, Mycobacterium xenopi, Mycobacterium marinum, Mycobacterium fortuitum**
+**Maladies dues aux bacilles tuberculeux et à certaines mycobactéries atypiques
 
+(Mycobacterium avium/intracellulare, Mycobacterium kansasii, Mycobacterium xenopi, Mycobacterium marinum, Mycobacterium fortuitum)**
+
+<div>
 <table>
 <tbody>
 <tr>
@@ -9,7 +12,7 @@
 <p align="center">DÉSIGNATION DES MALADIES</p>
 </td>
 <td width="76">
-<p align="center">DÉLAI de prise en charge</p>
+<p align="center">DÉLAI<br/>de prise en charge</p>
 </td>
 <td width="284">
 <p align="center">LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES de provoquer ces maladies</p>
@@ -21,6 +24,7 @@
 </td>
 <td width="76">
 <br/>
+<br/>
 </td>
 <td width="284">
 <p align="center">- A -</p>
@@ -31,6 +35,7 @@
 <p>Affections dues à Mycobacterium bovis :</p>
 </td>
 <td valign="top" width="76">
+<br/>
 <br/>
 </td>
 <td valign="top" width="284">
@@ -85,6 +90,7 @@
 </td>
 <td valign="top" width="76">
 <br/>
+<br/>
 </td>
 <td valign="top" width="284">
 <p>Travaux de laboratoire de biologie.</p>
@@ -96,6 +102,7 @@
 </td>
 <td width="76">
 <br/>
+<br/>
 </td>
 <td width="284">
 <p align="center">- B -</p>
@@ -103,23 +110,19 @@
 </tr>
 <tr>
 <td valign="top" width="246">
-<p>Affections dues à Mycobacterium tuberculosis, Mycobacterium bovis, Mycobacterium africanum. Primo-infection. Tuberculose pulmonaire ou pleurale. Tuberculose extra-thoracique.</p>
+<p>Affections dues à Mycobacterium tuberculosis, Mycobacterium bovis, Mycobacterium africanum :</p>
+<p>- infection tuberculeuse latente ; </p>
+<p>- tuberculose pulmonaire ou pleurale ; </p>
+<p>- tuberculose extra-thoracique.</p>
+<p>L'infection tuberculeuse latente sera attestée par l'évolution des tests tuberculiniques (IDR et/ou IGRA). L'étiologie des autres pathologies devra s'appuyer, à défaut de preuves bactériologiques, sur des examens anatomo-pathologiques ou d'imagerie, ou à défaut, par traitement d'épreuve spécifique.</p>
 </td>
 <td valign="top" width="76">
 <p align="center">6 mois</p>
 </td>
 <td valign="top" width="284">
-<p>Travaux de laboratoire de bactériologie. Travaux effectués par le personnel de soins et assimilé, de laboratoire, d'entretien, de service ou des services sociaux, mettant le personnel au contact de produits contaminés ou de malades dont les examens bactériologiques ont été positifs.</p>
-</td>
-</tr>
-<tr>
-<td width="246">
-<p>La primo-infection sera attestée par l'évolution des tests tuberculiniques. L'étiologie des autres pathologies devra s'appuyer, à défaut de preuves bactériologiques, sur des examens anatomo-pathologiques ou d'imagerie, ou à défaut d'épreuve spécifique.</p>
-</td>
-<td width="76">
+<p>Travaux de laboratoire de bactériologie.</p>
+<p>Travaux effectués par le personnel de soins et assimilé, de laboratoire, d'entretien, de service ou des services sociaux, mettant le personnel au contact de produits contaminés ou de malades dont les examens bactériologiques ont été positifs.</p>
 <br/>
-</td>
-<td width="284">
 <br/>
 </td>
 </tr>
@@ -128,6 +131,7 @@
 <p align="center">- C -</p>
 </td>
 <td width="76">
+<br/>
 <br/>
 </td>
 <td width="284">
@@ -151,6 +155,7 @@
 </td>
 <td width="76">
 <br/>
+<br/>
 </td>
 <td width="284">
 <p align="center">- D -</p>
@@ -169,3 +174,4 @@
 </tr>
 </tbody>
 </table>
+</div>
