@@ -14,5 +14,3 @@
 - [Article R771-5](article-r771-5.md)
 - [Article R771-13](article-r771-13.md)
 - [Article R771-14](article-r771-14.md)
-- [Article R771-15](article-r771-15.md)
-- [Article R771-16](article-r771-16.md)

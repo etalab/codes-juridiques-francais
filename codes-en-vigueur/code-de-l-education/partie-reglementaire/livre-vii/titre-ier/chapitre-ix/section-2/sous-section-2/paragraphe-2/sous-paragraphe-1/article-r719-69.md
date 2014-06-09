@@ -8,4 +8,6 @@ Lors de la séance du conseil d'administration, le recteur d'académie, chanceli
 
 3° Le budget principal ne prévoit pas les crédits nécessaires au respect des obligations et des engagements de l'établissement ;
 
-4° Le plafond d'emplois défini au b du 1° du II de l'article R. 719-54 est dépassé.
+4° Pour les établissements publics bénéficiant des responsabilités et compétences élargies en matière budgétaire dans les conditions prévues à l'article L. 712-8, le plafond d'emplois défini au b du 1° du II de l'article R. 719-54 est dépassé ;
+
+5° Les budgets rectificatifs de l'exercice ou le budget initial de l'exercice suivant ne respectent pas le plan de rétablissement de l'équilibre financier prévu à l'article R. 719-109.

@@ -18,5 +18,3 @@
 - [Article R774-5](article-r774-5.md)
 - [Article R774-15](article-r774-15.md)
 - [Article R774-16](article-r774-16.md)
-- [Article R774-17](article-r774-17.md)
-- [Article R774-18](article-r774-18.md)

@@ -19,3 +19,5 @@ Les ressources annuelles de la fondation se composent :
 8° Et de tous les autres produits autorisés par les lois et règlements.
 
 Les personnes publiques ne peuvent apporter plus de 50 % du montant de la dotation initiale. La fraction consomptible de cette part de la dotation ne peut excéder 50 %. Les dons des établissements publics sont autorisés à la condition qu'ils proviennent de leurs ressources propres.
+
+Le conseil d'administration de l'établissement peut autoriser un prélèvement sur les réserves constituées par la fondation à partir de ses résultats excédentaires des exercices précédents, pour le financement d'opérations qu'elle réalise sur les ressources tirées de son activité.

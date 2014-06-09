@@ -18,5 +18,3 @@
 - [Article R773-5](article-r773-5.md)
 - [Article R773-15](article-r773-15.md)
 - [Article R773-16](article-r773-16.md)
-- [Article R773-17](article-r773-17.md)
-- [Article R773-18](article-r773-18.md)
