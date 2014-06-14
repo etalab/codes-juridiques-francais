@@ -4,7 +4,6 @@
 - [Article L121-22](article-l121-22.md)
 - [Article L121-23](article-l121-23.md)
 - [Article L121-24](article-l121-24.md)
-- [Article L121-25](article-l121-25.md)
 - [Article L121-26](article-l121-26.md)
 - [Article L121-26-1](article-l121-26-1.md)
 - [Article L121-27](article-l121-27.md)

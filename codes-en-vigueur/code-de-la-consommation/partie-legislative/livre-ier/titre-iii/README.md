@@ -7,5 +7,5 @@
 - [Chapitre V : Du conflit des lois relatives aux clauses abusives](chapitre-v)
 - [Chapitre VI : Reconduction des contrats](chapitre-vi)
 - [Chapitre VII : Prescription](chapitre-vii)
-- [Chapitre VIII : Dispositions relatives à l'outre-mer](chapitre-viii)
+- [Chapitre VIII : Livraison et transfert de risque](chapitre-viii)
 - [Chapitre IX : Droit applicable](chapitre-ix)
