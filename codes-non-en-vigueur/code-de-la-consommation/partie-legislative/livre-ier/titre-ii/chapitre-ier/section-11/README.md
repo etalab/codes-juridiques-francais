@@ -2,6 +2,7 @@
 
 - [Article L121-83](article-l121-83.md)
 - [Article L121-83-1](article-l121-83-1.md)
+- [Article L121-83-2](article-l121-83-2.md)
 - [Article L121-84](article-l121-84.md)
 - [Article L121-84-1](article-l121-84-1.md)
 - [Article L121-84-2](article-l121-84-2.md)

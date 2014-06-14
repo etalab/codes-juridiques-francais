@@ -1,4 +1,4 @@
-# Section 3 : Démarchage
+# Section 3 : Dispositions particulières aux contrats conclus à distance portant sur des services financiers
 
 - [Article L121-21](article-l121-21.md)
 - [Article L121-22](article-l121-22.md)
@@ -6,6 +6,7 @@
 - [Article L121-24](article-l121-24.md)
 - [Article L121-25](article-l121-25.md)
 - [Article L121-26](article-l121-26.md)
+- [Article L121-26-1](article-l121-26-1.md)
 - [Article L121-27](article-l121-27.md)
 - [Article L121-28](article-l121-28.md)
 - [Article L121-29](article-l121-29.md)
