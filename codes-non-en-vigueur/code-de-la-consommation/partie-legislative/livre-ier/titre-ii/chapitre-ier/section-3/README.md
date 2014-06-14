@@ -1,9 +1,5 @@
 # Section 3 : Dispositions particulières aux contrats conclus à distance portant sur des services financiers
 
-- [Article L121-21](article-l121-21.md)
-- [Article L121-22](article-l121-22.md)
-- [Article L121-23](article-l121-23.md)
-- [Article L121-24](article-l121-24.md)
 - [Article L121-26](article-l121-26.md)
 - [Article L121-26-1](article-l121-26-1.md)
 - [Article L121-27](article-l121-27.md)
