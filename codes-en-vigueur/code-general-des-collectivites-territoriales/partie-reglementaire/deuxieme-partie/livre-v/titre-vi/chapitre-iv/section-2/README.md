@@ -1,0 +1,15 @@
+# Section 2 : Dispositions relatives à la dotation spéciale de construction et d'équipement des établissements scolaires
+
+- [Article D2564-6](article-d2564-6.md)
+- [Article D2564-7](article-d2564-7.md)
+- [Article D2564-8](article-d2564-8.md)
+- [Article D2564-9](article-d2564-9.md)
+- [Article D2564-10](article-d2564-10.md)
+- [Article D2564-11](article-d2564-11.md)
+- [Article D2564-12](article-d2564-12.md)
+- [Article D2564-13](article-d2564-13.md)
+- [Article D2564-14](article-d2564-14.md)
+- [Article D2564-15](article-d2564-15.md)
+- [Article D2564-16](article-d2564-16.md)
+- [Article D2564-17](article-d2564-17.md)
+- [Article D2564-18](article-d2564-18.md)
