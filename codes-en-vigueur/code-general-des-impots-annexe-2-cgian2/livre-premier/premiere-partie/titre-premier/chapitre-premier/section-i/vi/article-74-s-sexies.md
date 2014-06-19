@@ -2,7 +2,7 @@
 
 La déclaration mentionnée à l'article 150 VM du code général des impôts indique :
 
-a. en cas de cession, l'identité du vendeur ou, le cas échéant, celle de l'intermédiaire participant à la transaction ;
+a. en cas de cession, l'identité du vendeur ou, le cas échéant, celle de l'intermédiaire participant à la transaction ou de l'acquéreur assujetti à la taxe sur la valeur ajoutée établi en France ;
 
 b. en cas d'exportation, l'identité de l'exportateur et, le cas échéant, celle de l'intermédiaire participant à la transaction ;
 
