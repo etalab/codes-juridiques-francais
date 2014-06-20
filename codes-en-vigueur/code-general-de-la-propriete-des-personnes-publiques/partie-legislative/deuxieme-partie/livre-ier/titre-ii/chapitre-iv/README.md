@@ -6,3 +6,4 @@
 - [Section 4 : Exploitation des ressources naturelles.](section-4)
 - [Section 5 : Edifices affectés aux cultes.](section-5)
 - [Section 6 : Concessions de logement](section-6)
+- [Section 7 : Utilisation du domaine public dans le cadre de l'exploitation de certaines activités commerciales](section-7)

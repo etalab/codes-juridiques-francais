@@ -7,4 +7,5 @@
 - [Titre VII : De l'assistance aux artisans sans travail.](titre-vii)
 - [Titre VIII : Dispositions spéciales à l'artisanat dans les départements d'outre-mer.](titre-viii)
 - [Titre VIII bis : Dispositions relatives à l'artisanat à Mayotte](titre-viii-bis)
+- [Titre VIII ter : Dispositions relatives à l'artisanat à Saint-Pierre-et-Miquelon](titre-viii-ter)
 - [Titre IX : Dispositions diverses.](titre-ix)

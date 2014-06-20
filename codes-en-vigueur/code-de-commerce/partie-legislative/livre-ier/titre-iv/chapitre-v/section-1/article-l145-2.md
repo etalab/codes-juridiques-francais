@@ -16,4 +16,8 @@ I.-Les dispositions du présent chapitre s'appliquent également :
 
 7° Par dérogation à l'article 57 A de la loi n° 86-1290 du 23 décembre 1986 tendant à favoriser l'investissement locatif, l'accession à la propriété de logements sociaux et le développement de l'offre foncière, aux baux d'un local affecté à un usage exclusivement professionnel si les parties ont conventionnellement adopté ce régime.
 
-II.-Toutefois, les dispositions du présent chapitre ne sont pas applicables aux autorisations d'occupation précaire accordées par l'administration sur un immeuble acquis par elle à la suite d'une déclaration d'utilité publique. Elles ne sont également pas applicables, pendant la période de deux ans mentionnée au premier alinéa de l'article L. 214-2 du code de l'urbanisme, aux fonds artisanaux, aux fonds de commerce ou aux baux commerciaux préemptés en application de l'article L. 214-1 du même code.
+II.-Toutefois, les dispositions du présent chapitre ne sont pas applicables aux autorisations d'occupation précaire accordées par l'administration sur un immeuble acquis par elle à la suite d'une déclaration d'utilité publique.
+
+III.-En cas d'exercice du droit de préemption sur un bail commercial, un fonds artisanal ou un fonds de commerce en application du premier alinéa de l'article L. 214-2 du code de l'urbanisme, le bail du local ou de l'immeuble demeure soumis au présent chapitre.
+
+Le défaut d'exploitation ne peut être invoqué par le bailleur pour mettre fin au bail commercial dans le délai prévu au même article L. 214-2 pour sa rétrocession à un nouvel exploitant.

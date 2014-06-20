@@ -21,3 +21,5 @@ La transmission et l'enregistrement d'images prises sur la voie publique par le 
 9° La sécurité des installations accueillant du public dans les parcs d'attraction.
 
 Il peut être également procédé à ces opérations dans des lieux et établissements ouverts au public aux fins d'y assurer la sécurité des personnes et des biens lorsque ces lieux et établissements sont particulièrement exposés à des risques d'agression ou de vol.
+
+Après information du maire de la commune concernée et autorisation des autorités publiques compétentes, des commerçants peuvent mettre en œuvre sur la voie publique un système de vidéoprotection aux fins d'assurer la protection des abords immédiats de leurs bâtiments et installations, dans les lieux particulièrement exposés à des risques d'agression ou de vol. Les conditions de mise en œuvre et le type de bâtiments et installations concernés sont définis par décret en Conseil d'Etat.

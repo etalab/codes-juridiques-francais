@@ -12,4 +12,3 @@
 - [Article L920-2](article-l920-2.md)
 - [Article L920-4](article-l920-4.md)
 - [Article L920-5](article-l920-5.md)
-- [Article L920-7](article-l920-7.md)

@@ -1,6 +1,7 @@
 # Section 4 : Halles, marchés et poids publics
 
 - [Article L2224-18](article-l2224-18.md)
+- [Article L2224-18-1](article-l2224-18-1.md)
 - [Article L2224-19](article-l2224-19.md)
 - [Article L2224-20](article-l2224-20.md)
 - [Article L2224-21](article-l2224-21.md)

@@ -6,4 +6,6 @@ Pour la recherche et la constatation des infractions aux interdictions du travai
 
 2° Les documents justifiant que l'entreprise a vérifié, conformément aux dispositions des articles L. 8222-1 ou L. 8222-4, que son ou ses cocontractants ont accompli les formalités mentionnées aux articles L. 8221-3 et L. 8221-5 ou des réglementations d'effet équivalent de leur pays d'origine ;
 
-3° Les devis, les bons de commande ou de travaux, les factures et les contrats ou documents commerciaux relatifs aux prestations exécutées en méconnaissance des dispositions de l'article L. 8221-1.
+3° Les devis, les bons de commande ou de travaux, les factures et les contrats ou documents commerciaux relatifs aux prestations exécutées en méconnaissance des dispositions de l'article L. 8221-1 ;
+
+4° Les attestations d'assurances professionnelles détenues par les travailleurs indépendants lorsque ces assurances répondent à une obligation légale.
