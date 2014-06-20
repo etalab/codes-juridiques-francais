@@ -42,7 +42,7 @@ Le maire peut, en outre, par délégation du conseil municipal, être chargé, e
 
 20° De réaliser les lignes de trésorerie sur la base d'un montant maximum autorisé par le conseil municipal ;
 
-21° D'exercer, au nom de la commune et dans les conditions fixées par le conseil municipal, le droit de préemption défini par l'article L. 214-1 du code de l'urbanisme ;
+21° D'exercer ou de déléguer, en application de l'article L. 214-1-1 du code de l'urbanisme, au nom de la commune et dans les conditions fixées par le conseil municipal, le droit de préemption défini par l'article L. 214-1 du même code ;
 
 22° D'exercer au nom de la commune le droit de priorité défini aux articles L. 240-1 à L. 240-3 du code de l'urbanisme ;
 
@@ -50,4 +50,4 @@ Le maire peut, en outre, par délégation du conseil municipal, être chargé, e
 
 24° D'autoriser, au nom de la commune, le renouvellement de l'adhésion aux associations dont elle est membre.
 
-Les  délégations consenties en application du 3° du présent article prennent  fin dès l'ouverture de la campagne électorale pour le renouvellement du  conseil municipal.
+Les délégations consenties en application du 3° du présent article prennent fin dès l'ouverture de la campagne électorale pour le renouvellement du conseil municipal.
