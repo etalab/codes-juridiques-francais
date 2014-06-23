@@ -2,7 +2,7 @@
 
 I. - Le nombre et la répartition des sièges de conseiller communautaire sont établis :
 
-- soit, dans les communautés de communes et les communautés d'agglomération, par accord des deux tiers au moins des conseils municipaux des communes intéressées représentant la moitié de la population totale de celles-ci ou de la moitié des conseils municipaux des communes intéressées représentant les deux tiers de la population totale. Cette répartition tient compte de la population de chaque commune. Chaque commune dispose d'au moins un siège et aucune commune ne peut disposer de plus de la moitié des sièges. Le nombre de sièges total ne peut excéder de plus de 25 % le nombre de sièges qui serait attribué en application des III et IV du présent article ;
+- (Abrogé)
 
 - soit selon les modalités prévues aux II à VI du présent article.
 
@@ -17,215 +17,181 @@ III. - Chaque organe délibérant est composé de conseillers communautaires don
 <table>
 <tbody>
 <tr>
-<td> POPULATION MUNICIPALE DE L'ÉTABLISSEMENT public de coopération intercommunale à fiscalité propre <br/>
+<td>POPULATION MUNICIPALE DE L'ÉTABLISSEMENT public de coopération intercommunale à fiscalité propre <br/>
 </td>
 <td>
-<p align="center"> NOMBRE </p>
+<p align="center">NOMBRE </p>
 <p align="center">de sièges <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>De moins de 3 500 habitants <br/>
+<p>De moins de 3 500 habitants <br/>
 </p>
 </td>
 <td align="center">
-<p align="left">
-<br/>16 <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">
-<br/>De 3 500 à 4 999 habitants <br/>
-</p>
-</td>
-<td align="center">
-<p align="left">
-<br/>18 <br/>
+<p>16 <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>De 5 000 à 9 999 habitants <br/>
+<p>De 3 500 à 4 999 habitants <br/>
 </p>
 </td>
 <td align="center">
-<p align="left">
-<br/>22 <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">
-<br/>De 10 000 à 19 999 habitants <br/>
-</p>
-</td>
-<td align="center">
-<p align="left">
-<br/>26 <br/>
+<p>18 <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>De 20 000 à 29 999 habitants <br/>
+<p>De 5 000 à 9 999 habitants <br/>
 </p>
 </td>
 <td align="center">
-<p align="left">
-<br/>30 <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">
-<br/>De 30 000 à 39 999 habitants <br/>
-</p>
-</td>
-<td align="center">
-<p align="left">
-<br/>34 <br/>
+<p>22 <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>De 40 000 à 49 999 habitants <br/>
+<p>De 10 000 à 19 999 habitants <br/>
 </p>
 </td>
 <td align="center">
-<p align="left">
-<br/>38 <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">
-<br/>De 50 000 à 74 999 habitants <br/>
-</p>
-</td>
-<td align="center">
-<p align="left">
-<br/>40 <br/>
+<p>26 <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>De 75 000 à 99 999 habitants <br/>
+<p>De 20 000 à 29 999 habitants <br/>
 </p>
 </td>
 <td align="center">
-<p align="left">
-<br/>42 <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">
-<br/>De 100 000 à 149 999 habitants <br/>
-</p>
-</td>
-<td align="center">
-<p align="left">
-<br/>48 <br/>
+<p>30 <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>De 150 000 à 199 999 habitants <br/>
+<p>De 30 000 à 39 999 habitants <br/>
 </p>
 </td>
 <td align="center">
-<p align="left">
-<br/>56 <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">
-<br/>De 200 000 à 249 999 habitants <br/>
-</p>
-</td>
-<td align="center">
-<p align="left">
-<br/>64 <br/>
+<p>34 <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>De 250 000 à 349 999 habitants <br/>
+<p>De 40 000 à 49 999 habitants <br/>
 </p>
 </td>
 <td align="center">
-<p align="left">
-<br/>72 <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">
-<br/>De 350 000 à 499 999 habitants <br/>
-</p>
-</td>
-<td align="center">
-<p align="left">
-<br/>80 <br/>
+<p>38 <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>De 500 000 à 699 999 habitants <br/>
+<p>De 50 000 à 74 999 habitants <br/>
 </p>
 </td>
 <td align="center">
-<p align="left">
-<br/>90 <br/>
-</p>
-</td>
-</tr>
-<tr>
-<td align="center">
-<p align="left">
-<br/>De 700 000 à 1 000 000 habitants <br/>
-</p>
-</td>
-<td align="center">
-<p align="left">
-<br/>100 <br/>
+<p>40 <br/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<p align="left">
-<br/>Plus de 1 000 000 habitants <br/>
+<p>De 75 000 à 99 999 habitants <br/>
 </p>
 </td>
 <td align="center">
-<p align="left">
-<br/>130 <br/>
+<p>42 <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>De 100 000 à 149 999 habitants <br/>
+</p>
+</td>
+<td align="center">
+<p>48 <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>De 150 000 à 199 999 habitants <br/>
+</p>
+</td>
+<td align="center">
+<p>56 <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>De 200 000 à 249 999 habitants <br/>
+</p>
+</td>
+<td align="center">
+<p>64 <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>De 250 000 à 349 999 habitants <br/>
+</p>
+</td>
+<td align="center">
+<p>72 <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>De 350 000 à 499 999 habitants <br/>
+</p>
+</td>
+<td align="center">
+<p>80 <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>De 500 000 à 699 999 habitants <br/>
+</p>
+</td>
+<td align="center">
+<p>90 <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>De 700 000 à 1 000 000 habitants <br/>
+</p>
+</td>
+<td align="center">
+<p>100 <br/>
+</p>
+</td>
+</tr>
+<tr>
+<td align="center">
+<p>Plus de 1 000 000 habitants <br/>
+</p>
+</td>
+<td align="center">
+<p>130 <br/>
 </p>
 </td>
 </tr>
