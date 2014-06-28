@@ -8,7 +8,7 @@ a. Aux plus-values provenant de la cession d'éléments acquis ou créés depuis
 
 b. Aux plus-values réalisées à l'occasion de la cession d'éléments détenus depuis deux ans au moins, dans la mesure où elles correspondent à des amortissements déduits pour l'assiette de l'impôt. Le cas échéant, ces plus-values sont majorées du montant des amortissements expressément exclus des charges déductibles ainsi que de ceux qui ont été différés en contravention aux dispositions de l'article 39 B ;
 
-c. Aux plus-values réalisées à l'occasion de la cession de titres de sociétés établies dans un Etat ou territoire non coopératif au sens de l'article 238-0 A.
+c. Aux plus-values réalisées à l'occasion de la cession de titres de sociétés établies dans un Etat ou territoire non coopératif au sens de l'article 238-0 A.  (1)
 
 3. Le régime des plus-values à long terme est applicable aux plus-values autres que celles définies au 2.
 
@@ -22,7 +22,7 @@ b. aux moins-values subies lors de la cession de biens amortissables, quelle que
 
 6. Pour l'application du présent article, les cessions de titres compris dans le portefeuille sont réputées porter par priorité sur les titres de même nature acquis ou souscrits à la date la plus ancienne.
 
-Pour l'application de ces dispositions, les titres inscrits dans une comptabilité auxiliaire d'affectation qui sont soumis aux règles de l'article L. 142-4, de l'article L. 143-7, du VII de l'article L. 144-2 ou de l'article L. 441-8 du code des assurances, constituent un portefeuille distinct.
+Pour l'application de ces dispositions, les titres inscrits dans une comptabilité auxiliaire d'affectation qui sont soumis aux règles de l'article L. 134-4, de l'article L. 143-7, du VII de l'article L. 144-2 ou de l'article L. 441-8 du code des assurances, constituent un portefeuille distinct.
 
 Pour l'application des dispositions du premier alinéa, les titres reçus en rémunération d'un apport partiel d'actif ou d'une scission soumis au régime prévu à l'article 210 B et ceux qui sont acquis ou souscrits indépendamment de l'opération d'apport ou de scission constituent deux catégories distinctes de titres jusqu'à la fin du délai de trois ans prévu à l'article 210 B. Les cessions de titres intervenues dans ce délai sont réputées porter en priorité sur les titres acquis ou souscrits indépendamment de l'opération d'apport ou de scission.
 

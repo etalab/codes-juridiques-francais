@@ -14,7 +14,7 @@ e) Les modalités de la conversion de la convention en rentes viagères selon le
 
 Un résumé des caractéristiques essentielles de la convention figure au début de cette notice, dans un format précisé par arrêté du même ministre qui en fixe également, de façon limitative, le contenu. Cet arrêté précise également l'ensemble des informations qui doivent figurer dans la notice, notamment les stipulations essentielles au sens du b.
 
-II. ― Pour les opérations à adhésion facultative, le défaut de remise de la notice prévue au I du présent article entraîne de plein droit la prorogation du délai de renonciation prévu à l'article L. 132-5-1.
+II. ― Pour les opérations à adhésion facultative, le défaut de remise de la notice prévue au I du présent article entraîne de plein droit la prorogation du délai de renonciation prévu à l'article L. 132-5-1, dans les conditions prévues à l'alinéa 6 de l'article L. 132-5-2.
 
 III. ― Pour les opérations à adhésion facultative, lorsque les droits acquis par l'adhérent sont représentés par une provision mathématique théorique égale ou supérieure à un montant fixé par arrêté du ministre chargé de l'économie, le souscripteur est tenu de communiquer, chaque année, à l'adhérent les informations suivantes :
 

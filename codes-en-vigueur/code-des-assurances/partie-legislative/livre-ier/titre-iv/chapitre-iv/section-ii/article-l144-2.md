@@ -34,7 +34,7 @@ VI.-L'entreprise d'assurance exerce les droits de vote dans le seul intérêt de
 
 VII.-Nonobstant les dispositions du code de commerce relatives aux comptes sociaux, l'entreprise d'assurance établit, pour les opérations relevant du présent article, une comptabilité auxiliaire d'affectation. Ces procédures et cet enregistrement sont contrôlés et certifiés par le ou les commissaires aux comptes de l'entreprise d'assurance.
 
-L'article L. 142-4 s'applique aux biens et droits résultant de l'enregistrement comptable établi en vertu du premier alinéa du présent VII.
+L'article L. 134-4 s'applique aux biens et droits résultant de l'enregistrement comptable établi en vertu du premier alinéa du présent VII.
 
 Les actifs du plan d'épargne retraite populaire sont conservés par un dépositaire unique distinct de l'entreprise d'assurance, qui exerce à titre principal le service mentionné au 1 de l'article L. 321-2 du code monétaire et financier et qui est agréé en France, dans un autre Etat membre de la Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen.
 

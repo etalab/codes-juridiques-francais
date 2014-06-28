@@ -86,7 +86,7 @@ Lorsqu'une entreprise remet à l'échange plusieurs titres en application des mo
 
 Lorsqu'une entreprise reçoit à l'occasion d'une opération d'échange ou de conversion plusieurs titres en application des modalités d'échange ou des bases de la conversion, la valeur mentionnée à la deuxième phrase du premier alinéa est répartie proportionnellement à la valeur réelle à la date de cette opération ou à la valeur résultant de leur première cotation si les titres reçus sont des actions assorties de droits de souscription d'actions, attachés ou non, émises pour un prix unique à l'occasion d'une telle opération.
 
-Pour les opérations réalisées au cours d'exercices clos à compter du 31 décembre 1994, les dispositions du présent 7 ne sont pas applicables si l'un des coéchangistes remet à l'échange des actions émises lors d'une augmentation de capital réalisée depuis moins de trois ans par une société qui détient directement ou indirectement une participation supérieure à 5% du capital de l'autre société avec laquelle l'échange est réalisé ou par une société dont plus de 5% du capital est détenu directement ou indirectement par cette autre société.
+Pour les opérations réalisées au cours d'exercices clos à compter du 31 décembre 1994, les dispositions du présent 7 ne sont pas applicables si l'un des coéchangistes remet à l'échange des actions émises lors d'une augmentation de capital réalisée depuis moins de trois ans par une société qui détient directement ou indirectement une participation supérieure à 5 % du capital de l'autre société avec laquelle l'échange est réalisé ou par une société dont plus de 5 % du capital est détenu directement ou indirectement par cette autre société.
 
 Les augmentations de capital visées au septième alinéa sont celles résultant :
 
@@ -112,7 +112,7 @@ Ces dispositions ne sont pas applicables si la soulte dépasse 10 p. 100 de la v
 
 La fraction afférente aux droits de souscription est égale à la différence entre le prix unique et le prix de la valeur mobilière à la date de la souscription ou de l'acquisition. Le prix s'entend de la valeur actuelle pour les obligations ;
 
-2° La différence entre la valeur actuelle d'une obligation assortie de droits de souscription et sa valeur de remboursement est considérée, pour l'imposition du souscripteur, comme une prime de remboursement. Toutefois, pour les titres émis avant le 1er janvier 1993, celle-ci n'est soumise aux dispositions du I de l'article 238 septies B que si son montant excède 15% de la valeur actuelle de l'obligation ;
+2° La différence entre la valeur actuelle d'une obligation assortie de droits de souscription et sa valeur de remboursement est considérée, pour l'imposition du souscripteur, comme une prime de remboursement. Toutefois, pour les titres émis avant le 1er janvier 1993, celle-ci n'est soumise aux dispositions du I de l'article 238 septies B que si son montant excède 15 % de la valeur actuelle de l'obligation ;
 
 3° Les sommes reçues par une entreprise lors de l'émission de droits de souscription ou d'acquisition de valeurs mobilières sont comprises dans ses résultats imposables de l'exercice de péremption de ces droits lorsqu'ils n'ont pas été exercés.
 
@@ -130,7 +130,7 @@ Les provisions qui sont transférées au poste d'écart d'équivalence ainsi que
 
 La moins-value de même nature est retenue dans les mêmes conditions, et ne peut venir en diminution des profits de réévaluation des parts de la société civile, constatés par la société d'assurance.
 
-11. Le transfert dans une comptabilité auxiliaire d'affectation d'éléments d'actifs pour lesquels sont applicables les règles de l'article L. 142-4, de l'article L. 143-7, de l'article L. 441-8, ou du VII de l'article L. 144-2 du code des assurances est assimilé à une cession. Il en est de même en cas de retrait d'actifs de l'une de ces comptabilités.
+11. Le transfert dans une comptabilité auxiliaire d'affectation d'éléments d'actifs pour lesquels sont applicables les règles de l'article L. 134-4, de l'article L. 143-7, de l'article L. 441-8, ou du VII de l'article L. 144-2 du code des assurances est assimilé à une cession. Il en est de même en cas de retrait d'actifs de l'une de ces comptabilités.
 
 Toutefois, le profit ou la perte constaté à l'occasion du transfert d'éléments d'actif dans la comptabilité auxiliaire d'affectation soumis aux règles de l'article L. 143-7 du code des assurances n'est pas compris dans le résultat de l'exercice au cours duquel le transfert est intervenu si les conditions suivantes sont réunies :
 

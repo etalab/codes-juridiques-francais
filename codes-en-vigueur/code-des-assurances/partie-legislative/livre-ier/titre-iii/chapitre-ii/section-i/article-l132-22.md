@@ -22,6 +22,8 @@ Ces montants ne peuvent tenir compte de participations bénéficiaires qui ne se
 
 L'entreprise d'assurance ou de capitalisation indique en termes précis et clairs dans cette communication ce que signifient les opérations de rachat, de transfert et de réduction et quelles sont leurs conséquences légales et contractuelles.
 
+Pour les contrats relevant du chapitre IV, l'entreprise d'assurance ou de capitalisation indique les modalités et conditions de rachat.
+
 Pour les contrats liés à la cessation d'activité professionnelle, l'entreprise d'assurance ou de capitalisation fournit, dans cette communication, une estimation du montant de la rente viagère qui serait versée à l'assuré à partir de ses droits personnels. Elle précise, le cas échéant, les conditions dans lesquelles l'assuré peut demander le transfert de son contrat auprès d'une autre entreprise d'assurance, d'une mutuelle ou d'une institution de prévoyance. Un arrêté précise les conditions d'application du présent alinéa.
 
 Pour les contrats dont la provision mathématique est inférieure au montant défini au premier alinéa et pour les contrats ou bons de capitalisation au porteur, les informations définies au présent article sont communiquées pour une année donnée au contractant qui en fait la demande.
