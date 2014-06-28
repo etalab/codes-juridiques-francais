@@ -13,18 +13,15 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 </td>
 <td>
 <br/>
-<p align="center">SIÈGE </p>
-<p align="center">du tribunal de commerce </p>
+<p align="center">SIÈGE<br/>du tribunal de commerce </p>
 </td>
 <td>
 <br/>
-<p align="center">NOMBRE DE JUGES </p>
-<p align="center">du tribunal de commerce </p>
+<p align="center">NOMBRE DE JUGES<br/>du tribunal de commerce </p>
 </td>
 <td>
 <br/>
-<p align="center">NOMBRE DE CHAMBRES </p>
-<p align="center">du tribunal de commerce </p>
+<p align="center">NOMBRE DE CHAMBRES<br/>du tribunal de commerce </p>
 </td>
 </tr>
 <tr>
@@ -1961,11 +1958,11 @@ NOMBRE DES JUGES ET NOMBRE DES CHAMBRES DES TRIBUNAUX DE COMMERCE
 </td>
 <td>
 <br/>
-<p align="center">19 </p>
+<p align="center">24</p>
 </td>
 <td>
 <br/>
-<p align="center">3 </p>
+<p align="center">4 </p>
 </td>
 </tr>
 <tr>
