@@ -4,4 +4,4 @@ Le nombre et la composition des collèges électoraux ne peuvent être modifiés
 
 L'accord conclu ne fait pas obstacle à la création du troisième collège dans les conditions prévues au cinquième alinéa de l'article L. 2324-11.
 
-L'accord préélectoral est transmis à l'inspecteur du travail.
+L'accord préélectoral       est communiqué, à sa demande, à l'inspecteur du travail.

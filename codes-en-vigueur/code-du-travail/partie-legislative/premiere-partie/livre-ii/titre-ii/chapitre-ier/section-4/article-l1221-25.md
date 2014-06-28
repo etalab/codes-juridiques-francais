@@ -11,3 +11,5 @@ Lorsqu'il est mis fin, par l'employeur, au contrat en cours ou au terme de la p�
 4° Un mois après trois mois de présence.
 
 La période d'essai, renouvellement inclus, ne peut être prolongée du fait de la durée du délai de prévenance.
+
+Lorsque le délai de prévenance n'a pas été respecté, son inexécution ouvre droit pour le salarié, sauf s'il a commis une faute grave, à une indemnité compensatrice. Cette indemnité est égale au montant des salaires et avantages que le salarié aurait perçus s'il avait accompli son travail jusqu'à l'expiration du délai de prévenance, indemnité compensatrice de congés payés comprise.
