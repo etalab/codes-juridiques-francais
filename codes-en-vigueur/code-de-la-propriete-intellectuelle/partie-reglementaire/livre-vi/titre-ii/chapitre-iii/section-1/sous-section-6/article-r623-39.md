@@ -12,7 +12,7 @@ Pour chaque demande, l'inscription comporte notamment :
 
 -les nom et adresse de l'obtenteur et, s'il y a lieu, de son mandataire ou ayant cause lorsque l'obtenteur n'est pas le déposant ;
 
--la dénomination proposée ou, à défaut, la référence d'obtenteur ainsi que, le cas échéant, la dénomination sous laquelle la variété a été désignée dans les autres Etats de l'Union ;
+-la dénomination proposée ou, à défaut, la référence d'obtenteur ainsi que, le cas échéant, la dénomination sous laquelle la variété a été désignée par les autres membres de l'Union internationale pour la protection des obtentions végétales ;
 
 -la revendication de priorité dans le cas où il en a été formulé ;
 

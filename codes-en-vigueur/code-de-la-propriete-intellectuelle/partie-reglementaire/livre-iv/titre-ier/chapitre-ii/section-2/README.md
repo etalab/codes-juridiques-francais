@@ -1,4 +1,4 @@
-# Section 2 : Recours contre les décisions du comité de la protection des obtentions végétales
+# Section 2 : Recours contre les décisions du responsable des missions relevant de l'instance nationale des obtentions végétales
 
 - [Article R412-15](article-r412-15.md)
 - [Article R412-16](article-r412-16.md)

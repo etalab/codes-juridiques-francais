@@ -1,16 +1,8 @@
-# Section 1 : Organisation et fonctionnement du comité de la protection des obtentions végétales
+# Section 1 : Organisation et fonctionnement de l'instance nationale des obtentions végétales
 
-- [Article D412-4](article-d412-4.md)
-- [Article R412-1](article-r412-1.md)
-- [Article R412-2](article-r412-2.md)
-- [Article R412-3](article-r412-3.md)
-- [Article R412-5](article-r412-5.md)
-- [Article R412-6](article-r412-6.md)
-- [Article R412-7](article-r412-7.md)
-- [Article R412-8](article-r412-8.md)
-- [Article R412-9](article-r412-9.md)
-- [Article R412-10](article-r412-10.md)
-- [Article R412-11](article-r412-11.md)
-- [Article R412-12](article-r412-12.md)
-- [Article R412-13](article-r412-13.md)
-- [Article R412-14](article-r412-14.md)
+- [Article D412-7](article-d412-7.md)
+- [Article D412-9](article-d412-9.md)
+- [Article D412-10](article-d412-10.md)
+- [Article D412-11](article-d412-11.md)
+- [Article D412-12](article-d412-12.md)
+- [Article D412-13](article-d412-13.md)
