@@ -12,4 +12,6 @@ Le tribunal peut prononcer la faillite personnelle de toute personne mentionnée
 
 5° Avoir, en s'abstenant volontairement de coopérer avec les organes de la procédure, fait obstacle à son bon déroulement ;
 
-6° Avoir fait disparaître des documents comptables, ne pas avoir tenu de comptabilité lorsque les textes applicables en font obligation, ou avoir tenu une comptabilité fictive, manifestement incomplète ou irrégulière au regard des dispositions applicables.
+6° Avoir fait disparaître des documents comptables, ne pas avoir tenu de comptabilité lorsque les textes applicables en font obligation, ou avoir tenu une comptabilité fictive, manifestement incomplète ou irrégulière au regard des dispositions applicables ;
+
+7° Avoir déclaré sciemment, au nom d'un créancier, une créance supposée.
