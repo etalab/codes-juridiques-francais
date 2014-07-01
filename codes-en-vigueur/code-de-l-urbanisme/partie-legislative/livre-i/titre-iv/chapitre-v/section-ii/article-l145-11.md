@@ -1,6 +1,10 @@
 # Article L145-11
 
-Dans les communes qui ne sont pas couvertes par un schéma de cohérence territoriale, la création et l'extension d'unités touristiques nouvelles sont soumises à autorisation. Le projet est préalablement mis à la disposition du public.
+Dans les communes qui ne sont pas couvertes par un schéma de cohérence territoriale, la création et l'extension d'unités touristiques nouvelles sont soumises à autorisation.
+
+Le projet est préalablement mis à la disposition du public pendant un mois, dans des conditions lui permettant de formuler ses observations. Ces observations sont enregistrées et conservées. La nature des documents communiqués au public et les modalités de leur mise à disposition sont précisées par l'autorité administrative compétente pour statuer et portées à la connaissance du public au moins huit jours avant le début de cette mise à disposition.
+
+A l'issue de la mise à disposition et avant de prendre sa décision, l'autorité administrative en établit le bilan.
 
 I. ― L'autorisation est délivrée par le préfet coordonnateur de massif, après avis de la commission spécialisée du comité de massif, lorsqu'elle porte sur des remontées mécaniques qui ont pour effet la création d'un nouveau domaine skiable ou l'extension du domaine skiable existant au-delà d'un seuil fixé par décret en Conseil d'Etat, ou sur une opération qui présente un intérêt régional ou interrégional en raison de sa surface ou de sa capacité d'accueil.
 
