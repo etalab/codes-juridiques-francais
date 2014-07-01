@@ -26,4 +26,4 @@ II. ― Les fonds excédant leurs dépenses de fonctionnement ne peuvent être e
 
 5° La constitution de fonds d'entraide au profit des autres cercles et foyers pour le financement d'actions au profit direct de l'ensemble des membres, à l'exception de dépenses de prestige ou de représentation ;
 
-6° L'octroi de dons à des fondations œuvrant au profit de la communauté militaire avec l'accord de l'autorité exerçant le pouvoir de tutelle et dans les limites qu'elle aura fixées.
+6° L'octroi de dons à des établissements publics ou à des fondations œuvrant au profit de la communauté militaire avec l'accord de l'autorité exerçant le pouvoir de tutelle et dans les limites qu'elle aura fixées.

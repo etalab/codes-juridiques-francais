@@ -7,3 +7,4 @@
 - [Chapitre V : Etablissement de communication et de production audiovisuelle de la défense](chapitre-v)
 - [Chapitre VI : L'établissement public administratif Service hydrographique et océanographique de la marine (SHOM)](chapitre-vi)
 - [Chapitre VII : L'Etablissement public des fonds de prévoyance militaire et de l'aéronautique](chapitre-vii)
+- [Chapitre VIII : Foyer d'entraide de la Légion étrangère](chapitre-viii)
