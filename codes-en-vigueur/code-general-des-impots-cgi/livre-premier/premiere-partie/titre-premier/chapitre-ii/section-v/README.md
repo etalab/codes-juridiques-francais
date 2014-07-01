@@ -36,5 +36,6 @@
 - [Article 220 Z bis](article-220-z-bis.md)
 - [Article 220 Z ter](article-220-z-ter.md)
 - [Article 220 Z quater](article-220-z-quater.md)
+- [Article 220 Z quinquies](article-220-z-quinquies.md)
 - [4° Crédit d'impôt pour dépenses de production d'oeuvres phonographiques](4-credit-d-impot-pour-depenses-de-production-d-oeuvres-phonographiques)
 - [9° Crédit d'impôt en faveur des créateurs de jeux vidéo](9-credit-d-impot-en-faveur-des-createurs-de-jeux-video)
