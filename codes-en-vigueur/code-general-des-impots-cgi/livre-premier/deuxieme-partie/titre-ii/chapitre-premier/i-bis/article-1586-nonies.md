@@ -12,6 +12,6 @@ V. - Pour la détermination de la cotisation sur la valeur ajoutée des entrepri
 
 VI. - Le bénéfice des exonérations de cotisation sur la valeur ajoutée des entreprises prévues aux I à III et de l'abattement prévu au IV est perdu lorsque les conditions de l'exonération ou de l'abattement correspondant de cotisation foncière des entreprises ne sont plus réunies.
 
-Le bénéfice de l'exonération de cotisation sur la valeur ajoutée des entreprises est, le cas échéant, subordonné au respect du même règlement communautaire que celui appliqué pour l'exonération de cotisation foncière des entreprises dont l'établissement bénéficie.
+Le bénéfice de l'exonération ou de l'abattement de cotisation sur la valeur ajoutée des entreprises est, le cas échéant, subordonné au respect du même règlement communautaire que celui appliqué pour l'exonération ou l'abattement de cotisation foncière des entreprises dont l'établissement bénéficie.
 
 VII. - Lorsqu'une entreprise dispose de plusieurs établissements dans une même commune, sa valeur ajoutée imposée dans la commune est, pour l'application du présent article, répartie entre ces établissements selon les modalités prévues au III de l'article 1586 octies.
