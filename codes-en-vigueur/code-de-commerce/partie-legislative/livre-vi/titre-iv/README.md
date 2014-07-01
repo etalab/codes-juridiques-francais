@@ -1,4 +1,4 @@
-# TITRE IV : De la liquidation judiciaire.
+# TITRE IV : De la liquidation judiciaire et du rétablissement professionnel.
 
 - [Chapitre préliminaire : Des conditions d'ouverture de la liquidation judiciaire.](chapitre-preliminaire)
 - [Chapitre Ier : Du jugement de liquidation judiciaire.](chapitre-ier)

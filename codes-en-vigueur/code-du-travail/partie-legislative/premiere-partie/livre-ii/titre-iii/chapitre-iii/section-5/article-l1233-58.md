@@ -10,13 +10,17 @@ L'employeur, l'administrateur ou le liquidateur, selon le cas, réunit et consul
 
 3° L. 1233-30, I à l'exception du dernier alinéa, et deux derniers alinéas du II, pour un licenciement d'au moins dix salariés dans une entreprise d'au moins cinquante salariés ;
 
-4° L. 1233-31 à L. 1233-33, L. 1233-48 et L. 1233-63, relatifs à la nature des renseignements et au contenu des mesures sociales adressés aux représentants du personnel et à l'autorité administrative ;
+4° L. 1233-34 et L. 1233-35 premier alinéa et, le cas échéant, L. 2325-35 et L. 4614-12-1 du code du travail relatifs au recours à l'expert ;
 
-5° L. 1233-49, L. 1233-61 et L. 1233-62, relatifs au plan de sauvegarde de l'emploi ;
+5° L. 1233-31 à L. 1233-33, L. 1233-48 et L. 1233-63, relatifs à la nature des renseignements et au contenu des mesures sociales adressés aux représentants du personnel et à l'autorité administrative ;
 
-6° L. 1233-57-5 et L. 1233-57-6, pour un licenciement d'au moins dix salariés dans une entreprise d'au moins cinquante salariés.
+6° L. 1233-49, L. 1233-61 et L. 1233-62, relatifs au plan de sauvegarde de l'emploi ;
+
+7° L. 1233-57-5 et L. 1233-57-6, pour un licenciement d'au moins dix salariés dans une entreprise d'au moins cinquante salariés.
 
 II.-Pour un licenciement d'au moins dix salariés dans une entreprise d'au moins cinquante salariés, l'accord mentionné à l'article L. 1233-24-1 est validé et le document mentionné à l'article L. 1233-24-4, élaboré par l'employeur, l'administrateur ou le liquidateur, est homologué dans les conditions fixées aux articles L. 1233-57-1 à L. 1233-57-3, aux deuxième et troisième alinéas de l'article L. 1233-57-4 et à l'article L. 1233-57-7.
+
+A titre exceptionnel, au vu des circonstances et des motifs justifiant le défaut d'établissement du procès-verbal de carence mentionné à l'article L. 2324-8, l'autorité administrative peut prendre une décision d'homologation.
 
 Les délais prévus au premier alinéa de l'article L. 1233-57-4 sont ramenés, à compter de la dernière réunion du comité d'entreprise, à huit jours en cas de redressement judiciaire et à quatre jours en cas de liquidation judiciaire.
 
@@ -26,6 +30,6 @@ En cas de décision défavorable de validation ou d'homologation, l'employeur, l
 
 En cas de licenciements intervenus en l'absence de toute décision relative à la validation ou à l'homologation ou en cas d'annulation d'une décision ayant procédé à la validation ou à l'homologation, le juge octroie au salarié une indemnité à la charge de l'employeur qui ne peut être inférieure aux salaires des six derniers mois. L'article L. 1235-16 ne s'applique pas.
 
-III.-En cas de licenciement d'au moins dix salariés dans une entreprise d'au moins cinquante salariés prévu par le plan de sauvegarde arrêté conformément à l'article L. 626-10 du code de commerce, les délais prévus au premier alinéa de l'article L. 1233-57-4 du présent code sont ramenés, à compter de la dernière réunion du comité d'entreprise, à huit jours.
+III.-En cas de licenciement d'au moins dix salariés dans une entreprise d'au moins cinquante salariés prévu par le plan de sauvegarde arrêté conformément à l'article L. 626-10 du code de commerce, les délais prévus au premier alinéa de l'article L. 1233-57-4 du présent code sont ramenés, à huit jours. Ils courent à compter de la date de réception de la demande de validation ou d'homologation qui est postérieure au jugement arrêtant le plan.
 
 Lorsque l'autorité administrative rend une décision de refus de validation ou d'homologation, l'employeur consulte le comité d'entreprise dans un délai de trois jours. Selon le cas, le document modifié et l'avis du comité d'entreprise, ou un avenant à l'accord collectif, sont transmis à l'autorité administrative, qui se prononce dans un délai de trois jours.
