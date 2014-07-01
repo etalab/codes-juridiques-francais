@@ -2,4 +2,3 @@
 
 - [Article D5132-34](article-d5132-34.md)
 - [Article R5132-35](article-r5132-35.md)
-- [Article R5132-36](article-r5132-36.md)

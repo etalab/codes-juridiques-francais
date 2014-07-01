@@ -1,4 +1,4 @@
-# Article D5132-27
+# Article R5132-27
 
 Après consultation du conseil départemental de l'insertion par l'activité économique et en tenant compte de l'offre existante pour assurer un développement équilibré des actions d'insertion sociale et professionnelle, le préfet peut conclure des conventions pour la mise en place d'un ou plusieurs ateliers et chantiers d'insertion avec :
 
