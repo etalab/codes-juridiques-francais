@@ -42,7 +42,7 @@ s. et t (Périmés) (1)
 
 u. Des crédits d'impôt dégagés par chaque société du groupe en application de l'article 244 quater Q ; l'article 220 U s'applique à la somme de ces crédits d'impôt ;
 
-v. (Périmé)
+v. Des crédits d'impôt dégagés par chaque société du groupe en application de l'article 244 quater R ; l'article 220 V s'applique à la somme de ces crédits d'impôt ;
 
 w. Des crédits d'impôt dégagés par chaque société du groupe en application de l'article 220 terdecies ;
 
@@ -52,6 +52,8 @@ y. Des crédits d'impôt dégagés par chaque société du groupe en application
 
 z. Des crédits d'impôt dégagés par chaque société du groupe en application de l'article 220 quaterdecies ; les dispositions de l'article 220 Z bis s'appliquent à la somme des crédits d'impôt.
 
-z bis) Des crédits d'impôt dégagés par chaque société du groupe en application de l'article 244 quater V ; les dispositions de l'article 220 Z ter s'appliquent à la somme de ces crédits d'impôt.
+z bis. Des crédits d'impôt dégagés par chaque société du groupe en application de l'article 244 quater V ; les dispositions de l'article 220 Z ter s'appliquent à la somme de ces crédits d'impôt.
+
+z ter. Des crédits d'impôt dégagés par chaque société du groupe en application de l'article 244 quater W ; l'article 220 Z quater s'applique à la somme de ces crédits d'impôt.
 
 2. (abrogé).
