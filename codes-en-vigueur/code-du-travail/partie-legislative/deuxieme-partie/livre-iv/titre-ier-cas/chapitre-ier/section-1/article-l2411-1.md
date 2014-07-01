@@ -26,7 +26,7 @@ Bénéficie de la protection contre le licenciement prévue par le présent chap
 
 10° Salarié mandaté, dans les conditions prévues à l'article L. 2232-24, dans les entreprises dépourvues de délégué syndical ;
 
-11° Représentant des salariés mentionné à l'article L. 662-4 du code de commerce lors d'un redressement ou d'une liquidation judiciaire ;
+11° Représentant des salariés mentionné à l'article L. 662-4 du code de commerce ;
 
 12° Représentant des salariés au conseil d'administration ou de surveillance des entreprises du secteur public, des sociétés anonymes et des sociétés en commandite par actions ;
 
