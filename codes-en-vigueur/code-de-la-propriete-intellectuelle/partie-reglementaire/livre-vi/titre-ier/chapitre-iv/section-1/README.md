@@ -1,8 +1,6 @@
 # Section 1 : Brevets européens
 
 - [Article R614-1](article-r614-1.md)
-- [Article R614-2](article-r614-2.md)
-- [Article R614-3](article-r614-3.md)
 - [Article R614-4](article-r614-4.md)
 - [Article R614-5](article-r614-5.md)
 - [Article R614-6](article-r614-6.md)

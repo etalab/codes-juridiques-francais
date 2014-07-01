@@ -1,7 +1,6 @@
 # Section 2 : Demandes internationales
 
 - [Article R614-21](article-r614-21.md)
-- [Article R614-22](article-r614-22.md)
 - [Article R614-23](article-r614-23.md)
 - [Article R614-24](article-r614-24.md)
 - [Article R614-25](article-r614-25.md)

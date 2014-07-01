@@ -2,7 +2,7 @@
 
 Le dépôt comprend :
 
-1° La demande d'enregistrement de la marque établie dans les conditions prévues par l'arrêté mentionné à l'article R. 712-26 et précisant notamment :
+1° La demande d'enregistrement de la marque établie dans les conditions prévues par   la décision mentionnée à l'article R. 712-26 et précisant notamment :
 
 a) L'identification du déposant :
 
