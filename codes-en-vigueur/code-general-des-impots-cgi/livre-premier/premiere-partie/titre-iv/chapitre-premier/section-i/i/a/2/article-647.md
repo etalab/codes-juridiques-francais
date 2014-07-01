@@ -2,7 +2,7 @@
 
 I. Les formalités de l'enregistrement et de la publicité foncière sont fusionnées pour les actes publiés au fichier immobilier et les actes portant sur des droits inscrits sur le livre foncier de Mayotte, à l'exclusion des privilèges et hypothèques mentionnés au i du 1° de l'article 2521 du code civil. La nouvelle formalité prend nom de " formalité fusionnée ".
 
-Sont exclus de ce régime : les décisions judiciaires, les mutations à titre gratuit, les baux de plus de douze ans à durée limitée, et les actes pour lesquels il est impossible de procéder à la formalité fusionnée.
+Sont exclus de ce régime : les décisions judiciaires, les baux de plus de douze ans à durée limitée, et les actes pour lesquels il est impossible de procéder à la formalité fusionnée.
 
 II. L'enregistrement des actes soumis à cette formalité et assujettis obligatoirement à la publicité foncière ou de ceux portant sur des droits devant être inscrits sur le livre foncier de Mayotte résulte de leur publicité ou de leur inscription. Il en est de même pour les actes admis à la publicité foncière ou pour ceux portant sur des droits inscrits à titre facultatif lorsque la publicité ou l'inscription est requise en même temps que l'enregistrement.
 
