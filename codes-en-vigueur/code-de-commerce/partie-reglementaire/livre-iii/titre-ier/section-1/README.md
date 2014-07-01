@@ -1,6 +1,5 @@
 # Section 1 : Des liquidations.
 
-- [Article R310-1](article-r310-1.md)
 - [Article R310-2](article-r310-2.md)
 - [Article R310-3](article-r310-3.md)
 - [Article R310-4](article-r310-4.md)
