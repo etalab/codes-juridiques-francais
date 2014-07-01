@@ -50,7 +50,7 @@ g) Les garanties des salariés résidant dans un département métropolitain et 
 
 13° Les procédures conventionnelles de conciliation suivant lesquelles seront réglés les conflits collectifs de travail susceptibles de survenir entre les employeurs et les salariés liés par la convention ;
 
-14° Les modalités d'accès à un régime de prévoyance maladie ;
+14° Les modalités d'accès à un régime de prévoyance ou à un régime de remboursements complémentaires de frais occasionnés par une maladie, une maternité ou un accident dans des conditions au moins aussi favorables que celles prévues au II de l'article L. 911-7 du code de la sécurité sociale ;
 
 15° Les modalités de mise en oeuvre des dispositifs d'intéressement, de participation et d'épargne salariale ;
 
