@@ -28,79 +28,67 @@ ACTES JUDICIAIRES (1)
 <tbody>
 <tr>
 <td valign="top">
-<br/>
 <p align="center">101 </p>
 </td>
 <td valign="top">
 <p>Acte de greffe. </p>
 </td>
 <td valign="top">
-<br/>
 <p align="center">1 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<br/>
 <p align="center">102 </p>
 </td>
 <td valign="top">
 <p>Certificat. </p>
 </td>
 <td valign="top">
-<br/>
 <p align="center">1 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<br/>
 <p align="center">103 </p>
 </td>
 <td valign="top">
 <p>Commission rogatoire : envoi et exécution. </p>
 </td>
 <td valign="top">
-<br/>
 <p align="center">5 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<br/>
 <p align="center">104 </p>
 </td>
 <td valign="top">
 <p>Contredit sur la compétence. </p>
 </td>
 <td valign="top">
-<br/>
 <p align="center">7 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<br/>
 <p align="center">105 </p>
 </td>
 <td valign="top">
 <p>Copie. </p>
 </td>
 <td valign="top">
-<br/>
 <p align="center">1 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<br/>
 <p align="center">106 </p>
 </td>
 <td valign="top">
 <p>Vérification de dépens. </p>
 </td>
 <td valign="top">
-<br/>
 <p align="center">2 </p>
 </td>
 </tr>
@@ -113,40 +101,34 @@ ACTES JUDICIAIRES (1)
 </tr>
 <tr>
 <td valign="top">
-<br/>
 <p align="center">107 </p>
 </td>
 <td valign="top">
 <p>Jugement. </p>
 </td>
 <td valign="top">
-<br/>
 <p align="center">2 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<br/>
 <p align="center">108 </p>
 </td>
 <td valign="top">
 <p>Ordonnance. </p>
 </td>
 <td valign="top">
-<br/>
 <p align="center">2 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<br/>
 <p align="center">109 </p>
 </td>
 <td valign="top">
 <p>Seconde copie certifiée conforme revêtue de la formule exécutoire. </p>
 </td>
 <td valign="top">
-<br/>
 <p align="center">3 </p>
 </td>
 </tr>
@@ -158,53 +140,45 @@ ACTES JUDICIAIRES (1)
 </tr>
 <tr>
 <td valign="top">
-<br/>
 <p align="center">110 </p>
 </td>
 <td valign="top">
 <p>Ordonnance d'injonction de payer. </p>
 </td>
 <td valign="top">
-<br/>
 <p align="center">9 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<br/>
 <p align="center">111 </p>
 </td>
 <td valign="top">
 <p>Forfait de transmission des ordonnances d'injonction de payer. </p>
 </td>
 <td valign="top">
-<br/>
 <p align="center">7 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<br/>
 <p align="center">112 </p>
 </td>
 <td valign="top">
 <p>Diligences relatives à l'ordonnance, y compris l'extrait d'immatriculation (K bis ou L bis) ou un certificat de non-inscription, réception et conservation de la requête. </p>
 </td>
 <td valign="top">
-<br/>
 <p align="center">9 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<br/>
 <p align="center">113 </p>
 </td>
 <td valign="top">
 <p>Opposition à injonction de payer. </p>
 </td>
 <td valign="top">
-<br/>
 <p align="center">9 </p>
 </td>
 </tr>
@@ -216,40 +190,34 @@ ACTES JUDICIAIRES (1)
 </tr>
 <tr>
 <td valign="top">
-<br/>
 <p align="center">114 </p>
 </td>
 <td valign="top">
 <p>Jugement (enrôlement, tenue des audiences, mise en forme, avis aux parties), quel que soit le nombre de renvois, pour deux parties. </p>
 </td>
 <td valign="top">
-<br/>
 <p align="center">25 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<br/>
 <p align="center">115 </p>
 </td>
 <td valign="top">
 <p>Par partie supplémentaire. </p>
 </td>
 <td valign="top">
-<br/>
 <p align="center">5 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<br/>
 <p align="center">116 </p>
 </td>
 <td valign="top">
 <p>Jugement : forfait de transmission par partie. </p>
 </td>
 <td valign="top">
-<br/>
 <p align="center">10 </p>
 </td>
 </tr>
@@ -261,53 +229,45 @@ ACTES JUDICIAIRES (1)
 </tr>
 <tr>
 <td valign="top">
-<br/>
 <p align="center">117 </p>
 </td>
 <td valign="top">
 <p>Procédure devant un juge rapporteur. </p>
 </td>
 <td valign="top">
-<br/>
 <p align="center">7 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<br/>
 <p align="center">118 </p>
 </td>
 <td valign="top">
 <p>Contrat ou calendrier de procédure. </p>
 </td>
 <td valign="top">
-<br/>
 <p align="center">7 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<br/>
 <p align="center">119 </p>
 </td>
 <td valign="top">
 <p>Ordonnances autres que référés et injonctions de payer. </p>
 </td>
 <td valign="top">
-<br/>
 <p align="center">6 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<br/>
 <p align="center">120 </p>
 </td>
 <td valign="top">
 <p>Prestation de serment. </p>
 </td>
 <td valign="top">
-<br/>
 <p align="center">3 </p>
 </td>
 </tr>
@@ -319,150 +279,128 @@ ACTES JUDICIAIRES (1)
 </tr>
 <tr>
 <td valign="top">
-<br/>
 <p align="center">121 </p>
 </td>
 <td valign="top">
 <p>Ordonnance de référé (enrôlement, tenue des audiences, mise en forme, avis aux parties), quel que soit le nombre de renvois pour deux parties. </p>
 </td>
 <td valign="top">
-<br/>
 <p align="center">15 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<br/>
 <p align="center">122 </p>
 </td>
 <td valign="top">
 <p>Par partie supplémentaire. </p>
 </td>
 <td valign="top">
-<br/>
 <p align="center">5 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<br/>
 <p align="center">123 </p>
 </td>
 <td valign="top">
 <p>Ordonnance de référé : forfait de transmission par partie. </p>
 </td>
 <td valign="top">
-<br/>
 <p align="center">7,70 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<br/>
 <p align="center">124 </p>
 </td>
 <td valign="top">
 <p>Registres de commerce (saisine en matière de contentieux des). </p>
 </td>
 <td valign="top">
-<br/>
 <p align="center">8 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<br/>
 <p align="center">125 </p>
 </td>
 <td valign="top">
 <p>Diligences liées à l'expertise. </p>
 </td>
 <td valign="top">
-<br/>
 <p align="center">15 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<br/>
 <p align="center">126 </p>
 </td>
 <td valign="top">
 <p>Convocation ou avis. </p>
 </td>
 <td valign="top">
-<br/>
 <p align="center">1 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<br/>
 <p align="center">127 </p>
 </td>
 <td valign="top">
 <p>Visa, cote et paraphe des livres. </p>
 </td>
 <td valign="top">
-<br/>
 <p align="center">2 </p>
 </td>
 </tr>
 <tr>
 <td colspan="3" valign="top">
 <br/>
-<p align="center">Procédures ouvertes après le 1 <sup>er </sup>janvier 2006 en application du livre VI du code de commerce </p>
+<p align="center">Procédures ouvertes après le 1er janvier 2006 en application du livre VI du code de commerce </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<br/>
 <p align="center">160 </p>
 </td>
 <td valign="top">
 <p>Diligences en matière d'enquête en application des articles L 621-1, alinéa 3, et L 651-4 du code de commerce, non compris le coût de la délivrance des copies ou extraits et des avis, notifications, convocations et communications. </p>
 </td>
 <td valign="top">
-<br/>
 <p align="center">10 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<br/>
 <p align="center">161 </p>
 </td>
 <td valign="top">
 <p>Réception de la demande de mandat ad hoc, de conciliation, de sauvegarde, de redressement judiciaire et de liquidations judiciaires, conformément aux articles R. 611-18, R. 611-22, R. 621-1, R. 631-1 et R. 640-1, non compris le coût de la délivrance des copies ou extraits. </p>
 </td>
 <td valign="top">
-<br/>
 <p align="center">6 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<br/>
 <p align="center">162 </p>
 </td>
 <td valign="top">
 <p>Diligences en cas de saisine d'office ou à la requête du procureur de la République, non compris le coût de la délivrance des copies ou extraits. </p>
 </td>
 <td valign="top">
-<br/>
 <p align="center">3 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<br/>
 <p align="center">163 </p>
 </td>
 <td valign="top">
 <p>Convocation devant le juge-commissaire. </p>
 </td>
 <td valign="top">
-<br/>
 <p align="center">3 </p>
 </td>
 </tr>
@@ -481,66 +419,56 @@ ACTES JUDICIAIRES (1)
 </tr>
 <tr>
 <td valign="top">
-<br/>
 <p align="center">165 </p>
 </td>
 <td valign="top">
 <p>Avis au créancier en matière d'admission de créances sans débat contradictoire </p>
 </td>
 <td valign="top">
-<br/>
 <p align="center">1 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<br/>
 <p align="center">166 </p>
 </td>
 <td valign="top">
 <p>Ordonnances du juge-commissaire après débat contradictoire. </p>
 </td>
 <td valign="top">
-<br/>
 <p align="center">6 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<br/>
 <p align="center">167 </p>
 </td>
 <td valign="top">
 <p>Diligences relatives à la notification des jugements et des requêtes, aux significations et aux convocations par voie d'huissier. </p>
 </td>
 <td valign="top">
-<br/>
 <p align="center">6 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<br/>
 <p align="center">168 </p>
 </td>
 <td valign="top">
 <p>Mention sur l'état des créances. </p>
 </td>
 <td valign="top">
-<br/>
 <p align="center">1 </p>
 </td>
 </tr>
 <tr>
-<td valign="top">
-<br/>
+<td align="left" valign="top">
 <p align="center">169 </p>
 </td>
-<td valign="top">
+<td align="left" valign="top">
 <p>Dépôt et conservation des documents, actes ou pièces, y inclus procès-verbal et certificat de dépôt ou reçus de déclaration. </p>
 </td>
-<td valign="top">
-<br/>
+<td align="left" valign="top">
 <p align="center">2 </p>
 </td>
 </tr>
@@ -553,7 +481,6 @@ ACTES JUDICIAIRES (1)
 <p>Extrait établi en vue des mesures de publicité. </p>
 </td>
 <td valign="top">
-<br/>
 <p align="center">1 </p>
 </td>
 </tr>
@@ -600,280 +527,259 @@ Registre des agents commerciaux
 </tr>
 <tr>
 <td valign="top">
-<br/>
 <p align="center">201 </p>
 </td>
 <td valign="top">
 <p>Personne physique. </p>
 </td>
 <td valign="top">
-<br/>
 <p align="center">36 </p>
 </td>
 </tr>
 <tr>
+<td>
+<p align="center">201 bis </p>
+</td>
+<td>
+<p align="left">Immatriculation principale par création d'une entreprise, personne physique </p>
+</td>
+<td>
+<p align="center">18</p>
+</td>
+</tr>
+<tr>
 <td valign="top">
-<br/>
 <p align="center">202 </p>
 </td>
 <td valign="top">
 <p>Personne morale : groupements d'intérêt économique, sociétés commerciales, sociétés non commerciales, établissements publics. </p>
 </td>
 <td valign="top">
-<br/>
 <p align="center">44 </p>
 </td>
 </tr>
 <tr>
+<td>
+<p align="center">202 bis</p>
+</td>
+<td>
+<p align="left">Immatriculation principale par création de sociétés commerciales </p>
+</td>
+<td>
+<p align="center">22</p>
+</td>
+</tr>
+<tr>
 <td valign="top">
-<br/>
 <p align="center">203 </p>
 </td>
 <td valign="top">
 <p>Inscriptions modificatives (3) : personne physique. </p>
 </td>
 <td valign="top">
-<br/>
 <p align="center">32 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<br/>
 <p align="center">204 </p>
 </td>
 <td valign="top">
 <p>Inscriptions modificatives et mentions d'office sous réserve des cas prévus par l'article R. 143-145 (3) : personne morale (groupements d'intérêt économique, sociétés commerciales, sociétés non commerciales, établissements publics). </p>
 </td>
 <td valign="top">
-<br/>
 <p align="center">42 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<br/>
 <p align="center">205 </p>
 </td>
 <td valign="top">
 <p>Diligences spécifiques en cas de transformation de sociétés. </p>
 </td>
 <td valign="top">
-<br/>
 <p align="center">15 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<br/>
 <p align="center">206 </p>
 </td>
 <td valign="top">
 <p>Mise à jour des renseignements figurant dans les immatriculations principales aux immatriculations secondaires et dans les immatriculations secondaires aux immatriculations principales de personnes physiques. </p>
 </td>
 <td valign="top">
-<br/>
 <p align="center">18 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<br/>
 <p align="center">207 </p>
 </td>
 <td valign="top">
 <p>Mise à jour des renseignements figurant dans les immatriculations principales aux immatriculations secondaires et dans les immatriculations secondaires aux immatriculations principales des personnes morales. </p>
 </td>
 <td valign="top">
-<br/>
 <p align="center">25 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<br/>
 <p align="center">208 </p>
 </td>
 <td valign="top">
 <p>Notification des mises à jour des immatriculations principales et secondaires concernant les personnes physiques. </p>
 </td>
 <td valign="top">
-<br/>
 <p align="center">6 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<br/>
 <p align="center">209 </p>
 </td>
 <td valign="top">
 <p>Notification des mises à jour des immatriculations principales et secondaires concernant les personnes morales. </p>
 </td>
 <td valign="top">
-<br/>
 <p align="center">8 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<br/>
 <p align="center">210 </p>
 </td>
 <td valign="top">
 <p>Dépôt des comptes annuels. </p>
 </td>
 <td valign="top">
-<br/>
 <p align="center">5 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<br/>
 <p align="center">211 </p>
 </td>
 <td valign="top">
 <p>Dépôt d'actes ou de pièces pour la publicité des sociétés (4), y inclus le certificat de dépôt. </p>
 </td>
 <td valign="top">
-<br/>
 <p align="center">6 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<br/>
 <p align="center">212 </p>
 </td>
 <td valign="top">
 <p>Certificat négatif d'immatriculation, communication d'actes ou de pièces déposées. </p>
 </td>
 <td valign="top">
-<br/>
 <p align="center">1 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<br/>
 <p align="center">213 </p>
 </td>
 <td valign="top">
 <p>Extrait du registre du commerce et des sociétés (5). </p>
 </td>
 <td valign="top">
-<br/>
 <p align="center">2 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<br/>
 <p align="center">214 </p>
 </td>
 <td valign="top">
 <p>Relevé historique des événements au registre du commerce et des sociétés. </p>
 </td>
 <td valign="top">
-<br/>
 <p align="center">5 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<br/>
 <p align="center">215 </p>
 </td>
 <td valign="top">
 <p>Copie des comptes et rapports annuels (forfait, quel que soit le nombre de page). </p>
 </td>
 <td valign="top">
-<br/>
 <p align="center">6 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<br/>
 <p align="center">216 </p>
 </td>
 <td valign="top">
 <p>Copie certifiée conforme (par page). </p>
 </td>
 <td valign="top">
-<br/>
 <p align="center">0,33 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<br/>
 <p align="center">217 </p>
 </td>
 <td valign="top">
 <p>Copie de statuts, actes ou de pièces déposées (forfait). </p>
 </td>
 <td valign="top">
-<br/>
 <p align="center">6 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<br/>
 <p align="center">218 </p>
 </td>
 <td valign="top">
 <p>Diligences de transmission de la formalité à l'INPI. </p>
 </td>
 <td valign="top">
-<br/>
 <p align="center">2 </p>
 </td>
 </tr>
 <tr>
 <td colspan="3" valign="top">
-<br/>
 <p align="center">B.-Registre des agents commerciaux </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<br/>
 <p align="center">221 </p>
 </td>
 <td valign="top">
 <p>Immatriculation (6) comprenant les émoluments de radiation. </p>
 </td>
 <td valign="top">
-<br/>
 <p align="center">6 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<br/>
 <p align="center">222 </p>
 </td>
 <td valign="top">
 <p>Inscription modificative (6). </p>
 </td>
 <td valign="top">
-<br/>
 <p align="center">2 </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<br/>
 <p align="center">223 </p>
 </td>
 <td valign="top">
 <p>Extrait d'inscription de la déclaration. </p>
 </td>
 <td valign="top">
-<br/>
 <p align="center">2 </p>
 </td>
 </tr>
@@ -881,102 +787,129 @@ Registre des agents commerciaux
 <td colspan="3">
 <div align="center">C.-Registre du commerce et des sociétés </div>
 <p align="center">Dépôt effectué par les entrepreneurs individuels à responsabilité limitée </p>
-<br/>
 </td>
 </tr>
 <tr>
 <td align="center">230 </td>
-<td>Dépôt de la déclaration d'affectation du patrimoine, de reprise ou de transfert (7) et mentions RCS (8) (9) (art. L. 526-7, L. 526-16 et L. 526-17-II) <br/>
+<td>
+<p align="left">Dépôt de la déclaration d'affectation du patrimoine, de reprise ou de transfert (7) et mentions RCS (8) (9) (art. L. 526-7, L. 526-16 et L. 526-17-II) <br/>
+</p>
 </td>
 <td align="center">32 </td>
 </tr>
 <tr>
 <td align="center">231 <br/>
 </td>
-<td>Dépôt de la déclaration modificative ou complémentaire de la déclaration d'affectation du patrimoine, entraînant mentions au RCS (10) <br/>
+<td>
+<p align="left">Dépôt de la déclaration modificative ou complémentaire de la déclaration d'affectation du patrimoine, entraînant mentions au RCS (10) <br/>
+</p>
 </td>
 <td align="center">28 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">232 </td>
-<td>Dépôt de la déclaration complémentaire d'affectation du patrimoine (art. L. 526-9, L. 526-10 et L. 526-11) ou des actes ou décisions de modification sans mentions RCS (10) <br/>
+<td>
+<p align="left">Dépôt de la déclaration complémentaire d'affectation du patrimoine (art. L. 526-9, L. 526-10 et L. 526-11) ou des actes ou décisions de modification sans mentions RCS (10) <br/>
+</p>
 </td>
 <td align="center">14 </td>
 </tr>
 <tr>
 <td align="center">233 </td>
-<td>Dépôt des comptes annuels au RCS ou du document comptable simplifié (art. L. 526-14) <br/>
+<td>
+<p align="left">Dépôt des comptes annuels au RCS ou du document comptable simplifié (art. L. 526-14) <br/>
+</p>
 </td>
 <td align="center">5 </td>
 </tr>
 <tr>
 <td align="center">234 </td>
-<td>Notification à un autre registre en cas de double immatriculation ou d'immatriculation secondaire <br/>
+<td>
+<p align="left">Notification à un autre registre en cas de double immatriculation ou d'immatriculation secondaire <br/>
+</p>
 </td>
 <td align="center">6 </td>
 </tr>
 <tr>
 <td align="center">235 </td>
-<td>Mise à jour des renseignements figurant dans les immatriculations principales aux immatriculations secondaires ou reçus d'un autre registre ou répertoire aux fins de mentions <br/>
+<td>
+<p align="left">Mise à jour des renseignements figurant dans les immatriculations principales aux immatriculations secondaires ou reçus d'un autre registre ou répertoire aux fins de mentions <br/>
+</p>
 </td>
 <td align="center">18 </td>
 </tr>
 <tr>
 <td align="center">236 </td>
-<td>Avis au BODACC relatif à la cession, y compris la délivrance du certificat (art. L. 526-17) <br/>
+<td>
+<p align="left">Avis au BODACC relatif à la cession, y compris la délivrance du certificat (art. L. 526-17) <br/>
+</p>
 </td>
 <td align="center">7 </td>
 </tr>
 <tr>
 <td align="center">237 </td>
-<td>Copie des comptes annuels ou du document comptable simplifié ou de la déclaration d'affectation <br/>
+<td>
+<p align="left">Copie des comptes annuels ou du document comptable simplifié ou de la déclaration d'affectation <br/>
+</p>
 </td>
 <td align="center">6 </td>
 </tr>
 <tr>
 <td colspan="3">
 <div align="center">D.-Registre des agents commerciaux </div>
-<p align="center">Dépôt effectué par les entrepreneurs individuels à responsabilité limitée </p>
-<br/>
+<p align="center">Dépôt effectué par les entrepreneurs individuels à responsabilité limitée <br/>
+</p>
 </td>
 </tr>
 <tr>
 <td align="center">240 <br/>
 </td>
-<td>Dépôt de la déclaration d'affectation du patrimoine, de reprise ou de transfert (7) et mentions au RSAC (8) (art. L. 526-7, L. 526-16 et L. 526-17-II) </td>
+<td>
+<p align="left">Dépôt de la déclaration d'affectation du patrimoine, de reprise ou de transfert (7) et mentions au RSAC (8) (art. L. 526-7, L. 526-16 et L. 526-17-II) </p>
+</td>
 <td align="center">32 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">241 <br/>
 </td>
-<td>Dépôt de la déclaration modificative ou complémentaire de la déclaration d'affectation du patrimoine entraînant mentions au RSAC (11) </td>
+<td>
+<p align="left">Dépôt de la déclaration modificative ou complémentaire de la déclaration d'affectation du patrimoine entraînant mentions au RSAC (11) </p>
+</td>
 <td align="center">28 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">242 <br/>
 </td>
-<td>Dépôt de la déclaration complémentaire d'affectation du patrimoine (art. L. 526-9, L. 526-10 et L. 526-11) ou des actes ou décisions de modification sans mentions au RSAC (11) </td>
+<td>
+<p align="left">Dépôt de la déclaration complémentaire d'affectation du patrimoine (art. L. 526-9, L. 526-10 et L. 526-11) ou des actes ou décisions de modification sans mentions au RSAC (11) </p>
+</td>
 <td align="center">14 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">243 </td>
-<td>Dépôt des comptes annuels ou du document comptable simplifié (art. L. 526-14) <br/>
+<td>
+<p align="left">Dépôt des comptes annuels ou du document comptable simplifié (art. L. 526-14) <br/>
+</p>
 </td>
 <td align="center">5 </td>
 </tr>
 <tr>
 <td align="center">244 </td>
-<td>Avis au BODACC relatif à la cession, y compris la délivrance du certificat (art. L. 526-17) <br/>
+<td>
+<p align="left">Avis au BODACC relatif à la cession, y compris la délivrance du certificat (art. L. 526-17) <br/>
+</p>
 </td>
 <td align="center">7 </td>
 </tr>
 <tr>
 <td align="center">245 </td>
-<td>Copie des comptes annuels ou du document comptable simplifié ou de la déclaration d'affectation <br/>
+<td>
+<p align="left">Copie des comptes annuels ou du document comptable simplifié ou de la déclaration d'affectation <br/>
+</p>
 </td>
 <td align="center">6 </td>
 </tr>
@@ -984,46 +917,61 @@ Registre des agents commerciaux
 <td colspan="3">
 <div align="center">E.-Registre des entrepreneurs individuels </div>
 <p align="center">à responsabilité limitée visés au 3° de l'article L. 526-7 </p>
-<br/>
 </td>
 </tr>
 <tr>
 <td align="center">250 </td>
-<td>Immatriculation y compris après reprise ou transfert (7) (art. L. 526-7, L. 526-16 et L. 526-17-II) comprenant le dépôt de la déclaration d'affectation du patrimoine et les émoluments de radiation </td>
+<td>
+<p align="left">Immatriculation y compris après reprise ou transfert (7) (art. L. 526-7, L. 526-16 et L. 526-17-II) comprenant le dépôt de la déclaration d'affectation du patrimoine et les émoluments de radiation </p>
+</td>
 <td align="center">36 </td>
 </tr>
 <tr>
 <td align="center">251 </td>
-<td>Dépôt de la déclaration modificative ou complémentaire de la déclaration d'affectation du patrimoine, entraînant mentions au registre (11) <br/>
+<td>
+<p align="left">Dépôt de la déclaration modificative ou complémentaire de la déclaration d'affectation du patrimoine, entraînant mentions au registre (11) <br/>
+</p>
 </td>
 <td align="center">28 </td>
 </tr>
 <tr>
 <td align="center">252 </td>
-<td>Dépôt de la déclaration complémentaire d'affectation du patrimoine (art. L. 526-9, L. 526-10 et L. 526-11) ou des actes ou décisions de modification sans mentions au registre (11) </td>
+<td>
+<p align="left">Dépôt de la déclaration complémentaire d'affectation du patrimoine (art. L. 526-9, L. 526-10 et L. 526-11) ou des actes ou décisions de modification sans mentions au registre (11) </p>
+</td>
 <td align="center">14 </td>
 </tr>
 <tr>
 <td align="center">253 </td>
-<td>Dépôt des comptes annuels ou du document comptable simplifié (art. L. 526-14) <br/>
+<td>
+<p align="left">Dépôt des comptes annuels ou du document comptable simplifié (art. L. 526-14) <br/>
+</p>
 </td>
 <td align="center">5 </td>
 </tr>
 <tr>
-<td align="center">254 <br/>
+<td align="center">
+<p align="center">254 <br/>
+</p>
 </td>
-<td>Avis au BODACC relatif à la cession, y compris la délivrance du certificat (art. L. 526-17) </td>
+<td>
+<p align="left">Avis au BODACC relatif à la cession, y compris la délivrance du certificat (art. L. 526-17) </p>
+</td>
 <td align="center">7 <br/>
 </td>
 </tr>
 <tr>
 <td align="center">255 </td>
-<td>Copie des comptes annuels ou du document comptable simplifié ou de la déclaration d'affectation <br/>
+<td>
+<p align="left">Copie des comptes annuels ou du document comptable simplifié ou de la déclaration d'affectation <br/>
+</p>
 </td>
 <td align="center">6 </td>
 </tr>
 <tr>
-<td align="center">256 <br/>
+<td align="center">
+<p align="center">256 <br/>
+</p>
 </td>
 <td>Extrait du registre des entrepreneurs individuels à responsabilité limitée </td>
 <td align="center">2 <br/>
