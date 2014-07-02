@@ -1,4 +1,4 @@
-# Article R312-7
+# Article R312-18
 
 Pour l'application de l'article L. 312-2, les émissions de titres de créance sont assimilables au recueil de fonds remboursables du public lorsqu'elles respectent les conditions et limites suivantes :
 
