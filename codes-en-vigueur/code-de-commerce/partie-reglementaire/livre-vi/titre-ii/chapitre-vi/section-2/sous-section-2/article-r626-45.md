@@ -1,6 +1,6 @@
 # Article R626-45
 
-La demande présentée par le débiteur en application de l'article L. 626-26 est faite par déclaration au greffe.
+La demande présentée par le débiteur en application de l'article L. 626-26 est faite par déclaration au greffe. Celle du commissaire à l'exécution du plan est faite par requête.
 
 Le greffier convoque, par lettre recommandée avec demande d'avis de réception, le débiteur, les contrôleurs, les représentants du comité d'entreprise ou, à défaut, des délégués du personnel qui sont désignés conformément à l'article R. 621-2. Il avise de la date de l'audience le ministère public ainsi que le commissaire à l'exécution du plan.
 

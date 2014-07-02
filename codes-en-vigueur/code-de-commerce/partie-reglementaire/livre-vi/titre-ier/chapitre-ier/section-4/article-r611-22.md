@@ -10,7 +10,9 @@ La requête aux fins d'ouverture d'une procédure de conciliation adressée ou r
 
 4° Les comptes annuels, le tableau de financement ainsi que la situation de l'actif réalisable et disponible, valeurs d'exploitation exclues, et du passif exigible des trois derniers exercices, si ces documents ont été établis ;
 
-5° Une attestation sur l'honneur certifiant l'absence de procédure de conciliation dans les trois mois précédant la date de la demande.
+5° Une attestation sur l'honneur certifiant l'absence de procédure de conciliation dans les trois mois précédant la date de la demande ;
+
+6° Une déclaration indiquant, le cas échéant, la prise en charge par un tiers des frais de la procédure demandée.
 
 Le cas échéant, la requête précise la date de cessation des paiements.
 

@@ -1,3 +1,3 @@
 # Article R642-39
 
-Les ordonnances rendues en application des articles L. 642-18 et L. 642-19 sont notifiées par le greffier au débiteur et aux contrôleurs.
+Pour l'application du deuxième alinéa de l'article L. 642-20, le juge-commissaire est saisi par le ministère public, le liquidateur ou le débiteur. Lorsque la vente de gré à gré au profit d'une même personne porte sur un ou plusieurs biens pour un prix, hors taxe, supérieur au taux de compétence en dernier ressort du tribunal de grande instance, le liquidateur établit un rapport sur les diligences effectuées pour la recherche d'un cessionnaire.

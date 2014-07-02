@@ -6,4 +6,4 @@ Le président fixe l'affaire au rôle du tribunal au plus tard dix jours avant l
 
 Le tribunal statue sur la prolongation de la période d'observation après avis du ministère public. Il recueille préalablement les observations du débiteur, de l'administrateur, du mandataire judiciaire et des contrôleurs.
 
-La décision prolongeant la période d'observation est communiquée aux personnes mentionnées à l'article R. 621-7 et aux contrôleurs. Elle est mentionnée aux registres ou répertoires prévus à l'article R. 621-8.
+La décision prolongeant la période d'observation est communiquée aux personnes mentionnées à l'article R. 621-7 et aux contrôleurs. Elle est mentionnée aux registres ou répertoires prévus aux trois premiers alinéas de l'article R. 621-8.

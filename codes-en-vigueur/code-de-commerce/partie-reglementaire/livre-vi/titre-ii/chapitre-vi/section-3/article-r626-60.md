@@ -5,3 +5,5 @@ Pour l'application de l'article L. 626-32, un avis de convocation de l'assemblé
 Si toutes les obligations émises par le débiteur sont nominatives, les insertions prévues à l'alinéa précédent peuvent être remplacées par une convocation adressée à chaque obligataire par lettre simple ou recommandée. Dans le cas d'obligations indivises, les convocations sont adressées à tous les co-indivisaires. Lorsque les obligations sont grevées d'un usufruit, la convocation est adressée au nu-propriétaire.
 
 Le délai entre la date soit de l'insertion contenant l'avis de convocation, soit de l'envoi des lettres de convocation et la date du vote par l'assemblée générale des obligataires est au moins de quinze jours.
+
+L'invitation mentionnée au premier alinéa de l'article R. 626-58 est insérée dans l'avis prévu par le premier alinéa du présent article ou à la convocation prévue par le second alinéa.
