@@ -14,4 +14,4 @@ Elle est accompagnée de l'avis préalable du comité d'entreprise en applicatio
 
 Lorsque la demande s'effectue sur le fondement du II de l'article R. 5122-9, elle mentionne les engagements que l'employeur propose de souscrire.
 
-La demande d'autorisation est adressée par voie dématérialisée.
+La demande d'autorisation est adressée par voie dématérialisée dans les conditions fixées par l'article R. 5122-26.

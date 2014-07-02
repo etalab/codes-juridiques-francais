@@ -12,6 +12,6 @@ Cette demande comporte :
 
 Pour les établissements appliquant un accord d'aménagement du temps de travail sur une période supérieure à la semaine et inférieure à l'année, l'employeur y joint, dans le cas où il ne souhaite pas un remboursement à la fin de la période, une demande de remboursement mensuel.
 
-La demande est adressée par voie dématérialisée.
+La demande est adressée par voie dématérialisée à l'Agence de services et de paiement qui se charge d'en assurer la conservation selon des modalités garantissant l'intégrité des informations reçues.
 
 Après vérification, l'Agence de services et de paiement liquide l'allocation d'activité partielle selon les modalités fixées aux articles R. 5122-14 à R. 5122-17.
