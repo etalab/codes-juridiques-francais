@@ -1,3 +1,3 @@
 # Sous-section 2 : Du chef du service du greffe
 
-- [Article D111-5](article-d111-5.md)
+- [Article D112-23](article-d112-23.md)
