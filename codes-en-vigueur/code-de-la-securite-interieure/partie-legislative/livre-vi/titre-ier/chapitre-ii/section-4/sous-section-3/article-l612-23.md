@@ -1,6 +1,6 @@
 # Article L612-23
 
-Par dérogation à l'article L. 612-20, une autorisation provisoire d'être employé pour participer à une activité mentionnée à l'article L. 611-1 est délivrée à la personne non titulaire de la carte professionnelle, sur sa demande, au vu des conditions fixées aux 1°, 2° et 3° de l'article L. 612-20.
+Par dérogation à l'article L. 612-20, une autorisation provisoire d'être employé pour participer à une activité mentionnée aux 1° à 3° de l'article L. 611-1 est délivrée à la personne non titulaire de la carte professionnelle, sur sa demande, au vu des conditions fixées aux 1°, 2° et 3° de l'article L. 612-20.
 
 Toute personne physique ou morale exerçant une activité mentionnée à l'article L. 611-1 concluant un contrat de travail avec une personne titulaire de cette autorisation lui assure la délivrance sans délai d'une formation en vue de justifier de l'aptitude professionnelle. La personne titulaire de l'autorisation provisoire susvisée ne peut pas être affectée à un poste correspondant à une activité mentionnée à l'article L. 611-1.
 

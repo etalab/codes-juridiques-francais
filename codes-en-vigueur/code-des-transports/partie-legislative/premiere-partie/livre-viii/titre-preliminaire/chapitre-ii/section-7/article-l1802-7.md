@@ -12,4 +12,6 @@ Les dispositions du présent code applicables en Polynésie française sont ains
 
 5° Les références au code du travail sont remplacées par des références aux textes de droit du travail applicables en Polynésie française ;
 
-6° Les références au code de l'urbanisme et au code du commerce sont remplacées par des références aux textes applicables localement en la matière.
+6° Les références au code de l'urbanisme et au code du commerce sont remplacées par des références aux textes applicables localement en la matière ;
+
+7° Les montants exprimés en euros sont applicables en Polynésie française sous réserve de leur contre-valeur en monnaie locale.

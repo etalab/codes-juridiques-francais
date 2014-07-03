@@ -1,6 +1,6 @@
 # Article L612-1
 
-Seules peuvent être autorisées à exercer à titre professionnel, pour elles-mêmes ou pour autrui, les activités énumérées aux 1° à 3° de l'article L. 611-1 :
+Seules peuvent être autorisées à exercer à titre professionnel, pour elles-mêmes ou pour autrui, les activités énumérées aux 1° à 3° de l'article L. 611-1, et à titre professionnel, pour autrui exclusivement, l'activité mentionnée au 4° du même article L. 611-1 :
 
 1° Les personnes physiques ou morales immatriculées au registre du commerce et des sociétés ;
 

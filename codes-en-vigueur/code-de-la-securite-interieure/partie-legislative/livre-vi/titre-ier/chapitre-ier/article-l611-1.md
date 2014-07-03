@@ -7,3 +7,5 @@ Sont soumises aux dispositions du présent titre, dès lors qu'elles ne sont pas
 2° A transporter et à surveiller, jusqu'à leur livraison effective, des bijoux représentant une valeur d'au moins 100 000 euros, des fonds, sauf, pour les employés de La Poste ou des établissements de crédit habilités par leur employeur, lorsque leur montant est inférieur à 5 335 euros, ou des métaux précieux ainsi qu'à assurer le traitement des fonds transportés ;
 
 3° A protéger l'intégrité physique des personnes.
+
+4° A la demande et pour le compte d'un armateur, à protéger, contre les menaces extérieures, des navires battant pavillon français, en application de l'article L. 5441-1 du code des transports.

@@ -12,4 +12,6 @@ Les dispositions du présent code applicables à Wallis-et-Futuna sont ainsi ada
 
 5° Les références au code du travail sont remplacées par des références à la loi n° 52-1322 du 15 décembre 1952 modifiée instituant un code du travail dans les territoires et territoires associés relevant du ministère chargé de l'outre-mer ;
 
-6° Les références au code de l'urbanisme sont remplacées par des références aux textes applicables localement en la matière.
+6° Les références au code de l'urbanisme sont remplacées par des références aux textes applicables localement en la matière ;
+
+7° Les montants exprimés en euros sont applicables dans les îles Wallis et Futuna sous réserve de leur contre-valeur en monnaie locale.

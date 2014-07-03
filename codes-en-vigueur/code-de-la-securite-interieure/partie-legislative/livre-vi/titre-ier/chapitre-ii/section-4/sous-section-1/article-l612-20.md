@@ -18,4 +18,6 @@ Si son titulaire utilise un chien dans le cadre de son activité, la carte profe
 
 La carte professionnelle peut être retirée lorsque son titulaire cesse de remplir l'une des conditions prévues aux 1°, 2° et 3°. Elle peut également être retirée en cas de méconnaissance des dispositions prévues à l'article L. 214-1 du code rural et de la pêche maritime.
 
+Pour l'exercice de l'activité mentionnée au 4° de l'article L. 611-1 du présent code, la condition prévue au 4° du présent article n'est pas applicable. La délivrance de la carte professionnelle répond en outre aux conditions exigées à l'article L. 616-2.
+
 En cas d'urgence, le président de la commission régionale d'agrément et de contrôle peut retirer la carte professionnelle. En outre, le représentant de l'Etat peut retirer la carte professionnelle en cas de nécessité tenant à l'ordre public.

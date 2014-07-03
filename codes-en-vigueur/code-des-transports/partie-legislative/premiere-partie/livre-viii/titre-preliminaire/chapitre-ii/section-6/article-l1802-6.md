@@ -12,4 +12,6 @@ Les dispositions du présent code applicables en Nouvelle-Calédonie sont ainsi 
 
 5° Les références au code du travail sont remplacées par des références au code du travail applicable en Nouvelle-Calédonie ;
 
-6° Les références au code des postes et des communications électroniques et au code de l'urbanisme sont remplacées par des références aux textes applicables localement en la matière.
+6° Les références au code des postes et des communications électroniques et au code de l'urbanisme sont remplacées par des références aux textes applicables localement en la matière ;
+
+7° Les montants exprimés en euros sont applicables en Nouvelle-Calédonie sous réserve de leur contre-valeur en monnaie locale.

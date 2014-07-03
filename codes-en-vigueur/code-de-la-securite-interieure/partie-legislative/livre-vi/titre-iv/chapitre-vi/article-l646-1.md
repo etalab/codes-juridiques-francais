@@ -18,13 +18,13 @@ Le titre Ier, à l'exception des articles L. 613-10 et L. 613-11, et le titre II
 
 a) Le 4° est ainsi rédigé :
 
-" 4° Pour un ressortissant étranger, s'il ne dispose pas d'un titre de  séjour lui permettant d'exercer une activité sur le territoire de la  Nouvelle-Calédonie et s'il ne dispose pas d'une autorisation de travail  prévue par les dispositions applicables localement ; ” ;
+" 4° Pour un ressortissant étranger, s'il ne dispose pas d'un titre de séjour lui permettant d'exercer une activité sur le territoire de la Nouvelle-Calédonie et s'il ne dispose pas d'une autorisation de travail prévue par les dispositions applicables localement ; ” ;
 
-b) A l'avant-dernier alinéa, les mots : " prévues à l'article L. 214-1 du code rural et de la pêche maritime ” sont remplacés par les mots : " applicables localement ” ;
+b) Au neuvième alinéa, les mots : " prévues à l'article L. 214-1 du code rural et de la pêche maritime ” sont remplacés par les mots : " applicables localement ” ;
 
 8° A l'article L. 612-21, les mots : " dans les conditions prévues à l'article L. 1234-9 du code du travail " et les mots : " dans les conditions prévues à l'article L. 5421-1 de ce code " sont remplacés par les mots : " conformément aux dispositions applicables localement " ;
 
-9° Au deuxième alinéa de l'article L. 613-7, les mots : " des articles L. 214-2 et L. 214-3 du code rural et de la pêche maritime " sont remplacés par les mots : " des dispositions applicables localement "  ;
+9° Au deuxième alinéa de l'article L. 613-7, les mots : " des articles L. 214-2 et L. 214-3 du code rural et de la pêche maritime " sont remplacés par les mots : " des dispositions applicables localement " ;
 
 10° L'article L. 614-1 est ainsi rédigé :
 
@@ -32,7 +32,7 @@ b) A l'avant-dernier alinéa, les mots : " prévues à l'article L. 214-1 du cod
 
 " Un arrêté du haut-commissaire de la République en Nouvelle-Calédonie précise les zones dans lesquelles cette obligation s'applique ainsi que les caractéristiques des immeubles ou locaux qui y sont assujettis. " ;
 
-11° A l'article L. 616-1, les mots : " prévu aux articles L. 1221-13 et L. 1221-15 du code du travail " sont remplacés par les mots : " conformément aux dispositions applicables localement " et les mots : " mentionnés aux articles L. 3171-3, L. 8113-4 et L. 8113-5 du même code " sont remplacés par les mots : " obligatoires aux termes des dispositions applicables localement " ;
+11° A l'article L. 611-2, les mots : " prévu aux articles L. 1221-13 et L. 1221-15 du code du travail " sont remplacés par les mots : " conformément aux dispositions applicables localement " et les mots : " mentionnés aux articles L. 3171-3, L. 8113-4 et L. 8113-5 du même code " sont remplacés par les mots : " obligatoires aux termes des dispositions applicables localement " ;
 
 12° A l'article L. 617-16, le deuxième alinéa est supprimé ;
 
