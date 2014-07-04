@@ -8,4 +8,4 @@ Lorsque le préfet estime que les manquements relevés ne justifient pas le retr
 
 La décision de retrait ou de modification d'un enregistrement de déclaration est prise par le préfet du département où la déclaration a été enregistrée. Elle est publiée au recueil des actes administratifs de la préfecture.
 
-Le préfet en informe l'Agence nationale des services à la personne ainsi que le directeur des services fiscaux et l'organisme chargé du recouvrement des cotisations de sécurité sociale territorialement compétents.
+Le préfet en informe        le ministre chargé des services à la personne ainsi que le directeur des services fiscaux et l'organisme chargé du recouvrement des cotisations de sécurité sociale territorialement compétents.
