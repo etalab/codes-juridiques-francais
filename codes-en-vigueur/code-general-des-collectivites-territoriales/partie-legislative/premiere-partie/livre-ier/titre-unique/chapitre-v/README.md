@@ -1,4 +1,4 @@
-# CHAPITRE V : Coopération décentralisée
+# CHAPITRE V : Action extérieure des collectivités territoriales
 
 - [Article L1115-1](article-l1115-1.md)
 - [Article L1115-1-1](article-l1115-1-1.md)

@@ -24,7 +24,9 @@ C. ― Compte tenu des modalités particulières de contrôle dont elles font l'
 
 2° Les courtiers et sociétés de courtage d'assurance en assurance et en réassurance mentionnés à l'article L. 511-1 du code des assurances ainsi que les intermédiaires en opération de banque et en services de paiement, les associations sans but lucratif et les fondations reconnues d'utilité publique mentionnées au 5° de l'article L. 511-6 du présent code et les personnes morales mentionnées à l'article L. 313-21-1 acquittent chacun une contribution forfaitaire comprise entre 100 € et 300 €, définie par arrêté du ministre chargé de l'économie. Les personnes exerçant simultanément une activité de courtage en assurance et en réassurance et une activité d'intermédiaire en opérations de banque et en services de paiement ou une autre activité soumise à contribution au profit de l'Autorité de contrôle prudentiel et de résolution n'acquittent qu'une seule contribution ;
 
-3° Les personnes mentionnées aux 4° bis et 11° du A du I de l'article L. 612-2 acquittent chacune une contribution forfaitaire comprise entre 5 000 € et 15 000 €, fixée par arrêté du ministre chargé de l'économie.
+3° Les personnes mentionnées aux 4° bis et 11° du A du I de l'article L. 612-2 acquittent chacune une contribution forfaitaire comprise entre 5 000 € et 15 000 €, fixée par arrêté du ministre chargé de l'économie ;
+
+4° Les établissements de crédit mentionnés à l'article L. 318-1 acquittent, au moment du dépôt de leur demande d'autorisation, une contribution forfaitaire fixée par arrêté du ministre chargé de l'économie, dans la limite de 10 000 €.
 
 III. ― Le taux de la contribution visée au A et au B du II du présent article est compris entre :
 
