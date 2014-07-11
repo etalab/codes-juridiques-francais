@@ -18,7 +18,11 @@ Pour l'application du présent code, les termes ci-après ont le sens qui leur e
 
 1. 7. Autocar : autobus, répondant à des caractéristiques définies par arrêté du ministre chargé des transports, affecté au transport de personnes sur de longues distances et permettant le transport des occupants du véhicule principalement en places assises ;
 
-1. 8. Autobus articulé ou autocar articulé : autobus ou autocar composé d'au moins deux tronçons rigides reliés entre eux par des sections articulées, lesquelles permettent la libre circulation des voyageurs ; les sections rigides sont reliées de façon permanente et ne peuvent être disjointes que par une opération nécessitant des installations spécifiques.
+1. 8. Autobus articulé ou autocar articulé : autobus ou autocar composé d'au moins deux tronçons rigides reliés entre eux par des sections articulées, lesquelles permettent la libre circulation des voyageurs ; les sections rigides sont reliées de façon permanente et ne peuvent être disjointes que par une opération nécessitant des installations spécifiques ;
+
+1.9. Véhicule de transport en commun d'enfants : véhicule de catégorie M2 ou M3 affecté à titre principal au transport de personnes de moins de dix-huit ans, quel que soit le motif du déplacement.
+
+1.10. Véhicule affecté au transport d'enfants : véhicule comportant, outre le siège du conducteur, huit places assises au maximum défini aux points 1.4 et 6.7 du présent article assurant un transport organisé à titre principal pour des personnes de moins de dix-huit ans, quel que soit le motif du déplacement.
 
 2. Véhicules de catégorie N : véhicules à moteur conçus et construits pour le transport de marchandises et ayant au moins quatre roues :
 

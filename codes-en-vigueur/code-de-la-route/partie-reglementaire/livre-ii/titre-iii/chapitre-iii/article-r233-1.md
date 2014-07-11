@@ -16,7 +16,9 @@ a) A été condamné à une peine d'interdiction de conduire un véhicule qui ne
 
 b) Est soumis à l'obligation prévue au 4° bis de l'article 41-2 du code de procédure pénale ;
 
-6° Un éthylotest dans les conditions prévues à l'article R. 234-7 (1).
+6° Un éthylotest dans les conditions prévues à l'article R. 234-7 (1) ;
+
+7° Le procès-verbal de contrôle technique périodique pour les véhicules mentionnés aux articles R. 323-23 et R. 323-25.
 
 II. - En cas de perte ou de vol du titre justifiant de l'autorisation de conduire le récépissé de déclaration de perte ou de vol tient lieu de titre pendant un délai de deux mois au plus.
 

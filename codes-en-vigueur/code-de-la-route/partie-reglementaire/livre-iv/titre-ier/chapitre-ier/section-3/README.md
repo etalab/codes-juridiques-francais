@@ -9,4 +9,6 @@
 - [Article R411-21-1](article-r411-21-1.md)
 - [Article R411-22](article-r411-22.md)
 - [Article R411-23](article-r411-23.md)
+- [Article R411-23-1](article-r411-23-1.md)
+- [Article R411-23-2](article-r411-23-2.md)
 - [Article R411-24](article-r411-24.md)
