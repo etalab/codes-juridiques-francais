@@ -22,7 +22,9 @@ Lorsque la loi le prévoit à l'encontre d'une personne morale, un crime ou un d
 
 10° La confiscation de l'animal ayant été utilisé pour commettre l'infraction ou à l'encontre duquel l'infraction a été commise ;
 
-11° L'interdiction, à titre définitif ou pour une durée de cinq ans au plus, de détenir un animal.
+11° L'interdiction, à titre définitif ou pour une durée de cinq ans au plus, de détenir un animal ;
+
+12° L'interdiction, pour une durée de cinq ans au plus de percevoir toute aide publique attribuée par l'Etat, les collectivités territoriales, leurs établissements ou leurs groupements ainsi que toute aide financière versée par une personne privée chargée d'une mission de service public.
 
 La peine complémentaire de confiscation est également encourue de plein droit pour les crimes et pour les délits punis d'une peine d'emprisonnement d'une durée supérieure à un an, à l'exception des délits de presse.
 

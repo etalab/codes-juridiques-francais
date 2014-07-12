@@ -4,3 +4,4 @@
 - [Article L8272-2](article-l8272-2.md)
 - [Article L8272-3](article-l8272-3.md)
 - [Article L8272-4](article-l8272-4.md)
+- [Article L8272-5](article-l8272-5.md)

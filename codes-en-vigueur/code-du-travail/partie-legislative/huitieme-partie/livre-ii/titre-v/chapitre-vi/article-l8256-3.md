@@ -8,7 +8,7 @@ Les personnes physiques coupables des infractions prévues à l'article L. 8256-
 
 3° La confiscation des objets ayant servi, directement ou indirectement, à commettre l'infraction ou qui ont été utilisés à cette occasion, à quelque personne qu'ils appartiennent dès lors que leur propriétaire ne pouvait en ignorer l'utilisation frauduleuse, ainsi que des objets qui sont le produit de l'infraction et qui appartiennent au condamné ;
 
-4° L'affichage ou la diffusion de la décision prononcée, dans les conditions prévues par l'article 131-35 du code pénal ;
+4° L'affichage ou la diffusion de la décision prononcée, dans les conditions prévues à l'article 131-35 du code pénal. Lorsqu'une amende est prononcée, la juridiction peut ordonner que cette diffusion soit opérée, pour une durée maximale de deux ans, par les services du ministre chargé du travail sur un site internet dédié, dans des conditions prévues par décret en Conseil d'Etat pris après avis de la Commission nationale de l'informatique et des libertés ;
 
 5° L'interdiction, suivant les modalités prévues par l'article 131-26 du code pénal, des droits civiques, civils et de la famille ;
 
