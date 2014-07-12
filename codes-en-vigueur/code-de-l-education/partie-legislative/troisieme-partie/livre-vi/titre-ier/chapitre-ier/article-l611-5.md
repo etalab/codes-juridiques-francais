@@ -1,6 +1,6 @@
 # Article L611-5
 
-Un bureau d'aide à l'insertion professionnelle des étudiants est créé dans chaque université par délibération du conseil d'administration après avis de la commission de la formation et de la vie universitaire du conseil académique. Ce bureau a pour mission de favoriser un égal accès aux stages à tous ses étudiants. Il est notamment chargé de diffuser aux étudiants une offre de stages et d'emplois variée et en lien avec les formations proposées par l'université et d'assister les étudiants dans leur recherche de stages et d'un premier emploi.
+Un bureau d'aide à l'insertion professionnelle des étudiants est créé dans chaque université par délibération du conseil d'administration après avis de la commission de la formation et de la vie universitaire du conseil académique. Ce bureau remplit la mission définie au 1° de l'article L. 124-2. Il est notamment chargé de diffuser aux étudiants une offre de stages et d'emplois variée et en lien avec les formations proposées par l'université et d'assister les étudiants dans leur recherche de stages et d'un premier emploi.
 
 Il conseille les étudiants sur leurs problématiques liées à l'emploi et à l'insertion professionnelle. Il prépare les étudiants qui en font la demande aux entretiens préalables aux embauches. Il recense les entreprises susceptibles d'offrir aux étudiants une expérience professionnelle en lien avec les grands domaines de formation enseignés dans l'université, en vue de leur proposer la signature de conventions de stage.
 
