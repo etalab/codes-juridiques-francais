@@ -5,4 +5,3 @@
 - [Sous-section 3 : Obligations des fournisseurs et des destinataires](sous-section-3)
 - [Sous-section 4 : Certification](sous-section-4)
 - [Sous-section 5 : Transferts soumis à une procédure spécifique](sous-section-5)
-- [Sous-section 6 : Dispositions communes](sous-section-6)

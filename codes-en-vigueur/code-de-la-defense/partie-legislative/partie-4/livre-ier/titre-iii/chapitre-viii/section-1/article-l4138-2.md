@@ -6,9 +6,9 @@ Reste dans cette position le militaire :
 
 1° Qui bénéficie :
 
-a) De congés de maladie ;
+a)   De congés de maladie ou du congé du blessé ;
 
-b) De congés     de maternité, de paternité et d'accueil de l'enfant ou d'adoption  ;
+b) De congés de maternité, de paternité et d'accueil de l'enfant ou d'adoption ;
 
 c) De permissions ou de congés de fin de campagne ;
 

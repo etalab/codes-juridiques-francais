@@ -1,6 +1,6 @@
 # Article L2335-1
 
-I.-L'importation sans autorisation préalable des matériels des catégories A, B ainsi que des matériels des catégories C et D figurant sur une liste fixée par un décret en Conseil d'Etat mentionnés à l'article L. 2331-1 provenant des Etats non membres de l'Union européenne est prohibée.
+I.-L'importation sans autorisation préalable des matériels des catégories A, B ainsi que des matériels des catégories C et D figurant sur une liste fixée par un décret en Conseil d'Etat mentionnés à l'article L. 2331-1         provenant des Etats non membres de l'Union européenne ainsi que des territoires exclus du territoire douanier de l'Union européenne est prohibée.
 
 L'autorité administrative détermine les conditions dans lesquelles il peut être dérogé à cette prohibition et les conditions dans lesquelles une autorisation d'importation peut être délivrée.
 

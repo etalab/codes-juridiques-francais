@@ -1,4 +1,4 @@
-# Sous-section 2 : Sanctions pénales.
+# Sous-section 2 : Dispositions applicables aux installations et activités nucléaires intéressant la défense
 
 - [Article L1333-9](article-l1333-9.md)
 - [Article L1333-10](article-l1333-10.md)
@@ -16,3 +16,4 @@
 - [Article L1333-13-9](article-l1333-13-9.md)
 - [Article L1333-13-10](article-l1333-13-10.md)
 - [Article L1333-13-11](article-l1333-13-11.md)
+- [Article L1333-16](article-l1333-16.md)

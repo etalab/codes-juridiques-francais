@@ -72,7 +72,7 @@ L'âge maximal de maintien en première section est de soixante-sept ans ;
 </tr>
 <tr>
 <td valign="top" width="190">
-<p>Commissaires des armées (1), officiers des corps techniques et administratifs, ingénieurs militaires des essences, administrateurs des affaires maritimes </p>
+<p>Commissaires des armées (1), officiers des corps techniques et administratifs, ingénieurs militaires des essences, administrateurs des affaires maritimes, officiers spécialistes de l'armée de terre, officiers logisticiens des essences. </p>
 </td>
 <td colspan="4" valign="bottom" width="398">
 <p align="center">62 </p>
@@ -83,7 +83,7 @@ L'âge maximal de maintien en première section est de soixante-sept ans ;
 </tr>
 <tr>
 <td valign="top" width="190">
-<p>Médecins, pharmaciens, vétérinaires et chirurgiens-dentistes </p>
+<p>Médecins, pharmaciens, vétérinaires et chirurgiens-dentistes</p>
 </td>
 <td colspan="4" valign="bottom" width="398">
 <p align="center">62 </p>
@@ -116,7 +116,7 @@ L'âge maximal de maintien en première section est de soixante-sept ans ;
 </tr>
 <tr>
 <td valign="top" width="190">
-<p>Officiers greffiers, chefs de musique, fonctionnaires détachés au sein de la poste interarmées, fonctionnaires détachés au sein de la trésorerie aux armées, aumôniers militaires, officiers spécialistes de l'armée de terre, officiers logisticiens des essences </p>
+<p>Officiers greffiers, chefs de musique, fonctionnaires détachés au sein de la poste interarmées, fonctionnaires détachés au sein de la trésorerie aux armées, aumôniers militaires</p>
 </td>
 <td colspan="4" valign="bottom" width="398">
 <p align="center">66</p>
@@ -131,6 +131,8 @@ L'âge maximal de maintien en première section est de soixante-sept ans ;
 Les officiers du service de santé des armées du grade de chef des services qui ne sont pas régis par les dispositions du chapitre Ier du titre IV relatif aux officiers généraux peuvent être temporairement maintenus en activité au-delà de l'âge de soixante-deux ans, pour une durée déterminée en fonction des emplois à pourvoir, sans toutefois pouvoir servir au-delà de l'âge de soixante-sept ans. Dans ce cas, la limite d'âge retenue pour l'application du 1° du I de l'article L. 14 du code des pensions civiles et militaires de retraite correspond au terme de la durée ainsi déterminée.
 
 Le chef des orchestres de la garde républicaine et le chef adjoint des orchestres de la garde républicaine peuvent, sur demande agréée, être maintenus en service au-delà de la limite d'âge par périodes de deux ans renouvelables ;
+
+Les officiers du corps technique et administratif de la marine admis d'office, le 1er janvier 2016, dans le corps des officiers spécialisés de la marine conservent à titre personnel la limite d'âge qui leur était applicable avant leur intégration dans ce corps. Lorsqu'ils sont promus au premier grade d'officier général, ces officiers conservent l'âge de maintien en première section de leur ancien corps d'appartenance.
 
 3° Pour les sous-officiers des armées et des formations rattachées, telles que définies par le tableau ci-après :
 

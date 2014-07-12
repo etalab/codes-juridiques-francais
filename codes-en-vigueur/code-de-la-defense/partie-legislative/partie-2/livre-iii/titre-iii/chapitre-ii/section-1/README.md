@@ -6,5 +6,4 @@
 - [Article L2332-4](article-l2332-4.md)
 - [Article L2332-5](article-l2332-5.md)
 - [Article L2332-6](article-l2332-6.md)
-- [Article L2332-8](article-l2332-8.md)
 - [Article L2332-8-1](article-l2332-8-1.md)
