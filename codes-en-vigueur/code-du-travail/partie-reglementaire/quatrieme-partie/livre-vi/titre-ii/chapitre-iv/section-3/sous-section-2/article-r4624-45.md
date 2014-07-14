@@ -1,0 +1,5 @@
+# Article R4624-45
+
+Dans les entreprises ou établissements de plus de trois cents salariés, le médecin du travail établit un rapport annuel d'activité propre à l'entreprise. Ce rapport est transmis au comité d'entreprise dans les conditions prévues à l'article R. 4624-43 ainsi qu'au comité d'hygiène, de sécurité et des conditions de travail.
+
+Il en est de même dans les autres entreprises ou établissements lorsque le comité en fait la demande.

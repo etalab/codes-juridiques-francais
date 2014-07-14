@@ -1,3 +1,3 @@
 # Section 4 : Recherches, études et enquêtes.
 
-- [Article D4624-50](article-d4624-50.md)
+- [Article R4624-50](article-r4624-50.md)
