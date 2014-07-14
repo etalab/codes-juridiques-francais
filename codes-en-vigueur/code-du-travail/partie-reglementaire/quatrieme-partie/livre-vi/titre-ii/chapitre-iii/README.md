@@ -6,3 +6,4 @@
 - [Section 4 : Personnel infirmier.](section-4)
 - [Section 5 : Intervenant en prévention des risques professionnels des services de santé au travail interentreprises.](section-5)
 - [Section 6 : Assistant de service de santé au travail.](section-6)
+- [Section 7 : Assistant de service de santé au travail.](section-7)
