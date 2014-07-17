@@ -3651,9 +3651,7 @@ E-2. Certificats de qualification délivrés par la Commission paritaire nationa
 </tr>
 <tr>
 <td align="left" valign="top">
-<br clear="none"/>CQP animateur de loisirs sportifs , option jeux sportifs et jeux d'opposition . <br/>
-<br/>
-</td>
+<br clear="none"/>CQP animateur de loisirs sportifs , option jeux sportifs et jeux d'opposition . </td>
 <td align="left" valign="top">
 <br clear="none"/>
 <p>Encadrement en autonomie par la découverte et l'animation des jeux sportifs et des jeux d'opposition : </p>
@@ -3827,6 +3825,19 @@ E-2. Certificats de qualification délivrés par la Commission paritaire nationa
 </td>
 </tr>
 <tr>
+<td>
+<p align="left">CQP "moniteur de roller skating", option "roller randonnée" </p>
+</td>
+<td>
+<p align="left">Initiation aux activités du roller skating dans les options "patinage artistique et danse", "course", "rink-hockey", "roller in line hockey", "roller acrobatique", "roller randonnée". </p>
+<p align="left">Encadrement en autonomie du roller randonnée jusqu'aux premiers niveaux de compétition inclus.</p>
+</td>
+<td>Pour l'encadrement en autonomie du roller randonnée jusqu'aux premiers niveaux de compétition inclus : <p>-dans la limite de vingt pratiquants par titulaire du CQP ;</p>
+<p>-sur voies ouvertes, sous l'autorité de deux titulaires du CQP, dans le cas où le groupe comprend plus de huit pratiquants. <br clear="none"/>
+</p>
+</td>
+</tr>
+<tr>
 <td align="left" valign="top">
 <p align="left">CQP " moniteur d'aviron ". </p>
 </td>
@@ -3838,85 +3849,182 @@ E-2. Certificats de qualification délivrés par la Commission paritaire nationa
 </td>
 </tr>
 <tr>
-<td>CQP " moniteur de rugby à XV ". </td>
-<td>Animation des activités de rugby à XV pour tout public, à des fins de découverte et d'initiation. <p>Encadrement des activités de rugby à XV jusqu'aux premiers niveaux de compétition dans les catégories d'âge des écoles de rugby (7 à 15 ans). <br clear="none"/>
-</p>
-</td>
-<td/>
-</tr>
-<tr>
-<td>CQP " initiateur en motocyclisme ". <br clear="none"/>
-</td>
-<td>Encadrement du motocyclisme à des fins de découverte et d'initiation, jusqu'à la maîtrise complète d'un véhicule terrestre motorisé à guidon (moto ou quad). </td>
-<td>A l'exclusion des voies ouvertes à la circulation publique. <p>A l'exclusion de toute pratique compétitive. </p>
-</td>
-</tr>
-<tr>
-<td>CQP " moniteur de squash ". </td>
-<td>Encadrement des activités de squash, jusqu'aux premiers niveaux de compétition inclus. </td>
-<td/>
-</tr>
-<tr>
-<td>CQP " animateur de tennis de table " </td>
-<td>Encadrement de séances collectives de tennis de table, de l'initiation jusqu'aux premiers niveaux de compétition inclus. </td>
-<td/>
-</tr>
-<tr>
-<td>CQP " moniteur de tir sportif ". <br clear="none"/>
-</td>
-<td>Encadrement en autonomie du tir sportif à des fins de découverte et d'initiation, pour tout public, jusqu'au premier niveau de compétition. <br clear="none"/>
-</td>
-<td>Pour l'activité de découverte : dans la limite de six pratiquants sur le même pas de tir. <p>Pour l'activité d'initiation : dans la limite de dix pratiquants sur le même pas de tir. </p>
-<p>Sous réserve de la présentation du carnet de tir en cours de validité. </p>
-</td>
-</tr>
-<tr>
-<td>CQP animateur de badminton . </td>
-<td>Encadrement en autonomie de séances collectives en badminton, de l'initiation jusqu'au premier niveau de compétition.</td>
-<td/>
-</tr>
-<tr>
-<td>CQP moniteur de football américain et de flag . <br clear="none"/>
+<td>
+<p align="left">CQP " moniteur de rugby à XV ". </p>
 </td>
 <td>
+<p align="left">Animation des activités de rugby à XV pour tout public, à des fins de découverte et d'initiation. </p>
+<p align="left">Encadrement des activités de rugby à XV jusqu'aux premiers niveaux de compétition dans les catégories d'âge des écoles de rugby (7 à 15 ans). <br clear="none"/>
+</p>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">CQP " initiateur en motocyclisme ". <br clear="none"/>
+</p>
+</td>
+<td>
+<p align="left">Encadrement du motocyclisme à des fins de découverte et d'initiation, jusqu'à la maîtrise complète d'un véhicule terrestre motorisé à guidon (moto ou quad). </p>
+</td>
+<td>
+<p align="left">A l'exclusion des voies ouvertes à la circulation publique. </p>
+<p align="left">A l'exclusion de toute pratique compétitive. </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">CQP " moniteur de squash ". </p>
+</td>
+<td>
+<p align="left">Encadrement des activités de squash, jusqu'aux premiers niveaux de compétition inclus. </p>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">CQP " animateur de tennis de table " </p>
+</td>
+<td>
+<p align="left">Encadrement de séances collectives de tennis de table, de l'initiation jusqu'aux premiers niveaux de compétition inclus. </p>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">CQP " moniteur de tir sportif ". <br clear="none"/>
+</p>
+</td>
+<td>
+<p align="left">Encadrement en autonomie du tir sportif à des fins de découverte et d'initiation, pour tout public, jusqu'au premier niveau de compétition. <br clear="none"/>
+</p>
+</td>
+<td>
+<p align="left">Pour l'activité de découverte : dans la limite de six pratiquants sur le même pas de tir. </p>
+<p align="left">Pour l'activité d'initiation : dans la limite de dix pratiquants sur le même pas de tir. </p>
+<p align="left">Sous réserve de la présentation du carnet de tir en cours de validité. </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">CQP animateur de badminton . </p>
+</td>
+<td>
+<p align="left">Encadrement en autonomie de séances collectives en badminton, de l'initiation jusqu'au premier niveau de compétition.</p>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">CQP moniteur de football américain et de flag . <br clear="none"/>
+</p>
+</td>
+<td>
+<p align="left">
 <br clear="none"/>Encadrement en autonomie des activités de découverte et d'initiation de football américain et de flag jusqu'aux premiers niveaux de compétition. <br clear="none"/>
+</p>
 </td>
-<td>A l'exclusion des championnats nationaux.</td>
-</tr>
-<tr>
-<td>CQP technicien sportif de cheerleading . </td>
-<td>Encadrement en autonomie de séances d'entraînement en cheerleading pour tout public.</td>
-<td/>
-</tr>
-<tr>
-<td>CQP "moniteur de canoë-kayak", option "canoë-kayak en eau calme et en eau vive". <br clear="none"/>
-</td>
-<td>Encadrement en autonomie du canoë-kayak en eau calme et en eau vive pour tout public, sur tout support ou embarcation propulsée à la pagaie dans les conditions techniques et de sécurité définies aux articles A. 322-42 et suivants du code du sport.<br clear="none"/>
-</td>
-<td>A l'exclusion du raft.<p>Jusqu'en classe II incluse, avec des passages de classe III non successifs.</p>
+<td>
+<p align="left">A l'exclusion des championnats nationaux.</p>
 </td>
 </tr>
 <tr>
-<td>CQP "moniteur de canoë-kayak", option "canoë-kayak en eau calme et en mer".<br clear="none"/>
+<td>
+<p align="left">CQP technicien sportif de cheerleading . </p>
 </td>
-<td>Encadrement en autonomie du canoë-kayak en eau calme et en mer pour tout public, sur tout support ou embarcation propulsée à la pagaie dans les conditions techniques et de sécurité définies aux articles A. 322-42 et suivants du code du sport.<br clear="none"/>
+<td>
+<p align="left">Encadrement en autonomie de séances d'entraînement en cheerleading pour tout public.</p>
 </td>
-<td>Jusqu'à 1 mille d'un abri.<p>Par vent de force 3 Beaufort maximum sur le site d'évolution.</p>
+<td>
+<br/>
 </td>
 </tr>
 <tr>
-<td>CQP "technicien sportif de rugby à XV ". <br clear="none"/>
+<td>
+<p align="left">CQP "moniteur de canoë-kayak", option "canoë-kayak en eau calme et en eau vive". <br clear="none"/>
+</p>
 </td>
-<td>Encadrement en autonomie de séances d'entraînement en rugby à XV des catégories de moins de 15 ans, jusqu'en fédérale 2.<br clear="none"/>
+<td>
+<p align="left">Encadrement en autonomie du canoë-kayak en eau calme et en eau vive pour tout public, sur tout support ou embarcation propulsée à la pagaie dans les conditions techniques et de sécurité définies aux articles A. 322-42 et suivants du code du sport.<br clear="none"/>
+</p>
 </td>
-<td/>
+<td>
+<p align="left">A l'exclusion du raft. </p>
+<p align="left">Jusqu'en classe II incluse, avec des passages de classe III non successifs.</p>
+</td>
 </tr>
 <tr>
-<td>CQP "animateur de patinoire", option " hockey sur glace".<br clear="none"/>
+<td>
+<p align="left">CQP "moniteur de canoë-kayak", option "canoë-kayak en eau calme et en mer".<br clear="none"/>
+</p>
 </td>
-<td>Encadrement en autonomie de séances d'initiation et de découverte des activités en patinoire.<p>Encadrement en autonomie du hockey sur glace jusqu'aux premiers niveaux de compétition, pour un public de moins de treize ans.</p>
+<td>
+<p align="left">Encadrement en autonomie du canoë-kayak en eau calme et en mer pour tout public, sur tout support ou embarcation propulsée à la pagaie dans les conditions techniques et de sécurité définies aux articles A. 322-42 et suivants du code du sport.<br clear="none"/>
+</p>
 </td>
-<td/>
+<td>
+<p align="left">Jusqu'à 1 mille d'un abri. </p>
+<p align="left">Par vent de force 3 Beaufort maximum sur le site d'évolution.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">CQP "technicien sportif de rugby à XV ". <br clear="none"/>
+</p>
+</td>
+<td>
+<p align="left">Encadrement en autonomie de séances d'entraînement en rugby à XV des catégories de moins de 15 ans, jusqu'en fédérale 2.<br clear="none"/>
+</p>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">CQP "animateur de patinoire", option " hockey sur glace".<br clear="none"/>
+</p>
+</td>
+<td>
+<p align="left">Encadrement en autonomie de séances d'initiation et de découverte des activités en patinoire. </p>
+<p align="left">Encadrement en autonomie du hockey sur glace jusqu'aux premiers niveaux de compétition, pour un public de moins de treize ans.</p>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">CQP "animateur d'athlétisme", option "école d'athlé". </p>
+</td>
+<td>
+<p align="left">Encadrement en autonomie de séances collectives et individuelles d'activités de découverte et d'initiation de l'athlétisme, jusqu'au premier niveau de compétition</p>
+</td>
+<td>
+<p align="left">Pour des publics de moins de seize ans. </p>
+<p align="left">Dans la limite de vingt pratiquants. <br clear="none"/>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">CQP "animateur d'athlétisme", option "athlé loisirs". </p>
+</td>
+<td>
+<p align="left">Encadrement en autonomie de séances collectives et individuelles d'activités de découverte, d'initiation et d'entretien pour tout public pratiquant l'athlétisme loisirs, dont la marche nordique. <br clear="none"/>
+</p>
+</td>
+<td>
+<p align="left">A l'exclusion des pratiques compétitives</p>
+</td>
 </tr>
 </tbody>
 </table>
