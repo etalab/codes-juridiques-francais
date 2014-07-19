@@ -20,7 +20,7 @@ II.-Par dérogation aux articles L. 613-1 et L. 712-6-1 l'organisation des ensei
 
 3° Formation de pharmacie générale du troisième cycle des études pharmaceutiques.
 
-III.-La même procédure comportant une proposition commune des unités de formation et de recherche situées, selon le cas, dans la région sanitaire ou dans l'interrégion instituée en application de l'article L. 632-7, est applicable aux formations suivantes :
+III.-La même procédure comportant une proposition commune des unités de formation et de recherche situées dans la subdivision territoriale mentionnée au deuxième alinéa de l'article L. 632-2 est applicable aux formations suivantes :
 
 1° Troisièmes cycles de médecine générale, de médecine spécialisée et de santé publique ;
 

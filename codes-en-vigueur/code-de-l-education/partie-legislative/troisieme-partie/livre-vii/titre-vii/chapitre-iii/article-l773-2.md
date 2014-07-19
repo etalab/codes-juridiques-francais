@@ -14,6 +14,6 @@ Le conseil scientifique, qui exerce les compétences prévues à l'article L. 71
 
 Les conseils des composantes de l'université prévus aux articles L. 713-3 et L. 713-9 comprennent au plus vingt membres répartis dans les conditions fixées par ces articles.
 
-Au sein des différents conseils de l'établissement peuvent siéger, au titre des personnalités désignées par ces conseils à titre personnel, des représentants de la Polynésie française, des activités économiques, des organismes et institutions scientifiques et culturels ainsi que des enseignants des établissements d'enseignement supérieur et de recherche de la zone Pacifique Sud.
+Au sein des différents conseils de l'établissement peuvent siéger,   outre des personnalités désignées par ces conseils à titre personnel, des représentants de la Polynésie française, des activités économiques, des organismes et institutions scientifiques et culturels ainsi que des enseignants des établissements d'enseignement supérieur et de recherche de la zone Pacifique Sud.
 
 Les catégories de personnalités extérieures appelées à siéger dans les conseils ainsi que le nombre de sièges qui leur sont attribués sont déterminés par les statuts. Toutefois, dans les conseils d'administration siègent trois représentants de la Polynésie française et un représentant du territoire de Wallis-et-Futuna, les autres catégories de personnalités extérieures disposant d'au moins un représentant.

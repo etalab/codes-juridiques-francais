@@ -1,4 +1,4 @@
-# Article L711-11
+# Article L123-7-1
 
 Les établissements publics à caractère scientifique, culturel et professionnel contractent librement avec les institutions étrangères ou internationales, universitaires ou non.
 
