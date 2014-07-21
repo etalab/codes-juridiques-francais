@@ -1,9 +1,7 @@
 # Paragraphe 1 : Modalités de constitution des comités techniques d'établissement.
 
 - [Article R315-27](article-r315-27.md)
-- [Article R315-28](article-r315-28.md)
 - [Article R315-29](article-r315-29.md)
-- [Article R315-30](article-r315-30.md)
 - [Article R315-31](article-r315-31.md)
 - [Article R315-32](article-r315-32.md)
 - [Article R315-33](article-r315-33.md)

@@ -8,4 +8,4 @@ Le bureau de vote procède successivement :
 
 3° À la détermination du nombre total de suffrages valablement exprimés obtenus par chaque candidature.
 
-Il détermine en outre le quotient électoral en divisant le nombre de suffrages valablement exprimés par le nombre de représentants titulaires à élire dans chaque collège.
+Il détermine en outre le quotient électoral en divisant le nombre de suffrages valablement exprimés par le nombre de représentants titulaires à élire.

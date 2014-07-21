@@ -4,12 +4,14 @@ I.-Chaque candidature doit comporter le nom d'un délégué qui, en cas de scrut
 
 Les candidatures peuvent être communes à plusieurs organisations syndicales.
 
+Le dépôt des candidatures fait l'objet d'un récépissé établi selon un modèle type remis ou adressé au délégué de candidature ou à son suppléant.
+
 II.-En cas d'élection au scrutin de liste, nul ne peut être candidat sur plusieurs listes pour un même scrutin.
 
-Chaque liste comprend un nombre de noms égal au moins aux deux tiers et au plus au nombre de sièges de représentants titulaires et de représentants suppléants à pourvoir dans chaque collège, sans qu'il soit fait mention pour chacun des candidats de la qualité de titulaire ou de suppléant. En outre, elle doit comporter un nombre pair de noms pour chaque collège au moment de leur dépôt.
+Chaque liste comprend un nombre de noms égal au moins aux deux tiers et au plus au nombre de sièges de représentants titulaires et de représentants suppléants à pourvoir, sans qu'il soit fait mention pour chacun des candidats de la qualité de titulaire ou de suppléant. En outre, elle doit comporter un nombre pair de noms au moment de leur dépôt.
 
-Si, pour un collège donné, une liste comporte, à la date limite de dépôt prévue à l'article R. 315-36-2, un nombre de candidats supérieur ou inférieur à celui fixé au quatrième alinéa du présent article, l'organisation syndicale qui a déposé cette liste est réputée n'avoir présenté aucun candidat pour ce collège.
+Si une liste comporte, à la date limite de dépôt prévue à l'article R. 315-36-2, un nombre de candidats supérieur ou inférieur à celui fixé au cinquième alinéa du présent article, l'organisation syndicale qui a déposé cette liste est réputée n'avoir présenté aucun candidat.
 
-Le dépôt de chaque liste est accompagné d'une déclaration de candidature signée de chaque candidat. Le dépôt fait l'objet d'un récépissé remis par le directeur d'établissement au délégué de liste ou au délégué suppléant.
+Le dépôt de chaque liste est accompagné d'une déclaration de candidature signée de chaque candidat. Le dépôt fait l'objet d'un récépissé, établi selon un modèle type, remis par le directeur d'établissement au délégué de liste ou au délégué suppléant.
 
 III.-Lorsqu'il est recouru à l'élection au scrutin sur sigle dans les conditions prévues aux deuxième et troisième alinéas de l'article R. 315-36-1, l'organisation syndicale fait acte de candidature sans qu'il y ait lieu d'appliquer le II du présent article.

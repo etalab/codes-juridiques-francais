@@ -14,18 +14,6 @@ I. - Le comité technique d'établissement institué en application de l'article
 
 Pour le calcul des effectifs mentionnés du 1° au 5° du présent article, sont pris en compte l'ensemble des fonctionnaires titulaires et stagiaires, des agents contractuels mentionnés au premier alinéa de l'article 1er du décret n° 91-155 du 6 février 1991 relatif aux dispositions générales applicables aux agents contractuels des établissements mentionnés à l'article 2 de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière ainsi que les contractuels de droit public n'occupant pas un emploi permanent et les contractuels de droit privé, à l'exception des personnels mentionnés à l'avant-dernier alinéa de l'article 2 du titre IV du statut général des fonctionnaires. Cet effectif est apprécié le dernier jour du mois précédant de six mois la date du scrutin.
 
-Le nombre de sièges à pourvoir par collège est affiché dans l'établissement au plus tard trente jours après la détermination de l'effectif à prendre en compte pour déterminer le nombre de représentants à élire.
+Le nombre de sièges à pourvoir est affiché dans l'établissement au plus tard trente jours après la détermination de l'effectif à prendre en compte pour déterminer le nombre de représentants à élire.
 
-II. - Le nombre des représentants à élire ou à désigner dans le cas du recours au scrutin sur sigle, pour chaque collège est proportionnel à l'effectif des agents qui en relèvent.
-
-Les sièges sont attribués selon la règle suivante :
-
-1° Il est attribué à chaque collège le nombre de sièges correspondant à la partie entière de la proportion ;
-
-2° Les sièges restant à attribuer le sont par ordre décroissant de la décimale jusqu'à atteindre le nombre total prévu aux 1°, 2°, 3°, 4° et 5° du présent article.
-
-Toutefois, cette règle ne doit pas conduire à ce que :
-
-a) Sous réserve de l'application des dispositions de l'article R. 315-28 du présent code, un collège n'ait aucun siège ;
-
-b) Le nombre de sièges des représentants de la catégorie A soit inférieur à deux dans les établissements comptant cinq cents agents et plus.
+II. (abrogé)
