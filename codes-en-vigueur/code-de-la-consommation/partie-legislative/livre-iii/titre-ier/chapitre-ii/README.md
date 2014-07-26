@@ -1,7 +1,7 @@
 # Chapitre II : Crédit immobilier
 
 - [Section 1 : Champ d'application](section-1)
-- [Section 2 : Publicité](section-2)
+- [Section 2 : Publicité et information de l'emprunteur](section-2)
 - [Section 3 : Le contrat de crédit](section-3)
 - [Section 4 : Le contrat principal](section-4)
 - [Section 5 : Remboursement anticipé du crédit et défaillance de l'emprunteur](section-5)
