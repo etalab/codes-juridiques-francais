@@ -7,7 +7,7 @@
 - [VI : Traitements, salaires, pensions et rentes viagères](vi)
 - [VII : Bénéfices des professions non commerciales](vii)
 - [VIII : Revenus des capitaux mobiliers](viii)
-- [VIII bis : Profits réalisés sur les marchés à terme, sur les marchés d'options négociables et sur les opérations de bons d'options](viii-bis)
+- [VIII bis : Profits réalisés sur les instruments financiers à terme](viii-bis)
 - [X : Plus-values de cession à titre onéreux de biens ou de droits de toute nature](x)
 - [X quater : Report d'imposition de la plus-value constatée lors de la levée de l'option d'achat d'un immeuble acquis en crédit-bail et précédemment donné en sous-location](x-quater)
 - [XI : Dispositions communes aux différentes catégories de revenus](xi)
