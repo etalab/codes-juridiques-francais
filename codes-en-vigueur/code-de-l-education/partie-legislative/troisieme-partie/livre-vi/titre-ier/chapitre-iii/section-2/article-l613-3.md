@@ -4,6 +4,8 @@ Toute personne justifiant d'une activité professionnelle salariée, non salari�
 
 La durée minimale d'activité requise pour que la demande de validation soit recevable est de trois ans, que l'activité ait été exercée de façon continue ou non. Pour apprécier cette durée, l'autorité ou l'organisme qui se prononce sur la recevabilité de la demande mentionnée à l'article L. 6412-2 du même code peut prendre en compte des activités mentionnées au premier alinéa du présent article, de nature différente, exercées sur une même période.
 
+Lorsqu'une demande de validation des acquis de l'expérience émane d'un membre bénévole d'une association, le conseil d'administration de l'association ou, à défaut, l'assemblée générale peut émettre un avis pour éclairer le jury sur l'engagement du membre bénévole.
+
 Les périodes de formation initiale ou continue en milieu professionnel, suivie de façon continue ou non par les personnes n'ayant pas atteint le niveau V de qualification pour la préparation d'un titre ou d'un diplôme délivré, au nom de l'Etat, par un établissement d'enseignement supérieur, sont prises en compte dans le calcul de la durée minimale d'activité requise.
 
 Toute personne peut également demander la validation des études supérieures qu'elle a accomplies, notamment à l'étranger.

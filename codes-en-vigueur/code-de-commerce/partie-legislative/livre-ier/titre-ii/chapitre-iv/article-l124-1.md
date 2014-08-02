@@ -8,18 +8,22 @@ Les sociétés coopératives de commerçants détaillants ont pour objet d'amél
 
 3° Dans le cadre des dispositions législatives concernant les activités financières, faciliter l'accès des associés et de leur clientèle aux divers moyens de financement et de crédit ;
 
+3° bis Organiser entre les associés une coopération financière, notamment à travers la constitution de sociétés, exerçant sous leur contrôle direct ou indirect et ayant pour finalité d'apporter par tous moyens un soutien à l'achat, à la création et au développement du commerce, dans le respect des dispositions propres aux établissements de crédit. Le capital des sociétés ainsi constituées doit être majoritairement détenu par les coopératives et des associés coopérateurs ; les associés non coopérateurs ne peuvent en aucun cas détenir ensemble plus de 35 % du total des droits de vote. Lorsque la part de capital que détiennent les associés non coopérateurs excède cette limite, le nombre de droits de vote est réduit à due proportion ;
+
 4° Exercer les activités complémentaires à celles énoncées ci-dessus, et notamment fournir à leurs associés une assistance en matière de gestion technique, financière et comptable ;
 
 5° Acheter des fonds de commerce dont, par dérogation à l'article L. 144-3, la location-gérance est concédée dans un délai de deux mois à un associé et qui doivent être rétrocédés dans un délai maximal de sept ans. Le défaut de rétrocession dans ce délai peut donner lieu à injonction suivant les modalités définies au second alinéa de l'article L. 124-15 ;
 
 6° Définir et mettre en oeuvre par tous moyens une politique commerciale commune propre à assurer le développement et l'activité de ses associés, notamment :
 
--par la mise en place d'une organisation juridique appropriée ;
+- par la mise en place d'une organisation juridique appropriée ;
 
--par la mise à disposition d'enseignes ou de marques dont elles ont la propriété ou la jouissance ;
+- par la mise à disposition d'enseignes ou de marques dont elles ont la propriété ou la jouissance ;
 
--par la réalisation d'opérations commerciales publicitaires ou non pouvant comporter des prix communs ;
+- par la réalisation d'opérations commerciales publicitaires ou non pouvant comporter des prix communs ;
 
--par l'élaboration de méthodes et de modèles communs d'achat, d'assortiment et de présentation de produits, d'architecture et d'organisation des commerces ;
+- par l'élaboration de méthodes et de modèles communs d'achat, d'assortiment et de présentation de produits, d'architecture et d'organisation des commerces ;
+
+-par l'élaboration et la gestion d'une plate-forme de vente en ligne ;
 
 7° Prendre des participations même majoritaires dans des sociétés directement ou indirectement associées exploitant des fonds de commerce.

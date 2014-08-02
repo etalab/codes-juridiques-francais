@@ -20,7 +20,7 @@ Elle peut, à ce titre :
 
 8° Prononcer le transfert d'office de tout ou partie du portefeuille des contrats d'assurance ou de règlements ou de bulletins d'adhésion à des contrats ou règlements des personnes mentionnées aux 1°, 3° et 5° du B du I de l'article L. 612-2 ainsi que tout ou partie d'un portefeuille de crédits ou de dépôts d'un établissement de crédit ;
 
-9° Décider d'interdire ou de limiter la distribution d'un dividende aux actionnaires ou d'une rémunération des parts sociales aux sociétaires de ces personnes ;
+9° Décider d'interdire ou de limiter la distribution d'un dividende aux actionnaires, d'une rémunération des certificats mutualistes ou paritaires ou d'une rémunération des parts sociales aux sociétaires de ces personnes ;
 
 10° Décider d'interdire ou de limiter le paiement d'intérêts aux détenteurs d'instruments de fonds propres additionnels de catégorie 1 définis à l'article 52 du règlement (UE) n° 575/2013 du Parlement européen et du Conseil du 26 juin 2013, sauf si cette limitation ou interdiction devait être considérée comme un événement de défaut des personnes soumises au contrôle de l'Autorité ;
 

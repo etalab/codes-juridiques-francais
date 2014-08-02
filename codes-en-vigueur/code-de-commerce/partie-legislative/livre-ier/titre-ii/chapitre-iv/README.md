@@ -1,11 +1,14 @@
 # Chapitre IV : Des sociétés coopératives de commerçants détaillants.
 
 - [Article L124-1](article-l124-1.md)
+- [Article L124-1-1](article-l124-1-1.md)
 - [Article L124-2](article-l124-2.md)
 - [Article L124-3](article-l124-3.md)
 - [Article L124-4](article-l124-4.md)
+- [Article L124-4-1](article-l124-4-1.md)
 - [Article L124-5](article-l124-5.md)
 - [Article L124-6](article-l124-6.md)
+- [Article L124-6-1](article-l124-6-1.md)
 - [Article L124-7](article-l124-7.md)
 - [Article L124-8](article-l124-8.md)
 - [Article L124-9](article-l124-9.md)

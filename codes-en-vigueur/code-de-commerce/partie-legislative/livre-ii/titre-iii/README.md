@@ -9,3 +9,4 @@
 - [Chapitre VII : De la liquidation](chapitre-vii)
 - [Chapitre VIII : Des injonctions de faire](chapitre-viii)
 - [Chapitre IX : De la location d'actions et de parts sociales](chapitre-ix)
+- [Chapitre X : De l'information des salariés en cas de cession de leur société](chapitre-x)

@@ -6,3 +6,4 @@
 - [Chapitre IV :  Paiements supplémentaires](chapitre-iv)
 - [Chapitre V : Valorisation des produits et des services](chapitre-v)
 - [Chapitre VI : Dispositions relatives à l'outre-mer](chapitre-vi)
+- [Chapitre VII : Transparence sur les conditions sociales de fabrication d'un produit](chapitre-vii)

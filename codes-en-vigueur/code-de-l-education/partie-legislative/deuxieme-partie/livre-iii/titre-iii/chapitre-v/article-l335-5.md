@@ -6,6 +6,8 @@ II. ― Toute personne justifiant d'une activité professionnelle salariée, non
 
 La durée minimale d'activité requise pour que la demande de validation soit recevable est de trois ans, que l'activité ait été exercée de façon continue ou non. Pour apprécier cette durée, l'autorité ou l'organisme qui se prononce sur la recevabilité de la demande mentionnée à l'article L. 6412-2 du même code peut prendre en compte des activités mentionnées au premier alinéa du présent II, de nature différente, exercées sur une même période.
 
+Lorsqu'une demande de validation des acquis de l'expérience émane d'un membre bénévole d'une association, le conseil d'administration de l'association ou, à défaut, l'assemblée générale peut émettre un avis pour éclairer le jury sur l'engagement du membre bénévole.
+
 Les périodes de formation initiale ou continue en milieu professionnel, suivie de façon continue ou non par les personnes n'ayant pas atteint le niveau V de qualification pour la préparation d'un diplôme ou d'un titre, sont prises en compte dans le calcul de la durée minimale d'activité requise.
 
 La validation des acquis produit les mêmes effets que les autres modes de contrôle des connaissances et aptitudes.
@@ -16,6 +18,6 @@ Le jury peut attribuer la totalité du diplôme ou du titre. A défaut, il se pr
 
 Le jury se prononce au vu d'un dossier constitué par le candidat, à l'issue d'un entretien à son initiative ou à l'initiative du candidat et, le cas échéant, d'une mise en situation professionnelle réelle ou reconstituée, lorsque cette procédure est prévue par l'autorité qui délivre la certification.
 
-Un décret en Conseil d'Etat détermine les conditions d'application des dispositions du présent II, notamment les règles selon lesquelles le jury est constitué. Cette composition concourt à une représentation équilibrée entre les femmes et les hommes. Il détermine également les conditions dans lesquelles il peut être dérogé au I, pour des raisons tenant à la nature des diplômes ou titres en cause ou aux conditions d'exercice des professions auxquelles ils permettent d'accéder. Le jury fixe les contrôles complémentaires prévus au sixième alinéa du présent II.
+Un décret en Conseil d'Etat détermine les conditions d'application des dispositions du présent II, notamment les règles selon lesquelles le jury est constitué. Cette composition concourt à une représentation équilibrée entre les femmes et les hommes. Il détermine également les conditions dans lesquelles il peut être dérogé au I, pour des raisons tenant à la nature des diplômes ou titres en cause ou aux conditions d'exercice des professions auxquelles ils permettent d'accéder. Le jury fixe les contrôles complémentaires prévus au septième  alinéa du présent II.
 
 III. ― Le jury d'un diplôme ou d'un titre à finalité professionnelle délivré au nom de l'Etat ou par des établissements publics ayant une mission de formation peut dispenser un candidat désirant l'acquérir des titres ou diplômes requis pour le préparer. Cette dispense doit se fonder sur les compétences professionnelles acquises par le candidat.

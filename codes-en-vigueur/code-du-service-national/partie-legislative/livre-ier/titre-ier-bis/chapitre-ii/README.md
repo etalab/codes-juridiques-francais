@@ -1,4 +1,4 @@
-# Chapitre II : L'engagement et le volontariat de service civique.
+# Chapitre II : L'engagement de service civique et le volontariat associatif.
 
 - [Section 1 : Dispositions générales.](section-1)
 - [Section 2 : Les conditions relatives à la personne volontaire.](section-2)

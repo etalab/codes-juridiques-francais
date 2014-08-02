@@ -1,6 +1,6 @@
 # Article L124-6
 
-Les administrateurs ou les membres du directoire et du conseil de surveillance sont des personnes physiques ayant soit la qualité d'associé, à titre personnel, soit la qualité de président du conseil d'administration, de directeur général, de membre du directoire ou de gérant d'une société ayant elle-même la qualité d'associé.
+Dans une coopérative constituée sous forme de société anonyme, les administrateurs ou les membres du directoire et du conseil de surveillance sont des personnes physiques ayant soit la qualité d'associé, à titre personnel, soit la qualité de président du conseil d'administration, de directeur général, de membre du directoire ou de gérant d'une société ayant elle-même la qualité d'associé.
 
 Les fonctions des membres du conseil d'administration ou des membres du conseil de surveillance sont gratuites et n'ouvrent droit qu'au remboursement, sur justification, des frais, ainsi que, le cas échéant, au paiement d'une indemnité compensatrice du temps et du travail consacrés à l'administration de la coopérative.
 
