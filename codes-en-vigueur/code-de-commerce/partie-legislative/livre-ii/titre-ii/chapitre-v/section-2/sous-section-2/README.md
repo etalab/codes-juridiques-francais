@@ -35,6 +35,7 @@
 - [Article L225-86](article-l225-86.md)
 - [Article L225-87](article-l225-87.md)
 - [Article L225-88](article-l225-88.md)
+- [Article L225-88-1](article-l225-88-1.md)
 - [Article L225-89](article-l225-89.md)
 - [Article L225-90](article-l225-90.md)
 - [Article L225-90-1](article-l225-90-1.md)

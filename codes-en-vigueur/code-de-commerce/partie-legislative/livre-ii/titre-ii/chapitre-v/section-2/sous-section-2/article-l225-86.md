@@ -5,3 +5,5 @@ Toute convention intervenant directement ou par personne interposée entre la so
 Il en est de même des conventions auxquelles une des personnes visées à l'alinéa précédent est indirectement intéressée.
 
 Sont également soumises à autorisation préalable les conventions intervenant entre la société et une entreprise, si l'un des membres du directoire ou du conseil de surveillance de la société est propriétaire, associé indéfiniment responsable, gérant, administrateur, membre du conseil de surveillance ou, de façon générale, dirigeant de cette entreprise.
+
+L'autorisation préalable du conseil de surveillance est motivée en justifiant de l'intérêt de la convention pour la société, notamment en précisant les conditions financières qui y sont attachées.
