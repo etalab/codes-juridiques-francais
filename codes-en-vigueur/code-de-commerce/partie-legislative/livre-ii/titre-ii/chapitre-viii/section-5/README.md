@@ -1,5 +1,6 @@
-# Section 5 : Des obligations.
+# Section 5 : Des valeurs mobilières donnant accès au capital ou donnant droit à l'attribution de titres de créance
 
+- [Sous-section 2 : Dispositions relatives aux valeurs mobilières donnant accès au capital.](sous-section-2)
 - [Article L228-38](article-l228-38.md)
 - [Article L228-39](article-l228-39.md)
 - [Article L228-40](article-l228-40.md)
