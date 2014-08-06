@@ -1,6 +1,6 @@
 # Article L2241-3
 
-Les organisations liées par une convention de branche ou, à défaut, par des accords professionnels se réunissent pour négocier tous les trois ans sur les mesures tendant à assurer l'égalité professionnelle entre les femmes et les hommes et sur les mesures de rattrapage tendant à remédier aux inégalités constatées.
+Les organisations liées par une convention de branche ou, à défaut, par des accords professionnels se réunissent pour négocier tous les trois ans sur les mesures tendant à assurer l'égalité professionnelle entre les femmes et les hommes et sur les mesures de rattrapage tendant à remédier aux inégalités constatées. La mise en œuvre de ces mesures de rattrapage, lorsqu'elles portent sur des mesures salariales, est suivie dans le cadre de la négociation annuelle obligatoire sur les salaires prévue à l'article L. 2241-1.
 
 La négociation porte notamment sur :
 

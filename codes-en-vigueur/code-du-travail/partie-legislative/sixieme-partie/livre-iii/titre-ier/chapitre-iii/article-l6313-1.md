@@ -6,6 +6,8 @@ Les actions de formation qui entrent dans le champ d'application des disposition
 
 2° Les actions d'adaptation et de développement des compétences des salariés ;
 
+2° bis Les actions de promotion de la mixité dans les entreprises, de sensibilisation à la lutte contre les stéréotypes sexistes et pour l'égalité professionnelle entre les femmes et les hommes ;
+
 3° Les actions de promotion professionnelle ;
 
 4° Les actions de prévention ;

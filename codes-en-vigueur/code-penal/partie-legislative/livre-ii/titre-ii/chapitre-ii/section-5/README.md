@@ -6,3 +6,4 @@
 - [Article 222-47](article-222-47.md)
 - [Article 222-48](article-222-48.md)
 - [Article 222-48-1](article-222-48-1.md)
+- [Article 222-48-2](article-222-48-2.md)

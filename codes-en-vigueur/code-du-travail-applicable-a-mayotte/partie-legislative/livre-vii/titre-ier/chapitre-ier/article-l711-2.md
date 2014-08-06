@@ -20,4 +20,6 @@ Les actions de formation professionnelle continue prévues à l'article L. 711-1
 
 9° Les actions de formation continue relatives à la radioprotection des personnes prévues par l'article L. 1333-11 du code de la santé publique ;
 
-10° Les actions permettant aux salariés de faire valider les acquis de leurs expériences en vue de l'acquisition d'un diplôme ou d'un titre à finalité professionnelle en application des articles L. 335-5, L. 335-6, L. 613-3 et L. 613-4 du code de l'éducation.
+10° Les actions permettant aux salariés de faire valider les acquis de leurs expériences en vue de l'acquisition d'un diplôme ou d'un titre à finalité professionnelle en application des articles L. 335-5, L. 335-6, L. 613-3 et L. 613-4 du code de l'éducation ;
+
+11° Les actions de promotion de la mixité dans les entreprises, de sensibilisation à la lutte contre les stéréotypes sexistes et pour l'égalité professionnelle entre les femmes et les hommes.

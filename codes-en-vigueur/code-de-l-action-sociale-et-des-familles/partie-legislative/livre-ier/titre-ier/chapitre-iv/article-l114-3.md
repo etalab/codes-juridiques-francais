@@ -24,6 +24,8 @@ h) Des actions de soutien psychologique spécifique proposées à la famille lor
 
 i) Des actions pédagogiques en milieu scolaire et professionnel ainsi que dans tous les lieux d'accueil, de prise en charge et d'accompagnement, en fonction des besoins des personnes accueillies ;
 
-j) Des actions d'amélioration du cadre de vie prenant en compte tous les environnements, produits et services destinés aux personnes handicapées et mettant en oeuvre des règles de conception conçues pour s'appliquer universellement.
+j) Des actions d'amélioration du cadre de vie prenant en compte tous les environnements, produits et services destinés aux personnes handicapées et mettant en oeuvre des règles de conception conçues pour s'appliquer universellement ;
+
+k) Des actions de sensibilisation et de prévention concernant les violences faites aux femmes handicapées.
 
 Ces actions et programmes de recherche peuvent être proposés par le Conseil national consultatif des personnes handicapées mentionné à l'article L. 146-1 ou par un ou plusieurs conseils départementaux consultatifs des personnes handicapées mentionnés à l'article L. 146-2 lorsque ces actions ou programmes sont circonscrits à un ou plusieurs départements.
