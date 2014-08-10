@@ -6,7 +6,7 @@ Les ressources de l'établissement public d'insertion de la défense sont consti
 
 2° Les dons et legs ;
 
-3° Des versements donnant lieu à exonération de la taxe d'apprentissage au titre du 4° de l'article L. 6241-8-1 du code du travail et les ressources provenant de l'application de la législation sur la formation professionnelle continue ;
+3° Des versements donnant lieu à exonération de la taxe d'apprentissage au titre du 1° de l'article L. 6241-8 du code du travail et les ressources provenant de l'application de la législation sur la formation professionnelle continue ;
 
 4° Les produits des activités de l'établissement ;
 

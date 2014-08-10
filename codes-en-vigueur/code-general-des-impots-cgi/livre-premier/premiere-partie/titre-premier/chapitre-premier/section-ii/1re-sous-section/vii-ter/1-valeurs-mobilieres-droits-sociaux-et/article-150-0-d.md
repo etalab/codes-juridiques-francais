@@ -6,7 +6,7 @@ Les gains nets de cession à titre onéreux d'actions, de parts de sociétés, d
 
 Le complément de prix prévu au 2 du I de l'article 150-0 A, afférent à la cession d'actions, de parts ou de droits mentionnés au deuxième alinéa du présent 1, est réduit de l'abattement prévu au même alinéa et appliqué lors de cette cession.
 
-L'abattement précité ne s'applique pas à l'avantage mentionné à l'article 80 bis constaté à l'occasion de la levée d'options attribuées avant le 20 juin 2007.
+L'abattement précité ne s'applique pas à l'avantage mentionné à l'article 80 bis constaté à l'occasion de la levée d'options attribuées avant le 20 juin 2007, ni au gain net mentionné au I de l'article 163 bis G.
 
 1 bis (Supprimé)
 

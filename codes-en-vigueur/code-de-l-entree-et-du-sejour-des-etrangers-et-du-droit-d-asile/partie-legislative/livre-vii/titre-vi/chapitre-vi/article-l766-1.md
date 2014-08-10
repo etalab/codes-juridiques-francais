@@ -30,6 +30,8 @@ c) La seconde phrase du second alinéa est ainsi rédigée :
 
 " Elle délivre sans délai un titre de séjour dans les conditions prévues par le titre Ier du livre III du présent code ou la carte de séjour temporaire prévue par le 10° de l'article L. 313-11. " ;
 
+d) Le dernier alinéa n'est pas applicable ;
+
 7° A l'article L. 742-7, les mots : " le territoire français " sont remplacés par les mots : " la collectivité de Saint-Barthélemy " ;
 
 8° A la première phrase du premier alinéa de l'article L. 751-1, les mots : " sur le territoire français " sont remplacés par les mots : " sur le territoire de Saint-Barthélemy ".

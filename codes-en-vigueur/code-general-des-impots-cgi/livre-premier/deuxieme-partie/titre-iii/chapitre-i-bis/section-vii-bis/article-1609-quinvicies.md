@@ -34,6 +34,6 @@ Les articles 1599 ter K, 1599 ter L, 1599 ter M et les I et III de l'article 167
 
 V. ― Le montant de la contribution mentionnée au I est versé aux organismes collecteurs agréés mentionnés aux articles L. 6242-1 et L. 6242-2 du code du travail avant le 1er mars de l'année suivant celle du versement des salaires. A défaut de versement ou en cas de versement insuffisant à la date précitée, le montant de la contribution est versé au comptable public compétent selon les modalités définies au III de l'article 1678 quinquies, majoré de l'insuffisance constatée.
 
-Le produit de la contribution supplémentaire à l'apprentissage est affecté aux centres de formation d'apprentis et aux sections d'apprentissage, selon les modalités définies en application du II de l'article L. 6241-2 du code du travail.
+Le produit de la contribution supplémentaire à l'apprentissage est affecté aux centres de formation d'apprentis et aux sections d'apprentissage, selon les modalités définies en application du II de l'article L. 6241-2 et de l'article L. 6241-3 du code du travail.
 
-Les organismes mentionnés au premier alinéa reversent les sommes perçues en application du même premier alinéa au plus tard le 31 mai de la même année.
+Les organismes mentionnés au premier alinéa reversent les sommes perçues en application du même premier alinéa au plus tard le 15 juillet de la même année.
