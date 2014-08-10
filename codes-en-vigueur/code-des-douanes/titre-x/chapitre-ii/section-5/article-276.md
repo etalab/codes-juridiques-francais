@@ -1,12 +1,12 @@
 # Article 276
 
-1. A compter de l'entrée en vigueur de la taxe, les véhicules de transport de marchandises mentionnés à l'article 269 et immatriculés en France métropolitaine doivent disposer d'un équipement électronique embarqué permettant l'enregistrement automatique, à chaque franchissement d'un point de tarification, des éléments nécessaires à la liquidation de ladite taxe.
-
-A compter de la même date, les véhicules de transport de marchandises mentionnés à l'article 269 et immatriculés hors de France métropolitaine sont tenus de disposer d'un tel équipement lorsqu'ils circulent sur le réseau mentionné à l'article 270.
+1. A compter de l'entrée en vigueur de la taxe, les véhicules de transport de marchandises mentionnés à l'article 269 doivent disposer d'un équipement électronique embarqué permettant l'enregistrement automatique, à chaque franchissement d'un point de tarification, des éléments nécessaires à la liquidation de ladite taxe lorsqu'ils circulent sur le réseau mentionné à l'article 270.
 
 2. La taxe due au titre des trajets effectués est liquidée à partir des informations collectées automatiquement au moyen de l'équipement électronique embarqué mentionné au 1, des informations déclarées lors de l'enregistrement du véhicule et des données paramétrées dans l'équipement électronique embarqué.
 
 Les informations collectées au moyen des équipements électroniques embarqués, mis en œuvre dans une chaîne de collecte homologuée, font foi jusqu'à preuve du contraire.
+
+En cas de mise en œuvre de la procédure de secours définie par décret en Conseil d'Etat, la liquidation est effectuée sur la base des points de tarification situés sur l'itinéraire convenu, à partir des informations déclarées lors de l'enregistrement du véhicule et des informations déclarées lors de la mise en œuvre de la procédure.
 
 3. Lorsque le redevable passe un contrat avec une société habilitée lui fournissant un service de télépéage, il lui donne mandat pour déclarer son véhicule et acquitter la taxe due pour son compte. La taxe est liquidée et son montant est communiqué à cette société au plus tard le dixième jour de chaque mois, sur le fondement de l'ensemble des trajets taxables réalisés par le redevable au cours du mois précédent et pour lesquels il a utilisé l'équipement électronique embarqué fourni par la société habilitée.
 
