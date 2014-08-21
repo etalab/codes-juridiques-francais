@@ -96,13 +96,18 @@ Sont applicables en Polynésie française les dispositions du présent livre men
 </td>
 </tr>
 <tr>
-<td align="center">R. 251-1 à R. 251-12 <br/>
+<td align="center">R. 251-1 et R. 251-2 <br/>
 </td>
-<td align="center">résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) <br/>
-</td>
+<td align="center">Résultant du décret n° 2014-901 du 18 août 2014 relatif aux activités privées de sécurité </td>
 </tr>
 <tr>
-<td align="center">R. 252-2 à R. 253-4<br/>
+<td>
+<p align="center">R. 251-3 à R. 251-12</p>
+</td>
+<td>Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de la sécurité intérieure <br/>(Décrets en Conseil d'Etat et décrets simples) </td>
+</tr>
+<tr>
+<td align="center">R. 252-2 à R. 253-4 <br/>
 </td>
 <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)<br/>
 </td>

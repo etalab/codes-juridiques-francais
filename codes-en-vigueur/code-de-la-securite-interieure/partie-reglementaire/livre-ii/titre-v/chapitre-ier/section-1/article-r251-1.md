@@ -10,7 +10,7 @@ b) Un représentant de l'Association des maires des grandes villes de France, su
 
 c) Un représentant du groupement des autorités responsables de transport, sur proposition de son président ;
 
-2° Cinq représentants du ministre de l'intérieur :
+2° Six représentants du ministre de l'intérieur :
 
 a) Le chef de l'inspection générale de l'administration ou son représentant ;
 
@@ -22,13 +22,13 @@ d) Le directeur des libertés publiques et des affaires juridiques ou son repré
 
 e) Le directeur des services des systèmes d'information et de communication ou son représentant ;
 
-3° Le délégué interministériel à la sécurité privée ;
+f) Le délégué aux coopérations de sécurité au ministère de l'intérieur ou son représentant ;
 
-4° Un membre de la Commission nationale de l'informatique et des libertés, sur proposition de cette commission ;
+3° Un membre de la Commission nationale de l'informatique et des libertés, sur proposition de cette commission ;
 
-5° Deux députés et deux sénateurs ;
+4° Deux députés et deux sénateurs ;
 
-6° Quatre personnes désignées au titre des personnalités qualifiées :
+5° Quatre personnes désignées au titre des personnalités qualifiées :
 
 a) Un magistrat du siège désigné par le premier président de la Cour de cassation ;
 
@@ -36,4 +36,4 @@ b) Un magistrat du parquet désigné par le premier président de la Cour de cas
 
 c) Deux personnes nommées par le ministre de l'intérieur en raison de leurs compétences dans le domaine de la vidéoprotection ou des libertés individuelles.
 
-Le mandat des membres mentionnés au 1° et au 6° est de cinq ans, renouvelable une fois.
+Le mandat des membres mentionnés au 1° et au 5° est de cinq ans, renouvelable une fois.
