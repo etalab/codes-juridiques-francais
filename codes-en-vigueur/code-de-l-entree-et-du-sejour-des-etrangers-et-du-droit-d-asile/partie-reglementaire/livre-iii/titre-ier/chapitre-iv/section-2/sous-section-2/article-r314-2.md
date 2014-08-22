@@ -8,7 +8,7 @@ Pour l'application des dispositions des articles L. 314-11 et L. 314-12, l'étra
 
 3° S'il est marié et ressortissant d'un Etat dont la loi autorise la polygamie, une déclaration sur l'honneur selon laquelle il ne vit pas en France en état de polygamie ;
 
-4° Un certificat médical délivré dans les conditions fixées par arrêté du ministre chargé de la santé ;
+4° Un certificat médical délivré dans les conditions fixées par arrêté conjoint du ministre chargé de la santé et du ministre chargé de l'immigration ;
 
 5° Les pièces justifiant qu'il entre dans l'un des cas prévus aux articles L. 314-11 et L. 314-12 pour se voir délivrer de plein droit la carte de résident ;
 

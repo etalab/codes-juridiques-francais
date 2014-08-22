@@ -8,6 +8,8 @@ Sont dispensés de souscrire une demande de carte de séjour :
 
 3° Les étrangers séjournant en France sous couvert d'un visa d'une durée supérieure à trois mois et inférieure ou égale à six mois comportant la mention " dispense temporaire de carte de séjour ", pendant la durée de validité de ce visa ;
 
+3° bis Les étrangers séjournant en France sous couvert d'un visa dispensant de titre de séjour, d'une durée maximale de douze mois et portant la mention "vacances-travail" ;
+
 4° Les étrangers, conjoints de ressortissants français, séjournant en France sous couvert d'un visa pour un séjour d'une durée supérieure à trois mois et portant la mention " vie privée et familiale ", délivré en application du septième alinéa de l'article L. 211-2-1, pendant un an ;
 
 5° Les étrangers mentionnés à l'article L. 313-6 séjournant en France sous couvert d'un visa pour un séjour d'une durée supérieure à trois mois et au plus égale à un an et portant la mention " visiteur ", pendant la durée de validité de ce visa ;
@@ -18,11 +20,11 @@ Sont dispensés de souscrire une demande de carte de séjour :
 
 8° Les étrangers mentionnés au 1° de l'article L. 313-10 séjournant en France pour l'exercice d'une activité d'une durée déterminée inférieure à douze mois sous couvert d'un visa pour un séjour d'une durée supérieure à trois mois et équivalente à la durée de l'emploi et portant la mention " travailleur temporaire ", pendant la durée de validité de ce visa, ainsi que les salariés détachés en France ;
 
-9° Les étrangers mentionnés à l'article L. 313-8 séjournant en France sous couvert d'un visa pour un séjour d'une durée supérieure à trois mois et au plus égale à un an et portant la mention " scientifique-chercheur ", pendant la durée de validité de ce visa (1) ;
+9° Les étrangers mentionnés à l'article L. 313-8 séjournant en France sous couvert d'un visa pour un séjour d'une durée supérieure à trois mois et au plus égale à un an et portant la mention " scientifique-chercheur ", pendant la durée de validité de ce visa ;
 
-10° Les étrangers mentionnés à l'article L. 313-7-1 séjournant en France sous couvert d'un visa pour un séjour d'une durée supérieure à trois mois et au plus égale à un an et portant la mention " stagiaire ", pendant la durée de validité de ce visa (1) ;
+10° Les étrangers mentionnés à l'article L. 313-7-1 séjournant en France sous couvert d'un visa pour un séjour d'une durée supérieure à trois mois et au plus égale à un an et portant la mention " stagiaire ", pendant la durée de validité de ce visa ;
 
-11° Les étrangers, conjoints de ressortissants étrangers, séjournant en France sous couvert d'un visa pour un séjour d'une durée supérieure à trois mois et portant la mention " vie privée et familiale ", délivré en application du 1° de l'article L. 313-11, pendant un an (2).
+11° Les étrangers, conjoints de ressortissants étrangers, séjournant en France sous couvert d'un visa pour un séjour d'une durée supérieure à trois mois et portant la mention " vie privée et familiale ", délivré en application du 1° de l'article L. 313-11, pendant un an.
 
 Les visas mentionnés aux 4°, 5°, 6°, 7°, 8°, 9°, 10° et 11° permettent à leur titulaire de séjourner en France au-delà d'une période de trois mois et dans les limites de durée susmentionnées, à la condition que l'intéressé, dans un délai de trois mois à compter de la date de son entrée en France, ait présenté à l'Office français de l'immigration et de l'intégration les indications relatives à son état civil et à son domicile en France ainsi qu'une photographie tête nue et se soit fait délivrer le certificat médical mentionné au 4° de l'article R. 313-1. L'Office français de l'immigration et de l'intégration atteste de l'accomplissement de ces formalités selon des modalités fixées par arrêté ministériel. La délivrance d'un titre de séjour par le préfet du département de résidence de l'étranger autorisé à séjourner en France sous couvert d'un titre de voyage revêtu du visa requis pour un séjour d'une durée supérieure à trois mois et au plus égale à un an est subordonnée à la présentation de l'attestation remise par l'Office français de l'immigration et de l'intégration.
 

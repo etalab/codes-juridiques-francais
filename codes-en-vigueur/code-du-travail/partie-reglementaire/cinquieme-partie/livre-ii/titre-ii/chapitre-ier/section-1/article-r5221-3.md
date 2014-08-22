@@ -20,7 +20,7 @@ L'autorisation de travail peut être constituée par l'un des documents suivants
 
 9° La carte de séjour temporaire portant la mention salarié en mission, en application du 5° de l'article L. 313-10 du même code ;
 
-9° bis La carte de séjour temporaire portant la mention "carte bleue européenne", en application du 6° de l'article L. 313-10 du même code ;
+9° bis La carte de séjour temporaire portant la mention " carte bleue européenne ", en application du 6° de l'article L. 313-10 du même code ;
 
 10° La carte de séjour temporaire portant la mention vie privée et familiale, en application des articles L. 313-8, quatrième alinéa, L. 313-12 et L. 316-1 du même code ou le visa pour un séjour d'une durée supérieure à trois mois mentionné aux 4° et 11° de l'article R. 311-3 du même code ;
 
@@ -30,6 +30,8 @@ L'autorisation de travail peut être constituée par l'un des documents suivants
 
 13° Une autorisation provisoire de travail, d'une durée maximum de douze mois renouvelables, qui peut être délivrée à l'étranger appelé à exercer chez un employeur déterminé une activité présentant par sa nature ou les circonstances de son exercice un caractère temporaire, ne relevant pas des autres autorisations de travail précitées. Le modèle de cette autorisation de travail est fixé par un arrêté du ministre chargé de l'immigration ;
 
-14° Le contrat de travail ou la demande d'autorisation de travail visés par le préfet, dans l'attente de la délivrance des cartes de séjour mentionnées aux 5°, 6°, 7°, 8° et 9°.
+14° Le contrat de travail ou la demande d'autorisation de travail visés par le préfet, dans l'attente de la délivrance des cartes de séjour mentionnées aux 5°, 6°, 7°, 8° et 9° ;
+
+15° Le visa d'une durée supérieure à trois mois prévu au 3° bis de l'article R. 311-3 du même code.
 
 Pour l'application de l'article R. 5221-17, les modèles de contrat de travail mentionnés au présent article sont fixés par arrêté du ministre chargé de l'immigration.
