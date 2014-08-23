@@ -16,15 +16,15 @@ Lorsqu'il s'agit d'une chute nouvellement aménagée, la redevance est réduite 
 
 Sous réserve d'un minimum de perception de 8,84 euros, le taux est fixé à :
 
-a) 0,21 euro par mètre cube pour le débit correspondant au fonctionnement à plein de l'installation pendant 1 000 heures et 0,14 euro par mètre cube pour le débit correspondant aux 2 000 heures suivantes.
+a) 0,21 euro  par centaine ou fraction de centaine de mètres cubes pour le débit correspondant au fonctionnement à plein de l'installation pendant 1 000 heures et 0,14 euro  par centaine ou fraction de centaine de mètres cubes pour le débit correspondant aux 2 000 heures suivantes.
 
 Lorsque la durée du fonctionnement dépasse 3 000 heures, le taux de la redevance est fixé à 0,09 euro pour le débit correspondant aux heures excédant 3 000.
 
 Les taux des redevances fixées au a peuvent être réduits jusqu'au dixième de leur montant dans les cas et conditions déterminés par arrêté du ministre chargé de la gestion du domaine public fluvial et du ministre chargé du domaine et, le cas échéant, des autres ministres intéressés ;
 
-b) Lorsque l'eau est restituée au cours d'eau par le permissionnaire au voisinage de la prise d'eau au moyen d'une canalisation spéciale autre que les collecteurs publics, le taux est fixé à 0,04 euro par mètre cube pour les cours d'eau qui sont utiles à la navigation et à 0,02 euro par mètre cube pour les autres cours d'eau ;
+b) Lorsque l'eau est restituée au cours d'eau par le permissionnaire au voisinage de la prise d'eau au moyen d'une canalisation spéciale autre que les collecteurs publics, le taux est fixé à 0,04 euro  par centaine ou fraction de centaine de mètres cubes pour les cours d'eau qui sont utiles à la navigation et à 0,02 euro  par centaine ou fraction de centaine de mètres cubes pour les autres cours d'eau ;
 
-c) Lorsque l'eau est destinée à alimenter les distributions publiques, le taux est fixé à 0,02 euro par mètre cube non seulement pour l'eau distribuée au public mais aussi pour l'eau nécessaire au fonctionnement des installations.
+c) Lorsque l'eau est destinée à alimenter les distributions publiques, le taux est fixé à 0,02 euro  par centaine ou fraction de centaine de mètres cubes non seulement pour l'eau distribuée au public mais aussi pour l'eau nécessaire au fonctionnement des installations.
 
 Toutefois, lorsque la redevance ainsi calculée excède soit 2 239 euros soit, dans les cas déterminés par arrêté du ministre chargé de la gestion du domaine public fluvial, du ministre chargé du domaine et des ministres intéressés, le chiffre fixé par cet arrêté, le permissionnaire peut obtenir qu'elle soit annuellement réduite d'après le nombre de mètres cubes réellement prélevés à charge pour lui de fournir les justifications qui seront définies dans l'autorisation.
 
