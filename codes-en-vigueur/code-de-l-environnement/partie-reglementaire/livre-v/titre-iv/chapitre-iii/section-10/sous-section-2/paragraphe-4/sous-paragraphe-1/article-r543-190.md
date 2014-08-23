@@ -12,7 +12,15 @@ L'agrément est délivré dès lors que l'éco-organisme établit, à l'appui de
 
 5° Au respect de ses obligations pour les déchets d'équipements électriques et électroniques ménagers ;
 
-6° A l'obligation de communiquer au ministre chargé de l'environnement un bilan annuel d'activité destiné à être rendu public, ainsi que les résultats obtenus en matière de réutilisation, de recyclage, de valorisation ou d'élimination des déchets d'équipements électriques et électroniques.
+6° A l'obligation de communiquer au ministre chargé de l'environnement un bilan annuel d'activité destiné à être rendu public, ainsi que les résultats obtenus en matière de réutilisation, de recyclage, de valorisation ou d'élimination des déchets d'équipements électriques et électroniques ;
+
+7° Aux objectifs de collecte annuels ;
+
+8° Aux modalités de reprise gratuite des déchets d'équipements électriques et électroniques issus des activités de réemploi et de réutilisation des acteurs de l'économie sociale et solidaire ;
+
+9° A la modulation du niveau des contributions des producteurs adhérant à l'organisme en fonction de critères d'écoconception des produits liés à leur réparabilité, réemploi, dépollution et recyclabilité et, dans la mesure où un lien avec la prévention de la production de déchets peut être établi, leur durée de vie ;
+
+10° A la mise en œuvre du mécanisme d'équilibrage en application de l'article R. 543-188.
 
 L'agrément est délivré pour une durée maximale de six ans renouvelable.
 

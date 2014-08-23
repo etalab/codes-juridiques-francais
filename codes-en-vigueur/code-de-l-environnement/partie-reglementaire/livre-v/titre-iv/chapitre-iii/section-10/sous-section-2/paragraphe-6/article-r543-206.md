@@ -1,6 +1,6 @@
 # Article R543-206
 
-Est puni de l'amende prévue pour les contraventions de la 5e classe le fait, pour un producteur :
+Est puni de l'amende prévue pour les contraventions de la 5e classe le fait, pour un producteur ou un mandataire d'un producteur établi dans un autre Etat membre :
 
 1° (supprimé)
 
@@ -12,4 +12,4 @@ Est puni de l'amende prévue pour les contraventions de la 5e classe le fait, po
 
 5° De ne pas fournir une garantie, à défaut d'avoir versé par avance sa contribution à un éco-organisme agréé conformément à l'article R. 543-193 ;
 
-6° De ne pas assurer l'enlèvement et le traitement d'un déchet d'équipement électrique et électronique professionnel conformément au I de l'article R. 543-195 et au I de l'article R. 543-198.
+6° De ne pas enlever ou faire enlever, traiter ou faire traiter un déchet d'équipement électrique et électronique professionnel conformément à l'article R. 543-195.

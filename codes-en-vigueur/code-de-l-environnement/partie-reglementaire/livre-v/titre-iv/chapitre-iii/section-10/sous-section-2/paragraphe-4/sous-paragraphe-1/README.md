@@ -6,5 +6,4 @@
 - [Article R543-191](article-r543-191.md)
 - [Article R543-192](article-r543-192.md)
 - [Article R543-193](article-r543-193.md)
-- [Article R543-194](article-r543-194.md)
 - [Article R543-194-1](article-r543-194-1.md)

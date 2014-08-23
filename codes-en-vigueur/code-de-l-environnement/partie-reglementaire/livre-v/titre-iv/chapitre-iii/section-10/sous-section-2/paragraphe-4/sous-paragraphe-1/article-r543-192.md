@@ -12,7 +12,9 @@ L'approbation est délivrée dès lors que le producteur établit, à l'appui de
 
 5° Au respect de ses obligations pour les déchets issus de ses propres équipements électriques et électroniques ménagers ;
 
-6° A l'obligation de communiquer au ministre chargé de l'environnement un bilan annuel d'activité destiné à être rendu public, ainsi que les résultats obtenus en matière de réutilisation, de recyclage, de valorisation ou d'élimination des déchets d'équipements électriques et électroniques.
+6° A l'obligation de communiquer au ministre chargé de l'environnement un bilan annuel d'activité destiné à être rendu public, ainsi que les résultats obtenus en matière de réutilisation, de recyclage, de valorisation ou d'élimination des déchets d'équipements électriques et électroniques ;
+
+7° Aux objectifs de collecte annuels.
 
 Les approbations sont délivrées pour une durée maximale de six ans renouvelable.
 
