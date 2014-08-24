@@ -1,3 +1,4 @@
-# Paragraphe 4 : Garantie des cautions
+# Paragraphe 4 : Emprunts des organismes de gestion de l'habitat social
 
 - [Article L743-7](article-l743-7.md)
+- [Article L743-7-1-A](article-l743-7-1-a.md)
