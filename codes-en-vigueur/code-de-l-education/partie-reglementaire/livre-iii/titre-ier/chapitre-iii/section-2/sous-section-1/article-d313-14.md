@@ -16,4 +16,4 @@ II.-Dans ce cadre, l'office peut passer convention avec tous les organismes int�
 
 2° Pôle emploi.
 
-Il est également chargé d'apporter sa collaboration aux administrations et aux organismes intéressés par les questions qui relèvent de sa compétence, et notamment au Conseil national de la formation professionnelle tout au long de la vie institué aux articles L. 6123-1, L. 6123-2, R. 6123-2, R. 6521-1, R. 6521-16, D. 6123-1, D. 6123-14, D. 6123-19 à D. 6123-21, D. 6123-25 à D. 6123-27 du code du travail en vue de l'élaboration et de la mise en oeuvre de la politique coordonnée de formation professionnelle et de promotion sociale.
+Il est également chargé d'apporter sa collaboration aux administrations et aux organismes intéressés par les questions qui relèvent de sa compétence, et notamment au Conseil national de l'emploi, de la formation et de l'orientation professionnelles institué aux articles R. 6123-1 à R. 6123-14 du code du travail en vue de l'élaboration et de la mise en oeuvre de la politique coordonnée de formation professionnelle et de promotion sociale.

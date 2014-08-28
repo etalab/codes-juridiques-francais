@@ -1,4 +1,4 @@
-# Chapitre III : Institutions de la formation professionnelle
+# Chapitre III : Coordination des politiques de l'emploi, de l'orientation et de la formation professionnelles
 
-- [Section 1 : Conseil national de la formation professionnelle  tout au long de la vie](section-1)
+- [Section 1 : Conseil national de l'emploi, de la formation et de l'orientation professionnelles](section-1)
 - [Section 2 : Comité de coordination régional de l'emploi  et de la formation professionnelle](section-2)

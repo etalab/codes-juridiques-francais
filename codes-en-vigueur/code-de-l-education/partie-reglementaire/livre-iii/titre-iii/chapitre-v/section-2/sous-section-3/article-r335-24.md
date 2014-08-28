@@ -40,7 +40,7 @@ p) Du travail et de l'emploi ;
 
 3° Cinq représentants des organisations des salariés les plus représentatives au niveau national ;
 
-4° Trois représentants élus des assemblées permanentes des chambres d'agriculture, des chambres françaises de commerce et d'industrie et des       chambres de métiers et de l'artisanat de région ;
+4° Trois représentants élus des assemblées permanentes des chambres d'agriculture, des chambres françaises de commerce et d'industrie et des chambres de métiers et de l'artisanat de région ;
 
 5° Trois représentants élus des régions, désignés sur proposition de l'Association des régions de France.
 
@@ -66,7 +66,7 @@ Participent également aux travaux de la commission en tant que personnalités q
 
 10° Un représentant de la Confédération européenne des syndicats ;
 
-11° Le président du Conseil national de la formation professionnelle tout au long de la vie.
+11° Le président du           Conseil national de l'emploi, de la formation et de l'orientation professionnelles.
 
 Chacun des membres de la commission dispose d'un suppléant.
 
