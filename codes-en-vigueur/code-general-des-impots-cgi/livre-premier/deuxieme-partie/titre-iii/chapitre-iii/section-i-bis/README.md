@@ -2,3 +2,4 @@
 
 - [Article 1628-0 bis](article-1628-0-bis.md)
 - [Article 1628 bis](article-1628-bis.md)
+- [Article 1628 ter](article-1628-ter.md)
