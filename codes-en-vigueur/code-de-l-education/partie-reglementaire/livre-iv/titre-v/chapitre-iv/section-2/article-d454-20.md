@@ -4,6 +4,6 @@ L'élection des représentants des élèves se fait à deux degrés. Deux délé
 
 L'ensemble des élèves internes est assimilé à une classe pour l'élection de ces représentants.
 
-Les délégués d'élèves élisent, selon les mêmes modalités, en leur sein, les représentants des élèves au conseil d'administration. Pour le collège, seuls sont éligibles les élèves de cycle d'orientation.
+Les délégués d'élèves élisent, selon les mêmes modalités, en leur sein, les représentants des élèves au conseil d'administration. Pour le collège, seuls sont éligibles les élèves de dernière année de scolarité au collège.
 
 Les délégués des élèves peuvent recueillir les avis et les propositions des élèves et les exprimer auprès du chef d'établissement et du conseil d'administration.

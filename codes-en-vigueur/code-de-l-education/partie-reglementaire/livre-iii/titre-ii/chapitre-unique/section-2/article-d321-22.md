@@ -4,7 +4,7 @@ Les dispositions pédagogiques mises en oeuvre dans chaque cycle doivent prendre
 
 La progression d'un élève dans chaque cycle est déterminée, sur proposition du maître intéressé, par l'équipe pédagogique. Les parents doivent être tenus régulièrement informés de la situation scolaire de leur enfant.
 
-Afin de prendre en compte les rythmes d'apprentissage de chaque enfant, la durée passée par un élève dans l'ensemble des cycles des apprentissages fondamentaux et des approfondissements peut être allongée ou réduite d'un an selon les modalités suivantes :
+Afin de prendre en compte les rythmes d'apprentissage de chaque enfant, la durée passée par un élève à l'école élémentaire peut être allongée ou réduite d'un an selon les modalités suivantes :
 
 Il est procédé par l'équipe pédagogique, éventuellement sur demande des parents, à l'examen de la situation de l'enfant. L'avis du médecin scolaire peut être demandé. Une proposition écrite est adressée aux parents par le directeur. Ceux-ci font connaître leur réponse écrite dans un délai de quinze jours à compter de cette notification. Passé ce délai, l'absence de réponse équivaut à l'acceptation de la proposition.
 
