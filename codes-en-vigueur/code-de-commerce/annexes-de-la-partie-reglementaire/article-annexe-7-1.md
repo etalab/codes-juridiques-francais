@@ -289,41 +289,14 @@ Siège et ressort des tribunaux de commerce
 <p>Maine-et-Loire </p>
 </td>
 <td valign="top" width="142">
-<p>Angers </p>
+<p>Angers</p>
+<p>Saumur</p>
 </td>
 <td valign="top" width="180">
 <p>Angers </p>
 </td>
 <td valign="top" width="206">
-<p>Ressort du tribunal de grande instance d'Angers </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="148">
-<p>Mayenne </p>
-</td>
-<td valign="top" width="142">
-<p>Laval </p>
-</td>
-<td valign="top" width="180">
-<p>Laval </p>
-</td>
-<td valign="top" width="206">
-<p>Ressort du tribunal de grande instance de Laval </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="148">
-<p>Sarthe </p>
-</td>
-<td valign="top" width="142">
-<p>Le Mans </p>
-</td>
-<td valign="top" width="180">
-<p>Le Mans </p>
-</td>
-<td valign="top" width="206">
-<p>Ressort du tribunal de grande instance du Mans </p>
+<p>Ressort des tribunaux de grande instance de d'Angers et de Saumur</p>
 </td>
 </tr>
 <tr>
@@ -907,41 +880,14 @@ Siège et ressort des tribunaux de commerce
 <p>Corrèze </p>
 </td>
 <td valign="top" width="142">
-<p>Brive-la-Gaillarde </p>
+<p>Brive-la-Gaillarde</p>
+<p>Tulle</p>
 </td>
 <td valign="top" width="180">
 <p>Brive-la-Gaillarde </p>
 </td>
 <td valign="top" width="206">
-<p>Ressort du tribunal de grande instance de Brive-la-Gaillarde </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="148">
-<p>Creuse </p>
-</td>
-<td valign="top" width="142">
-<p>Guéret </p>
-</td>
-<td valign="top" width="180">
-<p>Guéret </p>
-</td>
-<td valign="top" width="206">
-<p>Ressort du tribunal de grande instance de Guéret </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="148">
-<p>Haute-Vienne </p>
-</td>
-<td valign="top" width="142">
-<p>Limoges </p>
-</td>
-<td valign="top" width="180">
-<p>Limoges </p>
-</td>
-<td valign="top" width="206">
-<p>Ressort du tribunal de grande instance de Limoges </p>
+<p>Ressort des tribunaux de grande instance de Brive-la-Gaillarde et de Tulle</p>
 </td>
 </tr>
 <tr>
@@ -1852,69 +1798,17 @@ Siège et ressort des tribunaux de commerce
 </tr>
 <tr>
 <td valign="top" width="148">
-<p>Ariège </p>
-</td>
-<td valign="top" width="142">
-<p>Foix </p>
-</td>
-<td valign="top" width="180">
-<p>Foix </p>
-</td>
-<td valign="top" width="206">
-<p>Ressort du tribunal de grande instance de Foix </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="148">
 <p>Haute-Garonne </p>
 </td>
 <td valign="top" width="142">
-<p>Toulouse </p>
+<p>Toulouse</p>
+<p>Saint-Gaudens</p>
 </td>
 <td valign="top" width="180">
 <p>Toulouse </p>
 </td>
 <td valign="top" width="206">
-<p>Ressort du tribunal de grande instance de Toulouse </p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" valign="top" width="148">
-<p>Tarn </p>
-</td>
-<td valign="top" width="142">
-<p>Albi </p>
-</td>
-<td valign="top" width="180">
-<p>Albi </p>
-</td>
-<td valign="top" width="206">
-<p>Ressort du tribunal de grande instance d'Albi </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="142">
-<p>Castres </p>
-</td>
-<td valign="top" width="180">
-<p>Castres </p>
-</td>
-<td valign="top" width="206">
-<p>Ressort du tribunal de grande instance de Castres </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="148">
-<p>Tarn-et-Garonne </p>
-</td>
-<td valign="top" width="142">
-<p>Montauban </p>
-</td>
-<td valign="top" width="180">
-<p>Montauban </p>
-</td>
-<td valign="top" width="206">
-<p>Ressort du tribunal de grande instance de Montauban </p>
+<p>Ressort des tribunaux de grande instance de Toulouse et de Saint-Gaudens</p>
 </td>
 </tr>
 <tr>

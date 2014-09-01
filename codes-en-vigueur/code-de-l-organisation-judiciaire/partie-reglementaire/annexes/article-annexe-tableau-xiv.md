@@ -37,7 +37,7 @@ Siège et ressort des tribunaux pour enfants
 </tr>
 <tr>
 <td colspan="2">
-<p align="center">Lot </p>
+<p align="center">Lot</p>
 </td>
 </tr>
 <tr>
@@ -68,7 +68,7 @@ Siège et ressort des tribunaux pour enfants
 <tr>
 <td colspan="2">
 <p align="center">Cour d'appel d'Aix-en-Provence </p>
-<p align="center">Alpes-de-Haute-Provence </p>
+<p align="center">Alpes-de-Haute-Provence</p>
 </td>
 </tr>
 <tr>
@@ -83,7 +83,7 @@ Siège et ressort des tribunaux pour enfants
 </tr>
 <tr>
 <td colspan="2">
-<p align="center">Alpes-Maritimes </p>
+<p align="center">Alpes-Maritimes</p>
 </td>
 </tr>
 <tr>
@@ -143,7 +143,7 @@ Siège et ressort des tribunaux pour enfants
 </tr>
 <tr>
 <td colspan="2">
-<p align="center">Var </p>
+<p align="center">Var</p>
 </td>
 </tr>
 <tr>
@@ -169,7 +169,7 @@ Siège et ressort des tribunaux pour enfants
 <tr>
 <td colspan="2">
 <p align="center">Cour d'appel d'Amiens </p>
-<p align="center">Aisne </p>
+<p align="center">Aisne</p>
 </td>
 </tr>
 <tr>
@@ -255,17 +255,17 @@ Siège et ressort des tribunaux pour enfants
 <tr>
 <td colspan="2">
 <p align="center">Cour d'appel d'Angers </p>
-<p align="center">Maine-et-Loire </p>
+<p align="center">Maine-et-Loire</p>
 </td>
 </tr>
 <tr>
 <td>
 <br/>
-<p align="left">[Angers </p>
+<p align="left">Angers </p>
 </td>
 <td>
 <br/>
-<p align="left">Ressort du tribunal de grande instance d'Angers. (4)] </p>
+<p align="left">Ressort des tribunaux de grande instance d'Angers et de Saumur.</p>
 </td>
 </tr>
 <tr>
@@ -301,7 +301,7 @@ Siège et ressort des tribunaux pour enfants
 <tr>
 <td colspan="2">
 <p align="center">Cour d'appel de Basse-Terre </p>
-<p align="center">Guadeloupe </p>
+<p align="center">Guadeloupe</p>
 </td>
 </tr>
 <tr>
@@ -383,7 +383,7 @@ Siège et ressort des tribunaux pour enfants
 </tr>
 <tr>
 <td colspan="2">
-<p align="center">Haute-Saône </p>
+<p align="center">Haute-Saône</p>
 </td>
 </tr>
 <tr>
@@ -495,7 +495,7 @@ Siège et ressort des tribunaux pour enfants
 <tr>
 <td colspan="2">
 <p align="center">Cour d'appel de Bourges </p>
-<p align="center">Cher </p>
+<p align="center">Cher</p>
 </td>
 </tr>
 <tr>
@@ -541,7 +541,7 @@ Siège et ressort des tribunaux pour enfants
 <tr>
 <td colspan="2">
 <p align="center">Cour d'appel de Caen </p>
-<p align="center">Calvados </p>
+<p align="center">Calvados</p>
 </td>
 </tr>
 <tr>
@@ -891,16 +891,14 @@ Siège et ressort des tribunaux pour enfants
 <tr>
 <td colspan="2">
 <p align="center">Cour d'appel de Grenoble </p>
-<p align="center">Drôme</p>
+<p align="center">Drôme </p>
 </td>
 </tr>
 <tr>
 <td>
-<br/>
 <p align="left">Valence </p>
 </td>
 <td>
-<br/>
 <p align="left">Ressort du tribunal de grande instance de Valence. </p>
 </td>
 </tr>
@@ -924,10 +922,10 @@ Siège et ressort des tribunaux pour enfants
 </tr>
 <tr>
 <td>
-<p align="left">Bourgoin-Jallieu </p>
+<p align="left">Bourgoin-Jallieu</p>
 </td>
 <td>
-<p align="left">Ressort du tribunal de grande instance de Bourgoin-Jallieu. </p>
+<p align="left">Ressort du tribunal de grande instance de Bourgoin-Jallieu.</p>
 </td>
 </tr>
 <tr>
@@ -943,7 +941,7 @@ Siège et ressort des tribunaux pour enfants
 <p align="left">Vienne </p>
 </td>
 <td>
-<p align="left">Ressort du tribunal de grande instance de Vienne. </p>
+<p align="left">Ressort du tribunal de grande instance de Vienne.</p>
 </td>
 </tr>
 <tr>
@@ -963,10 +961,10 @@ Siège et ressort des tribunaux pour enfants
 </tr>
 <tr>
 <td>
-<p align="left">[Brive-la-Gaillarde </p>
+<p align="left">Brive-la-Gaillarde </p>
 </td>
 <td>
-<p align="left">Ressort du tribunal de grande instance de Brive-la-Gaillarde. (4)] </p>
+<p align="left">Ressort des tribunaux de grande instance de Brive-la-Gaillarde et Tulle.</p>
 </td>
 </tr>
 <tr>
@@ -976,11 +974,9 @@ Siège et ressort des tribunaux pour enfants
 </tr>
 <tr>
 <td>
-<br/>
 <p align="left">Guéret </p>
 </td>
 <td>
-<br/>
 <p align="left">Ressort du tribunal de grande instance de Guéret. </p>
 </td>
 </tr>
@@ -991,11 +987,9 @@ Siège et ressort des tribunaux pour enfants
 </tr>
 <tr>
 <td>
-<br/>
-<p align="left">Limoges </p>
+<p align="center">Limoges </p>
 </td>
 <td>
-<br/>
 <p align="left">Ressort du tribunal de grande instance de Limoges. </p>
 </td>
 </tr>
@@ -1007,11 +1001,9 @@ Siège et ressort des tribunaux pour enfants
 </tr>
 <tr>
 <td>
-<br/>
 <p align="left">[Bourg-en-Bresse </p>
 </td>
 <td>
-<br/>
 <p align="left">Ressort du tribunal de grande instance de Bourg-en-Bresse. (4)] </p>
 </td>
 </tr>
@@ -1022,21 +1014,17 @@ Siège et ressort des tribunaux pour enfants
 </tr>
 <tr>
 <td>
-<br/>
 <p align="left">Roanne </p>
 </td>
 <td>
-<br/>
 <p align="left">Ressort du tribunal de grande instance de Roanne. </p>
 </td>
 </tr>
 <tr>
 <td>
-<br/>
 <p align="left">[Saint-Etienne </p>
 </td>
 <td>
-<br/>
 <p align="left">Ressort du tribunal de grande instance de Saint-Etienne. (4)] </p>
 </td>
 </tr>
@@ -1047,21 +1035,17 @@ Siège et ressort des tribunaux pour enfants
 </tr>
 <tr>
 <td>
-<br/>
 <p align="left">Lyon </p>
 </td>
 <td>
-<br/>
 <p align="left">Ressort du tribunal de grande instance de Lyon. </p>
 </td>
 </tr>
 <tr>
 <td>
-<br/>
 <p align="left">Villefranche-sur-Saône </p>
 </td>
 <td>
-<br/>
 <p align="left">Ressort du tribunal de grande instance de Villefranche-sur-Saône. </p>
 </td>
 </tr>
@@ -1967,13 +1951,18 @@ Siège et ressort des tribunaux pour enfants
 </td>
 </tr>
 <tr>
-<td align="center" colspan="2">
-<p align="center">Mayotte</p>
+<td>
+<div align="left">Mayotte </div>
+</td>
+<td>
+<br/>
 </td>
 </tr>
 <tr>
-<td> Mamoudzou </td>
-<td>
+<td align="center">
+<p align="left">Mamoudzou </p>
+</td>
+<td align="center">
 <p align="left">Ressort du tribunal de grande instance de Mamoudzou </p>
 </td>
 </tr>
@@ -2001,11 +1990,11 @@ Siège et ressort des tribunaux pour enfants
 <tr>
 <td>
 <br/>
-<p align="left">[Toulouse </p>
+<p align="left">Toulouse </p>
 </td>
 <td>
 <br/>
-<p align="left">Ressort du tribunal de grande instance de Toulouse. (4)] </p>
+<p align="left">Ressort des tribunaux de grande instance de Saint-Gaudens et de Toulouse.</p>
 </td>
 </tr>
 <tr>
