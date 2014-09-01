@@ -420,9 +420,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <td valign="top">
 <p align="left">Antenne de Tulle. </p>
 </td>
-<td valign="top">
-<p align="left">Cantons d'Argentat, Bort-les-Orgues, Bugeat, Corrèze, Egletons, Eygurande, La Roche-Canillac, Lapleau, Mercœur, Meymac, Neuvic, Saint-Privat, Seilhac, Sornac, Treignac, Tulle-Campagne-Nord, Tulle-Campagne-Sud, Tulle-Urbain-Nord, Tulle-Urbain-Sud, Ussel-Est, Ussel-Ouest et Uzerche. </p>
-<p align="left">Maison d'arrêt de Tulle.</p>
+<td valign="top">Circonscription judiciaire de Tulle.<p>Maison d'arrêt de Tulle.</p>
 </td>
 </tr>
 <tr>
@@ -430,7 +428,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <p align="left">Antenne de Brive-la-Gaillarde</p>
 </td>
 <td valign="top">
-<p align="left">Circonscription judiciaire de Brive-la-Gaillarde, à l'exception des cantons situés dans le ressort de l'antenne de Tulle</p>
+<p align="left">Circonscription judiciaire de Brive-la-Gaillarde.</p>
 </td>
 </tr>
 <tr>
@@ -647,6 +645,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <tr>
 <td valign="top">
 <br/>
+<br/>
 </td>
 <td valign="top">
 <p align="left">(Arr. 17 sept. 2003 art. 5) Centre de détention de Châteaudun. </p>
@@ -716,9 +715,8 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <td valign="top">
 <p align="left">Antenne de Toulouse.</p>
 </td>
-<td valign="top">
-<p align="left">Circonscription judiciaire de Toulouse, à l'exception des cantons situés dans le ressort de l'antenne de Saint-Gaudens </p>
-<p align="left">Centre pénitentiaire de Toulouse-Seysses (quartier de semi-liberté inclus).</p>
+<td valign="top">Circonscription judiciaire de Toulouse.<p>Centre pénitentiaire de Toulouse-Seysses (quartier de semi-liberté inclus).</p>
+<br/>
 </td>
 </tr>
 <tr>
@@ -734,7 +732,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <p align="left">Antenne de Saint-Gaudens. </p>
 </td>
 <td valign="top">
-<p align="left">Cantons d'Aspet, Aurignac, Bagnères-de-Luchon, Barbazan, Boulogne-sur-Gesse, Cazères, Le Fousseret, L'Isle-en-Dodon, Montréjeau, Saint-Béat, Saint-Gaudens, Saint-Martory et Salies-du-Salat.</p>
+<p align="left">Circonscription judiciaire de Saint-Gaudens.</p>
 </td>
 </tr>
 <tr>
@@ -868,6 +866,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </td>
 <td rowspan="3" valign="top">
 <br/>
+<br/>
 </td>
 <td valign="top">
 <p align="left">Antenne de Grenoble. </p>
@@ -963,6 +962,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <tr>
 <td valign="top">
 <br/>
+<br/>
 </td>
 <td valign="top">
 <p align="left">Maison d'arrêt de Blois. </p>
@@ -973,6 +973,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <p align="left">Service pénitentiaire d'insertion et de probation de la Loire. </p>
 </td>
 <td rowspan="2" valign="top">
+<br/>
 <br/>
 </td>
 <td valign="top">
@@ -1116,9 +1117,8 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <td valign="top">
 <p align="left">Néant.</p>
 </td>
-<td valign="top">
-<p align="left">Circonscription judiciaire d'Angers. </p>
-<p align="left">Maison d'arrêt d'Angers. </p>
+<td valign="top">Circonscriptions judiciaires d'Angers et de Saumur.<p>Maison d'arrêt d'Angers.</p>
+<br/>
 </td>
 </tr>
 <tr>
@@ -1225,6 +1225,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <tr>
 <td valign="top">
 <br/>
+<br/>
 </td>
 <td>
 <p align="left">Antenne de Briey. </p>
@@ -1237,6 +1238,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <tr>
 <td valign="top">
 <br/>
+<br/>
 </td>
 <td>
 <p align="left">Antenne de Toul-Ecrouves.</p>
@@ -1248,8 +1250,10 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <tr>
 <td valign="top">
 <br/>
+<br/>
 </td>
 <td>
+<br/>
 <br/>
 </td>
 <td valign="top">
@@ -1273,6 +1277,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <tr>
 <td valign="top">
 <br/>
+<br/>
 </td>
 <td>
 <p align="left">Antenne de Bar-le-Duc.</p>
@@ -1285,6 +1290,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <tr>
 <td valign="top">
 <br/>
+<br/>
 </td>
 <td>
 <p align="left">Antenne de Montmédy. </p>
@@ -1295,6 +1301,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </tr>
 <tr>
 <td valign="top">
+<br/>
 <br/>
 </td>
 <td>
@@ -1376,6 +1383,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </tr>
 <tr>
 <td valign="top">
+<br/>
 <br/>
 </td>
 <td valign="top">
@@ -1672,6 +1680,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </tr>
 <tr>
 <td valign="top">
+<br/>
 <br/>
 </td>
 <td valign="top">
