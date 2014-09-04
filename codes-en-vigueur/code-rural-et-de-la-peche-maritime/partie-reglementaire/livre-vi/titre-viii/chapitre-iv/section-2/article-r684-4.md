@@ -1,6 +1,6 @@
 # Article R684-4
 
-L'office est doté d'un conseil d'administration qui comprend, outre son président, vingt-deux membres :
+L'office est doté d'un conseil d'administration qui comprend, outre son président, vingt-sept membres :
 
 1° Onze personnalités représentant la production, la transformation, la coopération et le commerce des produits agricoles des départements et collectivités territoriales d'outre-mer, nommées conjointement par le ministre chargé de l'outre-mer et le ministre chargé de l'agriculture, sur proposition des organisations professionnelles représentatives après avis des préfets concernés à raison de :
 
@@ -20,10 +20,20 @@ La représentation des producteurs doit être majoritaire ;
 
 6° Le directeur des affaires financières, sociales et logistiques ou son représentant ;
 
-7° Le délégué général à l'outre-mer ou son représentant ;
+7° Le directeur général des outre-mer ou son représentant ;
 
 8° Le directeur du budget ou son représentant ;
 
 9° Le président du conseil d'administration de l'établissement mentionné à l'article L. 621-1 ou son représentant ;
 
-10° Le président-directeur général de l'établissement mentionné à l'article L. 313-1 ou son représentant.
+10° Le président-directeur général de l'établissement mentionné à l'article L. 313-1 ou son représentant ;
+
+11° Le président du conseil régional de Guadeloupe ou un membre élu de ce conseil désigné par le président ;
+
+12° Le président du conseil régional de Guyane ou un membre élu de ce conseil désigné par le président ;
+
+13° Le président du conseil régional de Martinique ou un membre élu de ce conseil désigné par le président ;
+
+14° Le président du conseil général de La Réunion ou un membre élu de ce conseil désigné par le président ;
+
+15° Le président du conseil général de Mayotte ou un membre élu de ce conseil désigné par le président.
