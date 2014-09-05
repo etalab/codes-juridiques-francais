@@ -5096,8 +5096,8 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <p>c) Inférieure à 100 kg</p>
 </td>
 <td valign="top" width="31">
-<p align="center">
-<br/>DC</p>
+<p align="center">DC<br/>
+</p>
 </td>
 <td valign="top" width="34">
 <br/>
@@ -5398,3 +5398,9 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 </tbody>
 </table>
+
+(1) A : autorisation, E : enregistrement, D : déclaration, S : servitude d'utilité publique, C : soumis au contrôle périodique prévu par l'article L. 512-11 du code de l'environnement.
+
+(2) Rayon d'affichage en kilomètres.
+
+Nota. - Les activités nucléaires visées par la présente nomenclature sont les activités soumises aux rubriques 1716, 1735, 2797 et 2798.

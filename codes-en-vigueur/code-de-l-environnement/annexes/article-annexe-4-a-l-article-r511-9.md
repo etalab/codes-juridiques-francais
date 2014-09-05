@@ -485,7 +485,7 @@
 <p>2522 </p>
 </td>
 <td valign="top" width="437">
-<p>Installation de fabrication de produits en béton par procédé mécanique. La <br/>puissance installée du matériel de malaxage et de vibration, étant : </p>
+<p>Installation de fabrication de produits en béton par procédé mécanique. La puissance installée du matériel de malaxage et de vibration, étant : </p>
 </td>
 <td valign="top" width="32">
 <br/>
@@ -1712,6 +1712,7 @@
 </td>
 <td valign="top" width="32">
 <br/>
+<br/>
 </td>
 <td valign="top" width="29"/>
 <td valign="top" width="155">
@@ -1882,7 +1883,9 @@
 </td>
 <td/>
 <td/>
-<td>1. La capacité volumique du four étant supérieure à 2 000 l </td>
+<td>
+<p align="left">1. La capacité volumique du four étant supérieure à 2 000 l </p>
+</td>
 <td align="center">1<br/>
 </td>
 </tr>
@@ -1918,7 +1921,9 @@
 <td align="left" valign="top">
 <p align="center">1</p>
 </td>
-<td align="left" valign="top">2. Quelle que soit la capacité <br/>
+<td align="left" valign="top">
+<p align="left">2. Quelle que soit la capacité <br/>
+</p>
 </td>
 <td align="center" valign="top">1<br/>
 </td>
@@ -3001,7 +3006,7 @@
 <p>2681 </p>
 </td>
 <td valign="top" width="437">
-<p>Micro-organismes naturels pathogènes (mise en oeuvre dans des installations de production industrielle) </p>
+<p>Micro-organismes naturels pathogènes (mise en œuvre dans des installations de production industrielle) </p>
 </td>
 <td valign="top" width="32">
 <p align="center">A </p>
@@ -4383,97 +4388,62 @@
 </td>
 </tr>
 <tr>
-<td rowspan="6" valign="top">
-<p>2781 </p>
+<td rowspan="5" valign="top">
+<p align="center">2781 </p>
 </td>
-<td valign="top" width="437">
-<p>Installations de méthanisation de déchets non dangereux ou matière végétale brute, à l'exclusion des installations de méthanisation d'eaux usées ou de boues d'épuration urbaines lorsqu'elles sont méthanisées sur leur site de production. </p>
+<td align="left" valign="top">
+<p align="left">Installations de méthanisation de déchets non dangereux ou de matière végétale brute, à l'exclusion des installations de méthanisation d'eaux usées ou de boues d'épuration urbaines lorsqu'elles sont méthanisées sur leur site de production.</p>
+<p align="left">1. Méthanisation de matière végétale brute, effluents d'élevage, matières stercoraires, lactosérum et déchets végétaux d'industries agroalimentaires :</p>
 </td>
-<td valign="top" width="32">
-<br/>
-<br/>
-</td>
-<td valign="top" width="29">
-<br/>
-<br/>
-</td>
-<td valign="top" width="155"/>
-<td valign="top" width="26">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td valign="top" width="437">
-<p>1. Méthanisation de matière végétale brute, effluents d'élevage, matières stercoraires, lactosérum et déchets végétaux d'industries agroalimentaires : </p>
+<td align="left" valign="top">
+<p align="left">a) La quantité de matières traitées étant supérieure ou égale à 60 t/ j </p>
 </td>
-<td valign="top" width="32">
-<br/>
-<br/>
+<td align="left" valign="top">
+<p align="center">A</p>
 </td>
-<td valign="top" width="29">
-<br/>
-<br/>
+<td align="left" valign="top">
+<p align="center">2</p>
 </td>
-<td valign="top" width="155"/>
-<td valign="top" width="26">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td valign="top" width="437">
-<p>a) La quantité de matières traitées étant supérieure ou égale à 50 t/j </p>
+<td align="left" valign="top">
+<p align="left">b) La quantité de matières traitées étant supérieure ou égale à 30 t/ j et inférieure à 60 t/ j </p>
 </td>
-<td valign="top" width="32">
-<p align="center">A </p>
+<td align="left" valign="top">
+<p align="center">E</p>
 </td>
-<td valign="top" width="29">
-<p align="center">2 </p>
-</td>
-<td valign="top" width="155"/>
-<td valign="top" width="26">
-<br/>
-<br/>
-</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td valign="top" width="437">
-<p>b) La quantité de matières traitées étant supérieure ou égale à 30 t/j et inférieure à 50 t/j </p>
+<td align="left" valign="top">
+<p align="left">c) La quantité de matières traitées étant inférieure à 30 t/ j</p>
 </td>
-<td valign="top" width="32">
-<p align="center">E </p>
+<td align="left" valign="top">
+<p align="center">DC</p>
 </td>
-<td valign="top" width="29">
-<br/>
-<br/>
-</td>
-<td valign="top" width="155"/>
-<td valign="top" width="26">
-<br/>
-<br/>
-</td>
-</tr>
-<tr>
-<td>
-<p align="left">c) La quantité de matières traitées étant inférieure à 30 t/j </p>
-</td>
-<td>
-<p align="center">DC </p>
-</td>
-<td/>
-<td/>
-<td/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
 <td valign="top" width="437">
 <p>2. Méthanisation d'autres déchets non dangereux </p>
 </td>
 <td valign="top" width="32">
-<p align="center">A </p>
+<p align="center">A</p>
 </td>
 <td valign="top" width="29">
-<p align="center">2 </p>
+<p align="center">2</p>
 </td>
 <td valign="top" width="155"/>
 <td valign="top" width="26">
@@ -4833,16 +4803,16 @@
 <td/>
 </tr>
 <tr>
-<td>
+<td align="left" valign="top">
 <p align="left">1. Installation de collecte de déchets de produits explosifs (*) apportés par le producteur initial de ces déchets. </p>
 <p>La quantité équivalente totale de matière active (**) susceptible d'être présente dans l'installation étant :</p>
 </td>
-<td/>
-<td/>
-<td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
 <p align="left">1. Non soumis à la taxe</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="center">-</p>
 </td>
 </tr>
@@ -5119,6 +5089,37 @@
 <br/>
 <br/>
 </td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">2797</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Déchets radioactifs (gestion des) mis en œuvre dans un établissement industriel ou commercial, hors accélérateurs de particules, secteur médical et activités de traitement des sites pollués par des substances radioactives, dès lors que leur quantité susceptible d'être présente est supérieure à 10 m<sup>3</sup> et que les conditions d'exemption mentionnées au 1° du I de l'article R. 1333-18 du code de la santé publique ne sont pas remplies. </p>
+<p>Les termes "déchets radioactifs" et "gestion des déchets radioactifs" s'entendent au sens de l'article 3 de la directive 2011/70/EURATOM du Conseil du 19 juillet 2011 établissant un cadre communautaire pour la gestion responsable et sûre du combustible usé et des déchets radioactifs.</p>
+</td>
+<td align="left" valign="top">
+<p align="center">A</p>
+</td>
+<td align="left" valign="top">
+<p align="center">2</p>
+</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">2798</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Installation temporaire de transit de déchets radioactifs issus d'un accident nucléaire ou radiologique, à l'exclusion des installations mentionnées à la rubrique 2719. </p>
+</td>
+<td align="left" valign="top">
+<p align="center">D</p>
+</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
 <td rowspan="27" valign="top" width="21">
@@ -5540,7 +5541,7 @@
 </tr>
 <tr>
 <td valign="top" width="437">
-<p>Si la quantité totale de fluides présente dans l'installation (mesurée à 25<sup>o </sup>C) est : </p>
+<p>Si la quantité totale de fluides présente dans l'installation (mesurée à 25 <sup>o</sup>C) est : </p>
 </td>
 <td valign="top" width="32">
 <br/>
@@ -5607,7 +5608,7 @@
 </tr>
 <tr>
 <td valign="top" width="437">
-<p>Si la quantité totale de fluides présente dans l'installation (mesurée à 25 <sup>o </sup>C) est supérieure à 250 l. </p>
+<p>Si la quantité totale de fluides présente dans l'installation (mesurée à 25 <sup>o</sup>C) est supérieure à 250 l. </p>
 </td>
 <td valign="top" width="32">
 <p align="center">D </p>
@@ -6142,7 +6143,7 @@
 </tr>
 <tr>
 <td valign="top" width="437">
-<p>Nota. - Le régime de classement est déterminé par rapport à la quantité de produits mise en oeuvre dans l'installation en tenant compte des coefficients ci-après. Les quantités de produits à base de liquides inflammables de 1re catégorie (point éclair inférieur à 55<sup>o </sup>C) ou de liquides halogénés, dénommées A, sont affectées d'un coefficient 1. Les quantités de produits à base de liquides inflammables de 2e catégorie (point éclair supérieur ou égal à 55<sup>o </sup>C) ou contenant moins de 10 % de solvants organiques au moment de l'emploi, dénommées B, sont affectées d'un coefficient 1/2. Si plusieurs produits de catégories différentes sont utilisés, la quantité Q retenue pour le classement sera égale à : Q = A + B/2.</p>
+<p>Nota. - Le régime de classement est déterminé par rapport à la quantité de produits mise en oeuvre dans l'installation en tenant compte des coefficients ci-après. Les quantités de produits à base de liquides inflammables de 1re catégorie (point éclair inférieur à 55 <sup>o</sup>C) ou de liquides halogénés, dénommées A, sont affectées d'un coefficient 1. Les quantités de produits à base de liquides inflammables de 2e catégorie (point éclair supérieur ou égal à 55 <sup>o</sup>C) ou contenant moins de 10 % de solvants organiques au moment de l'emploi, dénommées B, sont affectées d'un coefficient 1/2. Si plusieurs produits de catégories différentes sont utilisés, la quantité Q retenue pour le classement sera égale à : Q = A + B/2.</p>
 </td>
 <td valign="top" width="32">
 <br/>
@@ -6741,7 +6742,7 @@
 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Fabrication de produits céramiques par cuisson, notamment de tuiles, de briques, de pierres réfractaires, de carrelages, de grès ou de porcelaines avec une capacité de production supérieure à 75 tonnes par jour, et/ou dans un four avec une capacité supérieure à 4 mètres cubes et une densité d'enfournement de plus de 300 kg/m³ par four </p>
+<p align="left">Fabrication de produits céramiques par cuisson, notamment de tuiles, de briques, de pierres réfractaires, de carrelages, de grès ou de porcelaines avec une capacité de production supérieure à 75 tonnes par jour, et dans un four avec une capacité supérieure à 4 mètres cubes et une densité d'enfournement de plus de 300 kg/m³ par four </p>
 </td>
 <td align="left" valign="top">
 <p align="center">A<br/>
@@ -7394,7 +7395,7 @@
 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Traitement et transformation, à l'exclusion du seul conditionnement des matières premières ci-après, qu'elles aient été ou non préalablement transformées, en vue de la fabrication de produits alimentaires ou d'aliments pour animaux issus : <br/>
+<p align="left">Traitement et transformation, à l'exclusion du seul conditionnement, des matières premières ci-après, qu'elles aient été ou non préalablement transformées, en vue de la fabrication de produits alimentaires ou d'aliments pour animaux issus : <br/>
 </p>
 </td>
 <td align="left" valign="top"/>
@@ -7649,7 +7650,7 @@
 </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Traitement des eaux résiduaires dans des installations autonomes relevant des rubriques 2750 ou 2751 et qui sont rejetées par une ou plusieurs installations relevant de la section 8 du chapitre V du titre Ier du livre V</p>
+<p align="left">Traitement des eaux résiduaires dans des installations autonomes relevant de la rubrique 2750 et qui sont rejetées par une ou plusieurs installations relevant de la section 8 du chapitre V du titre Ier du livre V</p>
 </td>
 <td align="left" valign="top">
 <p align="center">A</p>
@@ -7669,5 +7670,3 @@
 (2) Rayon d'affichage en kilomètres.
 
 (3) Décret n° 2010-369 du 13 avril 2010, article 2 : les rubriques 167 et 322 sont supprimées. Se référer à la place aux rubriques 2770 et 2771.
-
-Décret n° 2013-1301 du 27 décembre 2013 art. 2 : La rubrique 2661 qui entre en vigueur le jour de la publication de l'arrêté ministériel fixant les prescriptions générales applicables aux installations relevant du régime de l'enregistrement dans ces deux rubriques.

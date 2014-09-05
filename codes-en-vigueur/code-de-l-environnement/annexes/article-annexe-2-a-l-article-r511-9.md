@@ -1249,75 +1249,101 @@
 </td>
 </tr>
 <tr>
-<td rowspan="4" valign="top" width="21">
+<td rowspan="8" valign="top" width="21">
 <p>1414 </p>
 </td>
-<td valign="top" width="433">
-<p>Gaz inflammables liquéfiés (installation de remplissage ou de distribution de) </p>
+<td>
+<p align="left">Gaz inflammables liquéfiés (installation de remplissage ou de chargement ou de déchargement ou de distribution de) </p>
 </td>
-<td valign="top" width="31">
-<br/>
-<br/>
-</td>
-<td valign="top" width="34">
-<br/>
-<br/>
-</td>
-<td valign="top" width="148"/>
-<td valign="top" width="33">
-<br/>
-<br/>
-</td>
+<td/>
+<td/>
+<td/>
+<td/>
 </tr>
 <tr>
-<td valign="top" width="433">
-<p>1. installations de remplissage de bouteilles ou conteneurs </p>
+<td>1. Installations de remplissage de bouteilles ou conteneurs </td>
+<td>
+<p align="center">A</p>
 </td>
-<td valign="top" width="31">
-<p align="center">A </p>
-</td>
-<td valign="top" width="34">
+<td>
 <p align="center">1 </p>
 </td>
-<td valign="top" width="148">
-<p>1.</p>
+<td>
+<p align="center">1</p>
 </td>
-<td valign="top" width="33">
-<p align="center">4 </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="433">
-<p>2. installations de chargement ou déchargement desservant un dépôt de gaz inflammables soumis à autorisation </p>
-</td>
-<td valign="top" width="31">
-<p align="center">A </p>
-</td>
-<td valign="top" width="34">
-<p align="center">1 </p>
-</td>
-<td valign="top" width="148"/>
-<td valign="top" width="33">
-<br/>
-<br/>
+<td>
+<p align="center">4</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="433">
-<p>3. installations de remplissage de réservoirs alimentant des moteurs ou autres appareils d'utilisation comportant des organes de sécurité (jauges et soupapes) </p>
+<td align="left" valign="top">
+<p align="left">2. Installations desservant un stockage de gaz inflammable (stockage souterrain compris) : </p>
 </td>
-<td valign="top" width="31">
-<p align="center">DC </p>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">a. Installations de chargement ou déchargement desservant un stockage de gaz inflammables soumis à autorisation </p>
 </td>
-<td valign="top" width="34">
-<br/>
-<br/>
+<td align="left" valign="top">
+<p align="center">A</p>
 </td>
-<td valign="top" width="148"/>
-<td valign="top" width="33">
-<br/>
-<br/>
+<td align="left" valign="top">
+<p align="center">1</p>
 </td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">b. Autres installations que celles visées au 2. a, lorsque le nombre maximal d'opérations de chargement et de déchargement est supérieur ou égal à 20 par jour ou supérieur ou égal à 75 par semaine </p>
+</td>
+<td align="left" valign="top">
+<p align="center">A</p>
+</td>
+<td align="left" valign="top">
+<p align="center">1</p>
+</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">c. Autres installations que celles visées aux 2. a et 2. b, lorsque le nombre maximal d'opérations de chargement et de déchargement est supérieur ou égal à 2 par jour </p>
+</td>
+<td align="left" valign="top">
+<p align="center">DC</p>
+</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">3. Installations de remplissage de réservoirs alimentant des moteurs ou autres appareils d'utilisation comportant des organes de sécurité (jauges et soupapes) </p>
+</td>
+<td align="left" valign="top">
+<p align="center">DC</p>
+</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">4. Installations de chargement ou de déchargement de citerne à citerne, les citernes étant définies par les réglementations relatives au transport de marchandises dangereuses par voie routière (ADR) ou par voie ferroviaire (RID) </p>
+</td>
+<td align="left" valign="top">
+<p align="center">A</p>
+</td>
+<td align="left" valign="top">
+<p align="center">1</p>
+</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
 <td rowspan="4" valign="top" width="21">
@@ -3470,3 +3496,7 @@
 </tr>
 </tbody>
 </table>
+
+(1) A : autorisation, E : enregistrement, D : déclaration, S : servitude d'utilité publique, C : soumis au contrôle périodique prévu par l'article L. 512-11 du code de l'environnement.
+
+(2) Rayon d'affichage en kilomètres.
