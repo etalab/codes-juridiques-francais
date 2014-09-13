@@ -1,4 +1,4 @@
-# Section 1 : Indemnité compensatrice forfaitaire
+# Section 1 : Prime à l'apprentissage
 
 - [Article R6243-1](article-r6243-1.md)
 - [Article R6243-2](article-r6243-2.md)

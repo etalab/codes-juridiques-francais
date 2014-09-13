@@ -1,6 +1,6 @@
 # Article R6243-4
 
-L'indemnité compensatrice forfaitaire n'est pas due et, si elle a été versée, l'employeur est tenu de la reverser, dans les cas de :
+La prime à l'apprentissage n'est pas due et, si elle a été versée, l'employeur est tenu de la reverser, dans les cas de :
 
 1° Rupture du contrat d'apprentissage prononcée par le conseil de prud'hommes aux torts de l'employeur, en application du second alinéa de l'article L. 6222-18 ;
 

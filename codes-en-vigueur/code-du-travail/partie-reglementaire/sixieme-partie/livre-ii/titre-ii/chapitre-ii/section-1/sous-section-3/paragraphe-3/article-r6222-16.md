@@ -1,6 +1,6 @@
 # Article R6222-16
 
-Lorsque la durée du contrat est fixée à deux ans et plus, elle peut être réduite, sur demande, d'un an pour les personnes suivantes :
+Lorsque   la durée du contrat ou de la période d'apprentissage est fixée à deux ans et plus, elle peut être réduite, sur demande, d'un an pour les personnes suivantes :
 
 1° Celles titulaires d'un diplôme ou d'un titre homologué de niveau supérieur à celui qu'elles souhaitent préparer ;
 
