@@ -6,15 +6,15 @@ Pour la consultation sur le plan de formation, prévue à l'article L. 2323-34, 
 
 2° Le résultat éventuel des négociations prévues à l'article L. 2241-6 ;
 
-3° La déclaration relative à la participation des employeurs au développement de la formation professionnelle continue et, le cas échéant, la déclaration spéciale concernant le crédit d'impôt formation professionnelle ainsi que les informations sur la formation figurant au bilan social mentionné à l'article L. 2323-68 ;
+3° Les informations relatives aux modalités d'accès à la formation professionnelle des salariés transmises par l'employeur à l'autorité administrative en application de l'article L. 6331-32 ainsi que, le cas échéant, les informations sur la formation figurant au bilan social mentionné à l'article L. 2323-68 ;
 
-4° Les conclusions éventuelles des services de contrôle sur le caractère libératoire des dépenses imputées sur la participation des entreprises et le caractère éligible des dépenses exposées au titre du crédit d'impôt formation professionnelle ;
+4° Les conclusions éventuelles des services de contrôle faisant suite aux vérifications effectuées en application de l'article L. 6361-4 ;
 
 5° Le bilan des actions comprises dans le plan de formation de l'entreprise pour l'année antérieure et pour l'année en cours comportant la liste des actions de formation, des bilans de compétences et des validations des acquis de l'expérience réalisés, complétée par les informations relatives :
 
 a) Aux organismes de formation et aux organismes chargés de réaliser des bilans de compétences ou des validations des acquis de l'expérience ;
 
-b) A la nature et aux conditions d'organisation de ces actions, au regard notamment des dispositions des articles L. 2323-36 et L. 6321-2 à L. 6321-12 ;
+b) A la nature et aux conditions d'organisation de ces actions, au regard notamment des dispositions des articles L. 2323-36 et L. 6321-2 à L. 6321-12. Ces informations précisent la nature des actions de formation proposées par l'employeur en application de l'article L. 6321-1 en distinguant, d'une part, les actions d'adaptation du salarié au poste de travail ou liées à l'évolution ou au maintien dans l'emploi dans l'entreprise et, d'autre part, les actions de développement des compétences des salariés ;
 
 c) Aux conditions financières de leur exécution ;
 
