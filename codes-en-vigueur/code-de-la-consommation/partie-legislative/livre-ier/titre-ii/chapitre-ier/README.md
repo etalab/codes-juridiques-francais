@@ -7,6 +7,7 @@
 - [Section 4 bis : Interdiction des numéros masqués   en matière de démarchage téléphonique](section-4-bis)
 - [Section 5 : Ventes ou prestations avec primes](section-5)
 - [Section 6 : Loteries publicitaires](section-6)
+- [Section 7 : Achats par l'intermédiaire    des opérateurs de communications électroniques](section-7)
 - [Section 8 : Publicité et pratiques commerciales concernant les préparations pour nourrissons](section-8)
 - [Section 9 : Contrats d'utilisation de biens à temps partagé, contrats de produit de vacances à long terme, contrats de revente et contrats d'échange](section-9)
 - [Section 10 : Appellation de boulanger et enseigne de boulangerie](section-10)
