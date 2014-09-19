@@ -4,6 +4,6 @@ Les organismes qui demandent à figurer sur la liste arrêtée par le préfet de
 
 Ils justifient notamment des capacités de leurs formateurs et de l'expérience acquise par ces derniers en matière de prévention des risques professionnels et de conditions de travail.
 
-Le préfet de région se prononce après avis du comité de coordination régional de l'emploi et de la formation professionnelle.
+Le préfet de région se prononce après avis du comité régional de l'emploi, de la formation de l'orientation professionnelles.
 
 Le silence gardé pendant plus de quatre mois sur une demande d'agrément vaut décision de rejet.

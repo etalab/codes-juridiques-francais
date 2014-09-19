@@ -1,4 +1,4 @@
-# Section 2 : Comité de coordination régional de l'emploi  et de la formation professionnelle
+# Section 2 : Comité régional de l'emploi, de la formation et de l'orientation professionnelles
 
 - [Sous-section 1 : Missions](sous-section-1)
 - [Sous-section 2 : Composition](sous-section-2)

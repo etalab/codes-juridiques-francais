@@ -2,7 +2,7 @@
 
 Pour l'application à Saint-Pierre-et-Miquelon des articles D. 312-193-5, D. 312-193-6 et R. 313-1 à R. 313-10-2 :
 
-1° Les attributions exercées par le comité de coordination régional de l'emploi et de la formation professionnelle sont exercées par le comité de coordination de l'emploi et de la formation professionnelle ;
+1° Les attributions exercées par le comité régional de l'emploi, de la formation de l'orientation professionnelles sont exercées par le comité de coordination de l'emploi et de la formation professionnelle ;
 
 2° Les mots : " conférence régionale de la santé et de l'autonomie " sont remplacés par les mots : " conférence territoriale de la santé et de l'autonomie " ;
 

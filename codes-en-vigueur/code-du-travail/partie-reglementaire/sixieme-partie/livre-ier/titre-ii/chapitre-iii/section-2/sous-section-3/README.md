@@ -1,6 +1,11 @@
 # Sous-section 3 : Organisation et fonctionnement
 
 - [Article Annexe](article-annexe.md)
-- [Article D6123-25](article-d6123-25.md)
-- [Article D6123-26](article-d6123-26.md)
-- [Article D6123-27](article-d6123-27.md)
+- [Article R6123-3-8](article-r6123-3-8.md)
+- [Article R6123-3-9](article-r6123-3-9.md)
+- [Article R6123-3-10](article-r6123-3-10.md)
+- [Article R6123-3-11](article-r6123-3-11.md)
+- [Article R6123-3-12](article-r6123-3-12.md)
+- [Article R6123-3-13](article-r6123-3-13.md)
+- [Article R6123-3-14](article-r6123-3-14.md)
+- [Article R6123-3-15](article-r6123-3-15.md)

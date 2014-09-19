@@ -1,6 +1,7 @@
 # Sous-section 2 : Composition
 
-- [Article D6123-21](article-d6123-21.md)
-- [Article D6123-22](article-d6123-22.md)
-- [Article D6123-23](article-d6123-23.md)
-- [Article D6123-24](article-d6123-24.md)
+- [Article R6123-3-3](article-r6123-3-3.md)
+- [Article R6123-3-4](article-r6123-3-4.md)
+- [Article R6123-3-5](article-r6123-3-5.md)
+- [Article R6123-3-6](article-r6123-3-6.md)
+- [Article R6123-3-7](article-r6123-3-7.md)
