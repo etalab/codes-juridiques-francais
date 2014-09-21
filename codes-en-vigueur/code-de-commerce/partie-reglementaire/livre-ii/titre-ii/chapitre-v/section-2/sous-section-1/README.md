@@ -17,7 +17,6 @@
 - [Article R225-29](article-r225-29.md)
 - [Article R225-30](article-r225-30.md)
 - [Article R225-31](article-r225-31.md)
-- [Article R225-32](article-r225-32.md)
 - [Article R225-33](article-r225-33.md)
 - [Article R225-34](article-r225-34.md)
 - [Article R225-34-1](article-r225-34-1.md)

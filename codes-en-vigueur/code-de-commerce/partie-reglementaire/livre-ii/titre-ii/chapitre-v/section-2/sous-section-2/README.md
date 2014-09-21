@@ -24,6 +24,5 @@
 - [Article R225-56](article-r225-56.md)
 - [Article R225-57](article-r225-57.md)
 - [Article R225-58](article-r225-58.md)
-- [Article R225-59](article-r225-59.md)
 - [Article R225-60](article-r225-60.md)
 - [Article R225-60-1](article-r225-60-1.md)

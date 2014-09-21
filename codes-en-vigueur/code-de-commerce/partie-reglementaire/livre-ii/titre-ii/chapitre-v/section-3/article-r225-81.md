@@ -6,7 +6,7 @@ Sont joints à toute formule de procuration adressée aux actionnaires par la so
 
 2° Le texte des projets de résolution présentés par le conseil d'administration ou le directoire, selon le cas, ainsi que le texte des projets de résolution présentés par des actionnaires et les points ajoutés le cas échéant à l'ordre du jour à leur demande dans les conditions prévues aux articles R. 225-71 à R. 225-74 ;
 
-3° Un exposé sommaire de la situation de la société pendant l'exercice écoulé, accompagné d'un tableau, dont un modèle figure en annexe 2-2 au présent livre, faisant apparaître les résultats de la société au cours de chacun des cinq derniers exercices ou de chacun des exercices clos depuis la constitution de la société ou l'absorption par celle-ci d'une autre société, si leur nombre est inférieur à cinq ;
+3° Un exposé sommaire de la situation de la société pendant l'exercice écoulé ;
 
 4° Une formule de demande d'envoi des documents et renseignements mentionnés à l'article R. 225-83, informant l'actionnaire qu'il peut demander à bénéficier des dispositions du troisième alinéa de l'article R. 225-88 ;
 
