@@ -8,4 +8,3 @@
 - [Article D612-26](article-d612-26.md)
 - [Article D612-27](article-d612-27.md)
 - [Article D612-28](article-d612-28.md)
-- [Article D612-29](article-d612-29.md)
