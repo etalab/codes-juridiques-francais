@@ -2,7 +2,7 @@
 
 I. ― La Caisse nationale de solidarité pour l'autonomie a pour missions :
 
-1° De contribuer au financement de l'accompagnement de la perte d'autonomie des personnes âgées et des personnes handicapées, à domicile et en établissement, dans le respect de l'égalité de traitement des personnes concernées sur l'ensemble du territoire ;
+1° De contribuer au financement de l'accompagnement de la perte d'autonomie des personnes âgées et des personnes handicapées, à domicile et en établissement, dans le respect de l'égalité de traitement des personnes concernées sur l'ensemble du territoire et d'assurer la gestion comptable et financière du fonds pour l'accompagnement de l'accessibilité universelle prévu à l'article L. 111-7-12 du code de la construction et de l'habitation ;
 
 2° D'assurer la répartition équitable sur le territoire national du montant total de dépenses mentionné à l'article L. 314-3, en veillant notamment à une prise en compte de l'ensemble des besoins, pour toutes les catégories de handicaps ;
 
