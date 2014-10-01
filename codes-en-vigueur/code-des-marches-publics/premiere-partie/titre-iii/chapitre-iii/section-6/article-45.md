@@ -6,6 +6,12 @@ La liste de ces renseignements et documents est fixée par arrêté du ministre 
 
 Lorsque le pouvoir adjudicateur décide de fixer des niveaux minimaux de capacité, il ne peut être exigé des candidats que des niveaux minimaux de capacité liés et proportionnés à l'objet du marché. Les documents, renseignements et les niveaux minimaux de capacité demandés sont précisés dans l'avis d'appel public à concurrence ou, en l'absence d'un tel avis, dans les documents de la consultation.
 
+Lorsque le pouvoir adjudicateur demande un chiffre d'affaires annuel minimal donné, ce niveau minimal ne peut être supérieur à deux fois le montant estimé du marché ou du lot, sauf justifications liées à l'objet du marché ou à ses conditions d'exécution. S'il demande un niveau minimal supérieur à ce plafond, il le justifie dans les documents de la consultation ou dans le rapport de présentation mentionné à l'article 79.
+
+Pour les accords-cadres et les marchés à bons de commande, ce plafond est calculé sur la base du montant total maximal des marchés passés sur le fondement de l'accord-cadre ou des bons de commande dont l'exécution par un même titulaire pourrait être effectuée simultanément. Lorsque ce montant ne peut être estimé, le plafond est calculé sur la base de la valeur totale estimée des marchés passés sur le fondement de l'accord-cadre ou des bons de commande susceptibles d'être attribués à un même titulaire pendant la durée de validité de l'accord-cadre ou du marché à bons de commande.
+
+Pour les systèmes d'acquisition dynamique, ce plafond est calculé sur la base de la valeur totale estimée des marchés spécifiques envisagés pendant la durée totale du système.
+
 Une même personne ne peut représenter plus d'un candidat pour un même marché.
 
 II.-Le pouvoir adjudicateur peut demander aux opérateurs économiques qu'ils produisent des certificats de qualité. Ces certificats, délivrés par des organismes indépendants, sont fondés sur les normes européennes.
@@ -23,3 +29,7 @@ Si le candidat est objectivement dans l'impossibilité de produire, pour justifi
 IV.-Peuvent également être demandés, le cas échéant, des renseignements sur le respect de l'obligation d'emploi mentionnée aux articles L. 5212-1 à L. 5212-4 du code du travail.
 
 V.-Le pouvoir adjudicateur peut exiger que les candidats joignent une traduction en français, certifiée conforme à l'original par un traducteur assermenté, aux documents rédigés dans une autre langue qu'ils remettent en application du présent article.
+
+VI.-Les candidats ne sont pas tenus de fournir les documents et renseignements que le pouvoir adjudicateur peut obtenir directement par le biais d'un système électronique de mise à disposition d'informations administré par un organisme officiel ou d'un espace de stockage numérique, à condition que figurent dans le dossier de candidature toutes les informations nécessaires à la consultation de ce système ou de cet espace et que l'accès à ceux-ci soit gratuit.
+
+Le pouvoir adjudicateur peut prévoir, dans l'avis d'appel public à la concurrence ou dans les documents de la consultation, que les candidats ne sont pas tenus de fournir les documents et renseignements qui lui ont déjà été transmis dans le cadre d'une précédente consultation et qui demeurent valables.

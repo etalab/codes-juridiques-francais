@@ -38,4 +38,6 @@ III.-Les pièces constitutives des accords-cadres comportent obligatoirement les
 
 Les pièces constitutives des marchés passés sur le fondement d'un accord-cadre comportent obligatoirement les mentions énumérées aux 6°, 8°, 9°, 12° et 13° du I du présent article, si ces mentions n'ont pas déjà été indiquées dans celles de l'accord-cadre.
 
-IV.-Si les pièces constitutives ne sont pas rédigées en langue française, le pouvoir adjudicateur peut exiger que ces documents soient accompagnés d'une traduction en français certifiée conforme à l'original par un traducteur assermenté.
+IV. - Dans le cadre d'un partenariat d'innovation, lorsque les mentions énumérées aux 6°, 7°, 8°, 9° et 13° du I du présent article ne peuvent être définies avec une précision suffisante lors de la signature du contrat, elles sont précisées, pour chacune des phases du partenariat, au plus tard avant le commencement d'exécution des prestations de la phase, au regard des résultats des phases précédentes.
+
+V.-Si les pièces constitutives ne sont pas rédigées en langue française, le pouvoir adjudicateur peut exiger que ces documents soient accompagnés d'une traduction en français certifiée conforme à l'original par un traducteur assermenté.

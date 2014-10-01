@@ -1,8 +1,8 @@
 # Article 27
 
-I. - Le pouvoir adjudicateur ne peut pas se soustraire à l'application du présent code en scindant ses achats ou en utilisant des modalités de calcul de la valeur estimée des marchés ou accords-cadres autres que celles prévues par le présent article.
+I.-Le pouvoir adjudicateur ne peut pas se soustraire à l'application du présent code en scindant ses achats ou en utilisant des modalités de calcul de la valeur estimée des marchés ou accords-cadres autres que celles prévues par le présent article.
 
-II. - Le montant estimé du besoin est déterminé dans les conditions suivantes, quel que soit le nombre d'opérateurs économiques auxquels il est fait appel et quel que soit le nombre de marchés à passer.
+II.-Le montant estimé du besoin est déterminé dans les conditions suivantes, quel que soit le nombre d'opérateurs économiques auxquels il est fait appel et quel que soit le nombre de marchés à passer.
 
 1° En ce qui concerne les travaux, sont prises en compte la valeur globale des travaux se rapportant à une opération portant sur un ou plusieurs ouvrages ainsi que la valeur des fournitures nécessaires à leur réalisation que le pouvoir adjudicateur met à disposition des opérateurs.
 
@@ -14,9 +14,9 @@ La délimitation d'une catégorie homogène de fournitures ou de services ne doi
 
 Pour les marchés d'une durée inférieure ou égale à un an, conclus pour répondre à un besoin régulier, la valeur totale mentionnée ci-dessus est celle qui correspond aux besoins d'une année.
 
-III. - Lorsqu'un achat peut être réalisé par lots séparés, est prise en compte la valeur globale estimée de la totalité de ces lots.
+III.-Lorsqu'un achat peut être réalisé par lots séparés, est prise en compte la valeur globale estimée de la totalité de ces lots.
 
-Les pouvoirs adjudicateurs peuvent décider de mettre en oeuvre soit une procédure commune de mise en concurrence pour l'ensemble des lots, soit une procédure de mise en concurrence propre à chaque lot.  Quelle que soit l'option retenue, lorsque la valeur cumulée des lots est égale ou supérieure aux seuils de procédure formalisée définis à l'article 26, la ou les procédures à mettre en œuvre sont les procédures formalisées mentionnées au I de cet article.
+Les pouvoirs adjudicateurs peuvent décider de mettre en oeuvre soit une procédure commune de mise en concurrence pour l'ensemble des lots, soit une procédure de mise en concurrence propre à chaque lot. Quelle que soit l'option retenue, lorsque la valeur cumulée des lots est égale ou supérieure aux seuils de procédure formalisée définis à l'article 26, la ou les procédures à mettre en œuvre sont les procédures formalisées mentionnées au I de cet article.
 
 Toutefois, même si la valeur totale des lots est égale ou supérieure aux seuils des marchés formalisés, il est possible de recourir à une procédure adaptée :
 
@@ -30,8 +30,10 @@ Cette dérogation peut également s'appliquer à des lots déclarés infructueux
 
 Cette dérogation ne peut, en revanche, s'appliquer aux accords-cadres et aux marchés qui ne comportent pas de montant minimum.
 
-IV. - Si le pouvoir adjudicateur prévoit des primes au profit des candidats, il prend en compte leur montant pour calculer la valeur estimée du besoin.
+IV.-Si le pouvoir adjudicateur prévoit des primes au profit des candidats, il prend en compte leur montant pour calculer la valeur estimée du besoin.
 
-V. - Pour les accords-cadres et pour les systèmes d'acquisition dynamique, la valeur à prendre en compte est la valeur maximale estimée de l'ensemble des marchés envisagés pendant la durée totale de l'accord-cadre ou du système d'acquisition dynamique.
+V.-Pour les accords-cadres et pour les systèmes d'acquisition dynamique, la valeur à prendre en compte est la valeur maximale estimée de l'ensemble des marchés envisagés pendant la durée totale de l'accord-cadre ou du système d'acquisition dynamique.
 
-VI. - Pour les marchés à bons de commande comportant un maximum, la valeur à prendre en compte correspond à ce maximum. Si le marché ne fixe pas de maximum, sa valeur estimée est réputée excéder  les seuils de procédure formalisée définis à l'article 26.
+VI.-Pour les marchés à bons de commande comportant un maximum, la valeur à prendre en compte correspond à ce maximum. Si le marché ne fixe pas de maximum, sa valeur estimée est réputée excéder les seuils de procédure formalisée définis à l'article 26.
+
+VII.-Pour les partenariats d'innovation, la valeur à prendre en compte est la valeur totale estimée des activités de recherche et de développement qui doivent être menées au cours des différentes phases du partenariat ainsi que la valeur totale estimée des fournitures, services ou travaux innovants qui en sont le résultat et dont l'acquisition est envisagée.

@@ -12,7 +12,9 @@ I. ― Il est possible de conclure des marchés de défense ou de sécurité à 
 
 5° Lorsque les résultats de la mise en concurrence de certains éléments du marché que le titulaire a prévu de confier à un sous-contractant ne sont pas connus au moment de la fixation des prix du marché ; dans ce cas, seuls ces éléments font l'objet de prix provisoires ;
 
-6° Lorsque les prestations prévues font appel principalement à des technologies innovantes ou évolutives ne permettant pas de déterminer préalablement un prix définitif.
+6° Lorsque les prestations prévues font appel principalement à des technologies innovantes ou évolutives ne permettant pas de déterminer préalablement un prix définitif ;
+
+7° Lorsque les prestations font l'objet d'un partenariat d'innovation.
 
 II. ― Les marchés conclus à prix provisoires précisent :
 

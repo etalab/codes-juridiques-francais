@@ -35,3 +35,5 @@ IV. ― Si la personne soumise à la présente partie prévoit des primes au pro
 V. ― Pour les accords-cadres, la valeur à prendre en compte est la valeur maximale estimée de l'ensemble des marchés envisagés pendant la durée totale de l'accord-cadre.
 
 VI. ― Pour les marchés à bons de commande comportant un maximum, la valeur à prendre en compte correspond à ce maximum. Si le marché ne fixe pas de maximum, sa valeur estimée est réputée excéder les seuils de procédure formalisée définis à l'article 201.
+
+VII. - Pour les partenariats d'innovation, la valeur à prendre en compte est la valeur totale estimée des activités de recherche et de développement qui doivent être menées au cours des différentes phases du partenariat ainsi que la valeur totale estimée des fournitures, services ou travaux innovants qui en sont le résultat et dont l'acquisition est envisagée.

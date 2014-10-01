@@ -3,3 +3,4 @@
 - [Section 1 : Marchés comportant des aléas techniques importants](section-1)
 - [Section 2 : Marchés à tranches conditionnelles](section-2)
 - [Section 3 : Marché de maîtrise d'œuvre](section-3)
+- [Section 4 :  Partenariat d'innovation](section-4)
