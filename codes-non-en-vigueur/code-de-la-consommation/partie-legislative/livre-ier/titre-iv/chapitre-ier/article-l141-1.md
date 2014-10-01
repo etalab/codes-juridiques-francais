@@ -58,7 +58,7 @@ III.-Sont recherchés et constatés, dans les conditions fixées au I, les infra
 
 11° De l'article 6 de la loi n° 89-421 du 23 juin 1989 relative à l'information et à la protection des consommateurs ainsi qu'à diverses pratiques commerciales ;
 
-12° Du dernier alinéa du I de l'article L. 112-6 du code monétaire et financier ;
+12° Du dernier alinéa du I de l'article    L. 112-6 et des sections 1 à 3 du chapitre VIII du titre IV du livre V du code monétaire et financier ;
 
 13° Des deux premiers alinéas de l'article L. 213-2 du code de la route ;
 

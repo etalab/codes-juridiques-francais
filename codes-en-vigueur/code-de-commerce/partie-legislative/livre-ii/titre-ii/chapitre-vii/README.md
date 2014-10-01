@@ -2,6 +2,7 @@
 
 - [Article L227-1](article-l227-1.md)
 - [Article L227-2](article-l227-2.md)
+- [Article L227-2-1](article-l227-2-1.md)
 - [Article L227-3](article-l227-3.md)
 - [Article L227-4](article-l227-4.md)
 - [Article L227-5](article-l227-5.md)

@@ -2,6 +2,6 @@
 
 - [Chapitre Ier : Dispositions relatives aux prestataires de services bancaires](chapitre-ier)
 - [Chapitre II : Prestataires de services de paiement, changeurs manuels et émetteurs de monnaie électronique](chapitre-ii)
-- [Chapitre III : Dispositions relatives aux prestataires de services d'investissement et aux conseillers en investissements financiers](chapitre-iii)
+- [Chapitre III : Dispositions relatives aux prestataires de services d'investissement , aux conseillers en investissements financiers, aux conseillers en investissements participatifs et aux intermédiaires en financement participatif](chapitre-iii)
 - [Article L570-1](article-l570-1.md)
 - [Article L570-2](article-l570-2.md)

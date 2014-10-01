@@ -22,7 +22,7 @@ f) Les entreprises dont les activités se limitent à celles mentionnées aux d 
 
 g) Les personnes qui fournissent les services de conseil en investissement ou de réception et de transmission d'ordres pour le compte de tiers, de manière accessoire et dans le cadre d'une activité professionnelle non financière ou d'une activité d'expert-comptable, dans la mesure où celle-ci est régie par des dispositions législatives ou réglementaires ou par un code de déontologie approuvé par une autorité publique qui ne l'interdisent pas formellement ;
 
-h) (abrogé)
+h) Les conseillers en investissements participatifs, dans les conditions et limites fixées au chapitre VII du titre IV ;
 
 i) Les personnes qui ne fournissent aucun autre service d'investissement que la négociation pour compte propre, à moins qu'elles ne soient teneurs de marché ou qu'elles ne négocient pour compte propre de façon organisée, fréquente et systématique en dehors d'un marché réglementé ou d'un système multilatéral de négociation, en fournissant un service accessible à des tiers afin d'entrer en négociation avec eux. Au sens du présent alinéa, un teneur de marché est une personne qui est présente de manière continue sur les marchés financiers pour négocier pour son propre compte et qui se porte acheteuse et vendeuse d'instruments financiers en engageant ses propres capitaux, à des prix fixés par elle ;
 

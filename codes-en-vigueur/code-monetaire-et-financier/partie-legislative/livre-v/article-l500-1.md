@@ -4,7 +4,7 @@ I.-Nul ne peut, directement ou indirectement, pour son propre compte ou pour le 
 
 1° Diriger, gérer, administrer ni être membre d'un organe collégial de contrôle d'un organisme mentionné aux articles L. 213-8, L. 511-1, L. 517-1, L. 517-4, L. 522-1, L. 526-1, L. 531-1, L. 542-1 et L. 543-1, ni disposer du pouvoir de signer pour le compte de cet organisme ;
 
-2° Exercer l'une des professions ou activités mentionnées aux articles L. 341-1, L. 519-1, L. 524-1, L. 523-1, L. 525-8, L. 541-1 et L. 550-1.
+2° Exercer l'une des professions ou activités mentionnées aux articles L. 341-1, L. 519-1, L. 524-1, L. 523-1, L. 525-8, L. 541-1, L. 547-1 et L. 548-1 et L. 550-1.
 
 II.-Les condamnations mentionnées au I sont celles :
 
@@ -64,4 +64,4 @@ VI.-En cas de condamnation prononcée par une juridiction étrangère et passée
 
 Cette incapacité s'applique également à toute personne non réhabilitée ayant fait l'objet d'une faillite personnelle prononcée par une juridiction étrangère quand le jugement déclaratif a été déclaré exécutoire en France. La demande d'exequatur peut être, à cette fin seulement, formée par le ministère public devant le tribunal de grande instance du domicile du condamné.
 
-VII.-Le fait pour une personne de ne pas faire l'objet de l'incapacité prévue au présent article ne préjuge pas de l'appréciation, par l'autorité compétente, du respect des conditions nécessaires           à l'accès ou à l'exercice de l'activité.
+VII.-Le fait pour une personne de ne pas faire l'objet de l'incapacité prévue au présent article ne préjuge pas de l'appréciation, par l'autorité compétente, du respect des conditions nécessaires à l'accès ou à l'exercice de l'activité.
