@@ -18,7 +18,7 @@ b) Etablir, dans les conditions prévues à l'article L. 114-1 du code rural et 
 
 5° Délimiter, afin d'y établir un programme d'actions dans les conditions prévues au 4° du présent article :
 
-a) Des zones où il est nécessaire d'assurer la protection quantitative et qualitative des aires d'alimentation des captages d'eau potable d'une importance particulière pour l'approvisionnement actuel ou futur, le cas échéant après qu'elles ont été identifiées dans le plan d'aménagement et de gestion durable de la ressource en eau et des milieux aquatiques prévu au I de l'article L. 212-5-1 ;
+a) Des zones où il est nécessaire d'assurer la protection quantitative et qualitative des aires d'alimentation des captages d'eau potable d'une importance particulière pour l'approvisionnement actuel ou futur, le cas échéant après qu'elles ont été identifiées dans le plan d'aménagement et de gestion durable de la ressource en eau et des milieux aquatiques prévu au I de l'article L. 212-5-1. Le programme d'actions peut prévoir l'interdiction de l'usage de substances dangereuses pour la santé ou l'environnement sur ces zones ;
 
 b) Les bassins versants identifiés par le schéma directeur d'aménagement et de gestion des eaux comme connaissant, sur les plages, d'importantes marées vertes de nature à compromettre la réalisation des objectifs de bon état prévus à l'article L. 212-1 en ce qui concerne les eaux côtières et de transition qu'ils alimentent, telles que définies par la directive 2000/60/ CE du Parlement européen et du Conseil, du 23 octobre 2000, établissant un cadre pour une politique communautaire dans le domaine de l'eau ;
 
@@ -30,7 +30,13 @@ c) Des zones dans lesquelles l'érosion diffuse des sols agricoles est de nature
 
 8° Délimiter des bassins connaissant d'importantes marées vertes sur les plages, tels que définis par le schéma directeur d'aménagement et de gestion des eaux et qui sont dès lors de nature à compromettre la réalisation des objectifs de bon état des masses d'eau, et y rendre obligatoire une déclaration annuelle des quantités d'azote de toutes origines épandues ou cédées ainsi que des lieux d'épandage. Cette obligation vise tout utilisateur ou producteur d'azote, d'origine organique ou minérale, et notamment les exploitants agricoles exerçant les activités mentionnées à l'article L. 311-1 du code rural et de la pêche maritime, les gestionnaires publics et privés d'équipements de traitement d'effluents et de déchets, les utilisateurs d'engrais ou d'amendements azotés dans le cadre de services publics gérés dans les conditions prévues aux articles L. 1411-1 et suivants, L. 1412-1 et suivants et L. 1415-1 et suivants du code général des collectivités territoriales.
 
-III.-Un décret en Conseil d'Etat détermine :
+III. - Dans les parties des zones vulnérables atteintes par la pollution, délimitées en application du I ou du 8° du II, dans lesquelles a été mis en place un dispositif de surveillance annuelle de l'azote épandu, l'autorité administrative peut imposer :
+
+1° Aux personnes qui détiennent ou commercialisent à titre professionnel des matières fertilisantes azotées dans cette zone, y compris aux transporteurs de ces matières et aux prestataires de services d'épandage, une déclaration annuelle relative aux quantités d'azote qu'elles ont traitées, reçues, livrées, cédées à titre gratuit ou onéreux dans la zone, ou qu'elles ont cédées ou livrées à partir de cette zone ;
+
+2° A toute autre personne qui expédie ou livre dans cette zone des matières fertilisantes azotées en vue d'un usage agricole, une déclaration annuelle relative aux quantités d'azote qu'elle y a expédiées ou livrées.
+
+IV. - Un décret en Conseil d'Etat détermine :
 
 1° Les règles destinées à assurer la sécurité des ouvrages hydrauliques autres que les ouvrages concédés en application de la loi du 16 octobre 1919 relative à l'utilisation de l'énergie hydraulique. Ces règles portent sur les modalités de surveillance des ouvrages par le propriétaire ou l'exploitant et peuvent prévoir, pour certains ouvrages, l'intervention, aux frais du propriétaire ou de l'exploitant, d'organismes agréés ;
 
