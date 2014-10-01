@@ -10,7 +10,9 @@ IV. ― Les personnes immatriculées informent l'organisme de toute modification
 
 V. ― Le mandant qui a délivré un mandat à l'une des personnes mentionnées à l'article L. 545-1 ou aux 2°, 3° et 4° du I de l'article R. 519-4 notifie à l'organisme la cessation de fonctions de cette personne dans le mois qui précède la fin du mandat, ou dans le mois qui suit en cas de cessation soudaine de ce mandat.
 
-VI. ― Les associations professionnelles de conseillers en investissements financiers mentionnées à l'article L. 541-4 notifient à l'organisme la radiation de leurs adhérents ainsi que les décisions de suspension prises sur le fondement du règlement général de l'Autorité des marchés financiers, dans le mois qui suit cette radiation ou cette suspension.
+VI. ― Les associations professionnelles de conseillers en investissements financiers et de conseillers en investissements participatifs mentionnées aux articles L. 541-4 et L. 547-4 notifient à l'organisme la radiation de leurs adhérents ainsi que les décisions de suspension prises sur le fondement du règlement général de l'Autorité des marchés financiers, dans le mois qui suit cette radiation ou cette suspension.
+
+En l'absence d'association agréée, les décisions de suspension des conseillers en investissements participatifs sont notifiées par l'Autorité des marchés financiers dans le mois qui suit cette suspension.
 
 VII. ― Les entreprises d'assurance portent sans délai à la connaissance de l'organisme toute suspension de garantie, toute dénonciation de la tacite reconduction ou résiliation du contrat d'assurance souscrit au titre de leur responsabilité civile professionnelle, concernant les personnes mentionnées au 1° du I de l'article R. 519-4 et à l'article L. 541-1.
 
