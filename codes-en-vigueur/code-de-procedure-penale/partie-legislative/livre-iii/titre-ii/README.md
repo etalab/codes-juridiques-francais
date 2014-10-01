@@ -7,7 +7,3 @@
 - [Chapitre V : Des demandes de suspension de l'exécution de la condamnation](chapitre-v)
 - [Chapitre VI : Des demandes d'actes préalables](chapitre-vi)
 - [Chapitre VII : De la réparation à raison d'une condamnation](chapitre-vii)
-- [Article 622](article-622.md)
-- [Article 623](article-623.md)
-- [Article 624](article-624.md)
-- [Article 626](article-626.md)
