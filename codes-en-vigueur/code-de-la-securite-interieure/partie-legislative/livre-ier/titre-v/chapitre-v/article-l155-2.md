@@ -32,7 +32,7 @@ b) Le dernier alinéa est ainsi rédigé :
 
 7° L'article L. 132-4 est ainsi rédigé :
 
-" Art. L. 132-4. ― Sous réserve des pouvoirs de l'autorité judiciaire et dans le respect des compétences du représentant de l'Etat, des compétences de la Polynésie française en matière sociale et des compétences des autres collectivités publiques et des établissements et organismes intéressés, le maire anime, sur le territoire de sa commune, la politique de prévention de la délinquance et en coordonne la mise en œuvre.
+" Art. L. 132-4 . ― Sous réserve des pouvoirs de l'autorité judiciaire et dans le respect des compétences du représentant de l'Etat, des compétences de la Polynésie française en matière sociale et des compétences des autres collectivités publiques et des établissements et organismes intéressés, le maire anime, sur le territoire de sa commune, la politique de prévention de la délinquance et en coordonne la mise en œuvre.
 
 " Dans les communes de plus de 10 000 habitants, le maire ou son représentant est désigné dans les conditions prévues à l'article L. 2122-18 du code général des collectivités territoriales et préside le conseil local de sécurité et de prévention de la délinquance. " ;
 
@@ -40,4 +40,6 @@ b) Le dernier alinéa est ainsi rédigé :
 
 a) Au premier alinéa, les mots : " et au 11° de l'article 15-1 de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante " sont supprimés ;
 
-b) Au deuxième alinéa, les mots : " des dispositions de l'article L. 223-2 du code de l'action sociale et des familles " sont remplacés par les mots : " des dispositions applicables localement ".
+b) Au deuxième alinéa, les mots : " des dispositions de l'article L. 223-2 du code de l'action sociale et des familles " sont remplacés par les mots : " des dispositions applicables localement " ;
+
+9° A l'article L. 132-16, les mots : " ou, le cas échéant, du conseil intercommunal ou métropolitain de sécurité et de prévention de la délinquance, " sont supprimés.

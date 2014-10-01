@@ -12,6 +12,8 @@ Lorsqu'un délit est puni d'une peine d'emprisonnement, la juridiction peut pron
 
 5° L'immobilisation, pour une durée d'un an au plus, d'un ou de plusieurs véhicules appartenant au condamné, selon des modalités déterminées par décret en Conseil d'Etat ;
 
+5° bis L'interdiction, pendant une durée de cinq ans au plus, de conduire un véhicule qui ne soit pas équipé, par un professionnel agréé ou par construction, d'un dispositif homologué d'anti-démarrage par éthylotest électronique. Lorsque cette interdiction est prononcée en même temps que la peine d'annulation ou de suspension du permis de conduire, elle s'applique, pour la durée fixée par la juridiction, à l'issue de l'exécution de cette peine ;
+
 6° L'interdiction de détenir ou de porter, pour une durée de cinq ans au plus, une arme soumise à autorisation ;
 
 7° La confiscation d'une ou de plusieurs armes dont le condamné est propriétaire ou dont il a la libre disposition ;

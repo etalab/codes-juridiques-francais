@@ -18,7 +18,7 @@ Pour l'application du présent livre en Nouvelle-Calédonie :
 
 " La Nouvelle-Calédonie et les provinces concourent à la prévision des risques de sécurité civile dans le cadre des compétences qui leur sont dévolues, notamment en matière de protection de l'environnement, d'aménagement du territoire et d'urbanisme.
 
-" Sans préjudice des dispositions relatives à l'organisation de l'Etat en temps de crise et de celles du code des communes de la Nouvelle-Calédonie, le haut-commissaire de la République en Nouvelle-Calédonie coordonne les opérations de secours excédant le territoire d'une commune ou dont l'ampleur excède les moyens de la commune. ";
+" Sans préjudice des dispositions relatives à l'organisation de l'Etat en temps de crise et de celles du code des communes de la Nouvelle-Calédonie, le haut-commissaire de la République en Nouvelle-Calédonie coordonne les opérations de secours excédant le territoire d'une commune ou dont l'ampleur excède les moyens de la commune. " ;
 
 5° Au premier alinéa de l'article L. 113-1, les mots : " ainsi que les agents de police municipale et les gardes champêtres, en vertu de l'article 11 de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires " sont remplacés par les mots : " en vertu de l'article 11 de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires, ainsi que les agents de police municipale et les gardes champêtres, en vertu des dispositions applicables localement " ;
 
@@ -54,4 +54,6 @@ d) Le dernier alinéa est ainsi rédigé :
 
 a) Au premier alinéa, les mots : " et au 11° de l'article 15-1 de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante " sont supprimés ;
 
-b) Au deuxième alinéa, les mots : " des dispositions de l'article L. 223-2 du code de l'action sociale et des familles " sont remplacés par les mots : " des dispositions applicables localement ".
+b) Au deuxième alinéa, les mots : " des dispositions de l'article L. 223-2 du code de l'action sociale et des familles " sont remplacés par les mots : " des dispositions applicables localement " ;
+
+11° A l'article L. 132-16, les mots : " ou, le cas échéant, du conseil intercommunal ou métropolitain de sécurité et de prévention de la délinquance, " sont supprimés.

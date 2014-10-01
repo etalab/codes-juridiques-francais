@@ -13,6 +13,7 @@
 - [Titre XIV : Du recours en indemnité ouvert à certaines victimes de dommages résultant d'une infraction](titre-xiv)
 - [Titre XVI : De la poursuite, de l'instruction et du jugement des infractions en matière de trafic de stupéfiants](titre-xvi)
 - [Titre XIV bis : De l'aide au recouvrement des dommages et intérêts pour les victimes d'infractions](titre-xiv-bis)
+- [Titre XIV quater : Du bureau d'aide aux victimes](titre-xiv-quater)
 - [Titre XVIII : De la poursuite, de l'instruction et du jugement des infractions commises par les personnes morales](titre-xviii)
 - [Titre XX : Du fichier national automatisé des empreintes génétiques](titre-xx)
 - [Titre XX bis : Du répertoire des données à caractère personnel collectées dans le cadre des procédures judiciaires](titre-xx-bis)

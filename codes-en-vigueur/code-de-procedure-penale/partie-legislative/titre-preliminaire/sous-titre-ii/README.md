@@ -1,3 +1,3 @@
-# Sous-titre II : De la participation des citoyens au jugement des affaires pénales
+# Sous-titre II : De la justice restaurative
 
 - [Article 10-1](article-10-1.md)
