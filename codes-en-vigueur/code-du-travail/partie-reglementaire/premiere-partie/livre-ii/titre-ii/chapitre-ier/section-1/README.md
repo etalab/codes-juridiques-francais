@@ -7,3 +7,4 @@
 - [Sous-section 5 : Documents à remettre au salarié](sous-section-5)
 - [Sous-section 6 : Contrôle et sanctions administratives](sous-section-6)
 - [Sous-section 7 : Obligations de l'organisme destinataire](sous-section-7)
+- [Sous-section 8 : Obligation de dématérialisation](sous-section-8)
