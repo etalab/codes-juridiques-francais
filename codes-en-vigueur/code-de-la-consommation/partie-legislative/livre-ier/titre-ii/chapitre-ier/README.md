@@ -18,3 +18,4 @@
 - [Section 14 : Contrats conclus dans les foires et salons](section-14)
 - [Section 15 : Contrats d'achat de métaux précieux](section-15)
 - [Section 16 : Contrats de transport hors déménagement](section-16)
+- [Section 17 : Contrats relatifs au gaz de pétrole liquéfié](section-17)
