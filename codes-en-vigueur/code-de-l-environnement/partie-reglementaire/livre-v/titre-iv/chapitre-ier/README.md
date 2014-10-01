@@ -6,3 +6,4 @@
 - [Section 4 : Collecte, transport, négoce et courtage de déchets](section-4)
 - [Section 6 : Stockage de déchets inertes](section-6)
 - [Section 7 : Dispositions pénales.](section-7)
+- [Section 8 : Contrôles périodiques et sanctions administratives](section-8)
