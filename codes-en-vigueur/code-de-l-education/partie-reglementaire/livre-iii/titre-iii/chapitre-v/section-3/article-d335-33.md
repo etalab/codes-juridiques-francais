@@ -1,45 +1,9 @@
 # Article D335-33
 
-Chaque ministre responsable d'établissements ou d'actions de formation professionnelle continue ou d'enseignement technologique peut instituer, par arrêté, des commissions professionnelles consultatives.
+Le label "campus des métiers et des qualifications" permet d'identifier, sur un territoire donné, un réseau d'acteurs qui interviennent en partenariat pour développer une large gamme de formations professionnelles, technologiques et générales, relevant de l'enseignement secondaire et de l'enseignement supérieur, ainsi que de la formation initiale ou continue, qui sont centrées sur des filières spécifiques et sur un secteur d'activité correspondant à un enjeu économique national ou régional.
 
-Chacune de ces commissions doit concerner obligatoirement une des branches d'activités professionnelles suivantes :
+Le réseau auquel est attribué le label regroupe, par voie de convention, des établissements d'enseignement du second cycle du second degré, des établissements d'enseignement supérieur, des centres de formation d'apprentis, des laboratoires de recherche, des organismes de formation continue, des entreprises et, le cas échéant, des associations à caractère sportif, culturel ou d'entraide. Dans sa gouvernance, il comprend au moins un établissement public local d'enseignement du second cycle du second degré et un établissement public à caractère scientifique, culturel et professionnel, auxquels peuvent s'associer les parties précitées.
 
-1° Agriculture et activités annexes ;
+Il offre un service d'hébergement et des activités associatives, culturelles et sportives.
 
-2° Industries extractives et matériaux de construction ;
-
-3° Métallurgie et première transformation des métaux, mécanique, électricité, électrotechnique, électronique ;
-
-4° Verrerie et céramique ;
-
-5° Bâtiment et travaux publics ;
-
-6° Chimie ;
-
-7° Alimentation ;
-
-8° Textile et industries annexes ;
-
-9° Habillement ;
-
-10° Bois et dérivés ;
-
-11° Transports et manutentions ;
-
-12° Techniques audiovisuelles et de communication ;
-
-13° Arts appliqués ;
-
-14° Autres activités du secteur secondaire ;
-
-15° Techniques de commercialisation ;
-
-16° Techniques administratives et de gestion ;
-
-17° Tourisme, hôtellerie, loisirs ;
-
-18° Autres activités du secteur tertiaire ;
-
-19° Soins personnels ;
-
-20° Secteur sanitaire et social.
+Les formations accueillent des élèves, des étudiants, des apprentis ou des stagiaires de la formation professionnelle.
