@@ -6,3 +6,4 @@
 - [Section 4 : Dispositions relatives au fonds d'aménagement urbain.](section-4)
 - [Section 5 : Fonds national de développement d'une offre de logements locatifs très sociaux.](section-5)
 - [Section 6 : Dispositions relatives aux commissions départementales et nationale.](section-6)
+- [Section 7 : Logements intermédiaires](section-7)
