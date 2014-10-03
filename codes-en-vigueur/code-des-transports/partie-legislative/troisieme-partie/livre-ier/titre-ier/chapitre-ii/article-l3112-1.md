@@ -1,3 +1,5 @@
 # Article L3112-1
 
-Les services occasionnels, lorsqu'ils sont exécutés avec des véhicules automobiles comportant, outre le siège du conducteur, huit places assises au maximum, sont soumis à autorisation délivrée par l'autorité administrative, dans des conditions fixées par décret en Conseil d'Etat.
+Les services occasionnels, lorsqu'ils sont exécutés avec des véhicules de moins de dix places, sont soumis aux II et III de l'article L. 3120-2 et à l'article L. 3120-3.
+
+Toutefois, le même article L. 3120-3 n'est pas applicable aux services organisés par une autorité organisatrice de transport.

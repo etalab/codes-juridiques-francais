@@ -52,13 +52,15 @@ III.-Sont recherchés et constatés, dans les conditions fixées au I, les infra
 
 8° Du règlement (UE) n° 181/2011 du Parlement européen et du Conseil, du 16 février 2011, concernant les droits des passagers dans le transport par autobus et autocar et modifiant le règlement (CE) n° 2006/2004 ;
 
+8° bis Des articles L. 3121-11-2 et L. 3122-2 du code des transports ;
+
 9° Des articles L. 311-4, L. 311-6, L. 311-7, de l'avant-dernier alinéa de l'article L. 313-1-2, en ce qui concerne le contrat et le livret d'accueil, et de l'article L. 347-1 du code de l'action sociale et des familles ;
 
 10° De l'article L. 271-6 du code de la construction et de l'habitation ;
 
 11° De l'article 6 de la loi n° 89-421 du 23 juin 1989 relative à l'information et à la protection des consommateurs ainsi qu'à diverses pratiques commerciales ;
 
-12° Du dernier alinéa du I de l'article    L. 112-6 et des sections 1 à 3 du chapitre VIII du titre IV du livre V du code monétaire et financier ;
+12° Du dernier alinéa du I de l'article L. 112-6 et des sections 1 à 3 du chapitre VIII du titre IV du livre V du code monétaire et financier ;
 
 13° Des deux premiers alinéas de l'article L. 213-2 du code de la route ;
 
