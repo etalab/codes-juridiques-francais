@@ -13,3 +13,4 @@
 - [Article R464-9-1](article-r464-9-1.md)
 - [Article R464-9-2](article-r464-9-2.md)
 - [Article R464-9-3](article-r464-9-3.md)
+- [Article R464-9-4](article-r464-9-4.md)
