@@ -80,7 +80,7 @@ a) Un représentant du Conseil national de la protection de la nature ;
 
 b) Le président d'un conseil scientifique régional du patrimoine naturel ;
 
-c) Le directeur général du Muséum national d'histoire naturelle ;
+c) Le président du Muséum national d'histoire naturelle ;
 
 d) Le président de la Fédération des conservatoires botaniques nationaux ;
 
@@ -88,7 +88,7 @@ e) Le directeur général de l'Institut national de recherche en sciences et tec
 
 f) Le président directeur général de l'Institut national de la recherche agronomique ;
 
-g) Le directeur du            centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement ;
+g) Le directeur du centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement ;
 
 h) Le président de la Fédération nationale des agences d'urbanisme ;
 
