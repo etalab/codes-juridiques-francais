@@ -1,4 +1,4 @@
-# 2° bis : Réduction d'impôt accordée au titre de certains investissements forestiers
+# 2° bis : Réduction et crédit d'impôt accordés au titre de certains investissements forestiers
 
 - [Article 46 AGH](article-46-agh.md)
 - [Article 46 AGI](article-46-agi.md)
