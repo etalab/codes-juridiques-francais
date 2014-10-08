@@ -62,8 +62,6 @@ Quartier des mineurs du quartier de semi-liberté de la maison d'arrêt de Mulho
 
 Quartier des mineurs de la maison d'arrêt de Nanterre (Hauts-de-Seine) ;
 
-Quartier des mineurs de la maison d'arrêt d'Orléans (Loiret) ;
-
 Quartier des mineurs de la maison d'arrêt de Pau (Pyrénées-Atlantiques) ;
 
 Quartier des mineurs du centre pénitentiaire de Perpignan (Pyrénées-Orientales) ;
