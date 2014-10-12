@@ -420,7 +420,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <td valign="top">
 <p align="left">Antenne de Tulle. </p>
 </td>
-<td valign="top">Circonscription judiciaire de Tulle.<p>Maison d'arrêt de Tulle.</p>
+<td valign="top">Circonscription judiciaire de Tulle. <p>Maison d'arrêt de Tulle.</p>
 </td>
 </tr>
 <tr>
@@ -634,21 +634,17 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <td rowspan="2" valign="top">
 <p align="left">Chartres. </p>
 </td>
-<td valign="top">
-<p align="left">Néant. </p>
-</td>
+<td valign="top">Chartres</td>
 <td valign="top">
 <p align="left">Circonscription judiciaire de Chartres. </p>
-<p align="left">Maison d'arrêt de Chartres. </p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<br/>
-<br/>
+<br/>Châteaudun<br/>
 </td>
 <td valign="top">
-<p align="left">(Arr. 17 sept. 2003 art. 5) Centre de détention de Châteaudun. </p>
+<p align="left">Centre de détention de Châteaudun. </p>
 </td>
 </tr>
 <tr>
@@ -715,7 +711,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <td valign="top">
 <p align="left">Antenne de Toulouse.</p>
 </td>
-<td valign="top">Circonscription judiciaire de Toulouse.<p>Centre pénitentiaire de Toulouse-Seysses (quartier de semi-liberté inclus).</p>
+<td valign="top">Circonscription judiciaire de Toulouse. <p>Centre pénitentiaire de Toulouse-Seysses (quartier de semi-liberté inclus).</p>
 <br/>
 </td>
 </tr>
@@ -1044,7 +1040,6 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <td valign="top">
 <p align="left">Circonscription judiciaire d'Orléans. </p>
 <p align="left">Centre pénitentiaire d'Orléans-Saran.</p>
-<p align="left">Maison d'arrêt d'Orléans.</p>
 </td>
 </tr>
 <tr>
@@ -1117,7 +1112,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <td valign="top">
 <p align="left">Néant.</p>
 </td>
-<td valign="top">Circonscriptions judiciaires d'Angers et de Saumur.<p>Maison d'arrêt d'Angers.</p>
+<td valign="top">Circonscriptions judiciaires d'Angers et de Saumur. <p>Maison d'arrêt d'Angers.</p>
 <br/>
 </td>
 </tr>
