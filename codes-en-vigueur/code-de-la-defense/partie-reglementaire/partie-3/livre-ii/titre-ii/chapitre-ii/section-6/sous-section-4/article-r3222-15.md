@@ -1,6 +1,6 @@
 # Article R3222-15
 
-Le service de santé et de secours médical de la brigade de sapeurs-pompiers de Paris participe, dans son domaine de compétence, à l'exercice des missions prévues aux articles R. 1321-11 à R. 1321-15.
+Le service de santé et de secours médical de la brigade de sapeurs-pompiers de Paris participe, dans son domaine de compétence, à l'exercice des missions prévues aux articles R. 1321-19 à R. 1321-24-1.
 
 A cet effet, il concourt en particulier à l'aide médicale urgente telle que définie par l'article L. 6311-1 du code de la santé publique.
 

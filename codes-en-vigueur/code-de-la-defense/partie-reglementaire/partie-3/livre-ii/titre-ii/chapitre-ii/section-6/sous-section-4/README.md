@@ -5,4 +5,3 @@
 - [Article R3222-15](article-r3222-15.md)
 - [Article R3222-16](article-r3222-16.md)
 - [Article R3222-17](article-r3222-17.md)
-- [Article R3222-18](article-r3222-18.md)

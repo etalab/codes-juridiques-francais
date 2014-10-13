@@ -8,4 +8,4 @@ Dans le cadre de ses missions, la brigade de sapeurs-pompiers de Paris intervien
 
 3° La protection des personnes, des biens et de l'environnement ;
 
-4° L'assistance et les secours d'urgence aux personnes en détresse ou victimes d'accidents, de sinistres ou de catastrophes ainsi que leur évacuation.
+4° Les secours d'urgence aux personnes victimes d'accidents, de sinistres ou de catastrophes ainsi que leur évacuation.
