@@ -12,4 +12,4 @@ Sur un territoire pertinent au regard des objectifs poursuivis, une stratégie l
 
 5° Renforcer la compétitivité de la filière de production, de récolte, de transformation et de valorisation des produits forestiers.
 
-Elle doit être compatible avec le plan pluriannuel régional de développement forestier mentionné à la section 4 du chapitre II du présent titre.
+Elle doit être compatible avec le programme régional de la forêt et du bois.

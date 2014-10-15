@@ -1,6 +1,6 @@
 # Article L621-3
 
-Les missions de l'établissement mentionné à l'article L. 621-1  relevant des domaines définis au premier alinéa de l'article L. 621-2 sont les suivantes :
+Les missions de l'établissement mentionné à l'article L. 621-1 relevant des domaines définis au premier alinéa de l'article L. 621-2 sont les suivantes :
 
 1° Assurer la connaissance des marchés ;
 
@@ -11,6 +11,8 @@ Les missions de l'établissement mentionné à l'article L. 621-1  relevant des 
 - encourage l'organisation de la mise en marché au niveau national et international et participe à l'élaboration et à la mise en œuvre des mesures relatives à l'amélioration des conditions de concurrence et à la protection et à l'information des consommateurs ;
 
 3° Renforcer l'efficacité économique des filières, notamment en contribuant à la mise en place d'une politique de développement durable et de qualité ;
+
+3° bis Accompagner, encourager et valoriser l'innovation et l'expérimentation dans les domaines de l'agriculture, de la pêche et de l'aquaculture ;
 
 4° Mettre en œuvre les mesures communautaires afférentes à ses missions ;
 

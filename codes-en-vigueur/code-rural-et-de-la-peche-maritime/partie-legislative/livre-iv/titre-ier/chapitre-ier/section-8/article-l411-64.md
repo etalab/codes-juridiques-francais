@@ -1,12 +1,15 @@
 # Article L411-64
 
-Le droit de reprise tel qu'il est prévu aux articles L. 411-58 à L. 411-63, L. 411-66 et L. 411-67 ne peut être exercé au profit d'une personne ayant atteint, à la date prévue pour la reprise, l'âge de la retraite retenu en matière d'assurance vieillesse des exploitants agricoles, sauf s'il s'agit, pour le bénéficiaire du droit de reprise, de constituer une exploitation ayant une superficie au plus égale à la surface fixée en application de l'article L. 732-39. Si la superficie de l'exploitation ou des exploitations mises en valeur par le preneur est supérieure à cette limite, le bailleur peut, par dérogation aux articles L. 411-5 et L. 411-46 :
+Le droit de reprise tel qu'il est prévu aux articles L. 411-58 à L. 411-63,
+L. 411-66 et L. 411-67 ne peut être exercé au profit d'une personne ayant atteint, à la date prévue pour la reprise, l'âge de la retraite retenu en matière d'assurance vieillesse des exploitants agricoles, sauf s'il s'agit, pour le bénéficiaire du droit de reprise, de constituer une exploitation ayant une superficie au plus égale à la surface fixée en application de l'article L. 732-39. Si la superficie de l'exploitation ou des exploitations mises en valeur par le preneur est supérieure à cette limite, le bailleur peut, par dérogation aux articles L. 411-5 et L. 411-46 :
 
-- soit refuser le renouvellement du bail au preneur ayant atteint l'âge de la retraite retenu en matière d'assurance vieillesse des exploitants agricoles ;
+-soit refuser le renouvellement du bail au preneur ayant atteint l'âge de la retraite retenu en matière d'assurance vieillesse des exploitants agricoles ;
 
-- soit limiter le renouvellement à l'expiration de la période triennale au cours de laquelle le preneur atteindra cet âge.
+-soit limiter le renouvellement à l'expiration de la période triennale au cours de laquelle le preneur atteindra cet âge.
 
-Dans les deux cas ci-dessus, le bailleur doit prévenir le preneur de son intention de refuser le renouvellement du bail ou d'y mettre fin par acte extrajudiciaire signifié au moins dix-huit mois à l'avance.
+Le preneur peut demander au bailleur le report de plein droit de la date d'effet du congé à la fin de l'année culturale où il aura atteint l'âge lui permettant de bénéficier d'une retraite à taux plein.
+
+Dans les cas mentionnés aux deuxième et troisième alinéas, le bailleur doit prévenir le preneur de son intention de refuser le renouvellement du bail ou d'y mettre fin par acte extrajudiciaire signifié au moins dix-huit mois à l'avance.
 
 Les dispositions du présent article sont applicables que le propriétaire entende aliéner ou donner à bail à un preneur dont l'âge est inférieur à l'âge de la retraite retenu en matière d'assurance vieillesse des exploitants agricoles ou exploiter en faire-valoir direct. Dans ce dernier cas, sauf s'il s'agit pour le bailleur de constituer une exploitation dans les conditions prévues au premier alinéa du présent article, il ne doit pas avoir atteint l'âge de la retraite retenu en matière d'assurance vieillesse des exploitants agricoles.
 

@@ -2,7 +2,7 @@
 
 I.-Toute obtention végétale peut faire l'objet d'un titre appelé " certificat d'obtention végétale " qui confère à son titulaire un droit exclusif de produire, reproduire, conditionner aux fins de la reproduction ou de la multiplication, offrir à la vente, vendre ou commercialiser sous toute autre forme, exporter, importer ou détenir à l'une de ces fins du matériel de reproduction ou de multiplication de la variété protégée.
 
-II.-Lorsque les produits mentionnés aux 1° et 2° du présent II ont été obtenus par l'utilisation non autorisée de matériel de reproduction ou de multiplication de la variété protégée, le droit exclusif s'étend, à moins que l'obtenteur ait raisonnablement pu exercer son droit sur les produits en question :
+II.-Lorsque les produits mentionnés aux 1° et 2° du présent II ont été obtenus par l'utilisation autre que fortuite ou accidentelle et non autorisée de matériel de reproduction ou de multiplication de la variété protégée, le droit exclusif s'étend, à moins que l'obtenteur ait raisonnablement pu exercer son droit sur les produits en question :
 
 1° Au produit de la récolte, y compris aux plantes entières et aux parties de plantes ;
 
@@ -24,4 +24,4 @@ IV.-Constitue une variété essentiellement dérivée d'une autre variété, dit
 
 3° Sauf en ce qui concerne les différences résultant de la dérivation, est conforme à la variété initiale dans l'expression des caractères essentiels résultant du génotype ou de la combinaison de génotypes de la variété initiale.
 
-V.-Sous réserve des dispositions de l'article L. 623-24-1, sont interdits, à défaut de consentement du titulaire du certificat d'obtention végétale, la production, l'offre, la vente, la mise sur le marché, l'importation, l'exportation, le transbordement, l'utilisation ou la détention à ces fins du matériel de reproduction ou de multiplication de la variété protégée.
+V.-Sous réserve des dispositions de l'article L. 623-24-1, sont interdits, à défaut de consentement du titulaire du certificat d'obtention végétale, la production, l'offre, la vente, la mise sur le marché, l'importation, l'exportation, le transbordement, l'utilisation et ou la détention à ces fins du matériel de reproduction ou de multiplication de la variété protégée.

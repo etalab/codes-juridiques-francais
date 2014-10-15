@@ -2,6 +2,7 @@
 
 - [Chapitre Ier : Dispositions générales.](chapitre-ier)
 - [Chapitre II : Titre emploi simplifié agricole.](chapitre-ii-titre)
+- [Chapitre II bis : Titre emploi-service agricole](chapitre-ii-bis-titre)
 - [Chapitre III : Durée du travail](chapitre-iii)
 - [Chapitre IV : Repos et congés](chapitre-iv)
 - [Chapitre V : Dispositions relatives aux jeunes travailleurs.](chapitre-v)

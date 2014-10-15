@@ -2,6 +2,8 @@
 
 Les producteurs organisés peuvent bénéficier de priorités dans l'attribution de l'aide que l'Etat peut apporter pour l'organisation de la production et des marchés, en conformité avec les règles communautaires. Les aides décidées sont modulées en fonction du degré d'organisation et des engagements des producteurs. Les organisations de producteurs reconnus bénéficient également, à soumission égale, d'un droit de préférence dans les marchés par adjudication ou appel d'offres de l'Etat, des collectivités locales ou de leurs établissements publics.
 
+Les producteurs organisés peuvent également bénéficier de majorations dans l'attribution des aides publiques à l'investissement dont les objectifs correspondent à ceux poursuivis par l'organisation.
+
 Les dispositions relatives aux marchés publics sont également applicables aux organisations de producteurs agricoles ressortissant des Etats membres de la Communauté économique européenne présentant des caractéristiques comparables et inscrits sur une liste établie par le ministre de l'agriculture.
 
 L'autorité administrative peut suspendre ou retirer la reconnaissance octroyée lorsqu'elle constate que les conditions ci-dessus ne sont plus satisfaites, ou que la gestion technique ou financière est défectueuse, ou que les règlements sur le commerce, la qualité des produits et la police sanitaire ne sont pas respectés.

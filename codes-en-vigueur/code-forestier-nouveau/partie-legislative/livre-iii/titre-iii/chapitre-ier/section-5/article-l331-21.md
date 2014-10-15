@@ -16,4 +16,6 @@ Le droit de préférence prévu à l'article L. 331-19 ne s'applique pas lorsque
 
 7° Sur un terrain classé entièrement au cadastre en nature de bois mais dont la partie boisée représente moins de la moitié de la surface totale ;
 
-8° Sur une propriété comportant un terrain classé au cadastre en nature de bois et un ou plusieurs autres biens bâtis ou non.
+8° Sur une propriété comportant une ou plusieurs parcelles classées au cadastre en nature de bois et un ou plusieurs autres biens bâtis ou non ;
+
+9° Au profit d'un exploitant de carrières ou d'un propriétaire de terrains à usage de carrières, lorsque la parcelle se situe dans ou en contiguïté d'un périmètre d'exploitation déterminé par arrêté préfectoral.

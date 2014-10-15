@@ -12,4 +12,4 @@ Les articles L. 813-5 et L. 813-6 leur sont applicables.
 
 2° Les associations ou organismes qui sont responsables d'un établissement offrant une formation pédagogique aux chefs d'établissement et aux enseignants des établissements d'enseignement agricole privés sous contrat peuvent souscrire un contrat avec l'Etat et en recevoir une aide ; les modalités particulières de ce contrat sont fixées par décret.
 
-Les établissements d'enseignement supérieur privés visés au présent article participent aux missions de service public définies à l'article L. 812-1.
+Les établissements d'enseignement supérieur privés visés au présent article participent aux missions de service public définies aux 1° à 9° de l'article L. 812-1.

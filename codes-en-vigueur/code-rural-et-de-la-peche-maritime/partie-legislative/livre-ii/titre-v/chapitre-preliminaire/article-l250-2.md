@@ -8,4 +8,6 @@ Sont habilités à procéder à l'inspection et au contrôle que nécessite l'ap
 
 3° Les techniciens des services du ministère de l'agriculture ;
 
-4° Les fonctionnaires ou agents contractuels de l'Etat, lorsqu'ils répondent à des conditions de qualification fixées par décret, liées notamment à leur formation ou leur expérience professionnelle.
+4° Les fonctionnaires ou agents contractuels de l'Etat, lorsqu'ils répondent à des conditions de qualification fixées par décret, liées notamment à leur formation ou leur expérience professionnelle ;
+
+5° Les inspecteurs de l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail, en ce qui concerne la production, la formulation, l'emballage et l'étiquetage des produits phytopharmaceutiques, des adjuvants et des matières fertilisantes et supports de culture.

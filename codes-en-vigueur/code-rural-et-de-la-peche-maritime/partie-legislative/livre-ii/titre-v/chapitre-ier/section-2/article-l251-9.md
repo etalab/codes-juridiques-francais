@@ -1,10 +1,10 @@
 # Article L251-9
 
-La destruction de végétaux ne peut être exécutée qu'après constatation contradictoire de l'état des lieux, en présence du maire ou de son délégué, d'un agent relevant des catégories mentionnées à l'article L. 250-2 et du propriétaire ou usager des terrains ou magasins ou de son représentant dûment appelés ; de cette opération, il est dressé procès-verbal signé des parties.
+Sauf cas d'urgence, la destruction de végétaux ne peut être exécutée qu'après constatation contradictoire de l'état des lieux, en présence du maire ou de son délégué, d'un agent relevant des catégories mentionnées à l'article L. 250-2 et du propriétaire ou usager des terrains ou magasins ou de son représentant dûment appelés ; de cette opération, il est dressé procès-verbal signé des parties.
 
 Les propriétaires ou détenteurs dont les végétaux, produits végétaux ou autres objets ont fait l'objet d'une mesure de destruction ordonnée par les agents mentionnés à l'article L. 250-2 peuvent prétendre à une indemnisation selon des modalités déterminées par arrêté conjoint des ministres chargés de l'agriculture et de l'économie s'ils remplissent les deux conditions suivantes :
 
--avoir fait la déclaration mentionnée à l'article L. 201-2 ;
+-avoir respecté les obligations d'information prévues aux premier et dernier alinéas de l'article L. 201-7 ;
 
 -avoir versé des cotisations au titre d'un mécanisme de solidarité pour ce risque, dans des conditions fixées par décret, ou être assuré pour ce risque.
 

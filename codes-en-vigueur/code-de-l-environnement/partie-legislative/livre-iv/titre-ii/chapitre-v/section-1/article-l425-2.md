@@ -10,4 +10,6 @@ Parmi les dispositions du schéma départemental de gestion cynégétique figure
 
 4° Les actions menées en vue de préserver, de protéger par des mesures adaptées ou de restaurer les habitats naturels de la faune sauvage ;
 
-5° Les dispositions permettant d'atteindre l'équilibre agro-sylvo-cynégétique.
+5° Les dispositions permettant d'atteindre l'équilibre agro-sylvo-cynégétique ;
+
+6° Les dispositions permettant de surveiller les dangers sanitaires dans les espèces de gibier et de participer à la prévention de la diffusion de dangers sanitaires entre les espèces de gibier, les animaux domestiques et l'homme.

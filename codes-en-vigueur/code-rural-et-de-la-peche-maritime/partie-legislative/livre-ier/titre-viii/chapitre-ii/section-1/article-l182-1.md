@@ -10,6 +10,6 @@ Pour l'application du présent livre à Mayotte :
 
 4° Les références aux chambres régionale ou départementale d'agriculture sont remplacées par les références à la chambre de l'agriculture, de la pêche et de l'aquaculture de Mayotte ;
 
-5° Sauf disposition contraire, les dispositions faisant référence à des règlements européens ne sont pas applicables ;
+5° (Abrogé) ;
 
 6° Les références à l'expropriation pour cause d'utilité publique ou au code de l'expropriation pour cause d'utilité publique sont remplacées par une référence aux règles applicables en métropole en matière d'expropriation pour cause d'utilité publique.

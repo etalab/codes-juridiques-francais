@@ -5,3 +5,4 @@
 - [Article L371-3](article-l371-3.md)
 - [Article L371-4](article-l371-4.md)
 - [Article L371-5](article-l371-5.md)
+- [Article L371-5-2](article-l371-5-2.md)

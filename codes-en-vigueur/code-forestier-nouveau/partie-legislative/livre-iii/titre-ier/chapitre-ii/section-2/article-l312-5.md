@@ -1,6 +1,6 @@
 # Article L312-5
 
-Toute coupe prévue au plan simple de gestion peut être avancée ou retardée de cinq ans au plus.
+Toute coupe prévue au plan simple de gestion peut être avancée ou retardée de quatre ans au plus.
 
 Des coupes extraordinaires, en deçà et au-delà de cette limite, ou non inscrites au programme peuvent être autorisées par le centre régional de la propriété forestière.
 

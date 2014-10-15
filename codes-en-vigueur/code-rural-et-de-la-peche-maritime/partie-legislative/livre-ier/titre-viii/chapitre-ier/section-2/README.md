@@ -1,5 +1,7 @@
-# Section 2 : Mise en valeur des terres incultes ou manifestement sous-exploitées
+# Section 2 : Mise en valeur des terres agricoles
 
+- [Sous-section 1 : Dispositions relatives aux terres incultes ou manifestement sous-exploitées](sous-section-1)
+- [Sous-section 2 : Mesures en faveur de l'exploitation des biens agricoles en indivision](sous-section-2)
 - [Article L181-4](article-l181-4.md)
 - [Article L181-5](article-l181-5.md)
 - [Article L181-6](article-l181-6.md)

@@ -6,3 +6,4 @@
 - [Article L665-4](article-l665-4.md)
 - [Article L665-4-1](article-l665-4-1.md)
 - [Article L665-5](article-l665-5.md)
+- [Article L665-6](article-l665-6.md)

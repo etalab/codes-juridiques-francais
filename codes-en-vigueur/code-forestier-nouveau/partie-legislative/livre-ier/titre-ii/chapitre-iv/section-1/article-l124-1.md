@@ -1,6 +1,6 @@
 # Article L124-1
 
-Présentent des garanties de gestion durable les bois et forêts gérés conformément à :
+Présentent des garanties de gestion durable, sous réserve de la mise en œuvre effective du programme de coupes et travaux prévu, les bois et forêts gérés conformément à :
 
 1° Un document d'aménagement arrêté ;
 

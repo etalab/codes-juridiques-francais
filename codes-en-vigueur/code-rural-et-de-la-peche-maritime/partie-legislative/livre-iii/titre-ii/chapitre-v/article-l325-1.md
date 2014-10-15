@@ -1,6 +1,6 @@
 # Article L325-1
 
-L'entraide est réalisée entre agriculteurs par des échanges de services en travail et en moyens d'exploitation.
+L'entraide est réalisée entre agriculteurs par des échanges de services en travail et en moyens d'exploitation, y compris ceux entrant dans le prolongement de l'acte de production.
 
 Elle peut être occasionnelle, temporaire ou intervenir d'une manière régulière.
 

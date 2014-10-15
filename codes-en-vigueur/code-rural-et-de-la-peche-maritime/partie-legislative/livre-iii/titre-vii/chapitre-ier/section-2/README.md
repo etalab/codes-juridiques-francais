@@ -9,8 +9,6 @@
 - [Article L371-12](article-l371-12.md)
 - [Article L371-13](article-l371-13.md)
 - [Article L371-14](article-l371-14.md)
-- [Article L371-15](article-l371-15.md)
-- [Article L371-16](article-l371-16.md)
 - [Article L371-17](article-l371-17.md)
 - [Article L371-18](article-l371-18.md)
 - [Article L371-19](article-l371-19.md)

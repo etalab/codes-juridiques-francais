@@ -6,6 +6,8 @@ Il assure la cohérence de l'activité de maîtrise d'ouvrage des établissement
 
 Le deuxième alinéa de l'article L. 5212-20 du code général des collectivités territoriales n'est pas applicable aux établissements publics territoriaux de bassin.
 
+Les institutions ou organismes interdépartementaux constitués en application des articles L. 5421-1 à L. 5421-6 du même code et reconnus établissements publics territoriaux de bassin à la date d'entrée en vigueur de la loi n° 2014-58 du 27 janvier 2014 de modernisation de l'action publique territoriale et d'affirmation des métropoles conservent cette reconnaissance jusqu'à modification de leur statut en syndicat mixte, et au plus tard jusqu'au 1er janvier 2018.
+
 II.-Un établissement public d'aménagement et de gestion de l'eau est un groupement de collectivités territoriales constitué en application des articles L. 5711-1 à L. 5721-9 du code général des collectivités territoriales à l'échelle d'un bassin versant d'un fleuve côtier sujet à des inondations récurrentes ou d'un sous-bassin hydrographique d'un grand fleuve en vue d'assurer, à ce niveau, la prévention des inondations et des submersions ainsi que la gestion des cours d'eau non domaniaux. Cet établissement comprend notamment les collectivités territoriales et les établissements publics de coopération intercommunale à fiscalité propre compétents en matière de gestion des milieux aquatiques et de prévention des inondations en application du I bis de l'article L. 211-7 du présent code.
 
 Son action s'inscrit dans les principes de solidarité territoriale, notamment envers les zones d'expansion des crues, qui fondent la gestion des risques d'inondation.

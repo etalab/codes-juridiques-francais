@@ -8,4 +8,4 @@ Sont exemptés des dispositions de l'article L. 341-3 les défrichements envisag
 
 3° Dans les zones définies en application du 1° de l'article L. 126-1 du code rural et de la pêche maritime dans lesquelles la reconstitution des boisements après coupe rase est interdite ou réglementée, ou ayant pour but une mise en valeur agricole et pastorale de bois situés dans une zone agricole définie en application de l'article L. 123-21 du même code ;
 
-4° Dans les jeunes bois de moins de vingt ans sauf s'ils ont été conservés à titre de réserves boisées ou plantés à titre de compensation en application de l'article L. 341-6 ou bien exécutés dans le cadre de la restauration des terrains en montagne ou de la protection des dunes.
+4° Dans les jeunes bois de moins de trente ans sauf s'ils ont été conservés à titre de réserves boisées ou plantés à titre de compensation en application de l'article L. 341-6 ou bien exécutés dans le cadre de la restauration des terrains en montagne ou de la protection des dunes.

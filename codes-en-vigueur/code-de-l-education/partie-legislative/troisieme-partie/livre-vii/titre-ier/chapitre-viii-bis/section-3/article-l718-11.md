@@ -24,6 +24,6 @@ Les membres mentionnés aux 4° à 6° représentent au moins 50 % des membres d
 
 Toutefois, lorsque les membres de la communauté d'universités et établissements sont supérieurs à dix, la proportion de leurs représentants mentionnés au 1° peut atteindre 40 %. La représentation des membres mentionnés aux 2° à 6° est proportionnellement diminuée par voie de conséquence.
 
-Les membres mentionnés aux 4° à 6° sont élus au suffrage direct dans des conditions fixées par les statuts de la communauté. Les modalités de ces élections sont décrites à l'article L. 719-1. Lorsque les membres de la communauté d'universités et établissements sont supérieurs à dix, les représentants mentionnés aux mêmes 4° à 6° peuvent être élus au suffrage indirect, dans des conditions fixées par les statuts de la communauté. Dans tous les cas, chaque liste de candidats assure la représentation d'au moins 75 % des établissements membres de la communauté.
+Les membres mentionnés aux 4° à 6° sont élus au suffrage direct dans des conditions fixées par les statuts de la communauté. Lorsque les membres de la communauté d'universités et établissements sont supérieurs à dix, les représentants mentionnés aux mêmes 4° à 6° peuvent être élus au suffrage indirect, dans des conditions fixées par les statuts de la communauté.
 
 Chaque liste de candidats est composée alternativement d'un candidat de chaque sexe.

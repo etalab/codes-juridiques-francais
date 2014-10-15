@@ -14,7 +14,7 @@ Il a en particulier pour missions de :
 
 4° Elaborer les schémas régionaux de gestion sylvicole des bois et forêts des particuliers et les codes de bonnes pratiques sylvicoles ;
 
-5° Agréer les plans simples de gestion dans les conditions prévues aux articles L. 312-2 à L. 312-10 et approuver les règlements types de gestion dans les conditions prévues par l'article L. 313-1 ;
+5° Agréer les plans simples de gestion, dans les conditions prévues aux articles L. 312-2 à L. 312-10, approuver les règlements types de gestion, dans les conditions prévues à l'article L. 313-1, et approuver les programmes des coupes et travaux des adhérents aux codes des bonnes pratiques sylvicoles prévus aux articles L. 124-2 et L. 313-3 ;
 
 6° Concourir au développement durable et à l'aménagement rural, en particulier au développement économique des territoires par la valorisation des produits et des services de la forêt des particuliers et de la contribution de ces forêts à la lutte contre l'effet de serre ;
 

@@ -6,6 +6,8 @@ En cas de fusion entre établissements du réseau mentionnés à l'article L. 51
 
 La même règle est applicable en cas de transfert d'activités intervenu en application de l'article L. 514-2.
 
+Lorsque survient une modification dans la situation juridique de l'employeur dans les cas de fusion ou de transfert d'activités mentionnés aux deuxième et troisième alinéas, tous les contrats de travail en cours au jour de la modification subsistent entre le nouvel employeur et le personnel de l'établissement.
+
 Toutefois, en cas de transfert partiel d'activités, le personnel concerné est mis à disposition, le cas échéant à temps partagé, de l'entité reprenant l'activité.
 
 Les modalités de transfert ou de mise à disposition sont déterminées par les instances compétentes, après avis de la commission nationale paritaire instaurée en application de la loi n° 52-1311 du 10 décembre 1952 relative à l'établissement obligatoire d'un statut du personnel administratif des chambres d'agriculture, des chambres de commerce et des chambres de métiers.

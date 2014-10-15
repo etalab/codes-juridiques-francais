@@ -2,11 +2,11 @@
 
 Pour l'application du présent code à Saint-Pierre-et-Miquelon :
 
-1° La référence aux " orientations régionales forestières " est remplacée par la référence aux " orientations territoriales forestières " ;
+1° La référence au "programme régional de la forêt et du bois" est remplacée par la référence au "programme territorial de la forêt et du bois" ;
 
-2° La référence à la " commission régionale de la forêt et des produits forestiers " est remplacée par la référence à la " commission territoriale de la forêt et des produits forestiers " ;
+2° La référence à la "commission régionale de la forêt et du bois" est remplacée par la référence à la "commission territoriale de la forêt et du bois" ;
 
-3° La référence au " plan pluriannuel régional de développement forestier " est remplacée par la référence au " plan pluriannuel territorial de développement forestier " ;
+3° (Abrogé) ;
 
 4° La référence au conseil régional ou au conseil général est remplacée par la référence au conseil territorial ;
 

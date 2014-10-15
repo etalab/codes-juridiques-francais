@@ -2,7 +2,7 @@
 
 Le prix du fermage est évalué en une quantité de denrées. La ou les denrées devant servir de base au calcul du prix des baux en Guadeloupe, en Guyane, à la Martinique, à La Réunion, à Mayotte, à Saint-Barthélemy, à Saint-Martin, à Saint-Pierre-et-Miquelon ou dans les diverses régions agricoles de ces collectivités ainsi que les quantités de ces denrées représentant, par nature de cultures et par catégories de terres, la valeur locative normale des biens loués, sont déterminées par décision administrative.
 
-Le prix du fermage tient compte, le cas échéant, de pratiques prévues dans le bail en application des quatre derniers alinéas de l'article L. 411-27.
+Le prix du fermage tient compte, le cas échéant, de pratiques prévues dans le bail en application des cinq derniers alinéas de l'article L. 411-27.
 
 Lorsque le bail comporte des clauses mentionnées à l'article L. 461-2, le loyer peut être fixé à un prix inférieur à la valeur locative normale.
 

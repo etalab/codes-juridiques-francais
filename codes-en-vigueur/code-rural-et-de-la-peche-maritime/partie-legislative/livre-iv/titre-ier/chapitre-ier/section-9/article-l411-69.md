@@ -7,3 +7,5 @@ Sont assimilées aux améliorations les réparations nécessaires à la conserva
 En cas de vente du bien loué, l'acquéreur doit être averti par l'officier public ou ministériel chargé de la vente du fait qu'il supportera, à la sortie du preneur, la charge de l'indemnité éventuellement due à celui-ci.
 
 Si la vente a eu lieu par adjudication, le cahier des charges doit mentionner la nature, le coût et la date des améliorations apportées par le preneur dans les conditions prévues aux articles L. 411-71 et L. 411-73. Cette mention est établie par l'officier public ou ministériel chargé de la vente d'après les indications fournies par le bailleur et par le preneur ; en cas de désaccord entre les parties, elle fait état des éléments contestés.
+
+La demande du preneur sortant relative à une indemnisation des améliorations apportées au fonds loué se prescrit par douze mois à compter de la date de fin de bail, à peine de forclusion.

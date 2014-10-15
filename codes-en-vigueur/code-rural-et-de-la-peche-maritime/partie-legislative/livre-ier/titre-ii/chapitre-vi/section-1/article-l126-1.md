@@ -16,6 +16,6 @@ La reconstitution des boisements après coupe rase ne peut être interdite :
 
 -lorsque ces boisements sont classés à conserver ou à protéger en application de l'article L. 130-1 du code de l'urbanisme.
 
-Les interdictions de reconstitution de boisements doivent être compatibles avec les objectifs définis par les orientations régionales forestières prévues à l'article L. 122-1 du code forestier.
+Les interdictions de reconstitution de boisements doivent être compatibles avec les objectifs définis par le programme régional de la forêt et du bois prévu  à l'article L. 122-1 du code forestier.
 
 Lorsque, après déboisement, le terrain faisant l'objet d'une interdiction de reconstituer le boisement ne peut être mis en valeur, notamment à des fins agricoles, dans des conditions économiques normales, le propriétaire peut mettre en demeure la collectivité publique qui a édicté la réglementation ou qui s'est opposée au boisement de procéder à son acquisition dans les conditions et délais prévus à l'article L. 123-17 du code de l'urbanisme. A défaut d'accord amiable sur le prix ou de levée de l'interdiction de reconstituer le boisement dans un délai de trois mois, le juge de l'expropriation saisi par les propriétaires ou la collectivité publique concernée prononce le transfert de propriété et fixe le prix du bien.

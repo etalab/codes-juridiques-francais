@@ -2,3 +2,4 @@
 
 - [Section 1 : Assurances sociales des salariés agricoles](section-1)
 - [Section 2 : Assurance accidents et maladies professionnelles des salariés et des non-salariés des professions agricoles.](section-2)
+- [Section 3 : Retraite anticipée pour pénibilité des salariés et non-salariés agricoles](section-3)

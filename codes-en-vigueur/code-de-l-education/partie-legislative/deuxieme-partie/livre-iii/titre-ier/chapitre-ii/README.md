@@ -11,5 +11,6 @@
 - [Section 7 : L'enseignement des problèmes démographiques.](section-7)
 - [Section 8 :  L'enseignement moral et civique.](section-8)
 - [Section 9 : L'éducation à la santé et à la sexualité](section-9)
+- [Section 9 bis : L'éducation à l'alimentation](section-9-bis)
 - [Section 10 : Prévention et information sur les toxicomanies.](section-10)
 - [Section 11 : L'éducation à l'environnement et au développement durable](section-11)

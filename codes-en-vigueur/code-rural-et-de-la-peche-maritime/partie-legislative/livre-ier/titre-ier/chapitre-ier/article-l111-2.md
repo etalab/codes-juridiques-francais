@@ -8,6 +8,8 @@ Pour parvenir à la réalisation des objectifs définis en ce domaine par le pr�
 
 3° Maintenir et développer les productions agricole et forestière, tout en organisant leur coexistence avec les activités non agricoles et en intégrant les fonctions sociales et environnementales de ces activités, notamment dans la lutte contre l'effet de serre grâce à la valorisation de la biomasse, au stockage durable du carbone végétal et à la maîtrise des émissions de gaz à effet de serre ;
 
+3° bis Maintenir et développer les secteurs de l'élevage et du pastoralisme en raison de leur contribution essentielle à l'aménagement et au développement des territoires ;
+
 4° Assurer la répartition équilibrée des diverses activités concourant au développement du milieu rural ;
 
 5° Prendre en compte les besoins en matière d'emploi ;

@@ -18,4 +18,6 @@ En vue de leur inscription sur la liste nationale des experts fonciers et agrico
 
 Toute personne qui aura fait usage du titre d'expert foncier et agricole ou d'expert forestier sans être inscrite sur la liste mentionnée ci-dessus sera punie des peines prévues par l'article 433-17 du code pénal. Sera punie des mêmes peines toute personne qui aura fait usage d'une dénomination présentant une ressemblance de nature à causer une méprise avec le titre d'expert foncier, agricole et forestier.
 
+Le Conseil national de l'expertise foncière agricole et forestière peut, devant toutes les juridictions, exercer tous les droits réservés à la partie civile relativement aux faits portant un préjudice direct ou indirect à l'intérêt collectif de la profession.
+
 Un décret en Conseil d'Etat précise les modalités d'application du présent article, notamment les conditions d'inscription sur la liste nationale, les conditions d'éligibilité et les modalités de désignation des membres du comité, ainsi que la procédure disciplinaire suivie devant celui-ci.

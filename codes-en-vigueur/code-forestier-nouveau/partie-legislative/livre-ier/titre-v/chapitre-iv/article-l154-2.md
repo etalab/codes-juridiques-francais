@@ -2,7 +2,7 @@
 
 Les entreprises qui réalisent des travaux de récolte de bois définis à l'article L. 154-1 dans les forêts d'autrui sont responsables de la sécurité et de l'hygiène sur les chantiers. A ce titre, elles s'assurent de la qualification professionnelle des personnes y travaillant.
 
-Sont définies par décret en Conseil d'Etat :
+Sont définies par décret :
 
 1° Les conditions de formation initiale ou continue ou d'expérience professionnelle et les modalités selon lesquelles cette qualification professionnelle est reconnue ;
 

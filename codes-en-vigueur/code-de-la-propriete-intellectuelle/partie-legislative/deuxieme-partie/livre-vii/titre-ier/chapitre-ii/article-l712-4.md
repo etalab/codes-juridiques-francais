@@ -4,6 +4,8 @@ Pendant le délai mentionné à l'article L. 712-3, opposition à la demande d'e
 
 1° Le propriétaire d'une marque enregistrée ou déposée antérieurement ou bénéficiant d'une date de priorité antérieure, ou le propriétaire d'une marque antérieure notoirement connue ;
 
+1° bis Le directeur de l'Institut national de l'origine et de la qualité, dès lors qu'il y a un risque d'atteinte au nom, à l'image, à la réputation ou à la notoriété d'une appellation d'origine ou d'une indication géographique mentionnées aux articles L. 641-5, L. 641-10, L. 641-11 et L. 641-11-1 du code rural et de la pêche maritime ;
+
 2° Le bénéficiaire d'un droit exclusif d'exploitation, sauf stipulation contraire du contrat ;
 
 3° Une collectivité territoriale au titre du h de l'article L. 711-4 ou au titre d'une atteinte à une indication géographique définie à l'article L. 721-2, dès lors que cette indication comporte le nom de la collectivité concernée ;

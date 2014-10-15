@@ -8,7 +8,7 @@ I. ― Sans préjudice des règles de compétence territoriale applicables aux o
 
 3° Du territoire concerné par leur mission, lorsque, affectés à un service déconcentré, ils sont chargés d'une mission dépassant les limites territoriales de ce service.
 
-II. ― Dans les bois et forêts gérés par l'Office national des forêts, les agents de l'établissement habilités à rechercher et constater des infractions exercent leurs compétences dans les mêmes conditions que les agents de l'Etat.
+II. ― Dans les bois et forêts relevant du régime forestier ou gérés contractuellement par l'Office national des forêts, les agents de l'établissement habilités à rechercher et constater des infractions exercent leurs compétences dans les mêmes conditions que les agents de l'Etat.
 
 Il en est de même, dans le domaine national de Chambord, des agents de l'établissement public.
 
