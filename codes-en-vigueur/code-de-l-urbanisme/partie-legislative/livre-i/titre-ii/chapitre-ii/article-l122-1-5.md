@@ -8,7 +8,7 @@ II. ― Il détermine les espaces et sites naturels, agricoles, forestiers ou ur
 
 Il précise les modalités de protection des espaces nécessaires au maintien de la biodiversité et à la préservation ou à la remise en bon état des continuités écologiques.
 
-Il arrête des objectifs chiffrés de consommation économe de l'espace et de lutte contre l'étalement urbain, qui peuvent être ventilés par secteur géographique.
+Il arrête, par secteur géographique, des objectifs chiffrés de consommation économe de l'espace et de lutte contre l'étalement urbain et décrit, pour chacun d'eux, les enjeux qui lui sont propres.
 
 III. ― Il précise les conditions permettant de favoriser le développement de l'urbanisation prioritaire dans les secteurs desservis par les transports collectifs ainsi que celles permettant le désenclavement par transport collectif des secteurs urbanisés qui le nécessitent.
 
@@ -42,4 +42,4 @@ Passé ce délai, le permis de construire, d'aménager ou de démolir ne peut ê
 
 IX. Le document d'orientation et d'objectifs peut, sous réserve d'une justification particulière, définir des secteurs, situés à proximité des transports collectifs existants ou programmés, dans lesquels les plans locaux d'urbanisme doivent imposer une densité minimale de construction.
 
-X. - Le document d'orientation et d'objectifs peut préciser les objectifs de qualité paysagère.
+X.-Le document d'orientation et d'objectifs peut préciser les objectifs de qualité paysagère.

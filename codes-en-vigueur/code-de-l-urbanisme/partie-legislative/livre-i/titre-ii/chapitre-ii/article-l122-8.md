@@ -8,7 +8,7 @@ L'organe délibérant de l'établissement public prévu à l'article L. 122-4 ar
 
 3° A leur demande, aux établissements publics de coopération intercommunale directement intéressés et aux communes limitrophes ;
 
-4° A la commission prévue à l'article L. 112-1-1 du code rural et de la pêche maritime, lorsqu'il a pour conséquence une réduction des surfaces des espaces agricoles ;
+4° A la commission prévue à l'article L. 112-1-1 du code rural et de la pêche maritime, lorsqu'il a pour conséquence une réduction des surfaces des espaces agricoles, naturels ou forestiers ;
 
 5° Lorsqu'il prévoit la création d'une ou plusieurs unités touristiques nouvelles :
 

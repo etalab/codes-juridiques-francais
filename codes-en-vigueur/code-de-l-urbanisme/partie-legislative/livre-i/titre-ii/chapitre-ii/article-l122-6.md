@@ -2,4 +2,4 @@
 
 L'établissement public mentionné à l'article L. 122-4 prescrit l'élaboration du schéma et précise les objectifs poursuivis et les modalités de concertation, conformément à l'article L. 300-2.
 
-La délibération prise en application de l'alinéa précédent est notifiée aux personnes publiques associées mentionnées à l'article L. 121-4 et à la commission départementale de la consommation des espaces agricoles prévue à l'article L. 112-1-1 du code rural et de la pêche maritime.
+La délibération prise en application de l'alinéa précédent est notifiée aux personnes publiques associées mentionnées à l'article L. 121-4 et à la commission départementale de la préservation des espaces naturels, agricoles et forestiers prévue à l'article L. 112-1-1 du code rural et de la pêche maritime.
