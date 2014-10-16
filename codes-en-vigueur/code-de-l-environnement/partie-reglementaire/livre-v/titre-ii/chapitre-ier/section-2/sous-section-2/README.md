@@ -1,18 +1,5 @@
-# Sous-section 2 : Substances et préparations dangereuses
+# Sous-section 2 : Substances et mélanges dangereux
 
-- [Paragraphe 1 : Dispositions propres aux substances et préparations dangereuses pour la santé](paragraphe-1)
-- [Paragraphe 2 : Composés organostanniques dans les peintures et les produits antisalissures](paragraphe-2)
-- [Paragraphe 3 : Produits antisalissures contenant d'autres composés](paragraphe-3)
-- [Paragraphe 4 : Chlordane, heptachlore, hexachlorocyclohexane, aldrine, dieldrine et endrine](paragraphe-4)
+- [Paragraphe 1 : Dispositions propres aux substances et mélanges dangereux  pour la santé](paragraphe-1)
+- [Paragraphe 2 : Autres produits contenant des composés du mercure, des composés d'arsenic ou des composés organostanniques](paragraphe-2)
 - [Paragraphe 5 : Autres produits contenant des composés du mercure, des composés d'arsenic ou des composés organostanniques](paragraphe-5)
-- [Paragraphe 6 : Di-u-oxo-di-n-butylstanniohydroxyborane (DBB)](paragraphe-6)
-- [Paragraphe 7 : Paraffines chlorées à chaîne courte](paragraphe-7)
-- [Paragraphe 8 : Colorant azoïque dit " colorant bleu "](paragraphe-8)
-- [Paragraphe 9 : Pentabromodiphényléther (pentaBDE) et octabromodiphényléther (octaBDE)](paragraphe-9)
-- [Paragraphe 10 : Nonylphénol C6H4(OH)C9H19 et éthoxylate de nonylphénol (C9H40)nC15H24O](paragraphe-10)
-- [Paragraphe 11 : Ciment contenant du chrome hexavalent (chrome VI)](paragraphe-11)
-- [Paragraphe 12 : Pentachlorophénol et ses composés](paragraphe-12)
-- [Paragraphe 13 : Toluène](paragraphe-13)
-- [Paragraphe 14 : Trichlorobenzène](paragraphe-14)
-- [Paragraphe 15 : Hydrocarbures aromatiques polycycliques (HAP) dans les huiles de dilution et les pneumatiques](paragraphe-15)
-- [Paragraphe 16 : Sulfonates de perfluorooctane (SPFO)](paragraphe-16)

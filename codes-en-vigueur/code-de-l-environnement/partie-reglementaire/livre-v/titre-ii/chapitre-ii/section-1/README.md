@@ -1,5 +1,7 @@
-# Section 1 : Contrôle des substances actives
+# Section 1 : Approbation et renouvellement d'approbation des substances actives biocides
 
+- [Sous-section 1 : Instruction des dossiers d'approbation ou de renouvellement d'approbation de substances actives biocides](sous-section-1)
+- [Sous-section 2 : Instruction des dossiers d'autorisation provisoire de mise à disposition sur le marché d'un produit biocide contenant une nouvelle substance active biocide en cours d'évaluation](sous-section-2)
 - [Article R522-2](article-r522-2.md)
 - [Article R522-3](article-r522-3.md)
 - [Article R522-4](article-r522-4.md)

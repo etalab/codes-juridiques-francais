@@ -1,4 +1,3 @@
-# Paragraphe 2 : Composés organostanniques dans les peintures et les produits antisalissures
+# Paragraphe 2 : Autres produits contenant des composés du mercure, des composés d'arsenic ou des composés organostanniques
 
-- [Article R521-5](article-r521-5.md)
-- [Article R521-6](article-r521-6.md)
+- [Article R521-14](article-r521-14.md)
