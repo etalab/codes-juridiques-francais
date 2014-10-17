@@ -10,11 +10,11 @@ I. - En application de l'article 68 du règlement (CE) n° 73/2009 du Conseil du
 
 - l'aide à la production laitière dans les zones de haute montagne, montagne et de piémont ;
 
-- l'aide à la production de lait ;
+-l'aide complémentaire à la vache allaitante ;
 
 - l'aide à l'engraissement de jeunes bovins ;
 
-- l'aide à l'élevage de vaches allaitantes.
+-l'aide à la production de volaille de qualité.
 
 Un arrêté du ministre chargé de l'agriculture fixe les conditions d'accès aux soutiens spécifiques aux productions animales. Il précise également les conditions de dépôt des demandes de soutien, ainsi que les modalités de calcul et de plafonnement des aides.
 
@@ -38,14 +38,14 @@ V. - L'aide à la production laitière dans les zones de haute montagne, montagn
 
 L'arrêté mentionné au I précise notamment la surface agricole minimale devant être située en zones de haute montagne, montagne ou de piémont, ainsi que la période de production et de commercialisation du lait.
 
-VI. - L'aide à la production de lait est destinée à compenser les désavantages spécifiques de certaines exploitations de ce secteur d'élevage.
+VI. - L'aide complémentaire à la vache allaitante est destinée à compenser les désavantages spécifiques dont souffrent les éleveurs de vaches allaitantes, en encourageant tout particulièrement le maintien des troupeaux de taille petite et moyenne.
 
-L'arrêté mentionné au I précise notamment les conditions d'éligibilité du demandeur, ainsi que la période de production et de commercialisation du lait à respecter.
+L'arrêté mentionné au I précise notamment les conditions de race, de sexe, d'âge, d'identification et de durée de détention sur l'exploitation auxquelles doivent répondre les vaches allaitantes.
 
 VII. - L'aide à l'engraissement de jeunes bovins est destinée à compenser les désavantages spécifiques de certaines exploitations de ce secteur d'élevage.
 
 L'arrêté mentionné au I précise notamment les conditions d'éligibilité du demandeur ainsi que les conditions de race, de sexe, d'âge, d'identification, de durée de détention sur l'exploitation et d'abattage auxquelles doivent répondre les jeunes bovins et le nombre minimal de jeunes bovins éligibles nécessaire pour bénéficier de l'aide.
 
-VIII. - L'aide à l'élevage de vaches allaitantes est destinée à compenser les désavantages spécifiques de certaines exploitations de ce secteur d'élevage.
+VIII. - L'aide à la production de volaille de qualité est destinée à soutenir la production de volaille de qualité.
 
-L'arrêté mentionné au I précise notamment les conditions d'éligibilité du demandeur ainsi que les conditions de race, de sexe, d'âge, d'identification et de durée de détention sur l'exploitation auxquelles doivent répondre les vaches allaitantes.
+L'arrêté mentionné au I précise notamment les conditions d'éligibilité du demandeur ainsi que les critères d'éligibilité des volailles.

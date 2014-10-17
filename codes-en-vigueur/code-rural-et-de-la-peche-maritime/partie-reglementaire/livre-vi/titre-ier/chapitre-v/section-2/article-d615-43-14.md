@@ -6,9 +6,11 @@ I. - En application de l'article 68 du règlement (CE) n° 73/2009 du Conseil du
 
 - l'aide à la qualité pour le blé dur ;
 
--  l'aide à la qualité du tabac ;
+- l'aide à la qualité du tabac ;
 
-- le soutien à l'agriculture biologique.
+- le soutien à l'agriculture biologique ;
+
+- l'aide à la qualité pour la production de pommes de terre féculières.
 
 Un arrêté du ministre chargé de l'agriculture fixe les conditions d'accès aux soutiens spécifiques aux productions végétales.
 
@@ -29,3 +31,7 @@ V. - L'aide au soutien à l'agriculture biologique est destinée à accompagner 
 L'arrêté mentionné au I précise notamment les conditions d'éligibilité des surfaces concernées.
 
 Le demandeur de l'aide au soutien à l'agriculture biologique ne peut pas être engagé dans une mesure agroenvironnementale du second pilier accompagnant les systèmes fourragers économes en intrants, ni demander le bénéfice de cette mesure. Les surfaces éligibles ne doivent bénéficier d'aucune mesure agroenvironnementale liée à la surface du second pilier pour la campagne considérée.
+
+VI.-L'aide à la qualité pour la production de pommes de terre féculières est destinée à encourager la production de pommes de terre féculières de qualité destinée à la transformation.
+
+L'arrêté mentionné au I précise notamment la liste des variétés de pommes de terre féculières éligibles à l'aide ainsi que les conditions, en particulier en matière de contractualisation, que le demandeur doit s'engager à respecter.
