@@ -655,6 +655,16 @@ Registre des agents commerciaux
 </td>
 </tr>
 <tr>
+<td align="center">210  bis<br/>
+</td>
+<td>
+<br/>
+<p>Dépôt des comptes annuels assortis d'une déclaration de confidentialité </p>
+<br/>
+</td>
+<td align="center"> 5</td>
+</tr>
+<tr>
 <td valign="top">
 <p align="center">211 </p>
 </td>
@@ -675,6 +685,17 @@ Registre des agents commerciaux
 <td valign="top">
 <p align="center">1 </p>
 </td>
+</tr>
+<tr>
+<td>
+<p align="center"> 212 bis</p>
+<br/>
+</td>
+<td align="center" valign="middle">
+<div align="left">Certificat attestant que les comptes annuels ont été déposés </div>
+<p align="left">mais ne sont pas rendus publics.</p>
+</td>
+<td align="center"> 1</td>
 </tr>
 <tr>
 <td valign="top">
@@ -730,6 +751,14 @@ Registre des agents commerciaux
 <td valign="top">
 <p align="center">6 </p>
 </td>
+</tr>
+<tr>
+<td align="center">
+<p>217 bis </p>
+<br/>
+</td>
+<td>Copie de la déclaration de confidentialité des comptes annuels </td>
+<td align="center"> 1</td>
 </tr>
 <tr>
 <td valign="top">
