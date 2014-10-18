@@ -2,4 +2,4 @@
 
 - [Sous-sous-paragraphe 1 : Du dépôt des actes constitutifs](sous-sous-paragraphe-1)
 - [Sous-sous-paragraphe 2 : Du dépôt des actes modificatifs](sous-sous-paragraphe-2)
-- [Sous-sous-paragraphe 3 : Du dépôt des documents comptables](sous-sous-paragraphe-3)
+- [Sous-sous-paragraphe 3 : Du dépôt des documents comptables et de la déclaration de confidentialité des comptes annuels](sous-sous-paragraphe-3)

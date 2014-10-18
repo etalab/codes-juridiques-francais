@@ -1,6 +1,6 @@
 # Article A123-61
 
-Pour effectuer la transmission électronique des documents comptables prévue au troisième alinéa de l'article R. 123-111, la société conclut un accord avec le greffe territorialement compétent.
+Pour effectuer la transmission électronique des documents comptables prévue au second  alinéa de l'article R. 123-111, accompagnés le cas échéant de la déclaration de confidentialité des comptes annuels,  la société conclut un accord avec le greffe territorialement compétent.
 
 Le modèle de cet accord est établi par le directeur des services judiciaires, le président du Conseil national des greffiers des tribunaux de commerce et le directeur général de l'Institut national de la propriété industrielle.
 
