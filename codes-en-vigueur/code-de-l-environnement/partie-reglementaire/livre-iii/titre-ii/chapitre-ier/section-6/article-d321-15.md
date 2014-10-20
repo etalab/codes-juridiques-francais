@@ -36,6 +36,15 @@ Liste des espaces protégés et des ports les desservant exclusivement ou princi
 </td>
 </tr>
 <tr>
+<td>
+<p align="left">Parc national des Calanques (Bouches-du-Rhône)</p>
+</td>
+<td>Etablissement public du Parc national des Calanques</td>
+<td>
+<p align="center">100 %</p>
+</td>
+</tr>
+<tr>
 <td align="center" colspan="3" valign="middle">
 <p align="center">2. Réserves naturelles </p>
 </td>
@@ -204,25 +213,6 @@ Liste des espaces protégés et des ports les desservant exclusivement ou princi
 </td>
 <td align="center" valign="middle">
 <p align="center">100 % </p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" width="284">
-<p>Sites classés du massif des Calanques (Bouches-du-Rhône). </p>
-</td>
-<td width="182">
-<p>Commune de Marseille. </p>
-</td>
-<td align="center" valign="middle">
-<p align="center">91 % </p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="left">Commune de Cassis. </p>
-</td>
-<td>
-<p align="center">9 % </p>
 </td>
 </tr>
 <tr>
@@ -526,9 +516,9 @@ Liste des espaces protégés et des ports les desservant exclusivement ou princi
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">Parc national de Port-Cros : <br/>
-<br/>- île de Port-Cros (dont le port de Port-Cros), île de Bagaud, île de la Gabinière, classés en cœur de parc national, ainsi que l'aire maritime adjacente (Var) ; <br/>
-<br/>- espaces terrestres et maritimes situés sur l'île de Porquerolles et classés en cœur de parc national, en aire maritime adjacente (dont le port de Porquerolles) et en site classé au titre de l'article L. 341-2 du code de l'environnement (Var).</p>
+<p align="left">Parc national de Port-Cros : </p>
+<p>- île de Port-Cros (dont le port de Port-Cros), île de Bagaud, île de la Gabinière, classés en cœur de parc national, ainsi que l'aire maritime adjacente (Var) ; </p>
+<p>- espaces terrestres et maritimes situés sur l'île de Porquerolles et classés en cœur de parc national, en aire maritime adjacente (dont le port de Porquerolles) et en site classé au titre de l'article L. 341-2 du code de l'environnement (Var).</p>
 </td>
 <td align="left" valign="top">
 <p align="left">Etablissement public du parc national de Port-Cros.</p>
