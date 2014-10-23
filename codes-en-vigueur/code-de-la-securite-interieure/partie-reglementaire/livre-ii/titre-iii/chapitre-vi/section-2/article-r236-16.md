@@ -2,9 +2,9 @@
 
 Dans la limite du besoin d'en connaître, y compris pour des enquêtes administratives prévues par l'article L. 114-1 du présent code et par l'article 17-1 de la loi n° 95-73 du 21 janvier 1995 d'orientation et de programmation relative à la sécurité, sont autorisés à accéder aux données mentionnées aux articles R. 236-12 et R. 236-13 :
 
-1° Les fonctionnaires relevant de la sous-direction de l'information générale de la direction centrale de la sécurité publique, individuellement désignés et spécialement habilités par le directeur central de la sécurité publique ;
+1° Les fonctionnaires relevant du service central du renseignement territorial de la direction centrale de la sécurité publique, individuellement désignés et spécialement habilités par le directeur central de la sécurité publique ;
 
-2° Les fonctionnaires des directions départementales de la sécurité publique affectés dans les services d'information générale, individuellement désignés et spécialement habilités par le directeur départemental ;
+2° Les fonctionnaires des directions départementales de la sécurité publique affectés dans les    services du renseignement territorial, individuellement désignés et spécialement habilités par le directeur départemental ;
 
 3° Les fonctionnaires de la préfecture de police affectés dans les services chargés du renseignement, individuellement désignés et spécialement habilités par le préfet de police ;
 
