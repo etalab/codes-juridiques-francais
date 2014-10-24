@@ -42,6 +42,6 @@ III.-Avant le 3 juillet 2018 :
 
 1. Dans les ascenseurs des établissements recevant du public mentionnés à l'article L. 111-7-3 installés après le 31 décembre 1982, un système de contrôle de l'arrêt et du maintien à niveau de la cabine, à tous les niveaux desservis.
 
-2. Dans les ascenseurs électriques à adhérence, un système de protection contre la vitesse excessive de la cabine en montée.
+2. Abrogé.
 
 Un arrêté du ministre chargé de la construction précise, en fonction des caractéristiques des installations, les prescriptions techniques relatives à ces dispositifs.
