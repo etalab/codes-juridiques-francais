@@ -4,7 +4,6 @@
 - [Article 74-0 C](article-74-0-c.md)
 - [Article 74-0 D](article-74-0-d.md)
 - [Article 74-0 M](article-74-0-m.md)
-- [Article 74-0 A](article-74-0-a.md)
 - [Article 74-0 B](article-74-0-b.md)
 - [Article 74-0 E](article-74-0-e.md)
 - [Article 74-0 E bis](article-74-0-e-bis.md)
