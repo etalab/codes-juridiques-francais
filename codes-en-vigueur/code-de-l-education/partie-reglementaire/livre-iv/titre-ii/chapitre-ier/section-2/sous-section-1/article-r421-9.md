@@ -18,7 +18,7 @@ En qualité d'organe exécutif de l'établissement, le chef d'établissement :
 
 8° Conclut tout contrat ou convention après avoir recueilli, sous réserve des dispositions de l'article R. 421-20, l'autorisation du conseil d'administration.
 
-Lorsqu'il est fait application des dispositions du c du 6° de l'article R. 421-20, le chef d'établissement informe le conseil d'administration le plus proche des marchés conclus sans autorisation préalable et tient à disposition des membres de ce dernier les documents y afférents ;
+Lorsqu'il est fait application des dispositions du            d du 6° de l'article R. 421-20, le chef d'établissement informe le conseil d'administration le plus proche des marchés conclus sans autorisation préalable et tient à disposition des membres de ce dernier les documents y afférents ;
 
 9° Transmet les actes de l'établissement dans les conditions fixées aux articles L. 421-11 et L. 421-14, conformément aux dispositions des articles R. 421-54 et R. 421-55 ;
 
