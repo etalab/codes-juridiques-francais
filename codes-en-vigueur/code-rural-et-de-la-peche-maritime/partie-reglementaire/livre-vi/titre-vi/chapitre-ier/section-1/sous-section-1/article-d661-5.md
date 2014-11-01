@@ -1,6 +1,6 @@
 # Article D661-5
 
-I. - Le comité plénier comprend, outre le président, le vice-président et le secrétaire général du comité technique permanent de la sélection des plantes cultivées :
+I.-Le comité plénier comprend, outre le président, le vice-président et le secrétaire général du comité technique permanent de la sélection des plantes cultivées :
 
 1° Treize membres de droit :
 
@@ -20,7 +20,7 @@ e) Le chef du département chargé de la santé des plantes à l'Institut nation
 
 f) Le directeur du groupe d'étude et de contrôle des variétés et des semences ;
 
-g) Le président du comité de la protection des obtentions végétales ;
+g) Le responsable des missions relevant de l'instance nationale des obtentions végétales ;
 
 h) Le chef du service officiel de contrôle et de certification des semences et plants ;
 
@@ -38,10 +38,8 @@ j) Le directeur du Groupement national interprofessionnel des semences ;
 
 6° Deux représentants des consommateurs et des associations de protection de l'environnement.
 
-Les membres mentionnés aux 3° et 4° sont nommés pour une durée de deux ans par arrêté du ministre chargé de l'agriculture.
-
-II. - Le ministre chargé de l'agriculture prend l'avis du comité plénier pour désigner, par arrêté, le président, le vice-président et le secrétaire général du comité.
+II.-Le ministre chargé de l'agriculture prend l'avis du comité plénier pour désigner, par arrêté, le président, le vice-président et le secrétaire général du comité.
 
 Le président, le vice-président du comité plénier et le secrétaire général sont membres de droit de toutes les instances du comité technique permanent de la sélection des plantes cultivées.
 
-Les membres mentionnés aux 3°, 4°, 5° et 6° sont nommés pour une durée de trois ans par arrêté du ministre chargé de l'agriculture.
+Les membres mentionnés aux 3°, 4°, 5° et 6° du I sont nommés pour une durée de cinq ans par arrêté du ministre chargé de l'agriculture.
