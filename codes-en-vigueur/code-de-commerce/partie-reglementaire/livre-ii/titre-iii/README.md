@@ -7,3 +7,4 @@
 - [Chapitre VI : De la fusion et de la scission.](chapitre-vi)
 - [Chapitre VII : De la liquidation.](chapitre-vii)
 - [Chapitre IX : De la location d'actions et de parts sociales.](chapitre-ix)
+- [Chapitre X : De l'information des salariés en cas de cession de leur société](chapitre-x)
