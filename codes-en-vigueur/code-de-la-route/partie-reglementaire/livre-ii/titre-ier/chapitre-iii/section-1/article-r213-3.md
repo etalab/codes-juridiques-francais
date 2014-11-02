@@ -16,7 +16,7 @@ Le contrat passé entre le candidat et l'établissement, mentionné à chacun de
 
 5° Les moyens pédagogiques et techniques mis en oeuvre pour la formation et l'évaluation du candidat ;
 
-6° Les démarches administratives et formalités nécessaires faites éventuellement par l'établissement en nom et place du candidat ;
+6° Les conditions et la durée du mandat consenti à l'établissement pour effectuer les démarches administratives nécessaires, au nom et pour le compte du candidat, ainsi que pour recevoir communication par l'autorité administrative des informations le concernant ;
 
 7° Les obligations des parties : engagement de l'établissement à dispenser la formation et à présenter le candidat aux épreuves en fournissant les moyens nécessaires, engagement du candidat à respecter les prescriptions pédagogiques et le calendrier de la formation et de l'examen ;
 

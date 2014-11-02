@@ -10,7 +10,7 @@ Tricycles à moteur d'une puissance maximale de 15 kilowatts.
 
 Catégorie A2 :
 
-Motocyclettes avec ou sans side-car d'une puissance n'excédant pas 35 kilowatts et dont le rapport puissance/ poids n'excède pas 0,2 kilowatt par kilogramme. La puissance ne peut résulter du bridage d'un véhicule développant plus du double de sa puissance.
+Motocyclettes avec ou sans side-car d'une puissance n'excédant pas 35 kilowatts et dont le rapport puissance/ poids n'excède pas 0,2 kilowatt par kilogramme. La puissance ne peut résulter du bridage d'un véhicule développant plus de 70 kW.
 
 Catégorie A :
 
@@ -24,7 +24,7 @@ Véhicules de la catégorie L7e.
 
 Catégorie B :
 
-Véhicules automobiles ayant un poids total autorisé en charge (PTAC) qui n'excède pas 3,5 tonnes, affectés au transport de personnes et comportant, outre le siège du conducteur, huit places assises au maximum ou affectés au transport de marchandises ainsi que les véhicules qui peuvent être assimilés aux véhicules précédents et dont la liste est fixée par arrêté du ministre chargé de la sécurité routière.
+Véhicules automobiles ayant un poids total autorisé en charge (PTAC) qui n'excède pas 3,5 tonnes, affectés au transport de personnes ou de marchandises, conçus et construits pour le transport de huit passagers au maximum non compris le conducteur ainsi que les véhicules qui peuvent être assimilés aux véhicules précédents et dont la liste est fixée par arrêté du ministre chargé de la sécurité routière.
 
 Véhicules mentionnés à l'alinéa précédent attelés d'une remorque lorsque le poids total autorisé en charge (PTAC) de la remorque est inférieur ou égal à 750 kilogrammes.
 
@@ -44,13 +44,13 @@ Aux véhicules de cette catégorie peut être attelée une remorque dont le poid
 
 Catégorie D1 :
 
-Véhicules automobiles conçus et construits pour le transport de personnes comportant, outre le siège du conducteur, seize places assises maximum et d'une longueur n'excédant pas huit mètres.
+Véhicules automobiles conçus et construits pour le transport de seize passagers au maximum non compris le conducteur et d'une longueur n'excédant pas huit mètres.
 
 Aux véhicules de cette catégorie peut être attelée une remorque dont le poids total autorisé en charge (PTAC) n'excède pas 750 kilogrammes.
 
 Catégorie D :
 
-Véhicules automobiles conçus et construits pour le transport de personnes comportant plus de huit places assises outre le siège du conducteur ou transportant plus de huit personnes, non compris le conducteur.
+Véhicules automobiles conçus et construits pour le transport de plus de huit passagers, non compris le conducteur.
 
 Aux véhicules de cette catégorie peut être attelée une remorque dont le poids total autorisé en charge (PTAC) n'excède pas 750 kilogrammes.
 
