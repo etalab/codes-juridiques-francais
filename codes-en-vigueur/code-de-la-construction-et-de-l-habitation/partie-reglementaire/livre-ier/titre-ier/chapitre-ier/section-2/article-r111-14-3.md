@@ -2,7 +2,7 @@
 
 Lorsque les bâtiments neufs à usage principal tertiaire sont équipés d'un parc de stationnement bâti clos et couvert d'accès réservé aux salariés, ce parc est alimenté en électricité pour permettre la recharge des véhicules électriques ou hybrides rechargeables.
 
-L'équipement réalisé est relié à un tableau général basse tension en aval du disjoncteur principal, situé dans un local technique électrique.
+L'équipement réalisé est relié à un tableau général basse tension en aval du disjoncteur principal.
 
 Tout ou partie de ces places doit être conçu de manière à pouvoir accueillir ultérieurement un point de charge pour la recharge normale d'un véhicule électrique ou hybride rechargeable, disposant d'un système de mesure permettant une facturation individuelle des consommations.
 
