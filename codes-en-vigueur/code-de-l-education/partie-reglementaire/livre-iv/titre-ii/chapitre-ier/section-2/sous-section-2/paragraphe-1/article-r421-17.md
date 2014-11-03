@@ -10,9 +10,9 @@ Le conseil d'administration des établissements régionaux d'enseignement adapt�
 
 4° Le conseiller principal d'éducation le plus ancien ou le chef des travaux ;
 
-5° Le représentant de la collectivité territoriale de rattachement ;
+5° Deux représentants de la région ou, lorsque les compétences de celle-ci en matière de construction, de reconstruction, d'aménagement, d'entretien et de fonctionnement des établissements régionaux d'enseignement adapté sont, en application de l'article L. 1111-8 du même code, exercées par une autre collectivité territoriale ou un établissement public de coopération intercommunale à fiscalité propre, un représentant de la collectivité territoriale ou de l'établissement public délégataire et un représentant de la région ;
 
-6° Deux représentants de la commune siège de l'établissement ou, lorsqu'il existe un groupement de communes, un représentant du groupement de communes et un représentant de la commune siège ;
+6° Un représentant de la commune siège de l'établissement. Lorsqu'il existe un établissement public de coopération intercommunale, un représentant de cet établissement public assiste au conseil d'administration à titre consultatif ;
 
 7° Une personnalité qualifiée, ou deux personnalités qualifiées lorsque les membres de l'administration de l'établissement désignés en raison de leurs fonctions sont en nombre inférieur à quatre. Les personnalités qualifiées sont désignées selon les modalités fixées à l'article R. 421-15 ;
 

@@ -8,7 +8,7 @@ La commission permanente dans les établissements régionaux d'enseignement adap
 
 3° L'adjoint gestionnaire ;
 
-4° Un représentant de la collectivité territoriale de rattachement ;
+4° Un représentant de la région ou, lorsque celle-ci n'exerce pas les compétences en matière de construction, de reconstruction, d'aménagement, d'entretien et de fonctionnement de l'établissement, un représentant de la personne publique exerçant ces compétences ;
 
 5° Quatre représentants élus des personnels d'enseignement et d'éducation, dont deux au titre des personnels d'enseignement et d'éducation, un au titre des personnels administratifs, techniques, ouvriers, de service, et un au titre des personnels sociaux et de santé ;
 
