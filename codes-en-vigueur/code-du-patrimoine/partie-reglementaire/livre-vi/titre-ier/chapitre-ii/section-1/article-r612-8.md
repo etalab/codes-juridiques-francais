@@ -12,4 +12,4 @@ Le président peut faire entendre par la commission, la délégation permanente 
 
 Les rapporteurs sont désignés par le président parmi les membres de la commission ou de la section mentionnée à l'article R. 612-3, ou parmi des personnalités extérieures. Lorsque le rapporteur n'appartient pas à la commission ou à la section, il ne prend pas part au vote.
 
-Les frais de déplacement entraînés par le fonctionnement de la commission ou de la section mentionnée à l'article R. 612-3 sont remboursés dans les conditions fixées par la réglementation applicable aux fonctionnaires de l'Etat.
+Les frais de déplacement entraînés par le fonctionnement de la commission ou de la section mentionnée à l'article R. 612-3 sont remboursés dans les conditions fixées par la réglementation applicable aux personnels civils de l'Etat.

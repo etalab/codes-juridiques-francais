@@ -18,6 +18,6 @@ Si le préfet de région estime que le dossier est incomplet, il fait connaître
 
 Lorsque le dossier est complet, le préfet de région fait connaître au demandeur ainsi qu'à l'autorité compétente pour statuer sur les demandes de permis de construire, la date et le numéro d'enregistrement de la demande par le service déconcentré chargé de l'architecture et du patrimoine. Lorsque des pièces complémentaires ont été demandées dans le délai d'un mois prévu au précédent alinéa, à défaut de réception de ces pièces dans un délai de deux mois, la demande fait l'objet d'une décision tacite de rejet.
 
-L'accord de l'autorité compétente pour statuer sur les demandes de permis de construire est transmis au préfet de région dans le délai de deux mois à compter de la réception du dossier complet par cette autorité. Faute de réponse de cette autorité à l'expiration du délai fixé, son accord est réputé donné.
+L'accord de l'autorité compétente pour statuer sur les demandes de permis de construire, portant le cas échéant dérogation aux règles du plan local d'urbanisme, en application de l'article L. 123-5 du code de l'urbanisme, est transmis au préfet de région dans le délai de deux mois à compter de la réception du dossier complet par cette autorité. Faute de réponse de cette autorité à l'expiration du délai fixé, son accord est réputé donné.
 
 Toute modification de la nature et de l'importance des travaux doit faire l'objet d'une demande d'autorisation nouvelle.

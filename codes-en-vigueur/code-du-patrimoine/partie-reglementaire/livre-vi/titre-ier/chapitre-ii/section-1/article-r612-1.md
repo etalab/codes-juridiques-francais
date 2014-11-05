@@ -6,7 +6,7 @@ La commission régionale du patrimoine et des sites, placée auprès du préfet 
 
 2° Sur les projets de création d'aires de mise en valeur de l'architecture et du patrimoine ;
 
-3° Sur les propositions de création de périmètres de protection adaptés prévues au deuxième alinéa de l'article L. 621-30-1. Dans ce cas, l'avis est donné conjointement à l'avis sur la proposition d'inscription ou de classement de l'immeuble non protégé auquel se rapporte ce périmètre. Elle peut aussi donner un avis sur les propositions de modification des périmètres de protection existants prévues au troisième alinéa du même article.
+3° Sur les propositions de création de périmètres de protection adaptés prévues au cinquième alinéa de l'article L. 621-30. Dans ce cas, l'avis est donné conjointement à l'avis sur la proposition d'inscription ou de classement de l'immeuble non protégé auquel se rapporte ce périmètre. Elle peut aussi donner un avis sur les propositions de modification des périmètres de protection existants prévues au sixième alinéa du même article.
 
 Le préfet de région peut recueillir l'avis de la commission régionale du patrimoine et des sites sur toute question intéressant l'étude, la protection et la conservation du patrimoine de la région.
 
