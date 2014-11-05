@@ -3,3 +3,4 @@
 - [Section 1 : Conseil national de l'emploi, de la formation et de l'orientation professionnelles](section-1)
 - [Section 2 : Comité régional de l'emploi, de la formation et de l'orientation professionnelles](section-2)
 - [Section 3 : Comité paritaire interprofessionnel national pour l'emploi et la formation](section-3)
+- [Section 4 : Comité paritaire interprofessionnel régional pour l'emploi et la formation](section-4)
