@@ -1,8 +1,5 @@
 # Sous-section 2 : Travaux sur un immeuble adossé à un immeuble classé ou situé dans le champ de visibilité d'un immeuble classé ou inscrit
 
-- [Article R621-93](article-r621-93.md)
-- [Article R621-94](article-r621-94.md)
-- [Article R621-95](article-r621-95.md)
 - [Article R621-96](article-r621-96.md)
 - [Article R621-96-1](article-r621-96-1.md)
 - [Article R621-96-2](article-r621-96-2.md)

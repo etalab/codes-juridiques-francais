@@ -2,4 +2,3 @@
 
 - [Sous-section 1 : Périmètres de protection](sous-section-1)
 - [Sous-section 2 : Travaux sur un immeuble adossé à un immeuble classé ou situé dans le champ de visibilité d'un immeuble classé ou inscrit](sous-section-2)
-- [Sous-section 3 : Travaux dans le champ de visibilité](sous-section-3)
