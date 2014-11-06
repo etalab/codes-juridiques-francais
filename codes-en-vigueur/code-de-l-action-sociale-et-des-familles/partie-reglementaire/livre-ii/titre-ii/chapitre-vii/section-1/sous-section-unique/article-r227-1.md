@@ -16,7 +16,11 @@ Les dispositions du présent I ne sont pas applicables aux séjours directement 
 
 II.-Les accueils sans hébergement comprenant :
 
-1° L'accueil de loisirs de sept à trois cents mineurs, en dehors d'une famille, pendant au moins quatorze jours consécutifs ou non au cours d'une même année sur le temps extrascolaire ou périscolaire pour une durée minimale de deux heures par journée de fonctionnement. Il se caractérise par une fréquentation régulière des mineurs inscrits auxquels il offre une diversité d'activités organisées ;
+1° L'accueil de loisirs de sept mineurs au moins, en dehors d'une famille, pendant au moins quatorze jours consécutifs ou non au cours d'une même année sur le temps extrascolaire ou périscolaire pour une durée minimale de deux heures par journée de fonctionnement. Il se caractérise par une fréquentation régulière des mineurs inscrits auxquels il offre une diversité d'activités organisées ;
+
+L'accueil de loisirs extrascolaire est celui qui se déroule les jours où il n'y a pas école. L'effectif maximum accueilli est de trois cents mineurs.
+
+L'accueil de loisirs périscolaire est celui qui se déroule les jours où il y a école. L'effectif maximum accueilli est celui de l'école à laquelle il s'adosse. Lorsque l'accueil se déroule sur plusieurs sites ou lorsqu'il regroupe des enfants de plusieurs écoles, l'effectif maximum accueilli est limité à trois cents.
 
 2° L'accueil de jeunes de sept à quarante mineurs, âgés de quatorze ans ou plus, en dehors d'une famille, pendant au moins quatorze jours consécutifs ou non au cours d'une même année et répondant à un besoin social particulier explicité dans le projet éducatif mentionné à L'article R. 227-23 ;
 
