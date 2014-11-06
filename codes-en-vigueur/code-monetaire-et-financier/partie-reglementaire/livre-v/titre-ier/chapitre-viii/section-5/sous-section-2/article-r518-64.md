@@ -1,5 +1,35 @@
 # Article R518-64
 
-Le comité suit l'activité des associations habilitées, sans préjudice des contrôles auxquels elles sont soumises en tant qu'associations sans but lucratif. Il est destinataire, à ce titre, du bilan, du compte de résultats, du rapport d'activité annuel de l'association et du rapport du commissaire aux comptes. Le rapport d'activité comprend notamment un état et une analyse de la production et du remboursement des prêts.
+Le comité comprend les membres suivants :
 
-Le comité peut entendre les dirigeants et se faire communiquer toute information ou tout document utiles à l'accomplissement de sa mission. Il peut recueillir l'avis de tout expert de son choix, y compris des services du secrétariat général de la commission bancaire. Ces experts sont tenus, dans l'exercice de leurs missions, de respecter les règles du secret professionnel. Le cas échéant, le comité peut demander à un organisme externe un audit de l'association.
+1° Trois représentants du ministre chargé de l'économie, dont un membre de l'inspection générale des finances ;
+
+2° Deux représentants du ministre chargé de l'emploi, dont un membre de l'inspection générale des affaires sociales ;
+
+3° Un représentant du ministre chargé des petites et moyennes entreprises ;
+
+4° Un représentant du ministre chargé de l'économie solidaire ;
+
+5° Un représentant du ministre chargé de l'industrie ;
+
+6° Un représentant du ministre chargé de l'aménagement du territoire ;
+
+7° Un représentant du ministre chargé de la défense ;
+
+8° Deux représentants des établissements de crédit et des sociétés de financement ;
+
+9° Deux personnalités qualifiées.
+
+Les membres du comité sont nommés par arrêté du ministre chargé de l'économie pour une durée de cinq ans. Cet arrêté désigne un suppléant pour chaque membre titulaire. La nomination des membres mentionnés aux 2° à 7° est faite sur proposition du ministre concerné, celle des membres mentionnés au 8° sur proposition de l'Association française des établissements de crédit et des entreprises d'investissement et de la Fédération bancaire française.
+
+Le président du comité est désigné, parmi ses membres, par arrêté du ministre chargé de l'économie.
+
+Le secrétariat du comité est assuré par les services du ministre chargé de l'économie.
+
+Le comité se réunit au moins deux fois par an, sur convocation de son président, qui arrête l'ordre du jour. Les séances ne sont pas publiques.
+
+Le comité se prononce à la majorité des membres présents. En cas de partage des voix, le président a voix prépondérante.
+
+Le comité établit son règlement intérieur.
+
+Les membres du comité et les personnes qui concourent à son activité sont tenus au secret professionnel en ce qui concerne les informations dont ils ont connaissance à l'occasion de leurs fonctions. Tout membre du comité s'abstient de délibérer s'il a ou a eu un intérêt direct et personnel dans la société sur laquelle le comité est amené à prendre une décision.

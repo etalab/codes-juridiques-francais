@@ -22,16 +22,16 @@ i) La Caisse des dépôts et consignations et les autres investisseurs instituti
 
 2. Les entités remplissant au moins deux des trois critères suivants, sur la base des états comptables individuels :
 
-- total du bilan égal ou supérieur à 20 millions d'euros ;
+-total du bilan égal ou supérieur à 20 millions d'euros ;
 
-- chiffre d'affaires net ou recettes nettes égaux ou supérieurs à 40 millions d'euros ;
+-chiffre d'affaires net ou recettes nettes égaux ou supérieurs à 40 millions d'euros ;
 
-- capitaux propres égaux ou supérieurs à 2 millions d'euros ;
+-capitaux propres égaux ou supérieurs à 2 millions d'euros ;
 
 3. L'Etat, la Caisse de la dette publique, la Caisse d'amortissement de la dette sociale, la Banque de France, l'Institut d'émission des départements d'outre-mer, l'Institut d'émission d'outre-mer ;
 
 4. Les autres investisseurs institutionnels dont l'activité principale consiste à investir dans des instruments financiers, et notamment les sociétés d'investissement mentionnées à l'article 6 de l'ordonnance du 2 novembre 1945, les sociétés de capital-risque mentionnées à l'article 1er de la loi n° 85-695 du 11 juillet 1985 et les sociétés financières d'innovation mentionnées au III de l'article 4 de la loi n° 72-650 du 11 juillet 1972 ;
 
-5. Les entités de droit étranger qui sont équivalentes à celles mentionnées aux 1 à 4 ou qui ont un statut de client professionnel dans un autre Etat membre de la Communauté européenne ou un autre Etat partie à l'accord sur l'Espace économique européen ;
+5. Les entités de droit étranger qui sont équivalentes à celles mentionnées aux 1 à 4 ou qui ont un statut de client professionnel dans un autre Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace économique européen ;
 
 6. Les organismes financiers internationaux à caractère public auxquels la France ou tout autre Etat membre de l'Organisation de coopération et de développement économiques adhère.

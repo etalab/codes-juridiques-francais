@@ -1,6 +1,6 @@
 # Article R141-1
 
-I. - En application des articles L. 141-1 à L. 141-5, les sociétés d'aménagement foncier et d'établissement rural peuvent notamment :
+I.-En application des articles L. 141-1 à L. 141-5, les sociétés d'aménagement foncier et d'établissement rural peuvent notamment :
 
 1° Procéder à l'attribution, par cession ou par substitution, des biens visés à l'article L. 141-1 II, au bénéfice soit de propriétaires ou d'exploitants dont les propriétés ou les exploitations sont mal adaptées à une mise en valeur rationnelle, soit d'agriculteurs qu'elles installent ou maintiennent, soit de personnes qui s'engagent à les louer dans les conditions déterminées à l'article R. 142-2, ou dont le projet satisfait les objectifs de l'article L. 111-2 ou dans le cadre de la réorientation des terres, bâtiments ou exploitations au sens de l'article L. 141-3, soit des personnes physiques ou morales qui concourent à la protection de l'environnement ou à la mise en valeur du patrimoine naturel et des paysages ;
 
@@ -16,7 +16,7 @@ I. - En application des articles L. 141-1 à L. 141-5, les sociétés d'aménage
 
 7° Se livrer ou prêter leur concours à des opérations d'entremise relatives au louage régi par le livre IV au bénéfice d'exploitants au titre d'une installation, d'un maintien, d'un agrandissement ou d'un remaniement parcellaire de leur exploitation. Le mandat écrit donné par le propriétaire ou le candidat à l'exploitation comporte les indications mentionnées au II ci-dessous.
 
-II. - Pour l'exercice de la mission mentionnée au 7° ci-dessus, les sociétés d'aménagement foncier et d'établissement rural doivent justifier annuellement auprès des commissaires du Gouvernement d'une garantie financière d'un montant minimal de 30000 euros résultant d'une caution écrite fournie par un établissement de crédit habilité à donner cette caution ou une entreprise d'assurance agréée à cet effet, ainsi que d'une assurance couvrant les risques pécuniaires de leur responsabilité civile professionnelle.
+II.-Pour l'exercice de la mission mentionnée au 7° ci-dessus, les sociétés d'aménagement foncier et d'établissement rural doivent justifier annuellement auprès des commissaires du Gouvernement d'une garantie financière d'un montant minimal de 30000 euros résultant d'une caution écrite fournie par un établissement de crédit ou une société de financement habilité à donner cette caution ou une entreprise d'assurance agréée à cet effet, ainsi que d'une assurance couvrant les risques pécuniaires de leur responsabilité civile professionnelle.
 
 La garantie financière fournie en application du dernier alinéa de l'article L. 141-1 s'applique à toute créance ayant pour origine un versement ou une remise effectué à l'occasion de la mission mentionnée au 7° ci-dessus. Elle intervient sur les seules justifications présentées par le créancier à l'organisme garant, établissant que la créance est certaine et exigible et que la société d'aménagement foncier et d'établissement rural garantie est défaillante, sans que le garant puisse opposer au créancier le bénéfice de division et de discussion.
 

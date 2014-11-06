@@ -1,4 +1,4 @@
-# Paragraphe 2 : Dispositions relatives aux procédures de sauvegarde, de redressement, de liquidation judiciaire et aux procédures de conciliation applicables aux établissements de crédit, aux établissements de monnaie électronique, aux établissements de paiement et aux entreprises d'investissement
+# Paragraphe 2 : Dispositions relatives aux procédures de sauvegarde, de redressement, de liquidation judiciaire et aux procédures de conciliation applicables aux établissements de crédit, aux sociétés de financement, aux établissements de monnaie électronique, aux établissements de paiement et aux entreprises d'investissement
 
 - [Article R613-14](article-r613-14.md)
 - [Article R613-15](article-r613-15.md)

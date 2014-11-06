@@ -6,4 +6,3 @@
 - [Article D517-5](article-d517-5.md)
 - [Article D517-6](article-d517-6.md)
 - [Article D517-7](article-d517-7.md)
-- [Article R517-4](article-r517-4.md)

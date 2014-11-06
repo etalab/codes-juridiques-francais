@@ -12,6 +12,6 @@ b) D'une durée de quatre ans dans des fonctions liées à la réalisation d'op�
 
 3° Soit d'une formation professionnelle de 150 heures adaptée à la réalisation d'opérations de banque ou de services de paiement, suivie :
 
-a) Auprès d'un établissement de crédit, d'un établissement de paiement, d'un établissement de monnaie électronique qui fournit des services de paiement ou d'une entreprise d'assurance ;
+a) Auprès      d'un établissement de crédit, d'une société de financement, d'un établissement de paiement, d'un établissement de monnaie électronique qui fournit des services de paiement ou d'une entreprise d'assurance ;
 
 b) Auprès d'un organisme de formation choisi par l'intéressé, son employeur ou, le cas échéant, son mandant, dans les conditions prévues à l'article R. 519-12.

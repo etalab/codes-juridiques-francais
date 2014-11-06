@@ -8,6 +8,6 @@ Les intermédiaires en opérations de banque et en services de paiement mentionn
 
 3° Soit d'une formation professionnelle d'une durée suffisante, adaptée aux opérations de banque et aux services de paiement, suivie :
 
-a) Auprès d'un établissement de crédit, d'un établissement de paiement, d'un établissement de monnaie électronique qui fournit des services de paiement ou d'une entreprise d'assurance ;
+a) Auprès      d'un établissement de crédit, d'une société de financement, d'un établissement de paiement, d'un établissement de monnaie électronique qui fournit des services de paiement ou d'une entreprise d'assurance ;
 
 b) Auprès d'un organisme de formation choisi par l'intéressé, son employeur ou, le cas échéant, son mandant, dans des conditions précisées par arrêté du ministre chargé de l'économie.

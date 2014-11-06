@@ -1,4 +1,4 @@
-# Section 1 : Dispositions concernant la surveillance, les contrôles et les enquêtes relatifs aux prestataires de services d'investissement, aux marchés réglementés et aux entreprises de marché et transposant la directive 2004/39/CE du Parlement européen et du Conseil du 21 avril 2004 concernant les marchés d'instruments financiers
+# Section 1 : Dispositions concernant la surveillance, les contrôles et les enquêtes
 
-- [Sous-section 1 : Coopération et échanges d'informations avec les autorités d'autres Etats membres de la Communauté européenne ou d'autres Etats parties à l'accord sur l'Espace économique européen](sous-section-1)
+- [Sous-section 1 : Coopération et échanges d'informations avec les autorités d'autres Etats membres de l'Union européenne ou d'autres Etats parties à l'accord sur l'Espace économique européen](sous-section-1)
 - [Sous-section 2 : Coopération et échanges d'informations avec les autorités des Etats non parties à l'accord sur l'Espace économique européen](sous-section-2)
