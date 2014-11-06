@@ -2,4 +2,5 @@
 
 - [Article R518-57](article-r518-57.md)
 - [Article R518-58](article-r518-58.md)
+- [Article R518-60](article-r518-60.md)
 - [Article R518-61](article-r518-61.md)
