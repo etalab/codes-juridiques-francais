@@ -4,3 +4,4 @@
 - [Section 2 : Du loyer.](section-2)
 - [Section 3 : De la procédure.](section-3)
 - [Section 4 : Annexe environnementale](section-4-annexe)
+- [Section 5 : Des charges locatives, impôts, taxes, redevances et travaux](section-5)
