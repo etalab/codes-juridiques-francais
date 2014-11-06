@@ -10,4 +10,4 @@ La responsabilité de ces derniers ne peut en aucun cas être supprimée ni att�
 
 Lorsque l'appréciation est faite par plusieurs commissaires-priseurs judiciaires, leur responsabilité est solidaire.
 
-En garantie de cette responsabilité, les commissaires-priseurs judiciaires attachés à une caisse de crédit municipal doivent soit verser à cette dernière des cautionnements, soit obtenir un engagement de caution d'une entreprise d'assurance, d'un établissement de crédit ou d'un organisme professionnel habilité à cet effet. Le montant minimum de la garantie est fixé par le conseil d'orientation et de surveillance.
+En garantie de cette responsabilité, les commissaires-priseurs judiciaires attachés à une caisse de crédit municipal doivent soit verser à cette dernière des cautionnements, soit obtenir un engagement de caution d'une entreprise d'assurance, d'un établissement de crédit, d'une société de financement ou d'un organisme professionnel habilité à cet effet. Le montant minimum de la garantie est fixé par le conseil d'orientation et de surveillance.

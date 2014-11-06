@@ -16,4 +16,4 @@ b) Soit, en ce qui concerne les chevaux lourds mentionnés au a) du 1° ci-dessu
 
 3° L'acquisition des matériels destinés à l'amélioration de la production fourragère et de son traitement dont la liste est fixée par arrêté du ministre de l'agriculture et du ministre chargé de l'économie et des finances.
 
-Ces prêts sont attribués par les établissements de crédit qui ont passé, à cet effet, une convention avec le ministre chargé de l'économie et des finances et le ministre de l'agriculture.
+Ces prêts sont attribués par les  établissements de crédit et les sociétés de financement qui ont passé, à cet effet, une convention avec le ministre chargé de l'économie et des finances et le ministre de l'agriculture.

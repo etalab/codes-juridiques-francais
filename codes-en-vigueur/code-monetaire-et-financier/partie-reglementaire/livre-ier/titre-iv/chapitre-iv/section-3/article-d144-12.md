@@ -1,6 +1,6 @@
 # Article D144-12
 
-I.-Les informations détenues par la Banque de France sur les dirigeants d'entreprise et les entrepreneurs individuels peuvent être communiquées aux établissements de crédit, aux intermédiaires en financement participatif et aux administrations à vocation économique ou financière.
+I.-Les informations détenues par la Banque de France sur les dirigeants d'entreprise et les entrepreneurs individuels peuvent être communiquées aux établissements de crédit, aux sociétés de financement, aux intermédiaires en financement participatif et aux administrations à vocation économique ou financière.
 
 II.-Lorsqu'elles font état de décisions intervenues dans le cadre d'une procédure de sauvegarde ou de redressement judiciaire, les informations mentionnées au I ne peuvent être communiquées qu'à condition de faire également l'objet d'une mention au registre du commerce et des sociétés.
 

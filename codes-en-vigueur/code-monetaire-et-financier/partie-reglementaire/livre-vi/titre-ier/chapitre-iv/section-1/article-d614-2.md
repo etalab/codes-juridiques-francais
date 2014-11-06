@@ -14,13 +14,13 @@ I. - Le comité consultatif de la législation et de la réglementation financi�
 
 5° bis Le directeur de la sécurité sociale ou son représentant ;
 
-6° Trois représentants des établissements de crédit et des entreprises d'investissement ;
+6° Trois représentants des établissements de crédit, des sociétés de financement et des entreprises d'investissement ;
 
 7° Trois représentants des organismes d'assurance ;
 
 8° Un représentant des organisations syndicales représentatives au plan national du personnel des secteurs bancaire et de l'assurance, et des entreprises d'investissement ;
 
-9° Un représentant des clientèles des établissements de crédit, des entreprises d'assurance et des entreprises d'investissement ;
+9° Un représentant des clientèles des établissements de crédit, des sociétés de financement, des entreprises d'assurance et des entreprises d'investissement ;
 
 10° Deux personnalités choisies en raison de leur compétence.
 

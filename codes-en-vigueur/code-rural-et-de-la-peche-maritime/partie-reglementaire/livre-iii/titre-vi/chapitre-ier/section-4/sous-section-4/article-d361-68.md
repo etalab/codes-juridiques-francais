@@ -18,7 +18,7 @@ Le programme d'indemnisation comporte :
 
 ― une estimation du nombre d'agriculteurs bénéficiant de l'indemnisation du fonds de mutualisation et les critères utilisés par le fonds de mutualisation pour déterminer ce nombre ;
 
-― le niveau de mobilisation financière de chacune des sections du fonds de mutualisation concernées au regard de leurs ressources disponibles et le mode de financement des indemnisations envisagées, notamment le montant et la part des indemnisations couverts par les ressources du fonds de mutualisation mentionné à l'article R. 361-56, le montant couvert par recours à l'emprunt commercial ainsi que le montant des frais financiers y afférant et, le cas échéant, l'accord de principe de l'établissement de crédit ;
+― le niveau de mobilisation financière de chacune des sections du fonds de mutualisation concernées au regard de leurs ressources disponibles et le mode de financement des indemnisations envisagées, notamment le montant et la part des indemnisations couverts par les ressources du fonds de mutualisation mentionné à l'article R. 361-56, le montant couvert par recours à l'emprunt commercial ainsi que le montant des frais financiers y afférant et, le cas échéant, l'accord de principe de l'  établissement de crédit ou de la société de financement ;
 
 ― l'organisation et les modalités pratiques envisagées pour la mise en œuvre du programme d'indemnisation, notamment, le cas échéant, la précision des tâches qui seront déléguées à des tiers et les conventions qui encadrent l'exécution de ces tâches déléguées ;
 

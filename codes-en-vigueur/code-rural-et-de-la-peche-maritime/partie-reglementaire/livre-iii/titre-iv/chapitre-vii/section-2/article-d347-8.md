@@ -8,4 +8,4 @@ Les prêts aux productions végétales spéciales sont destinés à financer, à
 
 3° De construction et de modernisation des serres.
 
-Ces prêts sont attribués par les établissements de crédit qui ont passé, à cet effet, une convention avec le ministre chargé de l'économie et le ministre de l'agriculture.
+Ces prêts sont attribués par les  établissements de crédit et les sociétés de financement qui ont passé, à cet effet, une convention avec le ministre chargé de l'économie et le ministre de l'agriculture.

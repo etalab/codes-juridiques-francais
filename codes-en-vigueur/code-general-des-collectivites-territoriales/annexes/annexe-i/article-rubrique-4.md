@@ -166,7 +166,7 @@ Délibération ou décision du directeur pour les EPS.
 
 2. Le cas échéant, état liquidatif des actualisations et / ou révisions des prix, établi conformément à l'annexe E (18).
 
-(18)  Un prix peut être soit actualisable, soit révisable.
+(18) Un prix peut être soit actualisable, soit révisable.
 
 43242 - Paiement des acomptes au-delà de 80 % du montant initial du marché TTC :
 
@@ -366,7 +366,7 @@ Pièces énumérées aux rubriques 42 et 43 selon les modalités de présentatio
 
 4712 - Pièces particulières
 
-47121 - Paiement à un établissement de crédit cessionnaire ou bénéficiaire d'un nantissement :
+47121 - Paiement à un établissement de crédit  ou à une société de financement cessionnaire ou bénéficiaire d'un nantissement :
 
 1. Dans le cadre d'un marché public faisant l'objet d'un contrat écrit, exemplaire unique du marché, de l'avenant, de l'acte spécial ou de tout document écrit visé à la rubrique 4511, revêtu d'une mention signée par l'autorité compétente pour passer le marché indiquant que cette pièce est délivrée en unique exemplaire en vue de la cession (ou du nantissement) des créances résultant du marché,
 
@@ -380,7 +380,7 @@ Certificat de cessibilité ;
 
 3. Le cas échéant, notification de la transmission du bordereau par le bénéficiaire de la transmission par lettre recommandée avec avis de réception, ou tout autre moyen permettant de donner date certaine ;
 
-4. Le cas échéant, attestation de l'établissement de crédit établissant que la cession (ou le nantissement) ne fait pas obstacle au paiement direct de la partie sous-traitée ou a été réduit (e) de manière à réaliser cette condition.
+4. Le cas échéant, attestation de l'établissement de crédit ou de la société de financement établissant que la cession (ou le nantissement) ne fait pas obstacle au paiement direct de la partie sous-traitée ou a été réduit (e) de manière à réaliser cette condition.
 
 47122 - Paiement à un cessionnaire ou à un bénéficiaire de nantissement de droit commun :
 
@@ -398,7 +398,7 @@ Certificat de cessibilité ;
 
 4713 - Paiement au cédant (ou au titulaire du marché ou au sous-traitant à l'initiative du nantissement)
 
-Mainlevée de la cession (ou du nantissement) donnée par l'établissement de crédit par lettre recommandée avec demande d'avis de réception, ou par tout autre moyen permettant de donner date certaine,
+Mainlevée de la cession (ou du nantissement) donnée par l'établissement de crédit ou par la société de financement par lettre recommandée avec demande d'avis de réception, ou par tout autre moyen permettant de donner date certaine,
 
 ou
 
