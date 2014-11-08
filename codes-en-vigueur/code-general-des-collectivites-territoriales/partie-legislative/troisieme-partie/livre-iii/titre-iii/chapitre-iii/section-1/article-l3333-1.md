@@ -2,6 +2,8 @@
 
 Le conseil général peut instituer une taxe additionnelle de 10 % à la taxe de séjour ou à la taxe de séjour forfaitaire perçue dans le département par les communes visées à l'article L. 2333-26 ainsi que par les établissements publics de coopération intercommunale visés aux deux premiers alinéas de l'article L. 5211-21.
 
-Cette taxe additionnelle est établie et recouvrée selon les mêmes modalités que la taxe à laquelle elle s'ajoute. Son produit est reversé par la commune au département à la fin de la période de perception.
+La métropole de Lyon peut instituer une taxe additionnelle de 10 % à la taxe de séjour ou à la taxe de séjour forfaitaire perçue dans le périmètre défini à l'article L. 3611-1.
 
-Le produit de cette taxe est affecté aux dépenses destinées à promouvoir le développement touristique du département.
+Cette taxe additionnelle est établie et recouvrée selon les mêmes modalités que la taxe à laquelle elle s'ajoute. Lorsque son produit est perçu par une commune ou par un établissement public de coopération intercommunale à fiscalité propre, les montants correspondants sont reversés à la fin de la période de perception au bénéficiaire final de la taxe additionnelle.
+
+Le produit de cette taxe est affecté aux dépenses destinées à promouvoir le développement touristique du département ou de la métropole de Lyon.

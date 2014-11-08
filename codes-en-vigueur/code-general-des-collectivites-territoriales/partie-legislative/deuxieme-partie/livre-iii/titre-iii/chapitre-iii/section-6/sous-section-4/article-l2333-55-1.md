@@ -1,6 +1,6 @@
 # Article L2333-55-1
 
-Les prélèvements opérés par l'Etat, les communes, les établissements publics de coopération intercommunale et les organismes sociaux sur les jeux exploités par les casinos sont effectués sur le produit brut des jeux.
+Les prélèvements opérés par l'Etat, les communes, les établissements publics de coopération intercommunale, la métropole de Lyon et les organismes sociaux sur les jeux exploités par les casinos sont effectués sur le produit brut des jeux.
 
 Le produit brut des jeux est constitué :
 
@@ -10,7 +10,7 @@ Le produit brut des jeux est constitué :
 
 3° Pour les jeux de cercle exploités sous forme électronique ou non, par le montant intégral de la cagnotte, correspondant aux retenues opérées à tous les jeux de cercle par le casino. Pour chaque jeu de cercle, la retenue opérée par le casino est fixée par voie réglementaire. Elle ne peut excéder 5 % d'une assiette constituée, selon le type de jeu, par les mises des joueurs, leurs gains, ou les sommes engagées par eux pour participer au jeu ;
 
-4° Pour les jeux pratiqués avec des appareils définis à l'article L. 324-2 du code de la sécurité intérieure, qui procurent un gain en numéraire, dits "machines à sous ”  , par le produit d'un coefficient de 85 % appliqué au montant de la comptée afférente à l'appareil, diminué des avances faites, des tickets émis par la machine, des gains payés par la caisse spéciale et du montant des gains non réclamés ;
+4° Pour les jeux pratiqués avec des appareils définis à l'article L. 324-2 du code de la sécurité intérieure, qui procurent un gain en numéraire, dits " machines à sous ”, par le produit d'un coefficient de 85 % appliqué au montant de la comptée afférente à l'appareil, diminué des avances faites, des tickets émis par la machine, des gains payés par la caisse spéciale et du montant des gains non réclamés ;
 
 5° Pour les appareils connectés entre eux, dans le cadre d'un jackpot progressif mis en place entre plusieurs établissements, le produit brut des jeux est constitué par le produit d'un coefficient de 85 % appliqué au montant de la comptée visée au 4° également diminuée :
 

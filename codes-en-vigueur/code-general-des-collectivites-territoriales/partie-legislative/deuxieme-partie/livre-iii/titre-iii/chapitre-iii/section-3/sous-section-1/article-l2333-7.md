@@ -22,4 +22,4 @@ Sont exonérés :
 
 -les supports ou parties de supports dédiés aux horaires ou aux moyens de paiement de l'activité, ou à ses tarifs, dès lors, dans ce dernier cas, que la superficie cumulée des supports ou parties de supports concernés est inférieure ou égale à un mètre carré.
 
--sauf délibération contraire de l'organe délibérant de la commune ou de l'établissement public de coopération intercommunale, les enseignes apposées sur un immeuble ou installées sur un terrain, dépendances comprises, et relatives à une activité qui s'y exerce, si la somme de leurs superficies est inférieure ou égale à 7 mètres carrés.
+-sauf délibération contraire de l'organe délibérant de la commune, de l'établissement public de coopération intercommunale à fiscalité propre ou de la métropole de Lyon, les enseignes apposées sur un immeuble ou installées sur un terrain, dépendances comprises, et relatives à une activité qui s'y exerce, si la somme de leurs superficies est inférieure ou égale à 7 mètres carrés.

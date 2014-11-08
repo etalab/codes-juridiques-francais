@@ -8,7 +8,7 @@ Le budget de l'office comprend en recettes le produit notamment :
 
 3° De dons et legs ;
 
-4° De la taxe de séjour ou de la taxe de séjour forfaitaire définies à l'article L. 2333-26 du code général des collectivités territoriales, si elle est perçue dans la commune, les communes ou fractions de communes intéressées ;
+4° De la taxe de séjour ou de la taxe de séjour forfaitaire définies à l'article L. 2333-26 du code général des collectivités territoriales, si elle est perçue dans la commune, les communes ou fractions de communes intéressées ou reversée à la commune par la métropole de Lyon ;
 
 5° De la partie du produit de la taxe sur les entreprises exploitant des engins de remontée mécanique qui n'a pas été affectée aux dépenses mentionnées aux 1°, 4° et 5° de l'article 2333-53 du code général des collectivités territoriales ;
 

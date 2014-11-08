@@ -19,3 +19,5 @@ Sont exonérés de la part communale ou intercommunale de la taxe :
 8° La reconstruction à l'identique d'un bâtiment détruit ou démoli depuis moins de dix ans dans les conditions prévues au premier alinéa de l'article L. 111-3, sous réserve des dispositions du 4° de l'article L. 331-30, ainsi que la reconstruction sur d'autres terrains de la même commune ou des communes limitrophes des bâtiments de même nature que les locaux sinistrés dont le terrain d'implantation a été reconnu comme extrêmement dangereux et classé inconstructible, pourvu que le contribuable justifie que les indemnités versées en réparation des dommages occasionnés à l'immeuble ne comprennent pas le montant de la taxe d'aménagement normalement exigible sur les reconstructions ;
 
 9° Les constructions dont la surface est inférieure ou égale à 5 mètres carrés.
+
+Ces exonérations s'appliquent à la part de taxe d'aménagement perçue par la métropole de Lyon en vertu du 3° de l'article L. 331-2.

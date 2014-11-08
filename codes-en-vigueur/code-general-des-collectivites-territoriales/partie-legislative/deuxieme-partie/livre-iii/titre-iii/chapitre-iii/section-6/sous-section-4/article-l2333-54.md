@@ -10,4 +10,4 @@ Lorsque le taux du prélèvement communal ajouté au taux du prélèvement de l'
 
 Lorsque le taux du prélèvement communal ajouté au taux du prélèvement de l'Etat sur la somme des éléments constitutifs du produit brut des jeux mentionnés aux 4° et 5° de l'article L. 2333-55-1 dépasse 83,5 %, le taux du prélèvement de l'Etat est réduit de telle façon que le total des deux prélèvements soit de 83,5 %.
 
-Les communes peuvent, par convention, reverser tout ou partie du prélèvement au groupement de communes ou au syndicat mixte dont elles sont membres lorsqu'il réalise des actions de promotion en faveur du tourisme.
+Les communes peuvent, par convention, reverser tout ou partie du prélèvement au groupement de communes, à une métropole, à la métropole de Lyon ou au syndicat mixte dont elles sont membres lorsqu'il réalise des actions de promotion en faveur du tourisme.

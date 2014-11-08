@@ -16,6 +16,8 @@ f) Le potentiel fiscal, déterminé selon les modalités définies à l'article 
 
 Le versement du concours relatif à l'installation et au fonctionnement des maisons départementales s'effectue conformément à une convention entre la Caisse nationale de solidarité pour l'autonomie et le département concerné, visant à définir des objectifs de qualité de service pour la maison départementale des personnes handicapées et à dresser le bilan de réalisation des objectifs antérieurs.
 
+Le concours attribué pour l'installation et le fonctionnement de la maison des personnes handicapées compétente sur les territoires du département du Rhône et de la métropole de Lyon est calculé et versé dans des conditions tenant compte des modalités particulières d'exercice de la compétence prévue à l'article L. 146-3 par la métropole de Lyon et le département du Rhône.
+
 II. ― Le rapport entre, d'une part, les dépenses réalisées au titre de la prestation de compensation de chaque département après déduction du montant réparti conformément au I et, d'autre part, leur potentiel fiscal ne peut être supérieur à un taux fixé par voie réglementaire. Les dépenses correspondant à la fraction de ce rapport qui dépasse ce seuil sont prises en charge en totalité par la caisse.
 
 L'attribution résultant de l'opération définie au I pour les départements autres que ceux ayant bénéficié d'un complément de dotation au titre de l'alinéa précédent est diminuée de la somme des montants ainsi calculés, au prorata de la répartition effectuée en application dudit alinéa entre ces seuls départements.

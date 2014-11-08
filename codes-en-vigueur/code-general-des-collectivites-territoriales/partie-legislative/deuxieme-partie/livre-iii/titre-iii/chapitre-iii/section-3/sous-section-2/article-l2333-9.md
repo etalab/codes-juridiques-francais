@@ -10,7 +10,7 @@ B.-Sous réserve des dispositions des articles L. 2333-12 et L. 2333-16, ces tar
 
 20 € dans les communes ou les établissements publics de coopération intercommunale dont la population est supérieure ou égale à 50 000 habitants et inférieure à 200 000 habitants ;
 
-30 € dans les communes ou les établissements publics de coopération intercommunale dont la population est supérieure ou égale à 200 000 habitants ;
+30 € dans les communes, les établissements publics de coopération intercommunale à fiscalité propre dont la population est supérieure ou égale à 200 000 habitants ainsi que la métropole de Lyon ;
 
 2° Pour les dispositifs publicitaires et les préenseignes dont l'affichage se fait au moyen d'un procédé numérique, de trois fois le tarif prévu au 1°, le cas échéant majoré ou minoré selon les articles L. 2333-10 et L. 2333-16.
 
@@ -20,4 +20,4 @@ Ces tarifs maximaux sont doublés pour les supports dont la superficie est supé
 
 C.-La taxation se fait par face.
 
-Lorsqu'un support dont l'affichage se fait au moyen d'un procédé non numérique est susceptible de montrer plusieurs affiches de façon successive, ces tarifs sont multipliés par le nombre d'affiches effectivement contenues dans le support. Toutefois, lorsqu'une commune ou un établissement public de coopération intercommunale n'adopte pas l'exonération ou la réfaction prévues à l'article L. 2333-8 pour les dispositifs apposés sur des éléments de kiosque à journaux, la taxation par face est maintenue, indépendamment du nombre d'affiches effectivement contenues dans ces dispositifs.
+Lorsqu'un support dont l'affichage se fait au moyen d'un procédé non numérique est susceptible de montrer plusieurs affiches de façon successive, ces tarifs sont multipliés par le nombre d'affiches effectivement contenues dans le support. Toutefois, lorsqu'une commune, un établissement public de coopération intercommunale à fiscalité propre ou la métropole de Lyon n'adopte pas l'exonération ou la réfaction prévues à l'article L. 2333-8 pour les dispositifs apposés sur des éléments de kiosque à journaux, la taxation par face est maintenue, indépendamment du nombre d'affiches effectivement contenues dans ces dispositifs.
