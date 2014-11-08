@@ -14,6 +14,10 @@ I. - Si un établissement de crédit, une entreprise d'investissement ou une soc
 
 La sanction mentionnée au 3° ne peut, dans sa durée, excéder dix ans.
 
+Pour les établissements de crédit, la sanction prévue au 4° ne peut être prononcée que pour les activités ne relevant pas de l'agrément délivré par la Banque centrale européenne. Pour ces mêmes établissements, et pour les activités qui entrent dans le champ de l'agrément délivré par la Banque centrale européenne, les sanctions prévues au 4° et au 5° prennent la forme respectivement d'une interdiction partielle ou totale d'activité prononcée à titre conservatoire.
+
+Lorsque la commission des sanctions prononce l'interdiction totale d'activité d'un établissement de crédit, l'Autorité de contrôle prudentiel et de résolution propose à la Banque centrale européenne de prononcer le retrait de l'agrément. Dans le cas où la Banque centrale européenne ne prononce pas le retrait d'agrément, la commission des sanctions peut délibérer à nouveau et infliger une autre sanction parmi celles prévues au présent article.
+
 II. - Si une compagnie financière holding, une compagnie financière holding mixte ou une entreprise mère de société de financement a enfreint une disposition du règlement (UE) n° 575/2013 du Parlement européen et du Conseil du 26 juin 2013, une disposition du titre Ier et du titre III du livre V ou d'un règlement pris pour son application ou toute autre disposition législative ou réglementaire dont la méconnaissance entraîne celle des dispositions précitées ou si elle n'a pas déféré à une mise en demeure de se conformer à ces dispositions, la commission des sanctions peut prononcer à son encontre, en fonction de la gravité du manquement, un avertissement ou un blâme.
 
 III. - Si une compagnie holding mixte ou une entreprise mère mixte de société de financement n'a pas déféré à une injonction sous astreinte prononcée en application de l'article L. 612-25 ou ne s'est pas soumise à un contrôle sur place prévu à l'article L. 612-26, la commission des sanctions peut prononcer à son encontre une sanction pécuniaire au plus égale à un million d'euros.

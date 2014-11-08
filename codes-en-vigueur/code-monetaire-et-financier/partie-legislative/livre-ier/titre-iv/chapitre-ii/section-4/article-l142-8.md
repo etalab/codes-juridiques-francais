@@ -8,7 +8,7 @@ Il prépare et met en oeuvre les décisions du conseil général.
 
 Il représente la Banque vis-à-vis des tiers ; il signe seul, au nom de la Banque, toute convention.
 
-Il nomme à tous les emplois de la Banque, sous réserve des dispositions de l'article L. 142-3. Il adopte les mesures nécessaires pour  transposer et mettre en œuvre les orientations, décisions et tout autre acte juridique de la Banque centrale européenne.
+Il nomme à tous les emplois de la Banque, sous réserve des dispositions de l'article L. 142-3. Il adopte les mesures nécessaires pour transposer et mettre en œuvre les orientations, décisions et tout autre acte juridique de la Banque centrale européenne pris dans le cadre des missions du Système européen de banques centrales.
 
 Le gouverneur est assisté d'un premier et d'un second sous-gouverneurs. Les sous-gouverneurs exercent les fonctions qui leur sont déléguées par le gouverneur. En cas d'absence ou d'empêchement du gouverneur, le conseil général est présidé par l'un des sous-gouverneurs, désigné spécialement à cet effet par le gouverneur.
 
