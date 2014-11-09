@@ -7,3 +7,5 @@ Jusqu'au jour du prononcé de l'ordonnance par le premier président, la demande
 Le sursis à exécution n'est accordé que s'il existe des moyens sérieux d'annulation ou de réformation de la décision déférée à la cour.
 
 L'auteur d'une demande de sursis à exécution manifestement abusive peut être condamné par le premier président à une amende civile d'un montant maximum de 3 000 €, sans préjudice des dommages-intérêts qui pourraient être réclamés.
+
+La décision du premier président n'est pas susceptible de pourvoi.
