@@ -4,4 +4,4 @@
 - [Chapitre II : Prolongation de la rétention par le juge des libertés et de la détention](chapitre-ii)
 - [Chapitre III : Conditions de la rétention.](chapitre-iii)
 - [Chapitre IV : Fin de la rétention.](chapitre-iv-fin)
-- [Chapitre V : Dispositions particulières aux étrangers faisant l'objet d'une mesure d'interdiction du territoire français.](chapitre-v)
+- [Chapitre V : Dispositions particulières aux étrangers faisant l'objet d'une peine d'interdiction du territoire français.](chapitre-v)

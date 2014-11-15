@@ -10,7 +10,9 @@ Lorsque l'étranger justifie être dans l'impossibilité de quitter le territoir
 
 4° Si l'étranger doit être reconduit à la frontière en exécution d'une interdiction de retour ;
 
-5° Si l'étranger doit être reconduit à la frontière en exécution d'une interdiction du territoire prévue au deuxième alinéa de l'article 131-30 du code pénal.
+5° Si l'étranger doit être reconduit à la frontière en exécution d'une interdiction du territoire prévue au deuxième alinéa de l'article 131-30 du code pénal ;
+
+6° Si l'étranger doit être reconduit à la frontière en exécution d'une interdiction administrative du territoire.
 
 La décision d'assignation à résidence est motivée. Elle peut être prise pour une durée maximale de six mois, et renouvelée une fois ou plus dans la même limite de durée, par une décision également motivée. Par exception, cette durée ne s'applique ni aux cas mentionnés au 5° du présent article ni à ceux mentionnés aux articles L. 523-3 à L. 523-5 du présent code.
 

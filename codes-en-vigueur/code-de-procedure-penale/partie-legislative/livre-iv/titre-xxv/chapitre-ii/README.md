@@ -2,6 +2,7 @@
 
 - [Section 1 : De la surveillance](section-1)
 - [Section 2 : De l'infiltration](section-2)
+- [Section 2 bis : De l'enquête sous pseudonyme](section-2-bis)
 - [Section 3 : De la garde à vue](section-3)
 - [Section 4 : Des perquisitions](section-4)
 - [Section 5 : Des interceptions de correspondances émises par la voie des télécommunications](section-5)

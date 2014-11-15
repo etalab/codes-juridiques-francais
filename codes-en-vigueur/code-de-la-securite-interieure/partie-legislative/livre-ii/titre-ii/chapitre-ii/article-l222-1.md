@@ -19,5 +19,3 @@ I. - Pour les besoins de la prévention et de la répression des atteintes aux i
 II. - Pour les seuls besoins de la prévention des atteintes et des actes mentionnés au premier alinéa du I, les agents individuellement désignés et dûment habilités des services spécialisés de renseignement mentionnés au I de l'article 6 nonies de l'ordonnance n° 58-1100 du 17 novembre 1958 relative au fonctionnement des assemblées parlementaires sont également autorisés, dans les conditions fixées par la loi n° 78-17 du 6 janvier 1978 précitée, à accéder aux traitements automatisés mentionnés ci-dessus.
 
 Un décret en Conseil d'Etat détermine les services spécialisés de renseignement mentionnés au premier alinéa du présent II et les modalités de leur accès aux traitements automatisés mentionnés au présent article.
-
-Les dispositions du présent article sont applicables jusqu'au 31 décembre 2015.

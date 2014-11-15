@@ -18,6 +18,10 @@ Pour l'application des dispositions énumérées à l'article L. 285-1 :
 
 a) Les mots : " des services ou organismes placés sous l'autorité ou la tutelle du ministre chargé des communications électroniques ou des exploitants de réseaux ou fournisseurs de services de télécommunications " sont remplacés par les mots : " des organismes chargés de l'exploitation d'un service public de télécommunications " ;
 
-b) Les mots : " par des agents qualifiés de ces services, organismes, exploitants ou fournisseurs dans leurs installations respectives "  sont remplacés par  les mots : " par des agents qualifiés de ces organismes "  ;
+b) Les mots : " par des agents qualifiés de ces services, organismes, exploitants ou fournisseurs dans leurs installations respectives " sont remplacés par les mots : " par des agents qualifiés de ces organismes " ;
 
-8°  A l'article L. 254-1, les mots : " des articles 226-1 du code pénal et L. 1121-1, L. 1221-9, L. 1222-4 et L. 2323-32 du  code du travail " sont remplacés par  les mots : " de l'article 226-1 du code pénal et des dispositions du code du travail applicables localement ".
+8° A l'article L. 254-1, les mots : " des articles 226-1 du code pénal et L. 1121-1, L. 1221-9, L. 1222-4 et L. 2323-32 du code du travail " sont remplacés par les mots : " de l'article 226-1 du code pénal et des dispositions du code du travail applicables localement " ;
+
+9° Le deuxième alinéa de l'article L. 271-1 est ainsi rédigé :
+
+" Un arrêté du haut-commissaire de la République en Polynésie française précise les zones dans lesquelles cette obligation s'applique ainsi que les caractéristiques des immeubles ou locaux qui y sont assujettis. "

@@ -4,7 +4,7 @@ L'agence fournit aux juridictions pénales qui la sollicitent les orientations a
 
 Elle peut mener toute action d'information ou de formation destinée à faire connaître son action et à promouvoir de bonnes pratiques en matière de saisie et de confiscation.
 
-L'agence veille à l'abondement du fonds de concours recevant les recettes provenant de la confiscation des biens mobiliers ou immobiliers des personnes reconnues coupables d'infraction en matière de trafic de stupéfiants.
+L'agence veille à l'abondement du fonds de concours recevant les recettes provenant de la confiscation des biens mobiliers ou immobiliers des personnes reconnues coupables d'infraction en matière de trafic de stupéfiants. L'agence peut également verser à l'Etat des contributions destinées au financement de la lutte contre la délinquance et la criminalité.
 
 Elle peut informer les services compétents et les victimes, à leur demande ou à son initiative, sur les biens qui sont restitués sur décision de justice, afin d'assurer le paiement de leurs créances, notamment fiscales, douanières, sociales ou de dédommagement.
 
