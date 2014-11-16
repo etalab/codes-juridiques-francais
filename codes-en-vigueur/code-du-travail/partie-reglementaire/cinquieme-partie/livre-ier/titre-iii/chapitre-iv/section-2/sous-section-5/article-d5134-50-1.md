@@ -1,3 +1,5 @@
 # Article D5134-50-1
 
-La convention individuelle de contrat d'accompagnement dans l'emploi mentionnée à l'article L. 5134-21 peut prévoir, dans sa rédaction initiale ou par avenant ad hoc, la possibilité pour le salarié de réaliser des périodes d'immersion auprès d'un ou de plusieurs autres employeurs.
+Une ou plusieurs périodes de mise en situation en milieu professionnel peuvent être prescrites à un salarié en contrat d'accompagnement dans l'emploi, avec son accord et celui de son employeur.
+
+Chacune de ces périodes fait l'objet d'une convention selon les modalités prévues au chapitre V du présent titre, sous réserve des dispositions prévues par la présente sous-section.
