@@ -1,4 +1,4 @@
-# Sous-paragraphe 2 : Ski nordique de fond et activités assimilées.
+# Sous-paragraphe 2 : Ski nordique de fond et activités dérivées.
 
 - [Article A212-192-1](article-a212-192-1.md)
 - [Article A212-192-2](article-a212-192-2.md)
