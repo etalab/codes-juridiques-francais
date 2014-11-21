@@ -4,3 +4,4 @@
 - [Section 2 : Les programmes.](section-2)
 - [Section 3 : Livret personnel de compétences](section-3)
 - [Section 4 : Les cycles d'enseignement à l'école primaire et au collège](section-4)
+- [Section 5 : L'accompagnement pédagogique des élèves](section-5)
