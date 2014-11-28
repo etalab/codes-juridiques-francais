@@ -1,8 +1,9 @@
 # Titre IV : Département de Mayotte
 
-- [Chapitre Ier : Accès aux origines personnelles](chapitre-ier)
-- [Chapitre II : Aide sociale](chapitre-ii)
-- [Chapitre IV : Pupilles de l'Etat et procédures administratives en vue de l'adoption](chapitre-iv)
-- [Chapitre V : Personnes handicapées](chapitre-v)
+- [Chapitre Ier : Adaptations du livre Ier](chapitre-ier)
+- [Chapitre II : Adaptations du livre II](chapitre-ii)
+- [Chapitre III : Adaptations du livre III](chapitre-iii)
+- [Chapitre IV : Adaptations du livre IV](chapitre-iv)
+- [Chapitre V : Dispositions communes et particulières](chapitre-v)
 - [Chapitre VIII : Dispositions communes](chapitre-viii)
 - [Chapitre IX : Revenu de solidarité active](chapitre-ix)

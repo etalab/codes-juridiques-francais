@@ -1,5 +1,3 @@
-# Section 3 : Commission des personnes handicapées
+# Section 3 : Dispositions diverses
 
-- [Article R545-5](article-r545-5.md)
-- [Article R545-6](article-r545-6.md)
-- [Article R545-7](article-r545-7.md)
+- [Article R545-3](article-r545-3.md)

@@ -1,5 +1,5 @@
-# Chapitre V : Personnes handicapées
+# Chapitre V : Dispositions communes et particulières
 
-- [Section 1 : Maison des personnes handicapées](section-1)
-- [Section 2 : Cartes](section-2)
-- [Section 3 : Commission des personnes handicapées](section-3)
+- [Section 1 : Dispositions communes](section-1)
+- [Section 2 : Dispositions particulières](section-2)
+- [Section 3 : Dispositions diverses](section-3)
