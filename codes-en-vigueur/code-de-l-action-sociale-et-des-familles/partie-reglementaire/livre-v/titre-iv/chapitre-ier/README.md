@@ -4,4 +4,3 @@
 - [Section 2 : Compétences](section-2)
 - [Section 3 : Procédures](section-3)
 - [Section 4 : Institutions](section-4)
-- [Article R541-1](article-r541-1.md)

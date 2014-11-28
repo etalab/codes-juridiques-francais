@@ -5,5 +5,3 @@
 - [Chapitre III : Adaptations du livre III](chapitre-iii)
 - [Chapitre IV : Adaptations du livre IV](chapitre-iv)
 - [Chapitre V : Dispositions communes et particulières](chapitre-v)
-- [Chapitre VIII : Dispositions communes](chapitre-viii)
-- [Chapitre IX : Revenu de solidarité active](chapitre-ix)

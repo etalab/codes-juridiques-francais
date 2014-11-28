@@ -7,4 +7,3 @@
 - [Section 5 : Personnes non bénéficiaires de la couverture maladie universelle](section-5)
 - [Section 6 : Lutte contre la pauvreté et les exclusions](section-6)
 - [Section 7 : Accompagnement de la personne en matière sociale et budgétaire](section-7)
-- [Article R542-1](article-r542-1.md)

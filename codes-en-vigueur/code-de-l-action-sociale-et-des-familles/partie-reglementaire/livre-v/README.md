@@ -1,6 +1,6 @@
 # Livre V : Dispositions particulières applicables à certaines parties du territoire
 
-- [Titre II : Départements d'outre-mer](titre-ii)
+- [Titre II : Guadeloupe, Guyane, Martinique et La Réunion](titre-ii)
 - [Titre III : Saint-Pierre-et-Miquelon](titre-iii)
 - [Titre IV : Département de Mayotte](titre-iv)
 - [Titre V : Territoire des Iles Wallis et Futuna](titre-v)
