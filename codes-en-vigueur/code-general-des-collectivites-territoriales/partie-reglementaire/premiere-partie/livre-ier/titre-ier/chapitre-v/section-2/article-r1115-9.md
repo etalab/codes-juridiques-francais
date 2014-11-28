@@ -1,12 +1,10 @@
 # Article R1115-9
 
-Les membres ayant voix délibérative sont répartis par moitié entre représentants des élus territoriaux et des associations spécialisées dans la coopération décentralisée et représentants de l'Etat.
+I. - Les représentants des collectivités territoriales sont nommés pour une durée de trois ans renouvelable par arrêté du Premier ministre. Ils ne peuvent siéger au-delà de la durée de leur mandat électif. Ils comprennent :
 
-1° Les représentants des élus territoriaux sont nommés pour une durée de trois ans renouvelable par arrêté du Premier ministre sur proposition des associations représentatives. Ils ne peuvent siéger au-delà de la durée de leur mandat électif. Ils comprennent :
+a) Trois représentants des régions et de la collectivité territoriale de Corse proposés par l'Association des régions de France ;
 
-a) Trois représentants des conseils régionaux et de l'assemblée de Corse proposés par l'Association des régions de France ;
-
-b) Trois représentants des conseils généraux proposés par l'Assemblée des départements de France ;
+b) Trois représentants des départements proposés par l'Assemblée des départements de France ;
 
 c) Trois représentants des communes proposés par l'Association des maires de France ;
 
@@ -16,30 +14,32 @@ e) Un représentant des conseils régionaux d'outre-mer proposé par l'Associati
 
 f) Un représentant des conseils généraux d'outre-mer proposé par l'Assemblée des départements de France.
 
-2° Les associations spécialisées sont représentées par le président de Cités unies France ou son représentant et par le président de l'Association française du conseil des communes et régions d'Europe ou son représentant.
+II. - Les associations spécialisées sont représentées par le président de Cités unies France ou son représentant et par le président de l'Association française du conseil des communes et régions d'Europe ou son représentant.
 
-3° Les représentants de l'Etat sont :
+III. - Les représentants de l'Etat comprennent :
 
 a) Deux représentants du ministre des affaires étrangères ;
 
-b) Deux représentants du ministre de l'intérieur ;
+b) Un représentant du ministre de l'intérieur ;
 
-c) Un représentant du ministre chargé de la coopération ;
+c) Un représentant du ministre chargé de la décentralisation ;
 
-d) Un représentant du ministre chargé de l'aménagement du territoire ;
+d) Un représentant du ministre chargé du développement ;
 
-e) Un représentant du ministre chargé de l'éducation ;
+e) Un représentant du ministre chargé de l'économie ;
 
-f) Un représentant du ministre chargé du commerce extérieur ;
+f) Un représentant du ministre chargé de l'éducation ;
 
-g) Un représentant du ministre chargé de la culture ;
+g) Un représentant du ministre chargé du commerce extérieur ;
 
-h) Un représentant du ministre chargé de l'outre-mer ;
+h) Un représentant du ministre chargé de la culture ;
 
-i) Un représentant du ministre chargé de la recherche ;
+i) Un représentant du ministre chargé de l'outre-mer ;
 
-j) Un représentant du ministre chargé de l'agriculture ;
+j) Un représentant du ministre chargé de la recherche ;
 
-k) Un représentant du ministre chargé du développement durable ;
+k) Un représentant du ministre chargé de l'agriculture ;
 
-l) Un représentant du ministre chargé de l'immigration.
+l) Un représentant du ministre chargé de l'écologie ;
+
+m) Un représentant du ministre chargé de l'égalité des territoires.
