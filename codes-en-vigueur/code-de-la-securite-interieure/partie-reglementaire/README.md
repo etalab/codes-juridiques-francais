@@ -4,4 +4,5 @@
 - [LIVRE II : ORDRE ET SÉCURITÉ PUBLICS](livre-ii)
 - [LIVRE IV : POLICE NATIONALE  ET GENDARMERIE NATIONALE](livre-iv)
 - [LIVRE V : POLICES MUNICIPALES](livre-v)
+- [LIVRE VII : SÉCURITÉ CIVILE](livre-vii)
 - [Annexes](annexes)

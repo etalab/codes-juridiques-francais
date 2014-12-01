@@ -19,7 +19,9 @@
 </tr>
 <tr>
 <td align="center">
-<br/>R. * 121-1 <br/>
+<br/>
+R. * 121-1
+<br/>
 </td>
 <td align="center">
 <br/>Résultant du décret n° 2013-1112 relatif à la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et en conseil des ministres) <br/>
@@ -33,7 +35,9 @@
 </tr>
 <tr>
 <td align="center">
-<br/>R. * 122-1 à R. * 122-3 <br/>
+<br/>
+R. * 122-1 à R. * 122-3
+<br/>
 </td>
 <td align="center">
 <br/>Résultant du décret n° 2013-1112 relatif à la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et en conseil des ministres) <br/>
@@ -41,15 +45,18 @@
 </tr>
 <tr>
 <td align="center">
-<br/>R. * 122-4, sauf son 11°, R. * 122-5 à R. * 122-7, sauf son 7° <br/>
+R. * 122-4, sauf son 11°, R. * 122-5 à R. * 122-7, sauf son 7° <br/>
+<br/>
 </td>
 <td align="center">
-<br/>Résultant du décret n° 2013-1112 relatif à la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et en conseil des ministres) <br/>
+<br/>Résultant du décret n° 2014-1252 du 27 octobre 2014 relatif à la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et en conseil des ministres) <br/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>R. * 122-8 à R. * 122-12 <br/>
+<br/>
+R. * 122-8 à R. * 122-12
+<br/>
 </td>
 <td align="center">
 <br/>Résultant du décret n° 2013-1112 relatif à la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et en conseil des ministres)</td>

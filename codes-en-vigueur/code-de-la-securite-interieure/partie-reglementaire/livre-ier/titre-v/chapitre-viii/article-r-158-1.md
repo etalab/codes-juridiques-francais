@@ -34,10 +34,13 @@ R. * 121-1
 </tr>
 <tr>
 <td align="center">
-<br/>R. * 122-1 à R. * 122-12 <br/>
+R. * 122-1 à R. * 122-12
+<br/>
+<br/>
 </td>
-<td align="center">
-<br/>Résultant du décret n° 2013-1112 relatif à la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et en conseil des ministres)</td>
+<td align="center">Résultant du décret n° 2014-1252 du 27 octobre 2014 relatif à la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et en conseil des ministres)<br/>
+<br/>
+</td>
 </tr>
 </tbody>
 </table>
