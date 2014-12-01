@@ -1,8 +1,9 @@
 # Article R312-177
 
-La section sociale du Comité national de l'organisation sanitaire et sociale mentionnée à l'article R. 712-6 du code de la santé publique est consultée :
+La section sociale du Comité national de l'organisation sanitaire et sociale mentionnée à l'article R. 6122-1 du code de la santé publique est consultée :
 
-1° Dans les cas prévus aux articles L. 312-1, L. 312-3-I, L. 312-5 ;
+1° Dans les cas prévus aux articles L. 311-4, L. 312-1, L. 312-3,
+L. 312-5 ;
 
 2° (Abrogé)
 

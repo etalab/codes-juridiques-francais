@@ -1,3 +1,3 @@
 # Article R312-179
 
-Les modalités de désignation des membres de la section sociale du Comité national de l'organisation sanitaire et sociale ainsi que les modalités de fonctionnement de cette section sont fixées par les dispositions des sous-sections 2 et 4 de la section 1 du chapitre II du titre Ier du livre VII du code de la santé publique.
+Les modalités de détermination des organismes représentés au sein de la section sociale du Comité national de l'organisation sanitaire et sociale et les modalités de fonctionnement de cette section sont fixées par la section 1 du chapitre II du titre II du livre Ier de la sixième partie du code de la santé publique .
