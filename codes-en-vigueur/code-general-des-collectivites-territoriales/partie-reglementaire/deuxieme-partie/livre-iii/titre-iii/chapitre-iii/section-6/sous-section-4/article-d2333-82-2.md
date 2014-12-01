@@ -8,4 +8,4 @@ Bien qu'elles ne soient pas immédiatement exigibles, les sommes représentant l
 
 -dès la prise en compte de la retenue pour les jeux de cercle et leur forme électronique ;
 
--dès leur inscription sur les carnets de prélèvements pour les jeux de contrepartie et leur forme électronique et les appareils mentionnés à l'article 1er (d) du décret n° 59-1489 du 22 décembre 1959 modifié.
+-dès leur inscription sur les carnets de prélèvements pour les jeux de contrepartie et leur forme électronique et les appareils mentionnés à l'article D. 321-13 du code de la sécurité intérieure.

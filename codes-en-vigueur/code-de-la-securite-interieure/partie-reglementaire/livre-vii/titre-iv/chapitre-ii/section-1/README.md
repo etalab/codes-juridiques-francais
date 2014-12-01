@@ -1,4 +1,17 @@
 # Section 1 : Secours, recherche et sauvetage des personnes en détresse en mer
 
 - [Article R*742-1](article-r-742-1.md)
+- [Article R742-2](article-r742-2.md)
+- [Article R742-3](article-r742-3.md)
 - [Article R*742-4](article-r-742-4.md)
+- [Article R742-5](article-r742-5.md)
+- [Article R742-6](article-r742-6.md)
+- [Article R742-7](article-r742-7.md)
+- [Article R742-8](article-r742-8.md)
+- [Article R742-9](article-r742-9.md)
+- [Article R742-10](article-r742-10.md)
+- [Article R742-11](article-r742-11.md)
+- [Article R742-12](article-r742-12.md)
+- [Article R742-13](article-r742-13.md)
+- [Article R742-14](article-r742-14.md)
+- [Article R742-15](article-r742-15.md)

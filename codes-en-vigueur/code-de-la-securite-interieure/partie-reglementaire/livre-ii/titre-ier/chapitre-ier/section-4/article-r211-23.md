@@ -4,7 +4,7 @@ Outre le nom, l'adresse et la qualité des organisateurs, la déclaration mentio
 
 La déclaration indique également les mesures envisagées par les organisateurs en vue d'assurer la sécurité du public et des participants. La déclaration comporte notamment toutes précisions utiles sur le service d'ordre éventuellement mis en place par les organisateurs, les mesures qu'ils ont arrêtées en application de la réglementation relative à la protection contre les risques d'incendie et de panique dans les établissements recevant du public et, lorsqu'il s'agit d'une manifestation sportive, les dispositions qu'ils ont prises, s'il y a lieu, au titre de la réglementation édictée par la fédération sportive concernée.
 
-Lorsque les organisateurs confient aux membres du service d'ordre les missions mentionnées à l'article 1er du décret n° 2005-307 du 24 mars 2005, ils doivent :
+Lorsque les organisateurs confient aux membres du service d'ordre les missions mentionnées à l'article R. 613-10, ils doivent :
 
 1° Doter ces membres du service d'ordre d'un signe distinctif permettant d'identifier leur qualité ;
 

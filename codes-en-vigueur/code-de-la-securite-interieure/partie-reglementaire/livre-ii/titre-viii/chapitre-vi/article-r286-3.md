@@ -14,7 +14,7 @@ Pour l'application des dispositions énumérées aux articles R. 286-1 et D. 286
 
 6° La référence à la commission départementale de vidéoprotection est remplacée par la référence à la commission locale de vidéoprotection ;
 
-7° La référence au décret n° 2013-700 du 30 juillet 2013 et à son article 2 est remplacée par la référence au décret n° 2009-451 du 21 avril 2009 et à son article 2 ;
+7° La référence à l'article R. 311-2 est remplacée par la référence au décret n° 2009-451 du 21 avril 2009 et à son article 2 ;
 
 8° A l'article R. 211-24, les mots : " notamment quand il s'agit des manifestations sportives mentionnées à l'article D. 331-1 du code du sport, " sont supprimés ;
 

@@ -31,8 +31,7 @@ Sont applicables dans les Terres australes et antarctiques françaises les dispo
 <td align="center">R. 211-11 à R. 211-16, R. 211-18 et R. 211-21 <br/>
 </td>
 <td align="center">
-<p align="left">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) <br/>
-</p>
+<p align="left">Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples)</p>
 </td>
 </tr>
 <tr>
@@ -104,11 +103,7 @@ Sont applicables dans les Terres australes et antarctiques françaises les dispo
 <p align="center">Au titre IV <br/>
 </p>
 </td>
-<td align="center">
-<p align="left">
-<br/>
-</p>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">R. 242-1 à R. 242-3 <br/>
