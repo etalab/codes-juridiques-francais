@@ -4,4 +4,6 @@ Les périodes de formation en milieu professionnel sont prévues dans le cadre d
 
 Leurs objectifs et modalités d'organisation sont fixés par les textes définissant chacune des formations suivies.
 
-Au cours des périodes de formation en milieu professionnel, les élèves peuvent être autorisés, dans les conditions prévues à l'article R. 234-22 du code du travail, à utiliser les machines ou appareils ou produits dont l'usage est proscrit aux mineurs par les articles R. 234-11 à R. 234-21 du code du travail.
+Les périodes de formation en milieu professionnel relèvent des dispositions prévues aux articles D. 124-1 à D. 124-9.
+
+Au cours des périodes de formation en milieu professionnel, les élèves peuvent être autorisés, dans les conditions prévues aux articles R. 4153-38 à R. 4153-48 du code du travail, à utiliser les machines ou appareils ou produits dont l'usage est proscrit aux mineurs par les articles D. 4153-15 à D. 4153-37 du code du travail.
