@@ -4,3 +4,4 @@
 - [Chapitre II : Missions et fonctionnement du Conseil national des activités privées de sécurité](chapitre-ii)
 - [Chapitre III : Commissions régionales ou interrégionales d'agrément et de contrôle](chapitre-iii)
 - [Chapitre IV : Contrôles](chapitre-iv)
+- [Chapitre V : Dispositions finales](chapitre-v)

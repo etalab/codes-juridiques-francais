@@ -4,5 +4,5 @@
 - [Chapitre II : Conditions d'exercice](chapitre-ii)
 - [Chapitre III : Modalités d'exercice](chapitre-iii)
 - [Chapitre IV : Services de sécurité des bailleurs d'immeuble](chapitre-iv)
-- [Chapitre VI : Activités de protection des navires](chapitre-vi)
+- [Chapitre VI : Activité privée de protection des navires](chapitre-vi)
 - [Chapitre VII : Dispositions pénales](chapitre-vii)
