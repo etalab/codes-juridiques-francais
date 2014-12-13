@@ -1,4 +1,4 @@
-# Article R112-25
+# Article R112-8
 
 Sont interdites la détention en vue de la vente ou de la distribution à titre gratuit, la mise en vente, la vente ou la distribution à titre gratuit des denrées alimentaires comportant une date limite de consommation dès lors que cette date est dépassée.
 

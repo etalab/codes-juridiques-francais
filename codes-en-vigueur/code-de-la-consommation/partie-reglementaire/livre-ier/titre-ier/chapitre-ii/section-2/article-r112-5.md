@@ -1,8 +1,8 @@
-# Article R112-29
+# Article R112-5
 
-Sont dispensées de l'indication du lot les denrées alimentaires suivantes :
+Sont dispensées de la mention permettant d'identifier le lot les denrées alimentaires suivantes :
 
-1° Les produits agricoles qui, au départ de l'exploitation, sont :
+1° Les produits agricoles qui, au départ, de l'exploitation sont :
 
 a) Soit vendus ou livrés à des stations d'entreposage, de conditionnement ou d'emballage ;
 
