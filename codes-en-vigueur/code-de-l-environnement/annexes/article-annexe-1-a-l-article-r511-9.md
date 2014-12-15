@@ -4968,7 +4968,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <p>1310 </p>
 </td>
 <td valign="top" width="433">
-<p>Produits explosifs (fabrication, chargement, encartouchage, conditionnement (1) de, études et recherches, essais, montage, assemblage, mise en liaison électrique ou pyrotechnique de et travail mécanique sur)</p>
+<p>Produits explosifs (fabrication, chargement, encartouchage, conditionnement [1] de, études et recherches, essais, montage, assemblage, mise en liaison électrique ou pyrotechnique de et travail mécanique sur) </p>
 </td>
 <td valign="top" width="31">
 <br/>
@@ -4986,7 +4986,8 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="433">
-<p>1. Fabrication industrielle par transformation chimique de la quantité totale de matière active susceptible d'être présente dans l'installation étant (2) : </p>
+<p>1. Fabrication industrielle par transformation chimique </p>
+<p>La quantité totale de matière active susceptible d'être présente dans l'installation étant (2) : </p>
 </td>
 <td valign="top" width="31">
 <br/>
@@ -5039,7 +5040,8 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="433">
-<p>2. Autres fabrications (3), chargement, encartouchage, conditionnement (1) de, études et recherches, essais, montage, assemblage, mise en liaison électrique ou pyrotechnique de et travail mécanique sur, à l'exclusion des opérations effectuées sur le lieu d'utilisation en vue de celle-ci.<br/>La quantité totale de matière active susceptible d'être présente dans l'installation étant (2) :</p>
+<p>2. Autres fabrications (3), chargement, encartouchage, conditionnement (1) de, études et recherches, essais, montage, assemblage, mise en liaison électrique ou pyrotechnique de et travail mécanique sur, à l'exclusion des opérations effectuées sur le lieu d'utilisation en vue de celle-ci. </p>
+<p>La quantité totale de matière active susceptible d'être présente dans l'installation étant (2) : </p>
 </td>
 <td valign="top" width="31">
 <br/>
@@ -5134,7 +5136,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <tr>
 <td>b) Inférieure à 100 kg</td>
 <td>
-<p align="center">DC</p>
+<p align="center">D</p>
 </td>
 <td>
 <br/>
@@ -5144,11 +5146,11 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td/>
 </tr>
 <tr>
-<td valign="top" width="433">
-<p>Nota :<br/>(1) Les opérations de manipulation, manutention, conditionnement, reconditionnement, mise au détail ou distribution réalisées dans les espaces de vente des établissements recevant du public sont exclues.</p>
-<p>(2) La quantité de matière active à retenir tient compte des produits intermédiaires, des en-cours et des déchets dont la présence dans l'installation s'avère connexe à l'activité de fabrication.</p>
-<p>(3) Les autres fabrications concernent les fabrications par procédé non chimique, c'est-à-dire par mélange physique de produits non explosifs ou non prévus pour être explosifs.</p>
-<p>(4) La quantité de matière active à prendre en compte est la quantité d'explosif fabriqué susceptible d'être concernée par la transmission d'une détonation prenant naissance en son sein.</p>
+<td valign="top" width="433">Nota : <p>(1) Les opérations de manipulation, manutention, conditionnement, reconditionnement, mise au détail ou distribution réalisées dans les espaces de vente des établissements recevant du public sont exclues. </p>
+<p>(2) La quantité de matière active à retenir tient compte des produits intermédiaires, des en-cours et des déchets dont la présence dans l'installation s'avère connexe à l'activité de fabrication. </p>
+<p>(3) Les autres fabrications concernent les fabrications par procédé non chimique, c'est-à-dire par mélange physique de produits non explosifs ou non prévus pour être explosifs. </p>
+<p>(4) La quantité de matière active à prendre en compte est la quantité d'explosif fabriqué susceptible d'être concernée par la transmission d'une détonation prenant naissance en son sein. <br/>
+</p>
 </td>
 <td valign="top" width="31">
 <br/>

@@ -2048,7 +2048,7 @@
 </td>
 </tr>
 <tr>
-<td rowspan="9" valign="top" width="21">
+<td rowspan="10" valign="top" width="21">
 <p>1432 </p>
 </td>
 <td valign="top" width="433">
@@ -2155,6 +2155,18 @@
 <td valign="top" width="33">
 <p align="center">6 </p>
 </td>
+</tr>
+<tr>
+<td> e) Supérieure ou égale à 25 000 t pour les fiouls lourds <br/>
+</td>
+<td>
+<p align="center">AS </p>
+</td>
+<td>
+<p align="center">4 </p>
+</td>
+<td/>
+<td/>
 </tr>
 <tr>
 <td valign="top" width="433">
