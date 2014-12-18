@@ -1,6 +1,6 @@
 # Article D636-70
 
-L'organisme chargé d'assurer la formation menant aux titres ou diplômes mentionnés à l'article D. 636-69, ou une personne morale mandatée par lui à cet effet, conclut une convention avec une ou plusieurs universités de l'académie et la région.
+L'organisme chargé d'assurer la formation menant aux titres ou diplômes mentionnés        à l'article D. 636-69 et à l'article D. 636-69-1, ou une personne morale mandatée par lui à cet effet, conclut une convention avec une ou plusieurs universités de l'académie et la région.
 
 Lorsqu'il n'y a qu'une université dans l'académie, la convention est signée avec cette université.
 

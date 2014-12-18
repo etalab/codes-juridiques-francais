@@ -22,9 +22,15 @@ Les grades ou titres universitaires des disciplines de santé sont conférés pa
 
 10° Diplôme de fin de deuxième cycle des études médicales ;
 
+10° bis Diplôme de formation approfondie en sciences médicales ;
+
 11° Diplôme de fin de deuxième cycle des études pharmaceutiques ;
 
+11° bis Diplôme de formation approfondie en sciences pharmaceutiques ;
+
 12° Diplôme de fin de deuxième cycle des études odontologiques ;
+
+12° bis Diplôme de formation approfondie en sciences odontologiques ;
 
 13° Diplôme d'Etat de docteur en médecine ;
 
