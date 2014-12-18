@@ -1,6 +1,6 @@
 # Article R2124-7
 
-Le projet fait l'objet, préalablement à son approbation, d'une enquête publique menée dans les formes prévues par les articles R. 123-1 à R. 123-23 du code de l'environnement.
+Le projet fait l'objet, préalablement à son approbation, d'une enquête publique menée dans les formes prévues par les articles R. 123-2 à R. 123-27 du code de l'environnement.
 
 Le dossier soumis à l'enquête comprend obligatoirement :
 
