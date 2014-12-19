@@ -1,4 +1,6 @@
-# Article R611-13
+# Article R811-1-1
+
+Les dispositions suivantes sont applicables dans les îles Wallis et Futuna.
 
 I.-1° Lorsque un ou plusieurs fonctionnaires ou agents publics exerçant leur activité pour le compte de plusieurs personnes publiques investies d'une mission de recherche sont à l'origine d'une même invention, celle de ces personnes qui a fourni les locaux dans lesquels les tâches comportant une mission inventive, les études ou les recherches ont été principalement réalisées dispose, de plein droit, d'un mandat pour exercer l'ensemble des droits et obligations, à l'exception du droit d'en céder la propriété, des personnes publiques pour lesquelles ces fonctionnaires ou agents publics effectuent ces tâches, ces études ou ces recherches.
 
