@@ -1,6 +1,6 @@
 # Article L534-1
 
-Une société d'intérêt collectif agricole ne peut apporter à ses statuts de modifications entraînant la perte de son statut de coopérative qu'après autorisation des ministres chargés de l'agriculture et de l'économie.
+Une société d'intérêt collectif agricole ne peut apporter à ses statuts de modifications entraînant la perte de son statut de coopérative qu'après autorisation du ministre chargé de l'agriculture.
 
 Les réserves qui, à la date de cette modification, ne sont pas distribuables aux sociétaires ou incorporables au capital en vertu des lois et règlements en vigueur conservent ce caractère pendant dix ans.
 

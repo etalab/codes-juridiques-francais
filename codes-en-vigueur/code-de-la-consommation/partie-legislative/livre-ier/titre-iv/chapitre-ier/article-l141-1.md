@@ -4,15 +4,15 @@ I.-Sont recherchés et constatés, dans les conditions fixées par les articles 
 
 1° Le chapitre préliminaire du titre II du livre Ier ;
 
-2° Les sections 1,2,3,8,9 et 12 du chapitre Ier du titre II du livre Ier ;
+2° Les sections 1 à 4 _bis_, 8, 9, 12 et 15 du chapitre Ier du titre II du livre Ier ;
 
-3° Les sections 3,4 et 5 du chapitre II du titre II du livre Ier ;
+3° Les sections 3 à 6 du chapitre II du titre II du livre Ier ;
 
 4° Le chapitre Ier du titre Ier du livre III ;
 
 5° Le chapitre II du titre Ier du livre III ;
 
-6° Les sections 1,3,6 et 7 du chapitre III du titre Ier du livre III ;
+6° Les sections 1, 3, 6 et 7 du chapitre III du titre Ier du livre III ;
 
 7° La section 7 du chapitre IV du titre Ier du livre III ;
 
@@ -20,9 +20,9 @@ I.-Sont recherchés et constatés, dans les conditions fixées par les articles 
 
 II.-Sont recherchés et constatés, dans les mêmes conditions qu'au I, à l'exception des pouvoirs d'enquête de l'article L. 450-4 du code de commerce, les infractions ou manquements aux dispositions suivantes du présent code :
 
-1° Les chapitre Ier, III et IV du titre Ier du livre Ier ;
+1° Les chapitres Ier, III et IV du titre Ier du livre Ier ;
 
-2° Les sections 5,6,11 et 14 du chapitre Ier du titre II du livre Ier ;
+2° Les sections 5, 6, 11 et 14 du chapitre Ier du titre II du livre Ier ;
 
 3° Les sections 1 et 2 du chapitre II du titre II du livre Ier ;
 
@@ -40,7 +40,7 @@ III.-Sont recherchés et constatés, dans les conditions fixées au I, les infra
 
 2° De l'article 4 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986 ;
 
-3° Des sections 1 et 2 du chapitre Ier du titre Ier du livre II du code du tourisme ;
+3° Des sections 1 à 6 du chapitre Ier du titre Ier du livre II du code du tourisme ;
 
 4° Du titre II de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique ;
 

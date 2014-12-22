@@ -1,10 +1,10 @@
 # Article 244 quater B
 
-I. Les entreprises industrielles et commerciales ou agricoles imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies A, 44 septies, 44 octies, 44 octies A,  44 duodecies, 44 terdecies à 44 quindecies peuvent bénéficier d'un crédit d'impôt au titre des dépenses de recherche qu'elles exposent au cours de l'année. Le taux du crédit d'impôt est de 30 % pour la fraction des dépenses de recherche inférieure ou égale à 100 millions d'euros et de 5 % pour la fraction des dépenses de recherche supérieure à ce montant. Pour les dépenses mentionnées au k du II, le taux du crédit d'impôt est de 20 %.
+I. - Les entreprises industrielles et commerciales ou agricoles imposées d'après leur bénéfice réel ou exonérées en application des articles 44 sexies, 44 sexies A, 44 septies, 44 octies, 44 octies A, 44 duodecies, 44 terdecies à 44 quindecies peuvent bénéficier d'un crédit d'impôt au titre des dépenses de recherche qu'elles exposent au cours de l'année. Le taux du crédit d'impôt est de 30 % pour la fraction des dépenses de recherche inférieure ou égale à 100 millions d'euros et de 5 % pour la fraction des dépenses de recherche supérieure à ce montant. Pour les dépenses mentionnées au k du II, le taux du crédit d'impôt est de 20 %.
 
 Lorsque les sociétés de personnes mentionnées aux articles 8 et 238 bis L ou groupements mentionnés aux articles 239 quater, 239 quater B et 239 quater C ne sont pas soumis à l'impôt sur les sociétés, le crédit d'impôt peut, sous réserve des dispositions prévues au dernier alinéa du I de l'article 199 ter B, être utilisé par les associés proportionnellement à leurs droits dans ces sociétés ou ces groupements.
 
-II. Les dépenses de recherche ouvrant droit au crédit d'impôt sont :
+II. - Les dépenses de recherche ouvrant droit au crédit d'impôt sont :
 
 a) Les dotations aux amortissements des immobilisations, créées ou acquises à l'état neuf et affectées directement à la réalisation d'opérations de recherche scientifique et technique, y compris la réalisation d'opérations de conception de prototypes ou d'installations pilotes. Toutefois, les dotations aux amortissements des immeubles acquis ou achevés avant le 1er janvier 1991 ainsi que celles des immeubles dont le permis de construire a été délivré avant le 1er janvier 1991 ne sont pas prises en compte ;
 
@@ -104,13 +104,13 @@ Pour être éligibles au crédit d'impôt mentionné au premier alinéa du I, le
 
 Les dépenses visées aux a et 2° du h ne sont pas retenues pour le calcul du crédit d'impôt recherche lorsque les immobilisations concernées ont bénéficié du crédit d'impôt prévu à l'article 220 septies.
 
-Le bénéfice de la fraction du crédit d'impôt qui résulte de la prise en compte des dépenses prévues aux h et i est subordonné au respect du règlement (CE) n° 1998/2006 de la Commission du 15 décembre 2006 concernant l'application des articles 87 et 88 du traité aux aides de minimis.
+Le bénéfice de la fraction du crédit d'impôt qui résulte de la prise en compte des dépenses prévues aux h et i est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission, du 18 décembre 2013, relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
 
 Le bénéfice de la fraction du crédit d'impôt qui résulte de la prise en compte des dépenses mentionnées au k est subordonné au respect des articles 30, 31, 33 et 34 du règlement (CE) n° 800/2008 de la Commission, du 6 août 2008, précité.
 
-Pour l'application du précédent alinéa, les sociétés de personnes et groupements mentionnés aux articles 8,238 bis L, 239 quater, 239 quater B et 239 quater C qui ne sont pas soumis à l'impôt sur les sociétés doivent également respecter le règlement (CE) n° 1998/2006 de la Commission du 15 décembre 2006 précité. La fraction du crédit d'impôt mentionnée à l'alinéa précédent peut être utilisée par les associés de ces sociétés ou les membres de ces groupements proportionnellement à leurs droits dans ces sociétés ou groupements s'ils satisfont aux conditions d'application de ce même règlement et sous réserve qu'il s'agisse de redevables soumis à l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation au sens du 1° bis du I de l'article 156 (1).
+Pour l'application du précédent alinéa, les sociétés de personnes et groupements mentionnés aux articles 8,238 bis L, 239 quater, 239 quater B et 239 quater C qui ne sont pas soumis à l'impôt sur les sociétés doivent également respecter le règlement (UE) n° 1407/2013 de la Commission, du 18 décembre 2013, précité. La fraction du crédit d'impôt mentionnée à l'alinéa précédent peut être utilisée par les associés de ces sociétés ou les membres de ces groupements proportionnellement à leurs droits dans ces sociétés ou groupements s'ils satisfont aux conditions d'application de ce même règlement et sous réserve qu'il s'agisse de redevables soumis à l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation au sens du 1° bis du I de l'article 156 (1).
 
-III. Les subventions publiques reçues par les entreprises à raison des opérations ouvrant droit au crédit d'impôt sont déduites des bases de calcul de ce crédit, qu'elles soient définitivement acquises par elles ou remboursables. Il en est de même des sommes reçues par les entreprises, organismes ou experts mentionnés au d, au d bis ou au 6° du k du II, pour le calcul de leur propre crédit d'impôt. Lorsque ces subventions sont remboursables, elles sont ajoutées aux bases de calcul du crédit d'impôt de l'année au cours de laquelle elles sont remboursées à l'organisme qui les a versées.
+III. - Les subventions publiques reçues par les entreprises à raison des opérations ouvrant droit au crédit d'impôt sont déduites des bases de calcul de ce crédit, qu'elles soient définitivement acquises par elles ou remboursables. Il en est de même des sommes reçues par les entreprises, organismes ou experts mentionnés au d, au d bis ou au 6° du k du II, pour le calcul de leur propre crédit d'impôt. Lorsque ces subventions sont remboursables, elles sont ajoutées aux bases de calcul du crédit d'impôt de l'année au cours de laquelle elles sont remboursées à l'organisme qui les a versées.
 
 Pour le calcul du crédit d'impôt, le montant des dépenses exposées par les entreprises auprès de tiers au titre de prestations de conseil pour l'octroi du bénéfice du crédit d'impôt est déduit des bases de calcul de ce dernier à concurrence :
 
@@ -118,8 +118,8 @@ a) Du montant des sommes rémunérant ces prestations fixé en proportion du mon
 
 b) Du montant des dépenses ainsi exposées, autres que celles mentionnées au a, qui excède le plus élevé des deux montants suivants : soit la somme de 15 000 € hors taxes, soit 5 % du total des dépenses hors taxes mentionnées au II minoré des subventions publiques mentionnées au III.
 
-III bis. ― Les entreprises qui engagent plus de 100 millions d'euros de dépenses de recherche mentionnées au II joignent à leur déclaration de crédit d'impôt recherche un état décrivant la nature de leurs travaux de recherche en cours, l'état d'avancement de leurs programmes, les moyens matériels et humains, directs ou indirects, qui y sont consacrés et la localisation de ces moyens.
+III bis. - Les entreprises qui engagent plus de 100 millions d'euros de dépenses de recherche mentionnées au II joignent à leur déclaration de crédit d'impôt recherche un état décrivant la nature de leurs travaux de recherche en cours, l'état d'avancement de leurs programmes, les moyens matériels et humains, directs ou indirects, qui y sont consacrés et la localisation de ces moyens.
 
 IV., IV. bis, IV. ter, V. (Dispositions périmées).
 
-VI. Un décret fixe les conditions d'application du présent article. Il en adapte les dispositions aux cas d'exercices de durée inégale ou ne coïncidant pas avec l'année civile.
+VI. - Un décret fixe les conditions d'application du présent article. Il en adapte les dispositions aux cas d'exercices de durée inégale ou ne coïncidant pas avec l'année civile.

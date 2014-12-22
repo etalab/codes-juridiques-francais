@@ -1,3 +1,0 @@
-# TITRE V : AUTRES OPÉRATIONS IMMOBILIÈRES DES PERSONNES PUBLIQUES
-
-- [Chapitre unique.](chapitre-unique)

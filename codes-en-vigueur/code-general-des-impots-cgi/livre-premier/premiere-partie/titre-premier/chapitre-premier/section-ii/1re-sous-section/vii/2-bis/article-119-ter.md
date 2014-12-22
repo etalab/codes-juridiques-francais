@@ -6,7 +6,7 @@
 
 a) Avoir son siège de direction effective dans un Etat membre de l'Union européenne et n'être pas considérée, aux termes d'une convention en matière de double imposition conclue avec un Etat tiers, comme ayant sa résidence fiscale hors de l'Union ;
 
-b) Revêtir l'une des formes énumérées sur une liste établie par arrêté du ministre chargé de l'économie conformément à la partie A de l'annexe I à la directive 2011/96/ UE du Conseil du 30 novembre 2011 concernant le régime fiscal commun applicable aux sociétés mères et filiales d'Etats membres différents ;
+b) Revêtir l'une des formes énumérées à la partie A de l'annexe I à la directive 2011/96/ UE du Conseil du 30 novembre 2011 concernant le régime fiscal commun applicable aux sociétés mères et filiales d'Etats membres différents ;
 
 c) Détenir directement, de façon ininterrompue depuis deux ans ou plus, 25 % au moins du capital de la personne morale qui distribue les dividendes, ou prendre l'engagement de conserver cette participation de façon ininterrompue pendant un délai de deux ans au moins et désigner, comme en matière de taxes sur le chiffre d'affaires, un représentant qui est responsable du paiement de la retenue à la source visée au 1 en cas de non-respect de cet engagement ;
 

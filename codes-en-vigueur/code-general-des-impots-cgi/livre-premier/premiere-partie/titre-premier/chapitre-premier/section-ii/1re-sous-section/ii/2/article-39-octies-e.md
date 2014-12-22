@@ -10,4 +10,4 @@ La dotation annuelle à cette provision ne peut excéder 5 000 €. Le montant t
 
 Cette provision doit être utilisée, au plus tard à la clôture du cinquième exercice suivant la première dotation annuelle, pour l'acquisition d'immobilisations amortissables, à l'exclusion des immeubles et des véhicules de tourisme. Lorsque la provision est utilisée conformément à son objet, elle est rapportée au résultat pour sa fraction utilisée par parts égales sur l'exercice d'acquisition de l'immobilisation amortissable et les quatre exercices suivants. Le montant non utilisé à la clôture du cinquième exercice suivant la première dotation annuelle est rapporté au résultat de cet exercice.
 
-Le bénéfice de la provision est subordonné au respect du règlement (CE) n° 1998/2006 de la Commission du 15 décembre 2006 concernant l'application des articles 87 et 88 du traité aux aides de minimis.
+Le bénéfice de la provision est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission, du 18 décembre 2013, relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.

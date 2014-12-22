@@ -9,3 +9,4 @@
 - [Sous-section 7 : Sanctions administratives](sous-section-7)
 - [Sous-section 8 : Sanctions pénales](sous-section-8)
 - [Sous-section 9 : Disposition applicable aux consommateurs résidant dans un Etat membre de l'Union européenne](sous-section-9)
+- [Sous-section 10 : Dispositions communes](sous-section-10)

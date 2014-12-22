@@ -4,7 +4,7 @@ L'offre de fourniture d'électricité ou de gaz naturel précise, dans des terme
 
 1° L'identité du fournisseur, l'adresse de son siège social et son numéro d'inscription au registre du commerce et des sociétés ou tout document équivalent pour les sociétés situées hors de France et pour les opérateurs qui ne sont pas inscrits au registre du commerce et des sociétés ;
 
-2° Le numéro de téléphone et, le cas échéant, l'adresse électronique du fournisseur ;
+2° Les coordonnées téléphoniques et électroniques du fournisseur ;
 
 3° La description des produits et des services proposés ;
 

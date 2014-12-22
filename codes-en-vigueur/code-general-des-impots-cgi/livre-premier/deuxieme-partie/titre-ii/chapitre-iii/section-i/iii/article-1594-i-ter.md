@@ -4,6 +4,6 @@ Les conseils généraux des départements d'outre-mer peuvent, sur délibératio
 
 Le bénéfice de l'exonération est subordonné aux conditions que l'acquéreur s'engage, dans l'acte d'acquisition, à affecter l'immeuble à l'exploitation hôtelière pendant au moins cinq ans et à y réaliser des travaux de rénovation, et que le prix de cession au mètre carré soit inférieur à un prix fixé par décret. En cas d'inobservation de l'engagement d'affectation, les droits non perçus lors de l'acquisition sont exigibles à première réquisition.
 
-Le bénéfice de l'exonération est également subordonné au respect du règlement (CE) n° 1998/2006 de la Commission, du 15 décembre 2006, concernant l'application des articles 87 et 88 du traité aux aides de minimis.
+Le bénéfice de l'exonération est également subordonné au respect du règlement (UE) n° 1407/2013 de la Commission, du 18 décembre 2013, relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
 
 La délibération prend effet dans les délais prévus à l'article 1594 E.

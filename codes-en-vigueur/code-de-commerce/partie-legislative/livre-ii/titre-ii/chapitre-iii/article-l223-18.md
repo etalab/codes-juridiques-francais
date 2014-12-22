@@ -14,7 +14,7 @@ Les clauses statutaires limitant les pouvoirs des gérants qui résultent du pr�
 
 En cas de pluralité de gérants, ceux-ci détiennent séparément les pouvoirs prévus au présent article. L'opposition formée par un gérant aux actes d'un autre gérant est sans effet à l'égard des tiers, à moins qu'il ne soit établi qu'ils en ont eu connaissance.
 
-Le déplacement du siège social dans le même département ou dans un département limitrophe peut être décidé par le ou les gérants, sous réserve de ratification de cette décision par les associés dans les conditions prévues au deuxième alinéa de l'article L. 223-30.
+Le déplacement du siège social dans le même département ou dans un département limitrophe peut être décidé par le ou les gérants, sous réserve de ratification de cette décision par les associés dans les conditions prévues à l'article L. 223-29.
 
 Dans les mêmes conditions, le gérant peut mettre les statuts en harmonie avec les dispositions impératives de la loi et des règlements.
 
