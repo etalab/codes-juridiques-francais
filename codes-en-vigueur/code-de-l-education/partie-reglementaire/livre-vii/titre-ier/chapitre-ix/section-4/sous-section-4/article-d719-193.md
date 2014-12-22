@@ -6,7 +6,7 @@ Les dispositions relatives au statut et à l'organisation administrative et fina
 
 2° Observatoire de la Côte d'Azur, établissement public national à caractère administratif, doté de l'autonomie administrative, financière et scientifique, placé sous la tutelle du ministre chargé de l'enseignement supérieur et rattaché à l'université de Nice par le décret n° 2008-1134 du 3 novembre 2008 : décret n° 88-384 du 19 avril 1988 portant organisation de l'observatoire de la Côte d'Azur ;
 
-3° Institut d'administration des entreprises de Paris, établissement public à caractère administratif doté de l'autonomie administrative et financière rattaché à l'université Paris-I par le décret n° 89-928 du 21 décembre 1989 relatif à l'Institut d'administration des entreprises de Paris : décret n° 89-928 du 21 décembre 1989 relatif à l'Institut d'administration des entreprises de Paris ;
+3° (Supprimé) ;
 
 4° Bibliothèque nationale et universitaire de Strasbourg, établissement public à caractère administratif rattaché à l'université de Strasbourg : décret n° 92-45 du 15 janvier 1992 portant organisation de la bibliothèque nationale et universitaire de Strasbourg ;
 
