@@ -4,7 +4,7 @@ Les communes et leurs établissements publics de coopération intercommunale dot
 
 L'exonération porte sur la totalité de la part revenant à chaque commune ou établissement public de coopération intercommunale doté d'une fiscalité propre. Elle cesse définitivement de s'appliquer à compter de l'année qui suit le septième anniversaire de la création de l'entreprise ou, si elle est antérieure, de la deuxième année qui suit la période mentionnée au premier alinéa pendant laquelle l'entreprise ne remplit plus l'une des conditions fixées par les 1°, 3°, 4° et 5° de l'article 44 sexies-0 A.
 
-Le bénéfice de l'exonération est subordonné au respect du règlement (CE) n° 1998/2006 de la Commission du 15 décembre 2006 concernant l'application des articles 87 et 88 du traité aux aides de minimis.
+Le bénéfice de l'exonération est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission, du 18 décembre 2013, relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
 
 Pour bénéficier de l'exonération, les contribuables doivent en faire la demande dans les délais prévus à l'article 1477. Cette demande doit être adressée, pour chaque établissement exonéré, au service des impôts dont relève l'établissement. Les contribuables déclarent, chaque année, dans les conditions prévues à l'article 1477, les éléments entrant dans le champ d'application de l'exonération.
 
