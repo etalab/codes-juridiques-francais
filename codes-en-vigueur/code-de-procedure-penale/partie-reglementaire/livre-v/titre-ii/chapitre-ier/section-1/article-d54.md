@@ -1,550 +1,437 @@
 # Article D54
 
-Il y a une maison d'arrêt auprès de chaque cour d'assises. Toutefois, les accusés ressortissant aux cours d'assises du Gers, de la Haute-Savoie et de Seine-et-Marne sont retenus respectivement à la maison d'arrêt d'Agen, à la maison d'arrêt de Bonneville et au quartier maison d'arrêt du centre pénitentiaire de Meaux-Chauconin-Neufmontiers ou à la maison d'arrêt de Fleury-Mérogis.
+Il y a une maison d'arrêt auprès de chaque cour d'assises. Toutefois, les accusés ressortissant aux cours d'assises du Finistère, du Gers, de Haute-Savoie, du Lot, de l'Orne, de Paris et de Seine-et-Marne sont retenus respectivement à la maison d'arrêt de Brest et au quartier maison d'arrêt du centre pénitentiaire de Lorient-Ploemeur, à la maison d'arrêt d'Agen, à la maison d'arrêt de Bonneville, à la maison d'arrêt de Montauban, à la maison d'arrêt de Caen ou à la maison d'arrêt de Mans-les-Croisettes, au quartier maison d'arrêt du centre pénitentiaire de Fresnes ou à la maison d'arrêt de Fleury-Mérogis et au quartier maison d'arrêt du centre pénitentiaire de Meaux-Chauconin-Neufmontiers ou à la maison d'arrêt de Fleury-Mérogis.
 
 La liste des tribunaux de grande instance auprès desquels il n'y a pas de maison d'arrêt est fixée conformément au tableau ci-dessous, qui détermine en outre la ou les maisons d'arrêt où sont retenus les prévenus ou appelants ressortissant à ces juridictions.
 
+<div>
 <table>
 <tbody>
 <tr>
-<td width="166">
-<p align="center">COURS D'APPEL</p>
+<th>
+<br/>COURS D'APPEL <br/>
+</th>
+<th>
+<br/>JURIDICTIONS <br/>
+</th>
+<th>
+<br/>ÉTABLISSEMENTS PÉNITENTIAIRES DE RATTACHEMENT <br/>
+</th>
+</tr>
+<tr>
+<td align="center" rowspan="2" valign="middle">
+<br/>Agen <br/>
 </td>
-<td width="130">
-<p align="center">JURIDICTIONS</p>
+<td align="left" valign="middle">
+<br/>Auch <br/>
 </td>
-<td width="199">
-<p align="center">PRISONS DE RATTACHEMENT</p>
+<td align="left" valign="middle">
+<br/>Agen <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="166">
-<p>Agen</p>
+<td align="left" valign="middle">
+<br/>Cahors <br/>
 </td>
-<td valign="top" width="130">
-<p>Auch</p>
-</td>
-<td valign="top" width="199">
-<p>Agen</p>
+<td align="left" valign="middle">
+<br/>Montauban <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="166"/>
-<td valign="top" width="130">
-<p>Marmande</p>
+<td align="center" rowspan="2" valign="middle">
+<br/>Aix-en-Provence <br/>
 </td>
-<td valign="top" width="199">
-<p>Agen</p>
+<td align="left" valign="middle">
+<br/>Tarascon <br/>
 </td>
-</tr>
-<tr>
-<td valign="top" width="166">
-<p>Aix-en-Provence</p>
-</td>
-<td valign="top" width="130">
-<p>Tarascon</p>
-</td>
-<td valign="top" width="199">
-<p>Avignon - Le Pontet</p>
+<td align="left" valign="middle">
+<br/>Avignon-Le Pontet <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="166">
-<p>Amiens</p>
+<td align="left" valign="middle">
+<br/>Draguignan <br/>
 </td>
-<td valign="top" width="130">
-<p>Abbeville</p>
-</td>
-<td valign="top" width="199">
-<p>Amiens</p>
+<td valign="middle">
+<br/>Aix-Luynes, Grasse, Marseille, Nice et Toulon-La Farlede <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="166"/>
-<td valign="top" width="130">
-<p>Péronne</p>
+<td align="center" rowspan="3" valign="middle">
+<br/>Amiens <br/>
 </td>
-<td valign="top" width="199">
-<p>Amiens</p>
+<td align="left" valign="middle">
+<br/>Saint-Quentin <br/>
 </td>
-</tr>
-<tr>
-<td valign="top" width="166"/>
-<td valign="top" width="130">
-<p>Saint-Quentin</p>
-</td>
-<td valign="top" width="199">
-<p>Laon</p>
+<td align="left" valign="middle">
+<br/>Laon <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="166"/>
-<td valign="top" width="130">
-<p>Senlis</p>
+<td align="left" valign="middle">
+<br/>Senlis <br/>
 </td>
-<td valign="top" width="199">
-<p>Liancourt</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="166"/>
-<td valign="top" width="130">
-<p>Soissons</p>
-</td>
-<td valign="top" width="199">
-<p>Laon</p>
+<td align="left" valign="middle">
+<br/>Liancourt <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="166">
-<p>Angers</p>
+<td align="left" valign="middle">
+<br/>Soissons <br/>
 </td>
-<td valign="top" width="130">
-<p>Saumur</p>
-</td>
-<td valign="top" width="199">
-<p>Angers</p>
+<td align="left" valign="middle">
+<br/>Laon <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="166">
-<p>Besançon</p>
+<td align="center" valign="middle">
+<br/>Angers <br/>
 </td>
-<td valign="top" width="130">
-<p>Dole</p>
+<td align="left" valign="middle">
+<br/>Saumur <br/>
 </td>
-<td valign="top" width="199">
-<p>Besançon</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="166">
-<p>Bordeaux</p>
-</td>
-<td valign="top" width="130">
-<p>Bergerac</p>
-</td>
-<td valign="top" width="199">
-<p>Périgueux</p>
+<td align="left" valign="middle">
+<br/>Angers <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="166"/>
-<td valign="top" width="130">
-<p>Libourne</p>
+<td align="center" rowspan="2" valign="middle">
+<br/>Bordeaux <br/>
 </td>
-<td valign="top" width="199">
-<p>Bordeaux-Gradignan</p>
+<td align="left" valign="middle">
+<br/>Bergerac <br/>
 </td>
-</tr>
-<tr>
-<td valign="top" width="166">
-<p>Caen</p>
-</td>
-<td valign="top" width="130">
-<p>Argentan</p>
-</td>
-<td valign="top" width="199">
-<p>Alençon et Caen</p>
+<td align="left" valign="middle">
+<br/>Périgueux <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="166"/>
-<td valign="top" width="130">
-<p>Avranches</p>
+<td align="left" valign="middle">
+<br/>Libourne <br/>
 </td>
-<td valign="top" width="199">
-<p>Saint-Malo et Coutances</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="166"/>
-<td valign="top" width="130">
-<p>Lisieux</p>
-</td>
-<td valign="top" width="199">
-<p>Caen</p>
+<td align="left" valign="middle">
+<br/>Bordeaux-Gradignan <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="166">
-<p>Chambéry</p>
+<td align="center" rowspan="3" valign="middle">
+<br/>Caen <br/>
 </td>
-<td valign="top" width="130">
-<p>Annecy</p>
+<td align="left" valign="middle">
+<br/>Alençon <br/>
 </td>
-<td valign="top" width="199">
-<p>Bonneville</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="166"/>
-<td valign="top" width="130">
-<p>Thonon-les-Bains</p>
-</td>
-<td valign="top" width="199">
-<p>Bonneville</p>
+<td align="left" valign="middle">
+<br/>Le Mans-Les Croisettes <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="166">
-<p>Colmar</p>
+<td align="left" valign="middle">
+<br/>Argentan <br/>
 </td>
-<td valign="top" width="130">
-<p>Saverne</p>
-</td>
-<td valign="top" width="199">
-<p>Strasbourg</p>
+<td align="left" valign="middle">
+<br/>Caen et Le Mans-Les Croisettes <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="166">
-<p>Dijon</p>
+<td align="left" valign="middle">
+<br/>Lisieux <br/>
 </td>
-<td valign="top" width="130">
-<p>Mâcon</p>
-</td>
-<td valign="top" width="199">
-<p>Varennes-le-Grand</p>
+<td align="left" valign="middle">
+<br/>Caen <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="166">
-<p>Douai</p>
+<td align="center" rowspan="2" valign="middle">
+<br/>Chambéry <br/>
 </td>
-<td valign="top" width="130">
-<p>Boulogne-sur-Mer</p>
+<td align="left" valign="middle">
+<br/>Annecy <br/>
 </td>
-<td valign="top" width="199">
-<p>Longuenesse</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="166"/>
-<td valign="top" width="130">
-<p>Cambrai</p>
-</td>
-<td valign="top" width="199">
-<p>Douai</p>
+<td align="left" valign="middle">
+<br/>Bonneville <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="166"/>
-<td valign="top" width="130">
-<p>Hazebrouck</p>
+<td align="left" valign="middle">
+<br/>Thonon-les-Bains <br/>
 </td>
-<td valign="top" width="199">
-<p>Longuenesse</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="166">
-<p>Grenoble</p>
-</td>
-<td valign="top" width="130">
-<p>Bourgoin-Jallieu</p>
-</td>
-<td valign="top" width="199">
-<p>Saint-Quentin-Fallavier</p>
+<td align="left" valign="middle">
+<br/>Bonneville <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="166">
-<p>Limoges</p>
+<td align="center" valign="middle">
+<br/>Colmar <br/>
 </td>
-<td valign="top" width="130">
-<p>Brive-la-Gaillarde</p>
+<td align="left" valign="middle">
+<br/>Saverne <br/>
 </td>
-<td valign="top" width="199">
-<p>Tulle</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="166">
-<p>Lyon</p>
-</td>
-<td valign="top" width="130">
-<p>Belley</p>
-</td>
-<td valign="top" width="199">
-<p>Chambéry</p>
+<td align="left" valign="middle">
+<br/>Strasbourg <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="166"/>
-<td valign="top" width="130">
-<p>Montbrizon</p>
+<td align="center" valign="middle">
+<br/>Dijon <br/>
 </td>
-<td valign="top" width="199">
-<p>Saint-Etienne - La Talaudière</p>
+<td align="left" valign="middle">
+<br/>Mâcon <br/>
 </td>
-</tr>
-<tr>
-<td valign="top" width="166"/>
-<td valign="top" width="130">
-<p>Roanne</p>
-</td>
-<td valign="top" width="199">
-<p>Villefranche-sur-Saône et Saint-Etienne - La Talaudière</p>
+<td align="left" valign="middle">
+<br/>Varennes-le-Grand <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="166">
-<p>Metz</p>
+<td align="center" rowspan="2" valign="middle">
+<br/>Douai <br/>
 </td>
-<td valign="top" width="130">
-<p>Thionville</p>
+<td align="left" valign="middle">
+<br/>Boulogne-sur-Mer <br/>
 </td>
-<td valign="top" width="199">
-<p>Metz</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="166">
-<p>Montpellier</p>
-</td>
-<td valign="top" width="130">
-<p>Narbonne</p>
-</td>
-<td valign="top" width="199">
-<p>Carcassonne</p>
+<td align="left" valign="middle">
+<br/>Longuenesse <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="166"/>
-<td valign="top" width="130">
-<p>Millau</p>
+<td align="left" valign="middle">
+<br/>Cambrai <br/>
 </td>
-<td valign="top" width="199">
-<p>Rodez</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="166">
-<p>Nancy</p>
-</td>
-<td valign="top" width="130">
-<p>Briey</p>
-</td>
-<td valign="top" width="199">
-<p>Metz</p>
+<td align="left" valign="middle">
+<br/>Douai <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="166"/>
-<td valign="top" width="130">
-<p>Saint-Dié</p>
+<td align="center" valign="middle">
+<br/>Grenoble <br/>
 </td>
-<td valign="top" width="199">
-<p>Epinal</p>
+<td align="left" valign="middle">
+<br/>Bourgoin-Jallieu <br/>
 </td>
-</tr>
-<tr>
-<td valign="top" width="166"/>
-<td valign="top" width="130">
-<p>Verdun</p>
-</td>
-<td valign="top" width="199">
-<p>Bar-le-Duc</p>
+<td align="left" valign="middle">
+<br/>Saint-Quentin-Fallavier <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="166">
-<p>Nîmes</p>
+<td align="center" valign="middle">
+<br/>Limoges <br/>
 </td>
-<td valign="top" width="130">
-<p>Alès</p>
+<td align="left" valign="middle">
+<br/>Brive-la-Gaillarde <br/>
 </td>
-<td valign="top" width="199">
-<p>Nîmes</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="166"/>
-<td valign="top" width="130">
-<p>Carpentras</p>
-</td>
-<td valign="top" width="199">
-<p>Avignon - Le Pontet</p>
+<td align="left" valign="middle">
+<br/>Tulle <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="166">
-<p>Orléans</p>
+<td align="center" valign="middle">
+<br/>Lyon <br/>
 </td>
-<td valign="top" width="130">
-<p>Montargis</p>
+<td align="left" valign="middle">
+<br/>Roanne <br/>
 </td>
-<td valign="top" width="199">
-<p>Orléans</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="166">
-<p>Paris</p>
-</td>
-<td valign="top" width="130">
-<p>Fontainebleau</p>
-</td>
-<td valign="top" width="199">
-<p>Meaux-Chauconin-Neufmontiers et Fleury-Mérogis </p>
+<td align="left" valign="middle">
+<br/>Villefranche-sur-Saône et Saint-Etienne-La Talaudière <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="166"/>
-<td valign="top" width="130">
-<p>Melun</p>
+<td align="center" valign="middle">
+<br/>Metz <br/>
 </td>
-<td valign="top" width="199">
-<p>Meaux-Chauconin-Neufmontiers et Fleury-Mérogis</p>
+<td align="left" valign="middle">
+<br/>Thionville <br/>
 </td>
-</tr>
-<tr>
-<td valign="top" width="166"/>
-<td valign="top" width="130">
-<p>Sens</p>
-</td>
-<td valign="top" width="199">
-<p>Auxerre</p>
+<td align="left" valign="middle">
+<br/>Metz <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="166">
-<p>Pau</p>
+<td align="center" valign="middle">
+<br/>Montpellier <br/>
 </td>
-<td valign="top" width="130">
-<p>Dax</p>
+<td align="left" valign="middle">
+<br/>Narbonne <br/>
 </td>
-<td valign="top" width="199">
-<p>Bayonne et Mont-de-Marsan</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="166">
-<p>Poitiers</p>
-</td>
-<td valign="top" width="130">
-<p>La Rochelle</p>
-</td>
-<td valign="top" width="199">
-<p>Fontenay-le-Comte</p>
+<td align="left" valign="middle">
+<br/>Carcassonne <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="166"/>
-<td valign="top" width="130">
-<p>Bressuire</p>
+<td align="center" rowspan="2" valign="middle">
+<br/>Nancy <br/>
 </td>
-<td valign="top" width="199">
-<p>Fontenay-le-Comte</p>
+<td align="left" valign="middle">
+<br/>Briey <br/>
 </td>
-</tr>
-<tr>
-<td valign="top" width="166"/>
-<td valign="top" width="130">
-<p>Les Sables-d'Olonne</p>
-</td>
-<td valign="top" width="199">
-<p>La Roche-sur-Yon</p>
+<td align="left" valign="middle">
+<br/>Metz <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="166">
-<p>Rennes</p>
+<td align="left" valign="middle">
+<br/>Verdun <br/>
 </td>
-<td valign="top" width="130">
-<p>Dinan</p>
-</td>
-<td valign="top" width="199">
-<p>Saint-Malo</p>
+<td align="left" valign="middle">
+<br/>Bar-le-Duc <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="166"/>
-<td valign="top" width="130">
-<p>Guingamp</p>
+<td align="center" rowspan="2" valign="middle">
+<br/>Nîmes <br/>
 </td>
-<td valign="top" width="199">
-<p>Saint-Brieuc</p>
+<td align="left" valign="middle">
+<br/>Alès <br/>
 </td>
-</tr>
-<tr>
-<td valign="top" width="166"/>
-<td valign="top" width="130">
-<p>Morlaix</p>
-</td>
-<td valign="top" width="199">
-<p>Brest et Saint-Brieuc</p>
+<td align="left" valign="middle">
+<br/>Nîmes <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="166"/>
-<td valign="top" width="130">
-<p>Quimper</p>
+<td align="left" valign="middle">
+<br/>Carpentras <br/>
 </td>
-<td valign="top" width="199">
-<p>Brest et Lorient-Ploemeur</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="166"/>
-<td valign="top" width="130">
-<p>Saint-Nazaire</p>
-</td>
-<td valign="top" width="199">
-<p>Nantes</p>
+<td align="left" valign="middle">
+<br/>Avignon-Le Pontet <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="166">
-<p>Riom</p>
+<td align="center" valign="middle">
+<br/>Orléans <br/>
 </td>
-<td valign="top" width="130">
-<p>Cusset</p>
+<td align="left" valign="middle">
+<br/>Montargis <br/>
 </td>
-<td valign="top" width="199">
-<p>Moulins-Yzeure</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="166">
-<p>Rouen</p>
-</td>
-<td valign="top" width="130">
-<p>Bernay</p>
-</td>
-<td valign="top" width="199">
-<p>Evreux</p>
+<td align="left" valign="middle">
+<br/>Orléans et Fleury-Mérogis <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="166"/>
-<td valign="top" width="130">
-<p>Dieppe</p>
+<td align="center" rowspan="4" valign="middle">
+<br/>Paris <br/>
 </td>
-<td valign="top" width="199">
-<p>Rouen et Caen</p>
+<td align="left" valign="middle">
+<br/>Fontainebleau <br/>
 </td>
-</tr>
-<tr>
-<td valign="top" width="166">
-<p>Toulouse</p>
-</td>
-<td valign="top" width="130">
-<p>Saint-Gaudens</p>
-</td>
-<td valign="top" width="199">
-<p>Toulouse-Seysses</p>
+<td align="left" valign="middle">
+<br/>Meaux-Chauconin-Neufmontiers et Fleury-Mérogis <br/>
 </td>
 </tr>
 <tr>
-<td valign="top" width="166"/>
-<td valign="top" width="130">
-<p>Castres</p>
+<td align="left" valign="middle">
+<br/>Melun <br/>
 </td>
-<td valign="top" width="199">
-<p>Albi et Toulouse-Seysses</p>
+<td align="left" valign="middle">
+<br/>Meaux-Chauconin-Neufmontiers et Fleury-Mérogis <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<br/>Paris <br/>
+</td>
+<td align="left" valign="middle">
+<br/>Fresnes et Fleury-Mérogis <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<br/>Sens <br/>
+</td>
+<td align="left" valign="middle">
+<br/>Auxerre <br/>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<br/>Pau <br/>
+</td>
+<td align="left" valign="middle">
+<br/>Dax <br/>
+</td>
+<td align="left" valign="middle">
+<br/>Bayonne et Mont-de-Marsan <br/>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<br/>Poitiers <br/>
+</td>
+<td align="left" valign="middle">
+<br/>Les Sables-d'Olonne <br/>
+</td>
+<td align="left" valign="middle">
+<br/>La-Roche-sur-Yon et Fontenay-le-Comte <br/>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2" valign="middle">
+<br/>Rennes <br/>
+</td>
+<td align="left" valign="middle">
+<br/>Quimper <br/>
+</td>
+<td align="left" valign="middle">
+<br/>Brest et Lorient-Ploemeur <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<br/>Saint-Nazaire <br/>
+</td>
+<td align="left" valign="middle">
+<br/>Nantes <br/>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<br/>Riom <br/>
+</td>
+<td align="left" valign="middle">
+<br/>Cusset <br/>
+</td>
+<td align="left" valign="middle">
+<br/>Moulins-Yzeure et Riom <br/>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<br/>Rouen <br/>
+</td>
+<td align="left" valign="middle">
+<br/>Dieppe <br/>
+</td>
+<td align="left" valign="middle">
+<br/>Rouen et Le Havre <br/>
+</td>
+</tr>
+<tr>
+<td align="center" rowspan="2" valign="middle">
+<br/>Toulouse <br/>
+</td>
+<td align="left" valign="middle">
+<br/>Castres <br/>
+</td>
+<td align="left" valign="middle">
+<br/>Albi et Toulouse-Seysses <br/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<br/>Saint-Gaudens <br/>
+</td>
+<td align="left" valign="middle">
+<br/>Toulouse-Seysses <br/>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+<br/>Versailles <br/>
+</td>
+<td align="left" valign="middle">
+<br/>Chartres <br/>
+</td>
+<td align="left" valign="middle">
+<br/>Orléans-Saran<br/>
 </td>
 </tr>
 </tbody>
 </table>
+</div>
