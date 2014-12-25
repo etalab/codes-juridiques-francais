@@ -26,7 +26,7 @@ Ces contributions sont arrêtées par décision du directeur de la Caisse nation
 
 Les opérations comptables relatives aux produits et aux charges de la présente section sont effectuées simultanément à la clôture des comptes de l'exercice.
 
-La dotation globale versée à l'agence mentionnée à l'article L. 312-8 du présent code et la dotation versée à l'agence mentionnée à l'article L. 6113-10 du code de la santé publique et la dotation versée à l'Agence technique de l'information sur l'hospitalisation mentionnée à l'article 4 de la loi n° 2002-73 du 17 janvier 2002 de modernisation sociale, pour la réalisation d'études sur les coûts des établissements et services mentionnés à l'article L. 314-3-1 du présent code, sont imputées sur le financement à la charge des organismes de sécurité sociale soumis à l'objectif de dépenses mentionné à l'article L. 314-3 du présent code.
+La dotation globale versée à l'agence mentionnée à l'article L. 312-8 du présent code et la dotation versée à l'agence mentionnée à l'article L. 6113-10 du code de la santé publique et la dotation versée à l'Agence technique de l'information sur l'hospitalisation mentionnée à l'article 4 de la loi n° 2002-73 du 17 janvier 2002 de modernisation sociale sont imputées sur les fractions du produit des contributions mentionnées aux 1° et 2° de l'article L. 14-10-4.
 
 II. ― Une section consacrée à la prestation d'allocation personnalisée d'autonomie mentionnée à l'article L. 232-1. Elle retrace :
 

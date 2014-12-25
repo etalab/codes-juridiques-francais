@@ -8,7 +8,6 @@
 - [Article L751-15](article-l751-15.md)
 - [Article L751-16](article-l751-16.md)
 - [Article L751-17](article-l751-17.md)
-- [Article L751-19](article-l751-19.md)
 - [Article L751-20](article-l751-20.md)
 - [Article L751-21](article-l751-21.md)
 - [Article L751-22](article-l751-22.md)

@@ -22,7 +22,7 @@ Le régime de protection sociale des salariés des professions agricoles est app
 
 7° Apprentis et, sous réserve des dispositions de l'article L. 962-4 du code du travail, stagiaires relevant du régime des assurances sociales agricoles occupés dans les exploitations, entreprises, organismes et groupements ci-dessus énumérés ;
 
-8° Lorsque les sociétés dont ils sont les dirigeants relèvent des dispositions des 1° à 4° de l'article L. 722-1, présidents du conseil d'administration, présidents-directeurs généraux, directeurs généraux et directeurs généraux délégués  des sociétés anonymes, ainsi que gérants de sociétés à responsabilité limitée, à condition que lesdits gérants ne possèdent pas, ensemble, plus de la moitié du capital social, étant entendu que les parts appartenant, en toute propriété ou en usufruit, au conjoint, au partenaire lié par un pacte civil de solidarité et aux enfants mineurs non émancipés d'un gérant sont considérées comme possédées par ce dernier ;
+8° Lorsque les sociétés dont ils sont les dirigeants relèvent des dispositions des 1° à 4° de l'article L. 722-1, présidents du conseil d'administration, présidents-directeurs généraux, directeurs généraux et directeurs généraux délégués des sociétés anonymes, ainsi que gérants de sociétés à responsabilité limitée, à condition que lesdits gérants ne possèdent pas, ensemble, plus de la moitié du capital social, étant entendu que les parts appartenant, en toute propriété ou en usufruit, au conjoint, au partenaire lié par un pacte civil de solidarité et aux enfants mineurs non émancipés d'un gérant sont considérées comme possédées par ce dernier ;
 
 9° Présidents et dirigeants des sociétés par actions simplifiées lorsque ces sociétés relèvent des 1° à 4° de l'article L. 722-1 ;
 
@@ -34,6 +34,8 @@ Le régime de protection sociale des salariés des professions agricoles est app
 
 13° Par dérogation aux dispositions de l'article L. 6342-1 du code du travail, les personnes effectuant des stages de formation professionnelle continue conformément aux dispositions de la sixième partie du code du travail, lorsque ces stages sont effectués dans le cadre du plan de professionnalisation permettant de bénéficier des aides au titre de la politique d'installation en agriculture mentionnée à l'article L. 330-1 du présent code ;
 
-14° Par dérogation aux dispositions de l'article L. 5142-1 du code du travail et du 25° de l'article L. 311-3 du code de la sécurité sociale, les personnes exerçant une activité mentionnée à l'article L. 722-1 du présent code et qui sont liées avec une personne morale par un contrat d'appui au projet d'entreprise, dans les conditions définies par l'article L. 127-1 du code de commerce.
+14° Par dérogation aux dispositions de l'article L. 5142-1 du code du travail et du 25° de l'article L. 311-3 du code de la sécurité sociale, les personnes exerçant une activité mentionnée à l'article L. 722-1 du présent code et qui sont liées avec une personne morale par un contrat d'appui au projet d'entreprise, dans les conditions définies par l'article L. 127-1 du code de commerce ;
+
+15° Personnes qui contribuent à l'exercice d'une mission définie au premier alinéa du 21° de l'article L. 311-3 du code de la sécurité sociale, dans les conditions fixées au même 21°, étant entendu que le décret mentionné audit 21° est, dans ce cas, pris pour l'application du présent 15°.
 
 Les salariés et assimilés définis au présent article sont désignés dans les titres II à VI du présent livre par les termes salariés agricoles.

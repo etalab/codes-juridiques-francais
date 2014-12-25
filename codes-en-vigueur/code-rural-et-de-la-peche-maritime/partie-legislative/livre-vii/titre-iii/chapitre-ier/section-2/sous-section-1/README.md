@@ -8,3 +8,4 @@
 - [Article L731-12](article-l731-12.md)
 - [Article L731-13](article-l731-13.md)
 - [Article L731-13-1](article-l731-13-1.md)
+- [Article L731-13-2](article-l731-13-2.md)
