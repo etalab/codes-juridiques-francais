@@ -1,6 +1,6 @@
 # Article L597-27
 
-Sont soumises aux dispositions de la présente section les personnes physiques ou morales, publiques ou privées, qui exploitent une installation nucléaire, civile ou militaire, entrant dans le champ d'application de la convention de Paris mentionnée à l'article L. 597-27 et dont le régime est défini par le présent titre et, s'agissant des installations militaires, par les dispositions des premier et deuxième alinéas du III de l'article 2 de la loi n° 2006-686 du 13 juin 2006 relative à la transparence et à la sécurité en matière nucléaire.
+Sont soumises aux dispositions de la présente section les personnes physiques ou morales, publiques ou privées, qui exploitent soit une installation nucléaire à usage pacifique entrant dans le champ d'application de la convention de Paris mentionnée à l'article L. 597-26 et dont le régime est défini par le présent titre, soit une installation nucléaire intéressant la défense relevant du 1° ou du 3° de l'article L. 1333-15 du code de la défense dès lors qu'elle répondrait, s'il s'agissait d'une installation à usage pacifique, à la définition d'une installation nucléaire telle que fixée par l'article 1er de cette convention.
 
 Pour l'application de la présente section, sont considérées comme une installation nucléaire unique plusieurs installations nucléaires ou une installation nucléaire et toute autre installation dans laquelle sont détenues des matières radioactives lorsqu'elles ont le même exploitant et se trouvent sur un même site.
 
