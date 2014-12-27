@@ -6,6 +6,7 @@
 - [Titre XIII bis : De la procédure applicable en matière sanitaire](titre-xiii-bis)
 - [Titre XIV : Du juge délégué aux victimes, président de la commission d'indemnisation des victimes d'infractions](titre-xiv)
 - [Titre XVI : De la poursuite, de l'instruction et du jugement des infractions en matière de trafic de stupéfiants](titre-xvi)
+- [Titre XIV bis : Du bureau d'aide aux victimes](titre-xiv-bis)
 - [Titre XVII : De la poursuite, de l'instruction et du jugement des infractions en matière de traite des êtres humains, de proxénétisme ou de recours à la prostitution des mineurs](titre-xvii)
 - [Titre XX : Du fichier national automatisé des empreintes génétiques](titre-xx)
 - [Titre XIX : De la procédure applicable aux infractions de nature sexuelle et de la protection des mineurs victimes](titre-xix)
