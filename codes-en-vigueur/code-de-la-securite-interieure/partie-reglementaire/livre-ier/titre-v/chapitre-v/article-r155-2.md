@@ -8,10 +8,10 @@ Sont applicables en Polynésie française, sous réserve des adaptations prévue
 <tbody>
 <tr>
 <td>
-<p align="center"> DISPOSITIONS APPLICABLES </p>
+<p align="center">DISPOSITIONS APPLICABLES </p>
 </td>
 <td>
-<p align="center"> DANS LEUR RÉDACTION </p>
+<p align="center">DANS LEUR RÉDACTION </p>
 </td>
 </tr>
 <tr>
@@ -26,6 +26,12 @@ Sont applicables en Polynésie française, sous réserve des adaptations prévue
 </td>
 <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) <br/>
 </td>
+</tr>
+<tr>
+<td>
+<p align="center">R. 114-6</p>
+</td>
+<td>Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15, 18 et 19 de la loi n° 2013-1168 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses dispositions concernant la défense et la sécurité nationale </td>
 </tr>
 <tr>
 <td align="center">Au titre II <br/>

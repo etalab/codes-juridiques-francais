@@ -8,11 +8,11 @@ Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues 
 <tbody>
 <tr>
 <td>
-<p align="center"> DISPOSITIONS APPLICABLES <br/>
+<p align="center">DISPOSITIONS APPLICABLES <br/>
 </p>
 </td>
 <td>
-<p align="center"> DANS LEUR RÉDACTION </p>
+<p align="center">DANS LEUR RÉDACTION </p>
 </td>
 </tr>
 <tr>
@@ -26,6 +26,14 @@ Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues 
 <td align="center">R. 113-1 à R. 113-2, R. 114-1, R. 114-2 sauf le k du 1° et les n et o du 4°, et R. 114-3 à R. 114-5 <br/>
 </td>
 <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) <br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">R. 114-6</p>
+</td>
+<td>
+<p align="center">Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15, 18 et 19 de la loi n° 2013-1168 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses dispositions concernant la défense et la sécurité nationale </p>
 </td>
 </tr>
 <tr>
