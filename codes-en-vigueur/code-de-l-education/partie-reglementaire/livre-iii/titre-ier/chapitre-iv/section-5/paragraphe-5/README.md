@@ -1,4 +1,4 @@
-# Paragraphe 5 : Le            Centre de liaison de l'enseignement et des médias d'information .
+# Paragraphe 5 : Le Centre de liaison de l'enseignement et des médias d'information .
 
 - [Article D314-99](article-d314-99.md)
 - [Article D314-100](article-d314-100.md)
