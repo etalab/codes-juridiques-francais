@@ -8,7 +8,7 @@ I. - Les contribuables domiciliés en France au sens de l'article 4 B peuvent b�
 
 3° Le montant des loyers à la charge des personnes physiques mentionnées au 2° ne peut excéder des limites fixées par décret en fonction notamment de la localisation du logement ;
 
-4° Les logements peuvent être spécialement adaptés à l'hébergement de personnes âgées de plus de soixante-cinq ans ou de personnes handicapées auxquelles des prestations de services de nature hôtelière  peuvent être proposées ;
+4° Les logements peuvent être spécialement adaptés à l'hébergement de personnes âgées de plus de soixante-cinq ans ou de personnes handicapées auxquelles des prestations de services de nature hôtelière peuvent être proposées ;
 
 5° Une part minimale, définie par décret, de la surface habitable des logements compris dans un ensemble d'investissements portés simultanément à la connaissance du ministre chargé du budget dans les conditions prévues au VII est sous-louée, dans les conditions définies au 2°, à des personnes physiques dont les ressources sont inférieures aux plafonds mentionnés au 2°, pour des loyers inférieurs aux limites mentionnées au 3°. Un décret précise les plafonds de ressources et de loyers pour l'application du présent 5° ;
 
@@ -24,7 +24,7 @@ La condition mentionnée au 5° n'est pas applicable aux logements dont la conve
 
 La condition mentionnée au 9° n'est pas applicable aux logements acquis ou construits à Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie, en Polynésie française, à Saint-Martin, à Saint-Barthélemy et dans les îles Wallis et Futuna.
 
-II. - La réduction d'impôt est égale à 50 % d'un montant égal au prix de revient des logements minoré, d'une part, des taxes et des commissions d'acquisition versées et, d'autre part, des subventions publiques reçues. Ce montant est retenu dans la limite mentionnée au 5 de l'article 199 undecies A appréciée  par mètre carré de surface habitable et, dans le cas des logements mentionnés au 4° du I, de surface des parties communes dans lesquelles des prestations de services sont proposées. Cette limite est relevée chaque année, à la date et dans les conditions prévues au 5 de l'article 199 undecies A.
+II. - La réduction d'impôt est égale à 50 % d'un montant égal au prix de revient des logements minoré, d'une part, des taxes et des commissions d'acquisition versées et, d'autre part, des subventions publiques reçues. Ce montant est retenu dans la limite mentionnée au 5 de l'article 199 undecies A appréciée par mètre carré de surface habitable et, dans le cas des logements mentionnés au 4° du I, de surface des parties communes dans lesquelles des prestations de services sont proposées. Cette limite est relevée chaque année, à la date et dans les conditions prévues au 5 de l'article 199 undecies A.
 
 Un décret peut préciser, en tant que de besoin, la nature des sommes retenues pour l'appréciation du prix de revient mentionné au premier alinéa.
 
@@ -65,3 +65,5 @@ VIII. - Un contribuable ne peut, pour un même logement ou une même souscriptio
 Les dépenses de travaux retenues pour le calcul de la réduction d'impôt prévue au présent article ne peuvent faire l'objet d'une déduction pour la détermination des revenus fonciers.
 
 IX. - Le présent article est applicable aux acquisitions ou constructions de logements réalisées entre la date de promulgation de la loi n° 2009-594 du 27 mai 2009 pour le développement économique des outre-mer et le 31 décembre 2017.
+
+X. - Le bénéfice de la réduction d'impôt prévue au I est subordonné, pour les investissements réalisés dans les départements d'outre-mer et à Saint-Martin, au respect de la décision 2012/21/UE de la Commission, du 20 décembre 2011, relative à l'application de l'article 106, paragraphe 2, du traité sur le fonctionnement de l'Union européenne aux aides d'Etat sous forme de compensations de service public octroyées à certaines entreprises chargées de la gestion de services d'intérêt économique général.

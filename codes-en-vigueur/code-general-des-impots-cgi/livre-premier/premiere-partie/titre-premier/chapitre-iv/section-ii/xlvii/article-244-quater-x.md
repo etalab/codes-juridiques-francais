@@ -31,6 +31,7 @@
 <p>2. Lorsque l'investissement revêt la forme de la construction d'un immeuble ou de l'acquisition d'un immeuble à construire, l'immeuble doit être achevé dans les deux ans suivant la date à laquelle les fondations sont achevées. </p>
 <p>A défaut, le crédit d'impôt acquis au titre de cet investissement fait l'objet d'une reprise au titre de l'année au cours de laquelle intervient le terme de ce délai de deux ans. </p>
 <p>VIII. ― 1. Le présent article est applicable aux acquisitions, constructions ou réhabilitations d'immeubles effectuées à compter du 1er juillet 2014, et jusqu'au 31 décembre 2017.</p>
-<p>2. Un décret fixe les conditions d'application du présent article, notamment les obligations déclaratives incombant aux organismes mentionnés au premier alinéa du 1 du I.<br/>
+<p>2. Un décret fixe les conditions d'application du présent article, notamment les obligations déclaratives incombant aux organismes mentionnés au premier alinéa du 1 du I.</p>
+<p>IX. - Le bénéfice du crédit d'impôt prévu au I est subordonné au respect de la décision 2012/21/UE de la Commission, du 20 décembre 2011, relative à l'application de l'article 106, paragraphe 2, du traité sur le fonctionnement de l'Union européenne aux aides d'Etat sous forme de compensations de service public octroyées à certaines entreprises chargées de la gestion de services d'intérêt économique général.<br/>
 </p>
 </div>
