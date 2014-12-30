@@ -1,22 +1,30 @@
 # Article 235 ter ZE
 
-I. ― 1. Les personnes mentionnées aux 1° à 4° du A du I de l'article L. 612-2 du code monétaire et financier, soumises au contrôle de l'Autorité de contrôle prudentiel et de résolution pour le respect des ratios de couverture et de division des risques ou du niveau de fonds propres adéquat prévus par le I de l'article L. 511-41 et par les articles, L. 522-14 et L. 533-2 du même code, sont assujetties à une taxe de risque systémique au titre de leur activité exercée au 1er janvier de chaque année.
+I. ― 1. Les personnes mentionnées aux 1° à 4° du A du I de l'article L. 612-2 du code monétaire et financier, soumises au contrôle de l'Autorité de contrôle prudentiel et de résolution pour le respect des ratios de couverture et de division des risques ou du niveau de fonds propres adéquat prévus par le I de l'article L. 511-41 et par les articles L. 522-14 et L. 533-2 du même code, sont assujetties à une taxe de risque systémique au titre de leur activité exercée au 1er janvier de chaque année.
 
 2. Toutefois, ne sont pas assujetties à cette taxe :
 
 1° Les personnes ayant leur siège social dans un autre Etat partie à l'accord sur l'Espace économique européen et exerçant leur activité en France exclusivement par l'établissement d'une succursale ou par voie de libre prestation de services ;
 
-2° Les personnes auxquelles s'appliquent des exigences minimales en fonds propres permettant d'assurer le respect des ratios de couverture ou du niveau de fonds propres adéquat prévus par le I de l'article L. 511-41 et par les articles, L. 522-14 et L. 533-2 du code monétaire et financier, définies au cours de l'exercice clos l'année civile précédente, inférieures à 500 millions d'euros. Le seuil de 500 millions d'euros est apprécié sur la base sociale ou consolidée d'un groupe au sens du III de l'article L. 511-20 du même code retenue pour le calcul de l'assiette définie au II ;
+2° Les personnes auxquelles s'appliquent des exigences minimales en fonds propres permettant d'assurer le respect des ratios de couverture ou du niveau de fonds propres adéquat prévus par le I de l'article L. 511-41 et par les articles L. 522-14 et L. 533-2 du code monétaire et financier, définies au cours de l'exercice clos l'année civile précédente, inférieures à 500 millions d'euros. Le seuil de 500 millions d'euros est apprécié sur la base sociale ou consolidée d'un groupe au sens du III de l'article L. 511-20 du même code retenue pour le calcul de l'assiette définie au II ;
 
 3° L'Agence française de développement.
 
-II. ― L'assiette de la taxe de risque systémique est constituée par les exigences minimales en fonds propres permettant d'assurer le respect des ratios de couverture ou du niveau de fonds propres adéquat prévus par le I de l'article L. 511-41 et par les articles, L. 522-14 et L. 533-2 du code monétaire et financier, définies au cours de l'exercice clos l'année civile précédente. Les exigences minimales en fonds propres sont appréciées sur base consolidée pour les personnes relevant des articles L. 511-41-2, L. 533-4-1, L. 517-5 et L. 517-9 du même code appartenant à un groupe au sens du III de l'article L. 511-20 dudit code. Aucune contribution additionnelle sur base sociale n'est versée par les personnes mentionnées au I qui appartiennent à un groupe au sens du III du même article L. 511-20 lorsqu'il s'agit de l'organe central ou des entreprises affiliées à un réseau ou d'entreprises sur lesquelles l'entreprise mère exerce, directement ou indirectement, un contrôle exclusif. Une contribution est calculée sur base sociale ou sous-consolidée pour les personnes n'appartenant pas à un groupe au sens du III dudit article L. 511-20 ou quand l'entreprise mère n'exerce pas un contrôle exclusif sur l'entreprise surveillée sur base sociale ou sous-consolidée. Dans ce dernier cas, l'assiette sur base consolidée de l'entreprise mère est diminuée des montants pris en compte au titre de l'imposition d'une personne sur base sociale ou sous-consolidée.
+II. ― L'assiette de la taxe de risque systémique est constituée par les exigences minimales en fonds propres permettant d'assurer le respect des ratios de couverture ou du niveau de fonds propres adéquat prévus par le I de l'article L. 511-41 et par les articles L. 522-14 et L. 533-2 du code monétaire et financier, définies au cours de l'exercice clos l'année civile précédente. Les exigences minimales en fonds propres sont appréciées sur base consolidée pour les personnes relevant des articles L. 511-41-2, L. 533-4-1, L. 517-5 et L. 517-9 du même code appartenant à un groupe au sens du III de l'article L. 511-20 dudit code. Aucune contribution additionnelle sur base sociale n'est versée par les personnes mentionnées au I qui appartiennent à un groupe au sens du III du même article L. 511-20 lorsqu'il s'agit de l'organe central ou des entreprises affiliées à un réseau ou d'entreprises sur lesquelles l'entreprise mère exerce, directement ou indirectement, un contrôle exclusif. Une contribution est calculée sur base sociale ou sous-consolidée pour les personnes n'appartenant pas à un groupe au sens du III dudit article L. 511-20 ou quand l'entreprise mère n'exerce pas un contrôle exclusif sur l'entreprise surveillée sur base sociale ou sous-consolidée. Dans ce dernier cas, l'assiette sur base consolidée de l'entreprise mère est diminuée des montants pris en compte au titre de l'imposition d'une personne sur base sociale ou sous-consolidée.
 
-III. ― Le taux de la taxe de risque systémique est fixé à 0,539 %.
+III (1). - Le taux de la taxe de risque systémique est fixé à :
+
+0,329 % pour la taxe due en 2015 ;
+
+0,275 % pour la taxe due en 2016 ;
+
+0,222 % pour la taxe due en 2017 ;
+
+0,141 % pour la taxe due en 2018.
 
 IV. ― La taxe de risque systémique est exigible le 30 avril.
 
-V. ― 1. La taxe de risque systémique est liquidée par la personne assujettie au vu des exigences minimales en fonds propres mentionnées dans l'appel à contribution mentionné au 1° du V de l'article L. 612-20 du code monétaire et financier.L'Autorité de contrôle prudentiel et de résolution communique cet appel au comptable public compétent avant le 30 avril.
+V. ― 1. La taxe de risque systémique est liquidée par la personne assujettie au vu des exigences minimales en fonds propres mentionnées dans l'appel à contribution mentionné au 1° du V de l'article L. 612-20 du code monétaire et financier. L'Autorité de contrôle prudentiel et de résolution communique cet appel au comptable public compétent avant le 30 avril.
 
 2. La taxe est déclarée et liquidée :
 
@@ -25,6 +33,8 @@ V. ― 1. La taxe de risque systémique est liquidée par la personne assujettie
 2° Pour les personnes non redevables de la taxe sur la valeur ajoutée, sur l'annexe à la déclaration prévue au même 1 déposée auprès du service chargé du recouvrement dont relève leur siège ou principal établissement au plus tard le 25 juin de l'année au cours de laquelle la taxe prévue au présent article est due.
 
 La taxe est acquittée lors du dépôt de la déclaration.
+
+3. La taxe n'est pas déductible de l'assiette de l'impôt sur les sociétés (1).
 
 VI. ― 1. La personne assujettie, dont le siège ou l'entreprise mère du groupe, au sens du III de l'article L. 511-20 du code monétaire et financier, est situé dans un autre Etat ayant instauré une taxe poursuivant un objectif de réduction des risques bancaires équivalent à celui de la taxe de risque systémique, peut bénéficier d'un crédit d'impôt.
 

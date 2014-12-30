@@ -46,7 +46,7 @@ Les conditions d'application de l'alinéa précédent, notamment les obligations
 
 3° bis (Abrogé) ;
 
-4° Sous réserve des dispositions de l'article 153, les impôts à la charge de l'entreprise, mis en recouvrement au cours de l'exercice, à l'exception des taxes prévues aux articles 238 quater et 990 G et, pour les rappels de taxe sur la valeur ajoutée afférents à des opérations au titre desquelles la taxe due peut être totalement ou partiellement déduite par le redevable lui-même, du montant de la taxe déductible.
+4° Sous réserve des dispositions de l'article 153, les impôts à la charge de l'entreprise, mis en recouvrement au cours de l'exercice, à l'exception des taxes prévues aux articles  231 ter, 235 ter X, 235 ter ZE, 235 ter ZE bis, 238 quater et 990 G et, pour les rappels de taxe sur la valeur ajoutée afférents à des opérations au titre desquelles la taxe due peut être totalement ou partiellement déduite par le redevable lui-même, du montant de la taxe déductible.
 
 Par exception aux dispositions du premier alinéa, lorsque, en application du sixième alinéa de l'article 1679 quinquies, un redevable réduit le montant du solde de cotisation foncière des entreprises du montant du dégrèvement attendu du plafonnement de la contribution économique territoriale due au titre de la même année, le montant de la cotisation foncière des entreprises déductible du bénéfice net est réduit dans les mêmes proportions. Corrélativement, le montant du dégrèvement ainsi déduit ne constitue pas un produit imposable, lorsqu'il est accordé ultérieurement.
 

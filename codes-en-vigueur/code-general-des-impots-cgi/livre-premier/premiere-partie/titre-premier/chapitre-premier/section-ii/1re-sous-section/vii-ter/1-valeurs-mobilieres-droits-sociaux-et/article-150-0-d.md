@@ -2,7 +2,7 @@
 
 1. Les gains nets mentionnés au I de l'article 150-0 A sont constitués par la différence entre le prix effectif de cession des titres ou droits, net des frais et taxes acquittés par le cédant, et leur prix effectif d'acquisition par celui-ci diminué, le cas échéant, des réductions d'impôt effectivement obtenues dans les conditions prévues à l'article 199 terdecies-0 A, ou, en cas d'acquisition à titre gratuit, leur valeur retenue pour la détermination des droits de mutation.
 
-Les gains nets de cession à titre onéreux d'actions, de parts de sociétés, de droits portant sur ces actions ou parts ou de titres représentatifs de ces mêmes actions, parts ou droits, mentionnés au I de l'article 150-0 A, ainsi que les distributions mentionnées aux 7,7 bis et aux deux derniers alinéas du 8 du II du même article, à l'article 150-0 F et au 1 du II de l'article 163 quinquies C sont réduits d'un abattement déterminé dans les conditions prévues, selon le cas, au 1 ter ou au 1 quater du présent article.
+Les gains nets résultant de la cession à titre onéreux ou retirés du rachat d'actions, de parts de sociétés, de droits démembrés portant sur ces actions ou parts, ou de titres représentatifs de ces mêmes actions, parts ou droits, mentionnés à l'article 150-0 A, ainsi que les distributions mentionnées aux 7,7 bis et aux deux derniers alinéas du 8 du II du même article, à l'article 150-0 F et au 1 du II de l'article 163 quinquies C sont réduits d'un abattement déterminé dans les conditions prévues, selon le cas, au 1 ter ou au 1 quater du présent article. (1)
 
 Le complément de prix prévu au 2 du I de l'article 150-0 A, afférent à la cession d'actions, de parts ou de droits mentionnés au deuxième alinéa du présent 1, est réduit de l'abattement prévu au même alinéa et appliqué lors de cette cession.
 
@@ -60,7 +60,9 @@ C.-L'abattement mentionné au A ne s'applique pas :
 
 1° Aux gains nets de cession ou de rachat de parts ou d'actions d'organismes de placement collectif en valeurs mobilières ou de placements collectifs, relevant des articles L. 214-24-24 à L. 214-32-1, L. 214-139 à L. 214-147 et L. 214-152 à L. 214-166 du code monétaire et financier, ou d'entités de même nature constituées sur le fondement d'un droit étranger, ou de dissolution de tels organismes, placements ou entités ;
 
-2° Aux distributions mentionnées aux 7 et 7 bis, aux deux derniers alinéas du 8 du II de l'article 150-0 A, à l'article 150-0 F et au 1 du II de l'article 163 quinquies C, y compris lorsqu'elles sont effectuées par des entités de même nature constituées sur le fondement d'un droit étranger.
+2° Aux distributions mentionnées aux 7 et 7 bis, aux deux derniers alinéas du 8 du II de l'article 150-0 A, à l'article 150-0 F et au 1 du II de l'article 163 quinquies C, y compris lorsqu'elles sont effectuées par des entités de même nature constituées sur le fondement d'un droit étranger ;
+
+3° Aux gains mentionnés aux 3,4 bis, 4 ter et 5 du II et, le cas échéant, au 2 du III de l'article 150-0 A. (1)
 
 1 quinquies. Pour l'application de l'abattement mentionné au 1, la durée de détention est décomptée à partir de la date de souscription ou d'acquisition des actions, parts, droits ou titres, et :
 
@@ -126,7 +128,7 @@ Ces dispositions ne sont pas applicables lorsque la cession porte sur des droits
 
 8 bis. En cas de cession de parts ou actions acquises dans le cadre d'une opération mentionnée au 4 de l'article L. 313-7 du code monétaire et financier, le prix d'acquisition à retenir est égal au prix convenu pour l'acceptation de la promesse unilatérale de vente compte non tenu des sommes correspondant aux versements effectués à titre de loyers.
 
-8 ter-Le gain net mentionné au 6 du II de l'article 150-0 A est égal à la différence entre le montant du remboursement et le prix ou la valeur d'acquisition ou de souscription des titres rachetés, diminuée du montant du revenu distribué imposable à l'impôt sur le revenu au titre du rachat dans les conditions prévues aux articles 109,112,120 et 161.
+8 ter-Le gain net mentionné au 6 du II de l'article 150-0 A est égal à la différence entre le montant du remboursement et le prix ou la valeur d'acquisition ou de souscription des titres rachetés. (2)
 
 9. En cas de vente ultérieure ou de rachat mentionné au 6 du II de l'article 150-0 A de titres reçus à l'occasion d'une opération mentionnée à l'article 150-0 B, au quatrième alinéa de l'article 150 A bis en vigueur avant la publication de la loi de finances pour 2004 (n° 2003-1311 du 30 décembre 2003) et au II de l'article 150 UB le gain net est calculé à partir du prix ou de la valeur d'acquisition des titres échangés, diminué de la soulte reçue ou majoré de la soulte versée lors de l'échange.
 

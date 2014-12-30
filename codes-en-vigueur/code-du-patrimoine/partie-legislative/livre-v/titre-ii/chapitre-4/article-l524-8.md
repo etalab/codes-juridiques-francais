@@ -26,4 +26,6 @@ En cas de transfert total de l'autorisation de construire ou d'aménager, le red
 
 En cas de transfert partiel, un titre d'annulation des sommes correspondant à la surface transférée est émis au profit du titulaire initial du droit à construire ou d'aménager. Un titre de perception est émis à l'encontre du titulaire du transfert partiel.
 
+En cas de transfert total ou partiel, le ou les titres de perception sont émis dans les trente-six mois suivant l'émission du titre d'annulation.
+
 IV. ― L'Etat effectue un prélèvement de 3 % sur le montant des sommes recouvrées, au titre des frais d'assiette et de recouvrement.

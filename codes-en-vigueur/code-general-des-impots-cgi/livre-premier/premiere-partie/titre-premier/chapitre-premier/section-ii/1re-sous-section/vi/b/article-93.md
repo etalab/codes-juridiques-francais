@@ -20,6 +20,8 @@ Les dépenses déductibles comprennent notamment :
 
 8° Les redevances de concessions de produits de la propriété industrielle définis à l'article 39 terdecies. Lorsqu'il existe des liens de dépendance entre le concédant et le concessionnaire, le montant des redevances est déductible dans les conditions et limites fixées au 12 de l'article 39.
 
+La taxe prévue à l'article 231 ter n'est pas déductible du bénéfice imposable.
+
 1 bis. Les fonctionnaires qui sont autorisés à apporter leur concours scientifique à une entreprise qui assure la valorisation de leurs travaux au titre de l'article L. 413-8 du code de la recherche peuvent demander que le revenu provenant de cette activité soit soumis à l'impôt sur le revenu selon les règles prévues en matière de traitements et salaires. Cette option est subordonnée à la condition que les rémunérations perçues soient intégralement déclarées par l'entreprise qui les verse.
 
 La demande doit être adressée au service des impôts du lieu du domicile avant le 1er mars de l'année qui suit celle au titre de laquelle l'imposition est établie. L'option demeure valable tant qu'elle n'a pas été expressément dénoncée dans les mêmes conditions.

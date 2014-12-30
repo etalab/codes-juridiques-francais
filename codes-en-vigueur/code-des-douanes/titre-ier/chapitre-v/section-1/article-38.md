@@ -38,6 +38,8 @@
 
 14° Aux déchets définis à l'article L. 541-1-1 du code de l'environnement dont l'importation, l'exportation ou le transit sont régis par la section 4 du chapitre Ier du titre IV du livre V du même code ainsi que par le règlement (CE) n° 1013/2006 du Parlement européen et du Conseil, du 14 juin 2006, concernant les transferts de déchets, et les décisions des autorités de l'Union européenne prises en application de ce règlement ;
 
-15° Aux objets de toute nature comportant des images ou des représentations d'un mineur à caractère pornographique mentionnées à l'article 227-23 du code pénal.
+15° Aux objets de toute nature comportant des images ou des représentations d'un mineur à caractère pornographique mentionnées à l'article 227-23 du code pénal ;
+
+16° Aux produits du tabac manufacturé ayant fait l'objet d'une opération mentionnée au I de l'article 568 ter du code général des impôts.
 
 5. Au titre des dispositions dérogatoires prévues à l'article 2 bis, les dispositions du présent article sont également applicables aux marchandises soumises à des restrictions de circulation prévues soit par la réglementation communautaire, soit par les lois et règlements en vigueur, applicables aux échanges de certaines marchandises communautaires avec les autres Etats membres de la Communauté européenne. La liste des marchandises concernées est fixée par arrêté conjoint du ministre chargé des douanes et du ou des ministres concernés.

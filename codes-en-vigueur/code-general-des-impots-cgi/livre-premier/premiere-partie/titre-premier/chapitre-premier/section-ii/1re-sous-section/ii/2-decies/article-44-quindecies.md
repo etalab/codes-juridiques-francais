@@ -1,6 +1,6 @@
 # Article 44 quindecies
 
-I. ― Dans les zones de revitalisation rurale mentionnées à l'article 1465 A, les entreprises qui sont créées ou reprises entre le 1er janvier 2011 et le 31 décembre 2014, soumises de plein droit ou sur option à un régime réel d'imposition de leurs résultats et qui exercent une activité industrielle, commerciale, artisanale au sens de l'article 34 ou professionnelle au sens du 1 de l'article 92, sont exonérées d'impôt sur le revenu ou d'impôt sur les sociétés à raison des bénéfices réalisés, à l'exclusion des plus-values constatées lors de la réévaluation des éléments d'actif, jusqu'au terme du cinquante-neuvième mois suivant celui de leur création ou de leur reprise et déclarés selon les modalités prévues à l'article 53 A.
+I. ― Dans les zones de revitalisation rurale mentionnées à l'article 1465 A, les entreprises qui sont créées ou reprises entre le 1er janvier 2011 et le 31 décembre 2015, soumises de plein droit ou sur option à un régime réel d'imposition de leurs résultats et qui exercent une activité industrielle, commerciale, artisanale au sens de l'article 34 ou professionnelle au sens du 1 de l'article 92, sont exonérées d'impôt sur le revenu ou d'impôt sur les sociétés à raison des bénéfices réalisés, à l'exclusion des plus-values constatées lors de la réévaluation des éléments d'actif, jusqu'au terme du cinquante-neuvième mois suivant celui de leur création ou de leur reprise et déclarés selon les modalités prévues à l'article 53 A.
 
 Les bénéfices ne sont soumis à l'impôt sur le revenu ou à l'impôt sur les sociétés que pour le quart, la moitié ou les trois quarts de leur montant selon qu'ils sont réalisés respectivement au cours de la première, de la deuxième ou de la troisième période de douze mois suivant cette période d'exonération.
 
@@ -16,7 +16,9 @@ d) Le capital de l'entreprise créée ou reprise n'est pas détenu, directement 
 
 e) L'entreprise n'est pas créée dans le cadre d'une extension d'activités préexistantes. L'existence d'un contrat, quelle qu'en soit la dénomination, ayant pour objet d'organiser un partenariat caractérise l'extension d'une activité préexistante lorsque l'entreprise créée ou reprenant l'activité bénéficie de l'assistance de ce partenaire, notamment en matière d'utilisation d'une enseigne, d'un nom commercial, d'une marque ou d'un savoir-faire, de conditions d'approvisionnement, de modalités de gestion administrative, contentieuse, commerciale ou technique, dans des conditions telles que cette entreprise est placée dans une situation de dépendance.
 
-III. L'exonération ne s'applique pas aux créations et aux reprises d'activités dans les zones de revitalisation rurale mentionnées au I consécutives au transfert d'une activité précédemment exercée par un contribuable ayant bénéficié, au titre d'une ou plusieurs des cinq années précédant celle du transfert, des dispositions des articles 44 sexies, 44 sexies A, 44 septies, 44 octies, 44 octies A, 44 duodecies, 44 terdecies, 44 quaterdecies ou d'une prime d'aménagement du territoire.
+III. L'exonération ne s'applique pas aux créations et aux reprises d'activités dans les zones de revitalisation rurale mentionnées au I consécutives au transfert d'une activité précédemment exercée par un contribuable ayant bénéficié, au titre d'une ou plusieurs des cinq années précédant celle du transfert, des dispositions des articles 44 sexies, 44 sexies A,
+44 septies, 44 octies, 44 octies A,
+44 duodecies, 44 terdecies, 44 quaterdecies ou d'une prime d'aménagement du territoire.
 
 L'exonération ne s'applique pas non plus dans les situations suivantes :
 
@@ -28,6 +30,6 @@ b) si l'entreprise individuelle a fait l'objet d'une opération de reprise ou de
 
 IV. ― Lorsqu'elle répond aux conditions requises pour bénéficier des dispositions de l'un des régimes prévus aux articles 44 sexies, 44 sexies A, 44 septies, 44 octies A, 44 duodecies, 44 terdecies, 44 quaterdecies et du régime prévu au présent article, l'entreprise peut opter pour ce dernier régime dans les six mois suivant le début d'activité. L'option est irrévocable et emporte renonciation définitive aux autres régimes.
 
-V. ― Le bénéfice de l'exonération et de l'imposition partielle est subordonné au respect du règlement (CE) n° 1998/2006 de la Commission, du 15 décembre 2006, concernant l'application des articles 87 et 88 du traité aux aides de minimis.
+V. ― Le bénéfice de l'exonération et de l'imposition partielle est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission, du 18 décembre 2013, relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis (1).
 
 VI. ― L'exonération reste applicable pour sa durée restant à courir lorsque la commune d'implantation de l'entreprise sort de la liste des communes classées en zone de revitalisation rurale après la date de sa création ou de sa reprise.

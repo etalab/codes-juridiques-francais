@@ -1,6 +1,7 @@
 # Article 119 bis
 
-1. Les revenus de capitaux mobiliers entrant dans les prévisions des articles 118, 119, 238 septies B et 1678 bis donnent lieu à l'application d'une retenue à la source dont le taux est fixé par le 1 de l'article 187, lorsqu'ils bénéficient à des personnes qui ont leur siège en France ou à l'étranger ou qui n'ont pas leur domicile fiscal en France.
+1. Les revenus de capitaux mobiliers entrant dans les prévisions des articles 118, 119,
+238 septies B et 1678 bis donnent lieu à l'application d'une retenue à la source dont le taux est fixé par le 1 de l'article 187, lorsqu'ils bénéficient à des personnes qui ont leur siège en France ou à l'étranger ou qui n'ont pas leur domicile fiscal en France.
 
 Toutefois, les produits des titres de créances mentionnés au 1° bis du III bis de l'article 125 A sont placés en dehors du champ d'application de la retenue à la source. Il en est de même pour la prime de remboursement visée à l'article 238 septies A.
 
@@ -11,6 +12,8 @@ Les revenus des titres émis à compter du 1er janvier 1987, tels qu'ils sont d�
 1° Lever des capitaux auprès d'un certain nombre d'investisseurs en vue de les investir, conformément à une politique d'investissement définie, dans l'intérêt de ces investisseurs ;
 
 2° Présenter des caractéristiques similaires à celles d'organismes de placement collectif de droit français relevant de la section 1, des paragraphes 1, 2, 3, 5 et 6 de la sous-section 2, de la sous-section 3, ou de la sous-section 4 de la section 2 du chapitre IV du titre Ier du livre II du code monétaire et financier.
+
+Les stipulations de la convention d'assistance administrative mentionnée au premier alinéa du présent 2 et leur mise en œuvre doivent effectivement permettre à l'administration des impôts d'obtenir des autorités de l'Etat dans lequel l'organisme de placement collectif constitué sur le fondement d'un droit étranger mentionné au même alinéa est situé les informations nécessaires à la vérification du respect par cet organisme des conditions prévues aux 1° et 2°.
 
 La retenue à la source s'applique également lorsque ces produits sont payés hors de France dans un Etat ou territoire non coopératif au sens de l'article 238-0 A du présent code.
 

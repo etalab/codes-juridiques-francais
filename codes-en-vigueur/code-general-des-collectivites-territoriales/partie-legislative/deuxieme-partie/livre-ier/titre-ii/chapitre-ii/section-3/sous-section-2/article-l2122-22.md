@@ -38,7 +38,7 @@ Le maire peut, en outre, par délégation du conseil municipal, être chargé, e
 
 18° De donner, en application de l'article L. 324-1 du code de l'urbanisme, l'avis de la commune préalablement aux opérations menées par un établissement public foncier local ;
 
-19° De signer la convention prévue par le quatrième alinéa de l'article L. 311-4 du code de l'urbanisme précisant les conditions dans lesquelles un constructeur participe au coût d'équipement d'une zone d'aménagement concerté et de signer la convention prévue par le troisième alinéa de l'article L. 332-11-2 du même code précisant les conditions dans lesquelles un propriétaire peut verser la participation pour voirie et réseaux ;
+19° De signer la convention prévue par le quatrième alinéa de l'article L. 311-4 du code de l'urbanisme précisant les conditions dans lesquelles un constructeur participe au coût d'équipement d'une zone d'aménagement concerté et de signer la convention prévue par le troisième alinéa de l'article L. 332-11-2 du même code, dans sa rédaction antérieure à la loi n° 2014-1655 du 29 décembre 2014 de finances rectificative pour 2014, précisant les conditions dans lesquelles un propriétaire peut verser la participation pour voirie et réseaux ;
 
 20° De réaliser les lignes de trésorerie sur la base d'un montant maximum autorisé par le conseil municipal ;
 
@@ -46,9 +46,9 @@ Le maire peut, en outre, par délégation du conseil municipal, être chargé, e
 
 22° D'exercer au nom de la commune le droit de priorité défini aux articles L. 240-1 à L. 240-3 du code de l'urbanisme ;
 
-23° De prendre les décisions mentionnées aux articles L. 523-4 et L. 523-5 du code du patrimoine relatives à la réalisation de diagnostics d'archéologie préventive prescrits pour les opérations d'aménagement ou de travaux sur le territoire de la commune.
+23° De prendre les décisions mentionnées aux articles L. 523-4 et L. 523-5 du code du patrimoine relatives à la réalisation de diagnostics d'archéologie préventive prescrits pour les opérations d'aménagement ou de travaux sur le territoire de la commune ;
 
-24° D'autoriser, au nom de la commune, le renouvellement de l'adhésion aux associations dont elle est membre.
+24° D'autoriser, au nom de la commune, le renouvellement de l'adhésion aux associations dont elle est membre ;
 
 25° D'exercer, au nom de la commune, le droit d'expropriation pour cause d'utilité publique prévu au troisième alinéa de l'article L. 151-37 du code rural et de la pêche maritime en vue de l'exécution des travaux nécessaires à la constitution d'aires intermédiaires de stockage de bois dans les zones de montagne.
 

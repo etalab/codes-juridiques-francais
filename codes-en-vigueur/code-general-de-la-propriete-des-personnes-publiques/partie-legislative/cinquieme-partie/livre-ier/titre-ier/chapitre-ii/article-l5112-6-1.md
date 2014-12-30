@@ -18,7 +18,7 @@ Lorsque la cession intervient après la publication de l'arrêté du préfet pr�
 
 Lorsque la cession intervient avant la publication de l'arrêté du préfet, l'acte de cession mentionne le fait qu'une participation est exigée à compter de cette publication. Il précise que le montant et les conditions de versement de la participation sont notifiés au bénéficiaire de la cession par le préfet.
 
-Les équipements financés par la participation prévue par le présent article ne peuvent faire l'objet des participations prévues aux articles L. 311-4, L. 332-11-1 et L. 332-11-3 du code de l'urbanisme.
+Les équipements financés par la participation prévue par le présent article ne peuvent faire l'objet des participations prévues aux articles L. 311-4 et L. 332-11-3 du code de l'urbanisme.
 
 Le produit de la participation est versé à l'agence pour la mise en valeur des espaces urbains de la zone dite des cinquante pas géométriques. Les sommes correspondantes font l'objet d'une affectation exclusive au financement des programmes d'équipements au titre desquels elles ont été perçues.
 

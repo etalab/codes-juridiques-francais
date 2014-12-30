@@ -10,9 +10,9 @@ a) Ne pas être admises au bénéfice des aides financières à la production du
 
 b) Comporter, dans leur contenu dramatique, des éléments rattachés à la culture, au patrimoine ou au territoire français. Le respect de cette condition est vérifié au moyen d'un barème de points dont le contenu est fixé par décret ;
 
-c) Faire l'objet de dépenses éligibles mentionnées au III, d'un montant supérieur ou égal à un million d'euros et, pour les œuvres appartenant au genre de la fiction, d'un minimum de cinq jours de tournage en France.
+c) Faire l'objet de dépenses éligibles mentionnées au III, d'un montant supérieur ou égal à un million d'euros ou, lorsque le budget de production de l'œuvre est inférieur à 2 millions d'euros, d'un montant correspondant au moins à 50 % de ce budget et, pour les œuvres appartenant au genre de la fiction, d'un minimum de cinq jours de tournage en France.
 
-2.N'ouvrent pas droit au crédit d'impôt mentionné au I :
+2. N'ouvrent pas droit au crédit d'impôt mentionné au I :
 
 a) Les œuvres cinématographiques ou audiovisuelles à caractère pornographique ou d'incitation à la violence ;
 
@@ -28,7 +28,7 @@ c) Les salaires versés aux personnels de la réalisation et de la production, a
 
 d) Les dépenses liées au recours aux industries techniques et autres prestataires de la création cinématographique ou audiovisuelle ;
 
-e) Les dépenses de transport et de restauration , ainsi que les dépenses d'hébergement dans la limite d'un montant par nuitée fixé par décret,  occasionnées par la production de l'œuvre sur le territoire français.
+e) Les dépenses de transport et de restauration , ainsi que les dépenses d'hébergement dans la limite d'un montant par nuitée fixé par décret, occasionnées par la production de l'œuvre sur le territoire français.
 
 2. Les auteurs, les artistes-interprètes et les personnels de la réalisation et de la production mentionnés au 1 doivent être soit de nationalité française, soit ressortissants d'un Etat membre de la Communauté européenne, d'un Etat partie à l'accord sur l'Espace économique européen, d'un Etat partie à la convention européenne sur la coproduction cinématographique du Conseil de l'Europe, du 2 octobre 1992, ou d'un Etat tiers européen avec lequel la Communauté européenne a conclu des accords ayant trait au secteur audiovisuel. Les étrangers, autres que les ressortissants européens précités, ayant la qualité de résidents français, sont assimilés aux citoyens français.
 
@@ -38,7 +38,7 @@ IV. ― Les dépenses mentionnées au III ouvrent droit au crédit d'impôt à c
 
 V. ― Les subventions publiques reçues par les entreprises de production exécutive à raison des opérations ouvrant droit au crédit d'impôt sont déduites des bases de calcul de ce crédit, qu'elles soient définitivement acquises par elles ou remboursables.
 
-VI. ― La somme des crédits d'impôt calculés au titre d'une même œuvre ne peut excéder 10 millions d'euros.
+VI. ― La somme des crédits d'impôt calculés au titre d'une même œuvre ne peut excéder 20 millions d'euros.
 
 VII. ― Les crédits d'impôts obtenus pour la production d'une même œuvre cinématographique ou audiovisuelle ne peuvent avoir pour effet de porter à plus de 50 % du budget de production de l'œuvre le montant total des aides publiques accordées.
 

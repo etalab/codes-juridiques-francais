@@ -2,6 +2,8 @@
 
 I. La taxe porte sur toutes les propriétés soumises à la taxe foncière sur les propriétés bâties ou qui en sont temporairement exonérées ainsi que sur les logements des fonctionnaires ou employés civils et militaires visés à l'article 1523.
 
+Sont également assujetties les propriétés exonérées de taxe foncière sur les propriétés bâties en application du I de l'article 1382 E.
+
 II. Sont exonérés :
 
 Les usines,

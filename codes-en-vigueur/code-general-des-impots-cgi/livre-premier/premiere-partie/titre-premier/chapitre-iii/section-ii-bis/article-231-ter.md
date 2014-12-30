@@ -1,6 +1,6 @@
 # Article 231 ter
 
-I.-Une taxe annuelle sur les locaux à usage de bureaux, les locaux commerciaux , les locaux de stockage et les surfaces de stationnement annexées à ces catégories de locaux est perçue, dans les limites territoriales de la région d'Ile-de-France, composée de Paris et des départements de l'Essonne, des Hauts-de-Seine, de la Seine-et-Marne, de la Seine-Saint-Denis, du Val-de-Marne, du Val-d'Oise et des Yvelines.
+I.-Une taxe annuelle sur les locaux à usage de bureaux, les locaux commerciaux, les locaux de stockage et les surfaces de stationnement annexées à ces catégories de locaux est perçue, dans les limites territoriales de la région d'Ile-de-France, composée de Paris et des départements de l'Essonne, des Hauts-de-Seine, de la Seine-et-Marne, de la Seine-Saint-Denis, du Val-de-Marne, du Val-d'Oise et des Yvelines.
 
 II.-Sont soumises à la taxe les personnes privées ou publiques qui sont propriétaires de locaux imposables ou titulaires d'un droit réel portant sur de tels locaux.
 
@@ -20,7 +20,7 @@ IV.-Pour le calcul des surfaces visées au 3° du V et au VI, il est tenu compte
 
 V.-Sont exonérés de la taxe :
 
-1° Les locaux à usage de bureaux, les locaux commerciaux, les locaux de stockage et les surfaces de stationnement annexées à ces catégories de locaux, situés dans une zone de redynamisation urbaine ou dans une zone franche urbaine, telle que définie par les A et B du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire ;
+1° Les locaux à usage de bureaux, les locaux commerciaux, les locaux de stockage et les surfaces de stationnement annexées à ces catégories de locaux, situés dans une zone de redynamisation urbaine ou dans une  zone franche urbaine-territoire entrepreneur, telle que définie par les A et B du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire ;
 
 2° Les locaux et les surfaces de stationnement appartenant aux fondations et aux associations, reconnues d'utilité publique, dans lesquels elles exercent leur activité, ainsi que les locaux spécialement aménagés pour l'archivage administratif et pour l'exercice d'activités de recherche ou à caractère sanitaire, social, éducatif ou culturel ;
 
@@ -59,13 +59,13 @@ a) Pour les locaux à usage de bureaux :
 <tbody>
 <tr>
 <td colspan="2">
-<p align="center">1re CIRCONSCRIPTION</p>
+<p align="center">1re CIRCONSCRIPTION </p>
 </td>
 <td colspan="2">
-<p align="center">2e CIRCONSCRIPTION</p>
+<p align="center">2e CIRCONSCRIPTION </p>
 </td>
 <td colspan="5">
-<p align="center">3e CIRCONSCRIPTION</p>
+<p align="center">3e CIRCONSCRIPTION </p>
 </td>
 </tr>
 <tr>
@@ -77,46 +77,46 @@ a) Pour les locaux à usage de bureaux :
 <td align="center">Tarif réduit </td>
 </tr>
 <tr>
-<td align="center">17,18</td>
-<td align="center">8,51</td>
-<td align="center">10,19</td>
-<td align="center">6,10</td>
-<td align="center">4,88</td>
-<td align="center">4,42</td>
+<td align="center">17,188</td>
+<td align="center">,5110</td>
+<td align="center">,196</td>
+<td align="center">,104</td>
+<td align="center">,884</td>
+<td align="center">, 42b</td>
 </tr>
 </tbody>
 </table>
 </div>
 <div align="left"/>
-<div align="left">b) Pour les locaux commerciaux : </div>
+<div align="left">) Pour les locaux commerciaux : </div>
 <div align="left">(en euros) </div>
 
 <table>
 <tbody>
 <tr>
 <td>
-<p align="center">1re CIRCONSCRIPTION</p>
+<p align="center">1re CIRCONSCRIPTION </p>
 </td>
 <td>
-<p align="center">2e CIRCONSCRIPTION</p>
+<p align="center">2e CIRCONSCRIPTION </p>
 </td>
 <td colspan="7">
-<p align="center">3e CIRCONSCRIPTION</p>
+<p align="center">3e CIRCONSCRIPTION </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>7,57<br/>
+<br/>7,57 <br/>
 </td>
 <td align="center">
-<br/>3,90<br/>
+<br/>3,90 <br/>
 </td>
-<td align="center">1,96</td>
+<td align="center">1, 96c</td>
 </tr>
 </tbody>
 </table>
 
-c) Pour les locaux de stockage :
+) Pour les locaux de stockage :
 
 (en euros)
 
@@ -124,49 +124,49 @@ c) Pour les locaux de stockage :
 <tbody>
 <tr>
 <td>
-<p align="center">1re CIRCONSCRIPTION</p>
+<p align="center">1re CIRCONSCRIPTION </p>
 </td>
 <td>
-<p align="center">2e CIRCONSCRIPTION</p>
+<p align="center">2e CIRCONSCRIPTION </p>
 </td>
 <td colspan="7">
-<p align="center">3e CIRCONSCRIPTION</p>
+<p align="center">3e CIRCONSCRIPTION </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>3,91<br/>
+<br/>3,91 <br/>
 </td>
 <td align="center">
-<br/>1,96<br/>
+<br/>1,96 <br/>
 </td>
 <td align="center">
-<br/>0,99</td>
+<br/>0, 99d</td>
 </tr>
 </tbody>
 </table>
-<div align="left">d) Pour les surfaces de stationnement annexées aux catégories de locaux mentionnées aux a à c : </div>
+<div align="left">) Pour les surfaces de stationnement annexées aux catégories de locaux mentionnées aux a à c : </div>
 <div align="left">(en euros) </div>
 
 <table>
 <tbody>
 <tr>
 <td>
-<p align="center">1re CIRCONSCRIPTION</p>
+<p align="center">1re CIRCONSCRIPTION </p>
 </td>
 <td>
-<p align="center">2e CIRCONSCRIPTION</p>
+<p align="center">2e CIRCONSCRIPTION </p>
 </td>
 <td colspan="7">
-<p align="center">3e CIRCONSCRIPTION</p>
+<p align="center">3e CIRCONSCRIPTION </p>
 </td>
 </tr>
 <tr>
 <td align="center">
-<br/>2,28<br/>
+<br/>2,28 <br/>
 </td>
 <td align="center">
-<br/>1,31<br/>
+<br/>1,31 <br/>
 </td>
 <td align="center">
 <br/>0,66</td>
@@ -177,9 +177,11 @@ c) Pour les locaux de stockage :
 <div align="left">e) Ces tarifs sont actualisés au 1er janvier de chaque année en fonction du dernier indice du coût de la construction publié par l'Institut national de la statistique et des études économiques. Les valeurs sont arrondies, s'il y a lieu, au centime d'euro supérieur. </div>
 <div align="left"/>
 <div align="left">VI bis-Pour l'application des dispositions des V et VI, les parcs d'exposition et locaux à usage principal de congrès sont assimilés à des locaux de stockage. </div>
-<div align="left"/>
-<div align="left">VII.-Les redevables sont tenus de déposer une déclaration accompagnée du paiement de la taxe, avant le 1er mars de chaque année, auprès du comptable public compétent du lieu de situation des locaux imposables.</div>
+<div align="left">VII.-Les redevables sont tenus de déposer une déclaration accompagnée du paiement de la taxe, avant le 1er mars de chaque année, auprès du comptable public compétent du lieu de situation des locaux imposables. </div>
 <div align="left"/>
 <div align="left">VIII.-Le contrôle, le recouvrement, le contentieux, les garanties et les sanctions relatifs à la taxe sont régis par les règles applicables en matière de taxe sur les salaires jusqu'au 31 décembre 2003. <br/>
 </div>
-<div align="left">Le privilège prévu au 1° du 2 de l'article 1920 peut être exercé pour le recouvrement de la taxe.</div>
+<div align="left">Le privilège prévu au 1° du 2 de l'article 1920 peut être exercé pour le recouvrement de la taxe. </div>
+<div align="left"/>
+<div align="left"/>
+<div align="left">IX.-La taxe n'est pas déductible de l'assiette de l'impôt sur le revenu ou de l'impôt sur les sociétés.</div>

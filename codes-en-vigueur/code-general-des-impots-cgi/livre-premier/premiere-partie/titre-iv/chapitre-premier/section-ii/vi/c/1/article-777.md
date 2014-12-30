@@ -10,10 +10,10 @@ Tarif des droits applicables en ligne directe :
 <tbody>
 <tr>
 <td>
-<p align="center"> FRACTION DE PART NETTE TAXABLE</p>
+<p align="center">FRACTION DE PART NETTE TAXABLE</p>
 </td>
 <td>
-<p align="center"> TARIF </p>
+<p align="center">TARIF </p>
 <p align="center">applicable (%) </p>
 </td>
 </tr>
@@ -84,10 +84,10 @@ Tarif des droits applicables entre époux et entre partenaires liés par un pact
 <tbody>
 <tr>
 <td>
-<p align="center"> FRACTION DE PART NETTE TAXABLE </p>
+<p align="center">FRACTION DE PART NETTE TAXABLE </p>
 </td>
 <td>
-<p align="center"> TARIF </p>
+<p align="center">TARIF </p>
 <p align="center">applicable (%)</p>
 </td>
 </tr>
@@ -158,10 +158,10 @@ Tarif des droits applicables en ligne collatérale et entre non-parents :
 <tbody>
 <tr>
 <td>
-<p align="center"> FRACTION DE PART NETTE TAXABLE </p>
+<p align="center">FRACTION DE PART NETTE TAXABLE </p>
 </td>
 <td>
-<p align="center"> TARIF </p>
+<p align="center">TARIF </p>
 <p align="center">applicable (%)</p>
 </td>
 </tr>
@@ -213,4 +213,4 @@ Tarif des droits applicables en ligne collatérale et entre non-parents :
 </tbody>
 </table>
 
-Sous réserve des exceptions prévues au I de l'article 794 et à l'article 795, les dons et legs faits aux établissements publics ou d'utilité publique sont soumis aux tarifs fixés pour les successions entre frères et soeurs.
+Sous réserve des exceptions prévues au I de l'article 794 et aux articles 795 et 795-0 A, les dons et legs faits aux établissements publics ou d'utilité publique sont soumis aux tarifs fixés pour les successions entre frères et soeurs.

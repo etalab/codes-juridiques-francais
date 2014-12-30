@@ -7,3 +7,4 @@
 - [V : Organisme commun de stockage pétrolier](v)
 - [VI : Sociétés par actions simplifiées](vi)
 - [VII : Entrepreneur individuel à responsabilité limitée](vii)
+- [VIII : Organismes chargés de l'organisation d'une compétition sportive internationale](viii)

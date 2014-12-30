@@ -17,3 +17,5 @@ La taxe est déclarée et liquidée :
 La taxe est acquittée lors du dépôt de la déclaration. Elle est recouvrée comme en matière de taxes sur le chiffre d'affaires et sous les mêmes garanties et sanctions.
 
 Les dispositions du présent article ne s'appliquent pas aux provisions constituées à raison des opérations de réassurance par les entreprises pratiquant la réassurance de dommages.
+
+La taxe n'est pas déductible de l'assiette de l'impôt sur les sociétés.

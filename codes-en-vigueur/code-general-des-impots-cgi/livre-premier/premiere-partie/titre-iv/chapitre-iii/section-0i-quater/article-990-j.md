@@ -2,7 +2,7 @@
 
 I.-Les personnes physiques constituants ou bénéficiaires d'un trust défini à l'article 792-0 bis sont soumises à un prélèvement fixé au tarif le plus élevé mentionné au 1 de l'article 885 U.
 
-II.-Lorsque leur administrateur est soumis à la loi d'un Etat ou territoire ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales, le prélèvement ne s'applique pas aux trusts irrévocables dont les bénéficiaires exclusifs relèvent de l'article 795 ni à ceux constitués en vue de gérer les droits à pension acquis, au titre de leur activité professionnelle, par les bénéficiaires dans le cadre d'un régime de retraite mis en place par une entreprise ou un groupe d'entreprises.
+II.-Lorsque leur administrateur est soumis à la loi d'un Etat ou territoire ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales, le prélèvement ne s'applique pas aux trusts irrévocables dont les bénéficiaires exclusifs relèvent de l'article 795 ou sont des organismes de même nature relevant de l'article 795-0 A ni à ceux constitués en vue de gérer les droits à pension acquis, au titre de leur activité professionnelle, par les bénéficiaires dans le cadre d'un régime de retraite mis en place par une entreprise ou un groupe d'entreprises.
 
 III.-Le prélèvement est dû :
 

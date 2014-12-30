@@ -36,8 +36,6 @@ Le bénéfice net des sociétés visées aux premier et deuxième alinéas prove
 
 Les bénéfices qui proviennent des opérations totalement ou partiellement exonérées en application des premier à huitième alinéas sont obligatoirement distribués à hauteur de 85 p. 100 de la fraction exonérée de leur montant avant la fin de l'exercice qui suit celui de leur réalisation.
 
-Les dispositions du d du 6 de l'article 145 sont applicables aux dividendes prélevés sur ces bénéfices.
-
 Les sommes qui sont investies, soit directement, soit par l'intermédiaire de filiales, dans des immobilisations à l'étranger sont soumises à l'impôt sur les sociétés en proportion des bénéfices et réserves exonérés par rapport au montant total des bénéfices, des réserves et du capital. Toutefois, elles sont exonérées lorsqu'elles proviennent de fonds d'emprunt ;
 
 3° quinquies-Les sociétés agréées pour le financement des télécommunications qui ont pour objet exclusif l'activité mentionnée au I de l'article 1er de la loi n° 69-1160 du 24 décembre 1969 pour la partie des bénéfices provenant des contrats de crédit-bail conclus avec l'exploitant public avant le 1er janvier 1993 et pour les plus-values qu'elles réalisent à l'occasion des ces opérations ainsi que pour la partie des bénéfices et des plus-values qu'elles réalisent en tant que société immobilière pour le commerce et l'industrie.

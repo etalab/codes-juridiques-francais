@@ -1,6 +1,6 @@
 # Article 209
 
-I. Sous réserve des dispositions de la présente section, les bénéfices passibles de l'impôt sur les sociétés sont déterminés d'après les règles fixées par les articles 34 à 45,53 A à 57,237 ter A et 302 septies A bis et en tenant compte uniquement des bénéfices réalisés dans les entreprises exploitées en France, de ceux mentionnés aux a, e, e bis et e ter du I de l'article 164 B ainsi que de ceux dont l'imposition est attribuée à la France par une convention internationale relative aux doubles impositions.
+I. Sous réserve des dispositions de la présente section, les bénéfices passibles de l'impôt sur les sociétés sont déterminés d'après les règles fixées par les articles 34 à 45,53 A à 57, 108 à 117, 237 ter A et 302 septies A bis et en tenant compte uniquement des bénéfices réalisés dans les entreprises exploitées en France, de ceux mentionnés aux a, e, e bis et e ter du I de l'article 164 B ainsi que de ceux dont l'imposition est attribuée à la France par une convention internationale relative aux doubles impositions.
 
 Toutefois, par dérogation aux dispositions du deuxième alinéa de l'article 37, l'impôt sur les sociétés dû par les entreprises créées à compter du 1er janvier 1984 est établi, lorsqu'aucun bilan n'est dressé au cours de la première année civile d'activité, sur les bénéfices de la période écoulée depuis le commencement des opérations jusqu'à la date de clôture du premier exercice et, au plus tard, jusqu'au 31 décembre de l'année suivant celle de la création.
 
@@ -34,13 +34,13 @@ IV.-1. Pour la détermination du résultat imposable des sociétés d'assurance 
 
 3. La disposition du 2 n'est pas applicable en cas d'imputation de pertes sur le compte "fonds d'établissement" ; les pertes ainsi annulées cessent d'être reportables.
 
-V. Pour la détermination du résultat imposable des entreprises bénéficiant ou ayant bénéficié du régime défini à l'article 209-0 B, le montant des plus ou moins-values provenant de la cession de navires éligibles à ce régime et réalisées pendant ou après la période couverte par l'option visée au III de ce même article est réduit à concurrence du rapport existant entre la durée de détention pendant la période couverte par cette option et la durée totale de détention.
+V. Pour la détermination du résultat imposable des entreprises bénéficiant ou ayant bénéficié du régime défini à l'article 209-0 B, le montant des plus ou moins-values provenant de la cession de navires éligibles à ce régime et réalisées pendant ou après la période couverte par l'option visée au III de ce même article est réduit à concurrence du rapport existant entre la durée de détention pendant la période couverte par cette option et la durée totale de détention. La durée de détention couverte par l'option est décomptée à partir de la date de début d'exploitation du navire dans le cadre du régime défini à l'article 209-0 B par l'entreprise cédante lorsque cette dernière a acquis l'intégralité des parts de la société propriétaire du navire, puis a acquis le navire dans le cadre d'une opération bénéficiant des dispositions des articles 210 A, 210 B et 210 C (1).
 
 Les dispositions du premier alinéa ne s'appliquent pas en cas de sortie du régime prévu à l'article 209-0 B dans les conditions prévues aux b et d du IV dudit article, ou de cession de navires pendant la période mentionnée au III de ce même article à des sociétés n'ayant pas opté pour le régime prévu à l'article 209-0 B précité et liées directement ou indirectement au sens du 12 de l'article 39.
 
-VI.-Le dix-neuvième  alinéa du 5° du 1 de l'article 39 s'applique distinctement aux titres de sociétés à prépondérance immobilière définis au troisième alinéa du a du I de l'article 219 et aux autres titres de sociétés à prépondérance immobilière.
+VI.-Le dix-neuvième alinéa du 5° du 1 de l'article 39 s'applique distinctement aux titres de sociétés à prépondérance immobilière définis au troisième alinéa du a du I de l'article 219 et aux autres titres de sociétés à prépondérance immobilière.
 
-VII.-Les frais liés à l'acquisition de titres de participation définis au dix-septième  alinéa du 5° du 1 de l'article 39 ne sont pas déductibles au titre de leur exercice d'engagement mais sont incorporés au prix de revient de ces titres. Pour l'application des dispositions de la phrase précédente, les frais d'acquisition s'entendent des droits de mutation, honoraires, commissions et frais d'actes liés à l'acquisition.
+VII.-Les frais liés à l'acquisition de titres de participation définis au dix-septième alinéa du 5° du 1 de l'article 39 ne sont pas déductibles au titre de leur exercice d'engagement mais sont incorporés au prix de revient de ces titres. Pour l'application des dispositions de la phrase précédente, les frais d'acquisition s'entendent des droits de mutation, honoraires, commissions et frais d'actes liés à l'acquisition.
 
 La fraction du prix de revient des titres mentionnés au premier alinéa correspondant à ces frais d'acquisition peut être amortie sur cinq ans à compter de la date d'acquisition des titres.
 
@@ -69,3 +69,9 @@ b) ou que le ratio d'endettement du groupe auquel elle appartient est supérieur
 Pour l'application des deuxième et troisième alinéas du présent 6, le groupe et les ratios d'endettement s'entendent conformément aux dispositions des deux derniers alinéas du III de l'article 212.
 
 7. Les fractions d'intérêts non déductibles au cours de l'exercice en application de l'article 212 et des six derniers alinéas de l'article 223 B ne sont pas prises en compte pour le calcul des charges financières devant être rapportées au bénéfice de l'exercice en application du présent article.
+
+X. - Ne sont pas déductibles de l'assiette de l'impôt sur les sociétés :
+
+1° Les cotisations versées au fonds de garantie des dépôts et de résolution en application de la première phrase du I de l'article L. 312-7 du code monétaire et financier pour financer les interventions prévues aux III et IV de l'article L. 312-5 du même code ;
+
+2° Les contributions prévues aux articles 69, 70 et 71 du règlement (UE) n° 806/2014 du Parlement européen et du Conseil, du 15 juillet 2014, établissant des règles et une procédure uniformes pour la résolution des établissements de crédit et de certaines entreprises d'investissement dans le cadre d'un mécanisme de résolution unique et d'un Fonds de résolution bancaire unique, et modifiant le règlement (UE) n° 1093/2010.

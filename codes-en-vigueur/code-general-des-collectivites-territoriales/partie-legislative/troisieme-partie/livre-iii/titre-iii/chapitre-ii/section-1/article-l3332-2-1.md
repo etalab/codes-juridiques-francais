@@ -822,9 +822,17 @@ III. - Ces pourcentages sont fixés comme suit :
 </tr>
 <tr>
 <td width="454">
-<p>La Réunion </p>
+<p>Mayotte</p>
 </td>
 <td width="227">
+<p align="center">0,000 0</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>La Réunion </p>
+</td>
+<td>
 <p align="center">0,000 0</p>
 </td>
 </tr>

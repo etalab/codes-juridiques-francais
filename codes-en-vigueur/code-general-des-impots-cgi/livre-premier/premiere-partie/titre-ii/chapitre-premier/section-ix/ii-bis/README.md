@@ -6,3 +6,4 @@
 - [Article 297 B](article-297-b.md)
 - [Article 297 E](article-297-e.md)
 - [Article 297 F](article-297-f.md)
+- [Article 297 G](article-297-g.md)

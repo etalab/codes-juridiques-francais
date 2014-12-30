@@ -6,4 +6,6 @@ Le produit de cette taxe est fixé annuellement au montant prévu au I de l'arti
 
 Ce produit est réparti entre toutes les personnes physiques ou morales assujetties aux taxes foncières sur les propriétés bâties et non bâties, à la taxe d'habitation et à la cotisation foncière des entreprises dans les communes de la région d'Ile-de-France proportionnellement aux recettes que chacune de ces taxes a procurées l'année précédente à l'ensemble des communes et de leurs établissements publics de coopération intercommunale situés dans le ressort de la région d'Ile-de-France. Les recettes à prendre en compte pour opérer cette répartition s'entendent de celles figurant dans les rôles généraux.
 
+A compter des impositions établies au titre de l'année 2016, les recettes de taxe d'habitation à prendre en compte pour opérer cette répartition sont minorées du produit que la majoration mentionnée à l'article 1407 ter a procuré au titre de l'année précédente à l'ensemble des communes situées dans le ressort de la région d'Ile-de-France.
+
 La taxe est établie et recouvrée suivant les règles définies aux quatrième à sixième alinéas de l'article 1607 bis.
