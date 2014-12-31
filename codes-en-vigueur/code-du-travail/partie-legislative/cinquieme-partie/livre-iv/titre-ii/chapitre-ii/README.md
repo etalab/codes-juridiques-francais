@@ -5,3 +5,4 @@
 - [Section 3 : Obligations d'assurance et de déclaration des rémunérations.](section-3)
 - [Section 4 : Modalités de recouvrement et de contrôle des contributions.](section-4)
 - [Section 5 : Accords relatifs à l'assurance chômage.](section-5)
+- [Section 6 -   Suivi financier du régime d'assurance chômage](section-6)
