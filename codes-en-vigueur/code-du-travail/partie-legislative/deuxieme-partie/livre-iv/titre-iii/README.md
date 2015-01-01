@@ -7,3 +7,4 @@
 - [Chapitre V : Salarié membre du conseil d'administration ou de surveillance d'une entreprise.](chapitre-v)
 - [Chapitre VI : Conseiller du salarié.](chapitre-vi)
 - [Chapitre VII : Conseiller prud'homme.](chapitre-vii)
+- [Chapitre VIII : Assesseur maritime](chapitre-viii)

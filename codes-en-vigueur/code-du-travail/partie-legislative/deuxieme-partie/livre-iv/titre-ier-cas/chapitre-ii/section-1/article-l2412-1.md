@@ -30,4 +30,6 @@ Bénéficie de la protection en cas de rupture d'un contrat à durée détermin�
 
 12° Représentant des salariés dans une chambre d'agriculture, mentionné à l'article L. 515-1 du code rural et de la pêche maritime ;
 
-13° Conseiller prud'homme.
+13° Conseiller prud'homme ;
+
+14° Assesseur maritime mentionné à l'article 7 de la loi du 17 décembre 1926 relative à la répression en matière maritime.

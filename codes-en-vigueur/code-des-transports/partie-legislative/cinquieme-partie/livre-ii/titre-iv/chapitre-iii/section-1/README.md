@@ -9,4 +9,3 @@
 - [Article L5243-3](article-l5243-3.md)
 - [Article L5243-4](article-l5243-4.md)
 - [Article L5243-5](article-l5243-5.md)
-- [Article L5243-6](article-l5243-6.md)

@@ -13,3 +13,4 @@
 - [Section 11 : Membre du conseil ou administrateur d'une caisse de sécurité sociale.](section-11)
 - [Section 12 : Représentant des salariés dans une chambre d'agriculture.](section-12)
 - [Section 13 : Conseiller prud'homme.](section-13)
+- [Section 14 : Assesseur maritime](section-14)

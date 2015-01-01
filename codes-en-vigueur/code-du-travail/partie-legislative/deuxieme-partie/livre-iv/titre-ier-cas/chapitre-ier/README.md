@@ -12,3 +12,4 @@
 - [Section 10 : Licenciement de salariés titulaires d'autres mandats de représentation](section-10)
 - [Section 11 : Licenciement du conseiller du salarié.](section-11)
 - [Section 12 : Licenciement du conseiller prud'homme.](section-12)
+- [Section 13 : Licenciement d'un assesseur maritime.](section-13)

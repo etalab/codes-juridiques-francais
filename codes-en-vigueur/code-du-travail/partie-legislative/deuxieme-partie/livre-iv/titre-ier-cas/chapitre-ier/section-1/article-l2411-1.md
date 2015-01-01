@@ -38,4 +38,6 @@ Bénéficie de la protection contre le licenciement prévue par le présent chap
 
 16° Conseiller du salarié inscrit sur une liste dressée par l'autorité administrative et chargé d'assister les salariés convoqués par leur employeur en vue d'un licenciement ;
 
-17° Conseiller prud'homme.
+17° Conseiller prud'homme ;
+
+18° Assesseur maritime, mentionné à l'article 7 de la loi du 17 décembre 1926 relative à la répression en matière maritime.
