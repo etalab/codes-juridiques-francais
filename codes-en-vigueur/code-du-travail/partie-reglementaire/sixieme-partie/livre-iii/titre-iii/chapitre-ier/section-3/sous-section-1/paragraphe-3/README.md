@@ -1,4 +1,4 @@
-# Paragraphe 3 : Dépenses libératoires
+# Paragraphe 3 : Dépenses éligibles au financement par l'employeur du compte personnel de formation
 
 - [Article D6331-24](article-d6331-24.md)
 - [Article D6331-25](article-d6331-25.md)
