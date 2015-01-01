@@ -4,5 +4,3 @@
 - [Article L6331-10](article-l6331-10.md)
 - [Article L6331-11](article-l6331-11.md)
 - [Article L6331-12](article-l6331-12.md)
-- [Article L6331-13](article-l6331-13.md)
-- [Article L6331-14](article-l6331-14.md)

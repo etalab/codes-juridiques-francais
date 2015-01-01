@@ -4,4 +4,4 @@ Un établissement public, doté de la personnalité civile et de l'autonomie fin
 
 Il élabore et diffuse cette documentation en liaison avec les représentants des professions et des administrations intéressées. Il participe à l'insertion professionnelle des étudiants et diplômés à leur sortie des établissements d'enseignement.
 
-Le conseil d'administration de cet établissement public comprend notamment des représentants des familles, des parents d'élèves de l'enseignement public et de l'enseignement privé et des étudiants.
+Le conseil d'administration de cet établissement public comprend notamment des représentants des familles, des parents d'élèves de l'enseignement public et de l'enseignement privé, des étudiants, ainsi que des représentants des régions.

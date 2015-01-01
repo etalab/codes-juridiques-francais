@@ -8,7 +8,7 @@ Un accord conclu et agréé dans les conditions prévues à la section 5 du chap
 
 3° La durée du contrat de sécurisation professionnelle et les modalités de son éventuelle adaptation aux spécificités des entreprises et aux situations des salariés intéressés, notamment par la voie de périodes de travail effectuées pour le compte de tout employeur, à l'exception des particuliers, dans le cadre des contrats de travail à durée déterminée prévus à l'article L. 1242-3, renouvelables une fois par dérogation à l'article L. 1243-13, et des contrats de travail temporaire prévus à l'article L. 1251-7 ;
 
-4° Le contenu des mesures mentionnées à l'article L. 1233-65 ainsi que les modalités selon lesquelles elles sont financées, notamment au titre du droit individuel à la formation, et mises en œuvre par l'un des organismes assurant le service public de l'emploi, y concourant ou y participant mentionnés aux articles L. 5311-2 à L. 5311-4 ;
+4° Le contenu des mesures mentionnées à l'article L. 1233-65 ainsi que les modalités selon lesquelles elles sont financées, notamment au titre du    compte personnel de formation, et mises en œuvre par l'un des organismes assurant le service public de l'emploi, y concourant ou y participant mentionnés aux articles L. 5311-2 à L. 5311-4 ;
 
 5° Les dispositions permettant d'assurer la continuité des formations engagées durant le contrat de sécurisation professionnelle ;
 
