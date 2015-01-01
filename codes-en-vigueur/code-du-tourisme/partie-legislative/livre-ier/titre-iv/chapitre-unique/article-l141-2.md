@@ -6,7 +6,7 @@ L'agence poursuit un triple objectif de promotion du tourisme en France, de réa
 
 ― fournir une expertise à l'Etat, aux collectivités territoriales et aux partenaires privés ou associatifs membres du groupement, pour la définition et la mise en œuvre de leur politique touristique, concevoir et développer leurs projets, les conseiller en matière de formation, de recherche, d'innovation et de développement durable dans le secteur du tourisme et exporter son savoir-faire à l'international ;
 
-― élaborer, mettre en œuvre et assurer le suivi des actions d'information et de promotion des territoires et destinations de la métropole et des collectivités ultramarines sur les marchés étranger et national. A  ce titre, l'agence promeut la qualité de l'offre touristique dans les  hébergements, la restauration, l'accueil des touristes et les  prestations annexes, conduit les procédures de classement prévues au  livre III du présent code et prononce le classement des hébergements  touristiques marchands concernés, à l'exception des meublés de tourisme ;
+― élaborer, mettre en œuvre et assurer le suivi des actions d'information et de promotion des territoires et destinations de la métropole et des collectivités ultramarines sur les marchés étranger et national. A ce titre, l'agence promeut la qualité de l'offre touristique dans les hébergements, la restauration, l'accueil des touristes et les prestations annexes, conduit les procédures de classement prévues au livre III du présent code et prononce le classement des hébergements touristiques marchands concernés, à l'exception des meublés de tourisme ;
 
 ― observer les phénomènes touristiques, mettre en place des données chiffrées fiables et utilisables par ses membres, produire des études, notamment prospectives, sur l'offre et la demande dans les filières et les territoires touristiques, diffuser le résultat de ses travaux par tous moyens qu'elle juge appropriés ;
 
@@ -14,7 +14,7 @@ L'agence poursuit un triple objectif de promotion du tourisme en France, de réa
 
 L'Etat, les collectivités territoriales ainsi que leurs établissements publics peuvent par convention confier à l'agence d'autres missions d'intérêt général compatibles avec son objet.
 
-L'agence comprend une commission chargée d'immatriculer les personnes physiques ou morales mentionnées à l'article L. 211-1 et les exploitants de voitures de tourisme avec chauffeur visés à l'article L. 231-1.
+L'agence comprend une commission chargée d'immatriculer les personnes physiques ou morales mentionnées à  l'article L. 211-1.
 
 Elle comprend également une commission de l'hébergement touristique marchand. Les missions, les conditions de fonctionnement et les modalités de participation des organismes représentatifs du secteur de l'hébergement touristique aux travaux de cette commission sont déterminées par décret.
 
@@ -28,4 +28,4 @@ L'agence est soumise au contrôle économique et financier de l'Etat, sans préj
 
 Le contrat constitutif de l'agence de développement touristique de la France est approuvé par arrêté du ministre chargé du tourisme.
 
-Le  directeur général de l'agence, nommé par le ministre chargé du tourisme  sur proposition du conseil d'administration, assure, sous l'autorité de  ce conseil et de son président, le fonctionnement du groupement. Dans  les rapports avec les tiers, le directeur général engage le groupement  pour tout acte entrant dans l'objet de celui-ci.
+Le directeur général de l'agence, nommé par le ministre chargé du tourisme sur proposition du conseil d'administration, assure, sous l'autorité de ce conseil et de son président, le fonctionnement du groupement. Dans les rapports avec les tiers, le directeur général engage le groupement pour tout acte entrant dans l'objet de celui-ci.
