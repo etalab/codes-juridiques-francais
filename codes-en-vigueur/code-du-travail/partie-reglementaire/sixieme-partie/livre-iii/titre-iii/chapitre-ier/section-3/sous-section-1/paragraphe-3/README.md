@@ -1,18 +1,5 @@
 # Paragraphe 3 : Dépenses éligibles au financement par l'employeur du compte personnel de formation
 
-- [Article D6331-24](article-d6331-24.md)
-- [Article D6331-25](article-d6331-25.md)
 - [Article R6331-13](article-r6331-13.md)
-- [Article R6331-14](article-r6331-14.md)
 - [Article R6331-15](article-r6331-15.md)
 - [Article R6331-16](article-r6331-16.md)
-- [Article R6331-17](article-r6331-17.md)
-- [Article R6331-18](article-r6331-18.md)
-- [Article R6331-19](article-r6331-19.md)
-- [Article R6331-20](article-r6331-20.md)
-- [Article R6331-21](article-r6331-21.md)
-- [Article R6331-22](article-r6331-22.md)
-- [Article R6331-23](article-r6331-23.md)
-- [Article R6331-26](article-r6331-26.md)
-- [Article R6331-27](article-r6331-27.md)
-- [Article R6331-28](article-r6331-28.md)
