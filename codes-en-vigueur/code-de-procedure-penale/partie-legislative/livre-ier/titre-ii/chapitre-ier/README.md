@@ -19,6 +19,7 @@
 - [Article 60-2](article-60-2.md)
 - [Article 61](article-61.md)
 - [Article 61-1](article-61-1.md)
+- [Article 61-2](article-61-2.md)
 - [Article 62](article-62.md)
 - [Article 62-1](article-62-1.md)
 - [Article 62-2](article-62-2.md)
