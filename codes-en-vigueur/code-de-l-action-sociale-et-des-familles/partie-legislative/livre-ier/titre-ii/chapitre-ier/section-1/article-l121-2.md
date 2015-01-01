@@ -1,6 +1,6 @@
 # Article L121-2
 
-Dans les zones urbaines sensibles et dans les lieux où se manifestent des risques d'inadaptation sociale le département participe aux actions visant à prévenir la marginalisation et à faciliter l'insertion ou la promotion sociale des jeunes et des familles, qui peuvent prendre une ou plusieurs des formes suivantes :
+Dans les quartiers prioritaires de la politique de la ville et dans les lieux où se manifestent des risques d'inadaptation sociale le département participe aux actions visant à prévenir la marginalisation et à faciliter l'insertion ou la promotion sociale des jeunes et des familles, qui peuvent prendre une ou plusieurs des formes suivantes :
 
 1° Actions tendant à permettre aux intéressés d'assurer leur propre prise en charge et leur insertion sociale ;
 
