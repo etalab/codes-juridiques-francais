@@ -4052,11 +4052,11 @@
 </td>
 </tr>
 <tr>
-<td rowspan="3" valign="top">
+<td rowspan="4" valign="top">
 <p>2760 </p>
 </td>
 <td valign="top" width="437">
-<p>Installation de stockage de déchets autre que celles mentionnées à la rubrique 2720 et celles relevant des dispositions de l'article L. 541-30-1 du code de l'environnement. </p>
+<p>Installation de stockage de déchets autre que celles mentionnées à la rubrique 2720 </p>
 </td>
 <td valign="top" width="32">
 <br/>
@@ -4077,7 +4077,7 @@
 <tr>
 <td align="left" valign="top">
 <p>1. Installation de stockage de déchets dangereux ; </p>
-<p>2. Installation de stockage de déchets non dangereux. </p>
+<p>2. Installation de stockage de déchets non dangereux autres que celles mentionnées au 3. </p>
 </td>
 <td align="left" valign="top">
 <p align="center">A </p>
@@ -4104,6 +4104,13 @@
 <td align="left" valign="top">
 <p align="center">3</p>
 </td>
+</tr>
+<tr>
+<td> 3. Installations de stockage de déchets inertes</td>
+<td> E</td>
+<td/>
+<td/>
+<td/>
 </tr>
 <tr>
 <td rowspan="5" valign="top">

@@ -2,7 +2,7 @@
 
 Les installations dont la mise en activité est subordonnée à l'existence de garanties financières et dont le changement d'exploitant est soumis à autorisation préfectorale sont :
 
-1° Les installations de stockage des déchets ;
+1° Les installations de stockage des déchets, à l'exclusion des installations de stockage de déchets inertes ;
 
 2° Les carrières ;
 

@@ -3982,9 +3982,7 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 <td rowspan="14" valign="top" width="21">
 <p>1185 </p>
 </td>
-<td valign="top" width="433">
-<p>Gaz à effet de serre fluorés visés par le règlement (CE) n° 842/2006 ou substances qui appauvrissent la couche d'ozone visées par le règlement (CE) n° 1005/2009 (fabrication, emploi, stockage). </p>
-</td>
+<td valign="top" width="433">Gaz à effet de serre fluorés visés à l'annexe du règlement (UE) n° 517/2014 relatif aux gaz à effet de serre fluorés et abrogeant le règlement (CE) n° 842/2006 ou substances qui appauvrissent la couche d'ozone visées par le règlement (CE) n° 1005/2009 (fabrication, emploi, stockage).</td>
 <td valign="top" width="31">
 <br/>
 <br/>
@@ -4001,7 +3999,8 @@ DE L'ENVIRONNEMENT ET TAXE GÉNÉRALE SUR LES ACTIVITÉS POLLUANTES
 </tr>
 <tr>
 <td valign="top" width="433">
-<p align="left">1. Fabrication et emploi autres que ceux mentionnés au 2 et à l'exclusion du nettoyage à sec de produits textiles visé par la rubrique 2345, du nettoyage, dégraissage, décapage de surfaces visés par la rubrique 2564, de la fabrication industrielle de composés organohalogénés, organophosphorés et organostanniques visée par la rubrique 1174, de l'emploi de liquides organohalogénés visé par la rubrique 1175 et de l'emploi d'hexafluorure de soufre dans les appareillages de connexion à haute tension. <br/>
+<p align="left">
+<br/>1. Fabrication et emploi autres que ceux mentionnés au 2 et à l'exclusion du nettoyage à sec de produits textiles visé par la rubrique 2345, du nettoyage, dégraissage, décapage de surfaces visés par la rubrique 2564, de la fabrication industrielle de composés organohalogénés, organophosphorés et organostanniques visée par la rubrique 1174, de l'emploi de liquides organohalogénés visé par la rubrique 1175 et de l'emploi d'hexafluorure de soufre dans les appareillages de connexion à haute tension.<br/>
 </p>
 </td>
 <td valign="top" width="31">
