@@ -1,6 +1,6 @@
 # Article 50 sexies J
 
-Les informations prévues au 2 de l'article 298 sexdecies F du code général des impôts sont les suivantes :
+Les informations prévues au 2 de l'article 298 sexdecies F et au V de l'article 298 sexdecies G du code général des impôts sont les suivantes :
 
 a. Raison sociale ;
 
