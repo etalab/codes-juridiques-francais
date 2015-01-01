@@ -15,3 +15,4 @@
 - [Article L725-11](article-l725-11.md)
 - [Article L725-12](article-l725-12.md)
 - [Article L725-12-1](article-l725-12-1.md)
+- [Article L725-12-2](article-l725-12-2.md)
