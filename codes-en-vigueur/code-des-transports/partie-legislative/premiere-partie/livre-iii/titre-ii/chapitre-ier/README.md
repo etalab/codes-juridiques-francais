@@ -5,4 +5,4 @@
 - [Section 3 : Repos quotidien](section-3)
 - [Section 4 : Repos hebdomadaire](section-4)
 - [Section 5 : Travail de nuit du personnel roulant ou navigant](section-5)
-- [Section 6 : Pauses du personnel roulant ou navigant](section-6)
+- [Section 6 : Pauses](section-6)

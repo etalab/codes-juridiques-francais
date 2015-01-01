@@ -4,7 +4,7 @@ Il est institué, à compter du 1er janvier 2009, un droit fixe dû par les entr
 
 Ce droit comprend, selon le cas :
 
-1° Une part du montant des redevances d'utilisation du réseau ferré national versées à Réseau ferré de France dans la limite de cinq millièmes de ce montant ;
+1° Une part du montant des redevances d'utilisation du réseau ferré national versées au gestionnaire du réseau ferré national mentionné à l'article L. 2111-9, dans la limite de cinq millièmes de ce montant ;
 
 2° Une somme proportionnelle au nombre de kilomètres parcourus sur les autres lignes du réseau ferroviaire, dans la limite de 0,10 € par kilomètre parcouru.
 

@@ -1,6 +1,6 @@
 # Article L2251-2
 
-Les agents des services internes de sécurité de la Société nationale des chemins de fer français et de la Régie autonome des transports parisiens qui ont fait l'objet d'une condamnation à une peine correctionnelle ou à une peine criminelle inscrite au bulletin n° 2 du casier judiciaire ou, pour les ressortissants étrangers, dans un document équivalent, ne peuvent être affectés ou maintenus dans ce service interne de sécurité. Il en va de même :
+Les agents des services internes de sécurité de la SNCF et de la Régie autonome des transports parisiens qui ont fait l'objet d'une condamnation à une peine correctionnelle ou à une peine criminelle inscrite au bulletin n° 2 du casier judiciaire ou, pour les ressortissants étrangers, dans un document équivalent, ne peuvent être affectés ou maintenus dans ce service interne de sécurité. Il en va de même :
 
 1° Si l'agent a fait l'objet d'un arrêté d'expulsion non abrogé ou d'une interdiction du territoire français non entièrement exécutée ;
 

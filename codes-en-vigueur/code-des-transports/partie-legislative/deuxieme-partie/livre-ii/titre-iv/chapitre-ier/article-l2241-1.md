@@ -8,7 +8,9 @@ I. ― Sont chargés de constater par procès-verbaux les infractions aux dispos
 
 3° Les agents assermentés missionnés du gestionnaire d'infrastructures de transport ferroviaire et guidé ;
 
-4° Les agents assermentés de l'exploitant du service de transport.
+4° Les agents assermentés de l'exploitant du service de transport ;
+
+5° Les agents assermentés missionnés du service interne de sécurité de la SNCF mentionné à l'article L. 2251-1-1.
 
 II. ― Les contraventions aux dispositions des arrêtés de l'autorité administrative compétente de l'Etat concernant la circulation, l'arrêt et le stationnement des véhicules dans les cours des gares sont constatées également par :
 

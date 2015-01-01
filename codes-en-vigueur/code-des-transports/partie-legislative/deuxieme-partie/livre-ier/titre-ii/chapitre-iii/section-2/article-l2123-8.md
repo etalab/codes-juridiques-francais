@@ -1,3 +1,0 @@
-# Article L2123-8
-
-Le service gestionnaire des trafics et des circulations dispose d'un budget propre, dont le financement est assuré par Réseau ferré de France dans le cadre d'une convention passée avec la Société nationale des chemins de fer français, cosignée par le directeur du service gestionnaire. Cette convention fixe, conformément à l'article L. 2111-10, les conditions d'exécution et de rémunération des missions exercées par le service, notamment pour ce qui concerne les études techniques d'exécution nécessaires à l'instruction des demandes de sillons et la gestion opérationnelle des circulations.

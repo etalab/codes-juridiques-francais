@@ -8,3 +8,4 @@
 - [Article L2242-6](article-l2242-6.md)
 - [Article L2242-7](article-l2242-7.md)
 - [Article L2242-8](article-l2242-8.md)
+- [Article L2242-9](article-l2242-9.md)

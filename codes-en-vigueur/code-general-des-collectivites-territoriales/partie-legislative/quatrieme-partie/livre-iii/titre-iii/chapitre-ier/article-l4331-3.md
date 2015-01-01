@@ -16,6 +16,8 @@ f) Le produit des cessions d'immobilisations, selon les modalités fixées par d
 
 g) Les versements au titre du Fonds de compensation pour la taxe sur la valeur ajoutée ;
 
+g bis) Le produit de la contribution locale temporaire mentionnée à l'article L. 2124-1 du code des transports ;
+
 h) Pour les régions d'outre-mer :
 
 1° Le produit des amendes des radars automatiques en application de l'article 41 de la loi n° 2007-1822 du 24 décembre 2007 de finances pour 2008 ;

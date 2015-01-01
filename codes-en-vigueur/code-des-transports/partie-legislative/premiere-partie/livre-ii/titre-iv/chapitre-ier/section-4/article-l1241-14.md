@@ -24,4 +24,6 @@ Les ressources du Syndicat des transports d'Ile-de-France comprennent :
 
 10° Les contributions prévues au dernier alinéa du II de l'article 21 de la loi n° 2010-597 du juin 2010 relative au Grand Paris ;
 
-11° Le produit de la taxe prévue au dernier alinéa du I de l'article 1635 ter A du code général des impôts.
+11° Le produit de la taxe prévue au dernier alinéa du I de l'article 1635 ter A du code général des impôts ;
+
+12° Le produit de la contribution locale temporaire mentionnée à l'article L. 2124-1 du présent code.
