@@ -298,8 +298,7 @@ I.-Les plans, schémas, programmes et autres documents de planification devant f
 </tr>
 <tr>
 <td align="center">
-<p align="left">33° 4° et 5° du projet stratégique des grands ports maritimes, prévus à l'article R. 103-1 du code des ports maritimes
-</p>
+<p align="left">33° 4° et 5° du projet stratégique des grands ports maritimes, prévus à l'article R. 5312-63 du code des transports </p>
 </td>
 <td align="center">
 <p align="left">Formation d'autorité environnementale du Conseil général de l'environnement et du développement durable </p>
