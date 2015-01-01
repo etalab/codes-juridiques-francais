@@ -1,4 +1,4 @@
-# Paragraphe 3 : Dépenses libératoires.
+# Paragraphe 3 : Versement au Trésor public.
 
 - [Article L6331-19](article-l6331-19.md)
 - [Article L6331-20](article-l6331-20.md)
@@ -9,3 +9,4 @@
 - [Article L6331-25](article-l6331-25.md)
 - [Article L6331-26](article-l6331-26.md)
 - [Article L6331-27](article-l6331-27.md)
+- [Article L6331-28](article-l6331-28.md)
