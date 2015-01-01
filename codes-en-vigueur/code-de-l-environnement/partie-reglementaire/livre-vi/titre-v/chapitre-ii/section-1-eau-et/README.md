@@ -9,7 +9,6 @@
 - [Article R652-8](article-r652-8.md)
 - [Article R652-9](article-r652-9.md)
 - [Article R652-10](article-r652-10.md)
-- [Article R652-10-1](article-r652-10-1.md)
 - [Article R652-11](article-r652-11.md)
 - [Article R652-12](article-r652-12.md)
 - [Article R652-12-1](article-r652-12-1.md)
