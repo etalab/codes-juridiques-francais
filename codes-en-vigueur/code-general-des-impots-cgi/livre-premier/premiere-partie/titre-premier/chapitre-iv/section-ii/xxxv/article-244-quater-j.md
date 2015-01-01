@@ -28,7 +28,7 @@ Le montant total des ressources à prendre en compte ne doit pas excéder 64 875
 
 Le montant de l'avance remboursable sans intérêt est plafonné à 32 500 €.
 
-Ce dernier montant est majoré de 50 % dans les zones urbaines sensibles et dans les zones franches urbaines mentionnées à l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire.
+Ce dernier montant est majoré de 50 % dans les quartiers prioritaires de la politique de la ville et dans les zones franches urbaines - territoires entrepreneurs mentionnées à l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire.
 
 Jusqu'au 31 décembre 2010, le montant plafond de l'avance remboursable sans intérêt est majoré d'un montant de 15 000 € pour les opérations d'accession sociale à la propriété portant sur la construction ou l'acquisition de logements neufs et donnant lieu à une aide à l'accession sociale à la propriété attribuée par une ou plusieurs collectivités territoriales ou par un groupement de collectivités territoriales du lieu d'implantation du logement, dans les conditions prévues à l'article L. 312-2-1 du code de la construction et de l'habitation. Les ressources des ménages bénéficiaires de cette majoration doivent être inférieures ou égales aux plafonds de ressources permettant l'accès aux logements locatifs sociaux visés au I de l'article R. 331-1 du même code.
 
