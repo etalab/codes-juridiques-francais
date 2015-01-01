@@ -106,6 +106,8 @@ Les opérations mentionnées au I de l'article 257 et les opérations donnant li
 
 Lorsque la limite de 60 000 € est atteinte en cours d'année, l'organisme ne peut plus bénéficier de l'exonération prévue au deuxième alinéa à compter du premier jour du mois suivant celui au cours duquel cette limite a été dépassée ;
 
+Les limites mentionnées aux deuxième à avant-dernier alinéas du présent b sont indexées, chaque année, sur la prévision de l'indice des prix à la consommation, hors tabac, retenue dans le projet de loi de finances de l'année ;
+
 c. les recettes de six manifestations de bienfaisance ou de soutien organisées dans l'année à leur profit exclusif par les organismes désignés au a et b ainsi que par les organismes permanents à caractère social des collectivités locales et des entreprises ;
 
 d. le caractère désintéressé de la gestion résulte de la réunion des conditions ci-après :

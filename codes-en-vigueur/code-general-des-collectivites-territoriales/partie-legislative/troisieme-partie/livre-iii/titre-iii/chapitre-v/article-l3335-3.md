@@ -1,8 +1,8 @@
 # Article L3335-3
 
-I.-En 2014, il est créé un fonds de solidarité en faveur des départements.
+I.-A compter de 2014, il est créé un fonds de solidarité en faveur des départements. A compter de 2015, le présent article s'applique à la métropole de Lyon.
 
-II.-Ce fonds est alimenté par un prélèvement égal à 0,35 % du montant de l'assiette de la taxe de publicité foncière et des droits d'enregistrement perçus par les départements en 2013 en application des articles 682 et 683 du code général des impôts.
+II.-Ce fonds est alimenté par un prélèvement égal à 0,35 % du montant de l'assiette de la taxe de publicité foncière et des droits d'enregistrement perçus par les départements, l'année précédant celle de la répartition, en application des articles 682 et 683 du code général des impôts.
 
 Pour chaque département, la somme des prélèvements opérés en application du présent article et du IV de l'article L. 3335-2 du présent code ne peut excéder 12 % du produit des droits de mutation à titre onéreux perçu par le département l'année précédant celle de la répartition.
 
@@ -24,7 +24,7 @@ a) La première fraction, dont le montant représente 30 % des ressources défin
 
 b) La seconde fraction, dont le montant représente 70 % des ressources définies au II du présent article, bénéficie à la première moitié des départements classés en fonction décroissante de leur solde par habitant défini au 1 du présent III et éligibles à la fraction prévue au a du présent 2. Cette fraction est répartie entre les départements éligibles en fonction de la population telle que définie à l'article L. 3334-2 et de l'écart relatif entre le solde par habitant défini au 1 du présent III et le solde par habitant médian.
 
-3. Les départements dont le montant par habitant des droits de mutation à titre onéreux perçu l'année précédente est supérieur à 1,4 fois le montant par habitant de l'ensemble des départements ne peuvent pas bénéficier d'une attribution au titre du fonds. L'attribution au titre du fonds des départements éligibles à la première fraction ou à la seconde fraction et dont le montant par habitant des droits de mutation à titre onéreux est supérieur à 1,1 fois le montant moyen par habitant des droits perçus par l'ensemble des départements fait l'objet d'un abattement de 50 %.
+3. Les départements dont le montant par habitant des droits de mutation à titre onéreux perçu l'année précédente est supérieur à 1,4 fois le montant par habitant de l'ensemble des départements ne peuvent pas bénéficier d'une attribution au titre du fonds. L'attribution au titre du fonds des départements éligibles à la première fraction ou à la seconde fraction et dont le montant par habitant des droits de mutation à titre onéreux est supérieur à 1,1 fois le montant moyen par habitant des droits perçus par l'ensemble des départements fait l'objet d'un abattement de 50 %. Pour le calcul du montant par habitant des droits de mutation à titre onéreux, la population à prendre en compte est celle calculée en application de l'article L. 3334-2.
 
 4. Pour l'application du présent article, le potentiel fiscal utilisé est majoré ou, le cas échéant, minoré d'une fraction de correction égale pour chaque département à la différence entre les deux termes suivants :
 

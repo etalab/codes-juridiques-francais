@@ -7,5 +7,4 @@
 - [Article L2334-8](article-l2334-8.md)
 - [Article L2334-9](article-l2334-9.md)
 - [Article L2334-10](article-l2334-10.md)
-- [Article L2334-11](article-l2334-11.md)
 - [Article L2334-12](article-l2334-12.md)

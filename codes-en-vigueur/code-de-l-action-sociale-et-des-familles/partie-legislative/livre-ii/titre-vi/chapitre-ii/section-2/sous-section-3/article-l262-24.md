@@ -14,7 +14,7 @@ II. ― Le fonds national des solidarités actives est administré par un consei
 
 Sa gestion est assurée par la Caisse des dépôts et consignations.
 
-III. ― Les recettes du Fonds national des solidarités actives sont notamment constituées par la part, fixée au 1° du IV de l'article 1600-0 S du code général des impôts, du produit des prélèvements de solidarité mentionnés à ce même article.
+III. ―  Les recettes du fonds national des solidarités actives sont notamment constituées des reversements, prévus à l'article L. 5423-25 du code du travail, de la contribution exceptionnelle de solidarité mentionnée à l'article L. 5423-26 du même code.
 
 L'Etat assure l'équilibre du fonds national des solidarités actives en dépenses et en recettes.
 

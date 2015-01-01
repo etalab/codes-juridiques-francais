@@ -12,7 +12,7 @@ Le carburant doit avoir supporté la taxe intérieure de consommation sur le ter
 
 Ce remboursement est calculé, au choix du demandeur :
 
--soit en appliquant au volume de gazole utilisé comme carburant dans des véhicules définis aux a et b, acquis dans chaque région et dans la collectivité territoriale de Corse, la différence entre 39,19 euros par hectolitre et le tarif qui y est applicable en application des articles 265 et 265 A bis ;
+-soit en appliquant au volume de gazole utilisé comme carburant dans des véhicules définis aux a et b, acquis dans chaque région et dans la collectivité territoriale de Corse, la différence entre 43,19 euros par hectolitre et le tarif qui y est applicable en application des articles 265 et 265 A bis ;
 
 -soit en appliquant, au total du volume de gazole utilisé comme carburant dans des véhicules définis aux a et b, acquis dans au moins trois des régions, dont le cas échéant la collectivité territoriale de Corse, un taux moyen de remboursement calculé en pondérant les différents taux régionaux votés dans les conditions précisées au 2 de l'article 265 et à l'article 265 A bis par les volumes de gazole respectivement mis à la consommation dans chaque région et dans la collectivité territoriale de Corse. Le montant de ce taux moyen pondéré est fixé par arrêté.
 

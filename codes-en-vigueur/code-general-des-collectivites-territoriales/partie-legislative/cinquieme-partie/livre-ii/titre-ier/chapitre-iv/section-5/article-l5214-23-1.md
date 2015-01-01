@@ -4,7 +4,7 @@ Les communautés de communes faisant application des dispositions de l'article 1
 
 1° En matière de développement économique : aménagement, entretien et gestion de zones d'activité industrielle, commerciale, tertiaire, artisanale ou touristique qui sont d'intérêt communautaire ; actions de développement économique d'intérêt communautaire ;
 
-2° En matière d'aménagement de l'espace communautaire : schéma de cohérence territoriale et schéma de secteur ; plan local d'urbanisme, document d'urbanisme en tenant lieu et carte communale ; zones d'aménagement concerté d'intérêt communautaire ;
+2° En matière d'aménagement de l'espace communautaire : schéma de cohérence territoriale et schéma de secteur ; à compter du 1er janvier 2018, plan local d'urbanisme, document d'urbanisme en tenant lieu et carte communale ; zones d'aménagement concerté d'intérêt communautaire ;
 
 3° Création ou aménagement et entretien de voirie d'intérêt communautaire ;
 

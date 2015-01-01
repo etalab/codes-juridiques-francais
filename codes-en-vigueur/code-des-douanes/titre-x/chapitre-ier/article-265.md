@@ -620,10 +620,10 @@ Tableau B : Produits pétroliers et assimilés.
 <br/>42,84 <br/>
 </td>
 <td align="center">
-<br/>44,82 <br/>
+<br/>46,82 <br/>
 </td>
 <td align="center">
-<br/>46,81<br/>
+<br/>48,81<br/>
 </td>
 </tr>
 <tr>

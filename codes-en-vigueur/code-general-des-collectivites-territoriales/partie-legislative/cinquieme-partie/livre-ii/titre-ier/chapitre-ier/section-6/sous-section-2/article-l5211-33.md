@@ -29,3 +29,5 @@ Une communauté d'agglomération, créée ex nihilo, perçoit la deuxième anné
 Les syndicats d'agglomération nouvelle perçoivent une attribution qui progresse chaque année selon un taux fixé par le comité des finances locales au plus égal au taux d'évolution de la dotation forfaitaire prévue à l'article L. 2334-7.
 
 A compter de 2005, les communautés d'agglomération, les communautés de communes ne faisant pas application des dispositions de l'article 1609 nonies C du code général des impôts, ainsi que les communautés de communes faisant application des dispositions du même article, dont le potentiel fiscal par habitant est inférieur d'au moins 50 % au potentiel fiscal par habitant de la catégorie à laquelle elles appartiennent ne peuvent percevoir, à compter de la deuxième année d'attribution de la dotation dans la même catégorie, une attribution par habitant inférieure à celle perçue l'année précédente.
+
+Pour le calcul des garanties et des plafonnements, la dotation à prendre en compte au titre de l'année précédente est celle calculée avant application des minorations prévues à l'article L. 5211-28.

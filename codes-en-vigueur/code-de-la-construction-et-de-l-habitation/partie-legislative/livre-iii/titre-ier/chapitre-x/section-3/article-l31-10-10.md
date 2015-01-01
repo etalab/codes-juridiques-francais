@@ -4,7 +4,7 @@ Le coût total de l'opération comprend le coût des travaux éventuellement pr�
 
 Le plafond dans la limite duquel est retenu le coût total d'opération correspond au produit du montant maximal d'opération pour une personne seule par un coefficient familial, arrondi au millier d'euros le plus proche.
 
-Le montant maximal d'opération pour une personne seule est fixé par décret, en fonction de la localisation du logement et de son caractère neuf ou ancien. Il ne peut être supérieur à 156 000 € ni inférieur à 79 000 €.
+Le montant maximal d'opération pour une personne seule est fixé par décret, en fonction de la localisation du logement. Il ne peut être supérieur à 156 000 € ni inférieur à 79 000 €.
 
 Le coefficient familial mentionné au deuxième alinéa est déterminé en fonction du nombre de personnes destinées à occuper à titre de résidence principale le logement, selon le tableau ci-après :
 

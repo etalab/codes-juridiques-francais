@@ -22,7 +22,7 @@ II.-Par dérogation au I, l'expiration du délai de trois mois n'est pas opposab
 
 6° Lorsqu'à la date d'expiration de ce délai, une enquête judiciaire ou une information ouverte par l'autorité judiciaire dans le cas mentionné à l'article L. 188 B est en cours ;
 
-7° Si le contribuable s'est livré à une activité occulte, au sens du troisième alinéa de l'article L. 169.
+7° Si le contribuable s'est livré à une activité occulte, au sens du deuxième alinéa de l'article L. 169.
 
 III.-En cas de mise en œuvre du I de l'article L. 47 A, le délai de trois mois prévu au I du présent article est suspendu jusqu'à la remise de la copie des fichiers des écritures comptables à l'administration.
 

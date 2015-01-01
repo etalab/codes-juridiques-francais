@@ -5,3 +5,4 @@
 - [CHAPITRE III : Cimetières et opérations funéraires](chapitre-iii)
 - [CHAPITRE IV : Services publics industriels et commerciaux](chapitre-iv)
 - [CHAPITRE V : Défense extérieure contre l'incendie](chapitre-v)
+- [CHAPITRE VI : Gestion des eaux pluviales urbaines](chapitre-vi)

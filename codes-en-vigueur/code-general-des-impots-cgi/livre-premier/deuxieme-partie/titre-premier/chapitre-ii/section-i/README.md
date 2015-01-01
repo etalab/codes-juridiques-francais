@@ -1,3 +1,3 @@
 # Section I : Taxes obligatoires
 
-- [II : Impôt sur les spectacles, jeux et divertissements](ii)
+- [II : Impôt sur les cercles et maisons de jeux](ii)

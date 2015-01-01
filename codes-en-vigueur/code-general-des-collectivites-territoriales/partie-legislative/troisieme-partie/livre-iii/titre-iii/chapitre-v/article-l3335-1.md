@@ -10,25 +10,27 @@ B. - Le fonds est alimenté par un premier prélèvement selon les modalités su
 
 1° Sont contributeurs au premier prélèvement les départements dont le montant par habitant de cotisation sur la valeur ajoutée des entreprises perçu l'année précédant la répartition est supérieur à 90 % du montant par habitant de cotisation sur la valeur ajoutée des entreprises perçu par l'ensemble des départements ;
 
-2° Le premier prélèvement, calculé afin d'atteindre en 2013 le montant de 30 millions d'euros, est réparti entre les départements contributeurs en fonction de l'écart relatif entre le montant par habitant de cotisation sur la valeur ajoutée des entreprises perçu par le département l'année précédant la répartition, d'une part, et 90 % du montant par habitant de cotisation sur la valeur ajoutée des entreprises perçu par l'ensemble des départements, d'autre part, multiplié par la population du département. En 2015, ce prélèvement est calculé pour atteindre au moins le double du montant fixé pour 2013 ;
+2° Le premier prélèvement, calculé afin d'atteindre en 2013 le montant de 30 millions d'euros, est réparti entre les départements contributeurs en fonction de l'écart relatif entre le montant par habitant de cotisation sur la valeur ajoutée des entreprises perçu par le département l'année précédant la répartition, d'une part, et 90 % du montant par habitant de cotisation sur la valeur ajoutée des entreprises perçu par l'ensemble des départements, d'autre part, multiplié par la population du département. A compter de 2015, ce prélèvement est calculé pour atteindre le double du montant fixé pour 2013 ;
 
-3° Le montant prélevé au titre de ce premier prélèvement ne peut pas excéder, pour un département contributeur, 1 % du produit de la cotisation sur la valeur ajoutée des entreprises perçu l'année précédant la répartition.
+3° Le montant prélevé au titre de ce premier prélèvement ne peut pas excéder, pour un département contributeur, 2 % du produit de la cotisation sur la valeur ajoutée des entreprises perçu l'année précédant la répartition.
 
 C. - Le fonds est alimenté par un second prélèvement selon les modalités suivantes :
 
 1° Chaque année, il est calculé le rapport entre le produit total de cotisation sur la valeur ajoutée des entreprises perçu par l'ensemble des départements l'année précédant la répartition et celui perçu par l'ensemble des départements au cours de la pénultième année ;
 
-2° Un département est contributeur au second prélèvement lorsqu'il répond, au titre d'une année, aux deux conditions suivantes :
+2° Un département est contributeur au second prélèvement lorsqu'il répond, au titre d'une année, aux trois conditions suivantes :
 
 a) Il contribue au prélèvement défini au B ;
 
 b) La différence entre le produit de cotisation sur la valeur ajoutée des entreprises perçu par le département l'année précédant la répartition et celui perçu au cours de la pénultième année multiplié par le rapport défini au 1° du présent C est positive ;
 
+c) La différence entre le produit de cotisation sur la valeur ajoutée des entreprises perçu par le département l'année précédant la répartition et celui perçu au cours de la pénultième année est positive ;
+
 3° Le montant du prélèvement est égal à la différence définie au b du 2° ;
 
 4° Le montant prélevé au titre de ce second prélèvement ne peut pas excéder, pour un département contributeur, 1 % du produit de la cotisation sur la valeur ajoutée des entreprises perçu l'année précédant la répartition.
 
-D. - Pour les départements contributeurs dont le montant par habitant de cotisation sur la valeur ajoutée des entreprises perçu l'année précédant la répartition est plus de trois fois supérieur à la moyenne nationale, le montant total prélevé au titre du fonds est égal à 2 % du produit de la cotisation sur la valeur ajoutée des entreprises perçu l'année précédant la répartition.
+D. - Pour les départements contributeurs dont le montant par habitant de cotisation sur la valeur ajoutée des entreprises perçu l'année précédant la répartition est plus de trois fois supérieur à la moyenne nationale, le montant total prélevé au titre du fonds est égal à 3 % du produit de la cotisation sur la valeur ajoutée des entreprises perçu l'année précédant la répartition.
 
 E. - Les prélèvements sont effectués mensuellement, à compter de la date de notification, sur les douzièmes prévus à l'article L. 3332-1-1 du présent code.
 
