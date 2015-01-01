@@ -14,4 +14,4 @@ III. ― Le conseil de gestion de la section mentionnée au I est composé de re
 
 Le conseil de gestion arrête son règlement intérieur qu'il communique au conseil d'administration.
 
-IV. ― La répartition en nombre de sièges entre les organisations professionnelles représentant les artistes auteurs, d'une part, et des diffuseurs, d'autre part, est déterminée en fonction du montant de leur contribution respective. Un accord entre les organisations professionnelles des artistes auteurs, des diffuseurs et les sociétés d'auteurs détermine le nombre de sièges de représentants et la durée de leur mandat ainsi que la répartition en nombre de sièges au sein des trois collèges.
+IV. ―(Abrogé).
