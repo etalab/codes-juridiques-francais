@@ -18,9 +18,9 @@ Le financement des assurances maladie, invalidité et maternité du régime de p
 
 8° Une fraction, fixée à l'article L. 131-8 du code de la sécurité sociale, du produit du droit de consommation mentionné à l'article 575 du code général des impôts ;
 
-9° Le produit des taxes mentionnées aux  articles 1609 vicies  et 1618 septies du code général des impôts ;
+9° Le produit des taxes mentionnées aux articles 1609 vicies et 1618 septies du code général des impôts ;
 
-10° Une fraction égale à 30,89 % du produit de la contribution sociale de solidarité mentionnée à l'article L. 651-1 du code de la sécurité sociale ;
+10° Une fraction du produit des contributions mentionnées aux articles L. 245-13 et L. 651-1 du code de la sécurité sociale, fixée à l'article L. 651-2-1 du même code ;
 
 11° Les subventions du fonds spécial d'invalidité mentionné à l'article L. 815-26 du même code ;
 
