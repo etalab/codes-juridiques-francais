@@ -9,3 +9,4 @@ entre le département du Rhône et la métropole de Lyon
 - [Article L3663-6](article-l3663-6.md)
 - [Article L3663-7](article-l3663-7.md)
 - [Article L3663-8](article-l3663-8.md)
+- [Article L3663-9](article-l3663-9.md)

@@ -6,4 +6,4 @@ Le premier alinéa est applicable aux établissements publics de coopération in
 
 Les abattements, exonérations et dégrèvements prévus aux articles 1411 et 1413 bis à 1414 A ne sont pas applicables.
 
-En cas d'imposition erronée liée à l'appréciation de la vacance, les dégrèvements en résultant sont à la charge de la commune ou de l'établissement public de coopération intercommunale à fiscalité propre. Ils s'imputent sur les attributions mentionnées à l'article L. 2332-2 du code général des collectivités territoriales.
+En cas d'imposition erronée liée à l'appréciation de la vacance, les dégrèvements en résultant sont à la charge de la commune ou de l'établissement public de coopération intercommunale à fiscalité propre. Ils s'imputent sur les attributions mentionnées aux articles L. 2332-2 et L. 3332-1-1 du code général des collectivités territoriales.
