@@ -9,7 +9,7 @@
 - [2° : Réduction d'impôt accordée aux adhérents de centres de gestion ou d'associations agréés](2)
 - [20° : Réduction d'impôt accordée au titre des dons faits par les particuliers](20)
 - [21° : Imputation de la réduction d'impôt pour versement de dons aux oeuvres prévue à l'article 238 bis](21)
-- [23° : Crédit d'impôt pour dépenses d'équipement de l'habitation principale](23)
+- [23° : Crédit d'impôt pour la transition énergétique](23)
 - [27° : Réduction d'impôt accordée au titre de l'aide apportée à certains créateurs d'entreprise](27)
 - [28° : Crédit d'impôt au titre des contrats d'assurance pour loyers impayés des logements locatifs conventionnés](28)
 - [3° : Crédit d'impôt accordée au titre des cotisations versées aux organisations syndicales](3)
