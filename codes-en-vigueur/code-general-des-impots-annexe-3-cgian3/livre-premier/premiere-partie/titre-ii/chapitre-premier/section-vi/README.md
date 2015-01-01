@@ -8,6 +8,7 @@
 - [Article 95](article-95.md)
 - [Article 95-0](article-95-0.md)
 - [Article 95 C](article-95-c.md)
+- [Article 95 D](article-95-d.md)
 - [Article 95 A](article-95-a.md)
 - [Article 95 B](article-95-b.md)
 - [Article 96 A](article-96-a.md)
