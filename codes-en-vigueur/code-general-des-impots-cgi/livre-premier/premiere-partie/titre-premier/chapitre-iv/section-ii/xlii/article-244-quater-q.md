@@ -72,9 +72,9 @@ III.-Quelle que soit la date de clôture des exercices et quelle que soit leur d
 
 IV.-Le bénéfice du crédit d'impôt mentionné au I est subordonné au respect du règlement (UE) n° 1407/2013 de la Commission, du 18 décembre 2013, relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
 
-Pour l'application du premier alinéa, les sociétés de personnes mentionnées aux articles 8 et 238 bis L qui ne sont pas soumises à l'impôt sur les sociétés doivent également respecter le règlement (UE) n° 1407/2013 de la Commission, du 18 décembre 2013. Le crédit d'impôt peut être utilisé par les associés de ces sociétés proportionnellement à leurs droits dans ces sociétés s'ils satisfont aux conditions d'application de ce même règlement et sous réserve qu'il s'agisse de redevables soumis à l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation au sens du 1° bis du I de l'article 156.
+Pour l'application du premier alinéa, les sociétés de personnes mentionnées aux articles 8 et 238 bis L qui ne sont pas soumises à l'impôt sur les sociétés doivent également respecter le règlement (UE) n° 1407/2013 de la Commission, du 18 décembre 2013 précité. Le crédit d'impôt peut être utilisé par les associés de ces sociétés proportionnellement à leurs droits dans ces sociétés s'ils satisfont aux conditions d'application de ce même règlement et sous réserve qu'il s'agisse de redevables soumis à l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation au sens du 1° bis du I de l'article 156.
 
-V.-Les I à IV s'appliquent aux entreprises dont le dirigeant a obtenu la délivrance du titre de maître-restaurateur entre le 15 novembre 2006 et le 31 décembre 2014.
+V.-Les I à IV s'appliquent aux entreprises dont le dirigeant a obtenu la délivrance du titre de maître-restaurateur entre le 15 novembre 2006 et le 31 décembre 2017.
 
 VI.-Les conditions dans lesquelles le titre de maître-restaurateur est délivré par l'autorité administrative aux dirigeants et le cahier des charges est établi sont définies par décret en Conseil d'Etat.
 
