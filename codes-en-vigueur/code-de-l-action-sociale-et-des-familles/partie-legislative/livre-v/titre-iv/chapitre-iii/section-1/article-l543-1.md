@@ -38,15 +38,13 @@ IV.-L'article L. 312-5-3 est ainsi modifié :
 
 V.-A l'article L. 312-7 :
 
-1° Les mots : " ou agréé au titre de l'article L. 7232-1 du code du travail " sont supprimés ;
+1° Au b du 3°, les mots : " ou agréé au titre de l'article L. 7232-1 du code du travail " sont remplacés par les mots : " au titre du 1° de l'article L. 313-1-2 " et les mots : " de l'autorisation ou de l'agrément au titre de l'article L. 7232-1 précité " sont remplacés par les mots : " de l'autorisation précitée " ;
 
-2° Les mots : " ou de l'agrément au titre de l'article L. 7232-1 précité " sont supprimés ;
-
-3° Les mots : " et, dans les conditions prévues par le présent article, les organismes agréés au titre de l'article L. 7232-1 du code du travail " sont supprimés.
+2° Au 4°, les mots : " les organismes agréés au titre de l'article L. 7232-1 du code du travail " sont remplacés par les mots : " les organismes autorisés au titre du 1° de l'article L. 313-1-2 ".
 
 VI.-Les deuxième, cinquième et huitième alinéas de l'article L. 312-8 sont supprimés.
 
-VII.-L'article L. 313-1-2 n'est pas applicable.
+VII.-Les troisième et quatrième alinéas de l'article L. 313-1-2 ne sont pas applicables.
 
 VIII.-Au c de l'article L. 313-3 les références aux 12° et 13° sont remplacées par la référence au 12°.
 
@@ -62,7 +60,7 @@ X.-L'article L. 313-12 est ainsi modifié :
 
 XI.-A l'article L. 313-14, après les mots : " par le code du travail " sont ajoutés les mots : " applicable à Mayotte ".
 
-XII.-A l'article L. 313-21, les mots : " et du quatrième alinéa de l'article L. 313-1-2 " sont supprimés.
+XII.-(Abrogé).
 
 XIII.-A l'article L. 313-22, les mots : " ou l'agrément prévu au troisième alinéa de l'article L. 313-1-2 " sont supprimés.
 
@@ -78,7 +76,7 @@ XVIII.-L'article L. 314-2 est ainsi modifié :
 
 1° Au 1°, les mots : " pris en application du troisième alinéa de l'article L. 174-6 du code de la sécurité sociale " sont supprimés ;
 
-2° Au 2°, les mots : " et versé aux établissements par ce dernier au titre de l'allocation personnalisée d'autonomie mentionnée à l'article L. 232-8 " sont supprimés.
+2° (Abrogé).
 
 XIX.-Le premier alinéa du II de l'article L. 314-3 est complété d'une phrase ainsi rédigée : " La Caisse nationale de solidarité pour l'autonomie arrête également le montant de la dotation pour Mayotte. "
 
