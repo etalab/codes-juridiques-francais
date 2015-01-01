@@ -6,6 +6,6 @@ Dans le cas contraire, le préfet de département décide du principe de la déc
 
 Le préfet de département établit un rapport précisant les conditions financières de réalisation de ce programme ainsi que, selon le cas, l'impact attendu de la répercussion intégrale de la décote sur le prix de revient des logements locatifs sociaux et assimilés ou sur le prix de cession des logements en accession à la propriété.
 
-II. ― Le montant de la décote sur la valeur vénale du terrain à céder est fixé sur la base de ce rapport. Sauf renonciation à vendre de l'établissement public concerné, la cession est réalisée dans ces conditions.
+II. ― Le montant de la décote sur la valeur vénale du terrain à céder est fixé sur la base de ce rapport. Dans le cas des établissements publics de santé, ce montant  de décote fait l'objet d'un avis du directeur général de l'agence régionale de santé. Cet avis est réputé favorable dans un délai d'un mois suivant la transmission par l'établissement concerné du montant de la décote. Sauf renonciation à vendre de l'établissement public concerné, la cession est réalisée dans ces conditions.
 
 III. ― L'ensemble du dossier est transmis au préfet de région, aux fins d'établissement de la convention mentionnée au V de l'article L. 3211-7.
