@@ -4,4 +4,4 @@ Le contrôle de l'application des dispositions relatives aux différentes branch
 
 Les agents chargés du contrôle sont agréés dans des conditions définies par arrêté du ministre chargé de l'agriculture. Ils sont assermentés dans les conditions prévues à l'article L. 243-9 du code de la sécurité sociale.
 
-Ces agents ont qualité pour dresser, en cas d'infraction auxdites dispositions, des procès-verbaux faisant foi jusqu'à preuve du contraire. Les caisses de mutualité sociale agricole les transmettent au procureur de la République s'il s'agit d'infractions pénalement sanctionnées.
+Ces agents ont qualité pour dresser, en cas d'infraction auxdites dispositions, des procès-verbaux faisant foi jusqu'à preuve du contraire. Les caisses de mutualité sociale agricole les transmettent au procureur de la République s'il s'agit d'infractions pénalement sanctionnées. La deuxième phrase du premier alinéa de l'article L. 243-7 du même code est applicable au régime agricole.
