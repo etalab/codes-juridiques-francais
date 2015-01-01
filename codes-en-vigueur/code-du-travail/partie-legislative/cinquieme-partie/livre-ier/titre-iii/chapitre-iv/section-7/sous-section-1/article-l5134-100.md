@@ -1,6 +1,6 @@
 # Article L5134-100
 
-Le contrat relatif aux activités d'adultes-relais a pour objet d'améliorer, dans les zones urbaines sensibles et les autres territoires prioritaires des contrats de ville, les relations entre les habitants de ces quartiers et les services publics, ainsi que les rapports sociaux dans les espaces publics ou collectifs.
+Le contrat relatif aux activités d'adultes-relais a pour objet d'améliorer, dans les quartiers prioritaires de la politique de la ville et les autres territoires prioritaires des contrats de ville, les relations entre les habitants de ces quartiers et les services publics, ainsi que les rapports sociaux dans les espaces publics ou collectifs.
 
 Il donne lieu :
 
