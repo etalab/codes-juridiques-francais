@@ -1,4 +1,3 @@
-# Paragraphe 1 : Constitution et fonctionnement
+# Paragraphe 1 : Sections financières et répartition des sommes perçues par l'organisme collecteur paritaire
 
-- [Article R6332-46](article-r6332-46.md)
-- [Article R6332-47](article-r6332-47.md)
+- [Article R6332-43](article-r6332-43.md)

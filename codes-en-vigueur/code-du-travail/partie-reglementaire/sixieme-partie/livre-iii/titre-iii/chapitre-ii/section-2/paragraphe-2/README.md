@@ -1,6 +1,3 @@
-# Paragraphe 2 : Gestion et ressources
+# Paragraphe 2 : Gestion des ressources
 
-- [Article R6332-50](article-r6332-50.md)
-- [Article R6332-52](article-r6332-52.md)
-- [Article R6332-53](article-r6332-53.md)
-- [Article R6332-54](article-r6332-54.md)
+- [Article R6332-44](article-r6332-44.md)
