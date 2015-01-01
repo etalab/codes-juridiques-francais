@@ -6,4 +6,4 @@ Lorsque le préfet est saisi dans les conditions de l'article 15 du décret n° 
 
 Les offres des différents candidats sont classées par ordre de priorité par décision motivée du préfet. La décision du préfet est notifiée aux candidats par lettre recommandée avec demande d'avis de réception dans les quatre mois de l'arrêté autorisant l'association ou modifiant le périmètre de celle-ci.
 
-Le versement des indemnités par l'acquéreur désigné a lieu conformément aux articles R. 13-62 à R. 13-78 du code de l'expropriation pour cause d'utilité publique.
+Le versement des indemnités par l'acquéreur désigné a lieu conformément aux articles R. 312-1 et R. 323-1 à R. 323-14 du code de l'expropriation pour cause d'utilité publique.

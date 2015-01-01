@@ -248,7 +248,7 @@ Pièces justificatives des opérations prévues à la présente liste portant r�
 
 5311 - Mandatement de l'indemnité allouée au propriétaire de l'immeuble ou au titulaire d'un droit réel exproprié à titre principal (12)
 
-(12) Les plans, procès-verbaux, certificats, significations, contrats et autres actes, faits en vertu du titre Ier et du chapitre Ier du titre II du code de l'expropriation pour cause d'utilité publique, sont dispensés de la formalité de l'enregistrement, à l'exception des décisions judiciaires, des contrats de vente, des actes fixant l'indemnité et des quittances qui, lorsqu'il y a lieu, sont soumis gratuitement à l'enregistrement ou à la formalité fusionnée visée à l'article 647 du code général des impôts (art. 1045 I du CGI). Les copies des actes soumis à l'enregistrement et à la
+(12) Les plans, procès-verbaux, certificats, significations, contrats et autres actes, correspondant aux actes mentionnés aux articles L. 141-1, L. 251-1, L. 331-5, L. 441-1 et L. 531-1 du code de l'expropriation pour cause d'utilité publique, sont dispensés de la formalité de l'enregistrement, à l'exception des décisions judiciaires, des contrats de vente, des actes fixant l'indemnité et des quittances qui, lorsqu'il y a lieu, sont soumis gratuitement à l'enregistrement ou à la formalité fusionnée visée à l'article 647 du code général des impôts (art. 1045 I du CGI). Les copies des actes soumis à l'enregistrement et à la
 
 publicité foncière doivent relater textuellement la publication et la mention de l'enregistrement. Lorsque l'expropriation vise des biens appartenant à des personnes différentes, les documents communs ne sont produits qu'une fois. Ils sont produits en double exemplaire lorsque les mandatements n'interviennent pas simultanément. Lorsque la consignation de l'indemnité est motivée par différents obstacles au paiement, la décision de consignation doit mentionner les diverses causes de consignation. Sauf des cas particuliers, telle la prise de possession avant fixation définitive de l'indemnité, ou des raisons d'ordre pratique tenant à l'organisation mécanographique des services ordonnateurs ou comptables, il n'est, en principe, établi qu'un seul mandatement pour le règlement de la totalité de l'indemnité allouée à un exproprié, quelle que soit la destination des fonds : paiement partiel et consignation partielle.
 
@@ -452,7 +452,7 @@ Certificat administratif mentionnant la date de la notification aux créanciers 
 
 (21) La situation hypothécaire telle qu'elle résulte des pièces visées à la rubrique 521151 révèle au moins une inscription d'hypothèque, de privilège ou de nantissement encore valide.
 
-(22) Cette rubrique correspond à la mise en oeuvre du 3e alinéa de l'article R. 13-69 du code de l'expropriation pour cause d'utilité publique.
+(22) Cette rubrique correspond à la mise en oeuvre du 3e alinéa de l'article R. 323-12 du code de l'expropriation pour cause d'utilité publique.
 
 1. Décision (5) renonçant à la purge des droits réels immobiliers lorsqu'ils n'excèdent pas 7 600 euros ;
 
@@ -464,7 +464,7 @@ Certificat administratif mentionnant la date de la notification aux créanciers 
 
 (20) La situation hypothécaire telle qu'elle résulte des pièces visées à la rubrique 521151 atteste l'absence d'inscription d'hypothèque, de privilège ou de nantissement.
 
-(23) Voir article L. 13-28 du code de l'expropriation pour cause d'utilité publique.
+(23) Voir article L323-3 du code de l'expropriation pour cause d'utilité publique.
 
 1. Copie de l'ordonnance d'expropriation enregistrée et publiée au fichier immobilier et mentionnant la date de la notification, à moins que l'intéressé n'ait acquiescé avant la notification de l'ordonnance ;
 

@@ -16,6 +16,4 @@
 - [Article R652-13](article-r652-13.md)
 - [Article R652-14](article-r652-14.md)
 - [Article R652-15](article-r652-15.md)
-- [Article R652-16](article-r652-16.md)
-- [Article R652-17](article-r652-17.md)
 - [Article R652-18](article-r652-18.md)

@@ -24,7 +24,7 @@ A cette demande sont annexés :
 
 3° Le plan parcellaire des terrains sur lesquels l'établissement de la servitude est envisagé, avec l'indication du tracé des canalisations à établir, de la profondeur minimum à laquelle les canalisations seront posées, de la largeur des bandes prévues aux 1° et 2° du II et de tous les autres éléments de la servitude. Ces éléments devront être arrêtés de manière que la canalisation soit établie de la façon la plus rationnelle et que la moindre atteinte possible soit portée aux conditions présentes et futures de l'exploitation des terrains ;
 
-4° La liste par commune des propriétaires, établie à l'aide d'extraits des documents cadastraux délivrés par le service du cadastre ou à l'aide des renseignements délivrés par le  service de la publicité foncière au vu du fichier immobilier ou par tous autres moyens.
+4° La liste par commune des propriétaires, établie à l'aide d'extraits des documents cadastraux délivrés par le service du cadastre ou à l'aide des renseignements délivrés par le service de la publicité foncière au vu du fichier immobilier ou par tous autres moyens.
 
 V. ― Après consultation du président de la Polynésie française, le haut-commissaire de la République prescrit, par arrêté, l'ouverture d'une enquête dans chacune des communes où sont situés les terrains devant être grevés de la servitude et désigne un commissaire enquêteur.
 
@@ -32,7 +32,7 @@ Un extrait du dossier comprenant pour chacune des communes intéressées les doc
 
 VI. ― L'avis de l'ouverture de l'enquête est publié huit jours au moins avant la date de cette ouverture, par affiche apposée à la porte de la mairie ; cet avis donne tous renseignements utiles sur l'enquête, notamment sur son objet, sa durée et les conditions de consultation du dossier par le public. Le maire certifie qu'il a procédé à cet affichage.
 
-VII. ― Notification individuelle du dépôt du dossier est faite par le demandeur aux propriétaires intéressés, dans les formes et suivant les conditions prévues aux articles R. 11-22 et R. 11-23 du code de l'expropriation.
+VII. ― Notification individuelle du dépôt du dossier est faite par le demandeur aux propriétaires intéressés, dans les formes et suivant les conditions prévues aux articles R. 131-6 et R. 131-7 du code de l'expropriation.
 
 Cette notification comporte la mention du montant de l'indemnité proposée en réparation du préjudice causé par l'établissement de la servitude et par toutes les sujétions pouvant en découler.
 

@@ -4,4 +4,4 @@ Pour la fixation des indemnités d'expropriation, le directeur départemental de
 
 Les fonctionnaires ainsi désignés agissent également au nom des établissements mentionnés à l'article R. 1212-10, si ceux-ci l'ont demandé.
 
-Les désignations prévues au présent article ne peuvent porter sur les agents mentionnés à l'article R. 13-7 du code de l'expropriation pour cause d'utilité publique.
+Les désignations prévues au présent article ne peuvent porter sur les agents mentionnés aux articles R. 212-1 et R. 311-24 du code de l'expropriation pour cause d'utilité publique.
