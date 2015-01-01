@@ -4,7 +4,7 @@ L'autorisation est accordée par arrêté du ministre de l'intérieur.
 
 Cet arrêté fixe :
 
-1° Le nombre et la nature des jeux autorisés :
+1° Le nombre de tables de jeux, de formes électroniques de ces jeux et de machines à sous autorisées :
 
 2° La durée de l'autorisation ;
 
@@ -12,7 +12,7 @@ Cet arrêté fixe :
 
 Il prévoit en outre :
 
-4° L'interdiction d'affermer les activités du casino ;
+4° L'interdiction d'affermer les activités de jeu et d'animation  ;
 
 5° L'interdiction aux directeur et membres du comité de direction du casino de participer aux jeux directement ou par personne interposée ;
 
