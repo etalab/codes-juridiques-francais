@@ -28,6 +28,14 @@ k) Le hold'em poker de casino ;
 
 l) La bataille ;
 
+m) La roue de la chance ;
+
+n) L'ultimate poker ;
+
+o) Le poker trois cartes ;
+
+p) Le rampo.
+
 2° Jeux dits " de cercle " :
 
 a) Le baccara chemin de fer ;
