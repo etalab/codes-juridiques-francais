@@ -1,6 +1,5 @@
 # Section 9 : Procédure d'aménagement de peine applicable aux condamnés libres
 
-- [Sous-section 2 : Dispositions applicables aux condamnés incarcérés](sous-section-2)
 - [Article D147-6](article-d147-6.md)
 - [Article D147-7](article-d147-7.md)
 - [Article D147-8](article-d147-8.md)

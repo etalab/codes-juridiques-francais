@@ -2,6 +2,4 @@
 
 - [Article R2323-34](article-r2323-34.md)
 - [Article R2323-35](article-r2323-35.md)
-- [Article R2323-37](article-r2323-37.md)
-- [Article R2323-38](article-r2323-38.md)
 - [Article R2323-39](article-r2323-39.md)

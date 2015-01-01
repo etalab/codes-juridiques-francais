@@ -1,7 +1,6 @@
 # Partie réglementaire nouvelle
 
 - [LIVRE Ier : UTILITÉ PUBLIQUE](livre-ier)
-- [TITRE Ier : Règles générales](titre-ier)
 - [LIVRE II : JURIDICTION DE L'EXPROPRIATION, TRANSFERT JUDICIAIRE DE PROPRIÉTÉ ET PRISE DE POSSESSION](livre-ii)
 - [LIVRE III : INDEMNISATION](livre-iii)
 - [LIVRE IV : SUITES DE L'EXPROPRIATION](livre-iv)

@@ -5,4 +5,3 @@
 - [Section 3 : Dispositions relatives aux intermédiaires](section-3)
 - [Section 4 : Dispositions relatives au conducteur](section-4)
 - [Article L3122-1](article-l3122-1.md)
-- [Article L3122-3](article-l3122-3.md)
