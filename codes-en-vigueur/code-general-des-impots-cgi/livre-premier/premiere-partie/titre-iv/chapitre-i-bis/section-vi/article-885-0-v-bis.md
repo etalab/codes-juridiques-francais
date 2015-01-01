@@ -32,13 +32,11 @@ h) (Abrogé).
 
 3. L'avantage fiscal prévu au 1 s'applique également aux souscriptions en numéraire au capital d'une société satisfaisant aux conditions suivantes :
 
-a) La société vérifie l'ensemble des conditions prévues au 1, à l'exception de celle prévue au b ;
+a) La société vérifie l'ensemble des conditions prévues au 1, à l'exception de celles prévues aux b et e bis ;
 
 b) La société a pour objet exclusif de détenir des participations dans des sociétés exerçant une des activités mentionnées au b du 1 ;
 
-c) La société ne compte pas plus de cinquante associés ou actionnaires ;
-
-La condition prévue au premier alinéa du présent c ne s'applique pas si la société détient exclusivement des participations dans une société exerçant une des activités mentionnées au b du 1 dont le capital est détenu pour 10 % au moins par une ou plusieurs sociétés coopératives ou par l'une de leurs unions ;
+c) (Abrogé) ;
 
 d) La société a exclusivement pour mandataires sociaux des personnes physiques ;
 
@@ -60,7 +58,7 @@ II. - 1. Le bénéfice de l'avantage fiscal prévu au I est subordonné à la co
 
 La condition relative à la conservation des titres reçus en contrepartie de la souscription au capital s'applique également à la société mentionnée au premier alinéa du 3 du I et à l'indivision mentionnée au 2 du I.
 
-En cas de remboursement des apports aux souscripteurs avant le 31 décembre de la dixième année suivant celle de la souscription, le bénéfice de l'avantage fiscal prévu au I est remis en cause, sauf si le remboursement fait suite à la liquidation judiciaire de la société à l'exception des parts investies dans des entreprises solidaires mentionnées à l'article L. 3332-17-1 du code du travail et agréées en vertu du même article avant le 31 décembre 2012, ainsi que dans des établissements de crédit ou des sociétés de financement dont 80 % de l'ensemble des prêts et des investissements sont effectués en faveur d'entreprises solidaires mentionnées audit article, pour lesquelles le remboursement doit intervenir après le 31 décembre de la cinquième année suivant celle de la souscription.
+En cas de remboursement des apports aux souscripteurs avant le 31 décembre de la dixième année suivant celle de la souscription, le bénéfice de l'avantage fiscal prévu au I est remis en cause, sauf si le remboursement fait suite à la liquidation judiciaire de la société à l'exception des parts investies dans des entreprises solidaires mentionnées à l'article L. 3332-17-1 du code du travail et agréées en vertu du même article, ainsi que dans des établissements de crédit ou des sociétés de financement dont 80 % de l'ensemble des prêts et des investissements sont effectués en faveur d'entreprises solidaires mentionnées audit article, pour lesquelles le remboursement doit intervenir après le 31 décembre de la cinquième année suivant celle de la souscription.
 
 2. En cas de non-respect de la condition de conservation prévue au premier alinéa du 1 par suite d'une fusion ou d'une scission au sens de l'article 817 A, l'avantage fiscal mentionné au I accordé au titre de l'année en cours et de celles précédant ces opérations n'est pas remis en cause si les titres reçus en contrepartie sont conservés jusqu'au même terme. Cet avantage fiscal n'est pas non plus remis en cause lorsque la condition de conservation prévue au premier alinéa du 1 n'est pas respectée par suite d'une annulation des titres pour cause de pertes ou de liquidation judiciaire.
 
@@ -88,7 +86,8 @@ Les versements servant de base au calcul de l'avantage fiscal sont retenus aprè
 
 IV. - Les versements ouvrant droit à l'avantage fiscal mentionné au I ou au III sont ceux effectués entre la date limite de dépôt de la déclaration de l'année précédant celle de l'imposition et la date limite de dépôt de la déclaration de l'année d'imposition.
 
-V. - L'avantage fiscal prévu au présent article ne s'applique ni aux titres figurant dans un plan d'épargne en actions mentionné à l'article 163 quinquies D ou dans un plan d'épargne salariale mentionné au titre III du livre III de la troisième partie du code du travail, ni à la fraction des versements effectués au titre de souscriptions ayant ouvert droit aux réductions d'impôt prévues aux f, g ou h du 2 de l'article 199 undecies A, aux articles 199 undecies B, 199 terdecies-0 A, 199 terdecies-0 B, 199 unvicies ou 199 quatervicies du présent code. La fraction des versements effectués au titre de souscriptions donnant lieu aux déductions prévues aux 2° quater et 2° quinquies de l'article 83 n'ouvre pas droit à l'avantage fiscal.
+V. - L'avantage fiscal prévu au présent article ne s'applique ni aux titres figurant dans un plan d'épargne en actions mentionné à l'article 163 quinquies D ou dans un plan d'épargne salariale mentionné au titre III du livre III de la troisième partie du code du travail, ni à la fraction des versements effectués au titre de souscriptions ayant ouvert droit aux réductions d'impôt prévues aux f ou g du 2 de l'article 199 undecies A, aux articles 199 undecies B, 199 terdecies-0 A, 199 terdecies-0 B,
+199 unvicies ou 199 quatervicies du présent code. La fraction des versements effectués au titre de souscriptions donnant lieu aux déductions prévues aux 2° quater et 2° quinquies de l'article 83 n'ouvre pas droit à l'avantage fiscal.
 
 Les souscriptions réalisées par un contribuable au capital d'une société dans les douze mois suivant le remboursement, total ou partiel, par cette société de ses apports précédents n'ouvrent pas droit à l'avantage fiscal mentionné au I.
 
