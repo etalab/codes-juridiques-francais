@@ -52,6 +52,8 @@ I. ― Universités :
 
 24° Grenoble-III ;
 
+24-1° La Guyane ;
+
 25° La Réunion ;
 
 26° La Rochelle ;
@@ -78,9 +80,7 @@ I. ― Universités :
 
 37° Marne-la-Vallée ;
 
-38° Montpellier-I ;
-
-39° Montpellier-II ;
+38 ° Montpellier ;
 
 40° Montpellier-III ;
 
