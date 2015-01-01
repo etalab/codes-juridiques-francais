@@ -122,30 +122,22 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 </td>
 </tr>
 <tr>
-<td rowspan="5" valign="top" width="154">
+<td rowspan="3" valign="top" width="154">
 <p>Agen </p>
 </td>
 <td valign="top" width="109">
-<p>[Agen </p>
+<p>Agen </p>
 </td>
 <td valign="top" width="333">
-<p>Cantons d'Agen-Centre, Agen-Nord, Agen-Nord-Est, Agen-Ouest, Agen-Sud-Est, Astaffort, Beauville, Laplume, Laroque-Timbaut, Port Sainte-Marie, Prayssas et Puymirol. (3)] </p>
+<p>Cantons d'Agen-Centre, Agen-Nord, Agen-Nord-Est, Agen-Ouest, Agen-Sud-Est, Astaffort, Beauville, Francescas, Laplume, Laroque-Timbaut, Lavardac, Mézin, Nérac, Port-Sainte-Marie, Prayssas et Puymirol.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="109">
-<p>[Agen </p>
+<td align="left" valign="top">
+<p align="left">Marmande </p>
 </td>
-<td valign="top" width="333">
-<p>Cantons d'Agen-Centre, Agen-Nord, Agen-Nord-Est, Agen-Ouest, Agen-Sud-Est, Astaffort, Beauville, Francescas, Laplume, Laroque Timbaut, Lavardac, Mézin, Nérac, Port-Sainte-Marie, Prayssas et Puymirol. (4)] </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="109">
-<p>[Nérac </p>
-</td>
-<td valign="top" width="333">
-<p>Cantons de Francescas, Lavardac, Mézin et Nérac. (3)] </p>
+<td align="left" valign="top">
+<p align="left">Cantons de Bouglon, Casteljaloux, Castelmoron-sur-Lot,<br/>Damazan, Duras, Houeillès, Lauzun, Le Mas-d'Agenais, Marmande-Est, Marmande-Ouest, Meilhan-sur-Garonne, Seyches et Tonneins.</p>
 </td>
 </tr>
 <tr>
@@ -153,26 +145,16 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 <p>Villeneuve-sur-Lot </p>
 </td>
 <td valign="top" width="333">
-<p>Cantons de Cancon, Castillonnès, Fumel, Monclar, Monflanquin, Penne-d'Agenais, Sainte-Livrade-sur-Lot, Tournon-d'Agenais, Villeneuve-sur-Lot-Nord, Villeneuve-sur-Lot-Sud et Villeréal. </p>
+<p>Cantons de Cancon, Castillonnès, Fumel, Monclar, Monflanquin, Penne-d'Agenais, Sainte-Livrade-sur-Lot, Tournon-d'Agenais, Villeneuve-sur-Lot-Nord, Villeneuve-sur-Lot-Sud et Villeréal.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="109">
-<p>[Marmande (6)] </p>
+<td align="left" valign="top">
+<p align="left">Dont une chambre détachée à Marmande</p>
 </td>
-<td valign="top" width="333">
-<p>Cantons de Bouglon, Casteljaloux, Castelmoron-sur-Lot, Damazan, Duras, Houeillès, Lauzun, Le Mas-d'Agenais, Marmande-Est, Marmande-Ouest, Meilhan-sur-Garonne, Seyches et Tonneins. </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="154">
-<p>[Marmande (5)] </p>
-</td>
-<td valign="top" width="109">
-<p>Marmande </p>
-</td>
-<td valign="top" width="333">
-<p>Cantons de Bouglon, Casteljaloux, Castelmoron-sur-Lot, Dainazan, Duras, Houeillès, Lauzun, Le Mas-d'Agenais, Marmande-Est, Marmande-Ouest, Meilhan-sur-Garonne, Seyches et Tonneins. </p>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Ressort de la chambre détachée à Marmande : cantons de Bouglon,<br/>Casteljaloux, Castelmoron-sur-Lot, Damazan, Duras, Houeillès,<br/>Lauzun, Le Mas-d'Agenais, Marmande-Est, Marmande-Ouest,<br/>Meilhan-sur-Garonne, Seyches et Tonneins.</p>
 </td>
 </tr>
 <tr>
@@ -649,30 +631,14 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 </td>
 </tr>
 <tr>
-<td rowspan="6" valign="top" width="154">
+<td rowspan="2" valign="top" width="154">
 <p>Angers </p>
 </td>
 <td valign="top" width="109">
-<p>[Angers </p>
+<p>Angers </p>
 </td>
 <td valign="top" width="333">
-<p>Cantons d'Angers-Centre, Angers-Est, Angers-Nord, Angers-Nord Est, Angers-Nord-Ouest, Angers-Ouest, Angers-Sud, Angers-Trélazé, Chalonnes-sur-Loire, Le Louroux-Béconnais, Les Ponts-de-Cé, Saint-Georges-sur-Loire, Thouarcé et Tiercé. (3)] </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="109">
-<p>[Angers </p>
-</td>
-<td valign="top" width="333">
-<p>Cantons d'Angers-Centre, Angers-Est, Angers-Nord, Angers-Nord Est, Angers-Nord-Ouest, Angers-Ouest, Angers-Sud, Angers-Trélazé, Candé, Chalonnes-sur-Loire, Châteauneuf-sur-Sarthe, Le Lion d'Angers, Le Louroux-Béconnais, Les Ponts-de-Cé, Pouancé, Saint-Georges-sur-Loire, Segré, Thouarcé et Tiercé. (4 et 5)] </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="109">
-<p>[Angers </p>
-</td>
-<td valign="top" width="333">
-<p>Cantons d'Angers-Centre, Angers-Est, Angers-Nord, Angers-Nord Est, Angers-Nord-Ouest, Angers-Ouest, Angers-Sud, Angers-Trélazé, Candé, Chalonnes-sur-Loire, Châteauneuf-sur-Sarthe, Durtal, Le Lion-d'Angers, Le Louroux-Béconnais, Les Ponts-de-Cé, Pouancé, Saint-Georges-sur-Loire, Segré, Seiches-sur-le-Loir, Thouarcé et Tiercé. (6)] </p>
+<p>Cantons d'Angers-Centre, Angers-Est, Angers-Nord, Angers-Nord Est, Angers-Nord-Ouest, Angers-Ouest, Angers-Sud, Angers-Trélazé, Candé, Chalonnes-sur-Loire, Châteauneuf-sur-Sarthe, Durtal, Le Lion-d'Angers, Le Louroux-Béconnais, Les Ponts-de-Cé, Pouancé, Saint-Georges-sur-Loire, Segré, Seiches-sur-le-Loir, Thouarcé et Tiercé.</p>
 </td>
 </tr>
 <tr>
@@ -680,50 +646,18 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 <p>Cholet </p>
 </td>
 <td valign="top" width="333">
-<p>Cantons de Beaupréau, Champtoceaux, Chemillé, Cholet 1er canton, Cholet 2e canton, Cholet 3e canton, Montfaucon-Montigné, Montrevault et Saint-Florent-le-Vieil. </p>
+<p>Cantons de Beaupréau, Champtoceaux, Chemillé, Cholet 1er canton, Cholet 2e canton, Cholet 3e canton, Montfaucon-Montigné, Montrevault et Saint-Florent-le-Vieil.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="109">
-<p>[Saumur (6)] </p>
-</td>
-<td valign="top" width="333">
-<p>Cantons d'Allonnes, Baugé, Beaufort-en-Vallée, Doué-la-Fontaine, Gennes, Longué-Jumelles, Montreuil-Bellay, Noyant, Saumur-Nord, Saumur-Sud et Vihiers. </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="109">
-<p>[Segré </p>
-</td>
-<td valign="top" width="333">
-<p>Cantons de Candé, Châteauneuf-sur-Sarthe, Le Lion-d'Angers, Pouancé et Segré. (3)] </p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" valign="top" width="154">
-<p>[Saumur (5)] </p>
+<td valign="top" width="154">
+<p>Saumur</p>
 </td>
 <td valign="top" width="109">
-<p>[Baugé </p>
+<p>Saumur</p>
 </td>
 <td valign="top" width="333">
-<p>Cantons de Baugé, Beaufort-en-Vallée, Durtal, Longué-Jumelles, Noyant et Seiches-sur-le-Loir. (3)] </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="109">
-<p>[Saumur </p>
-</td>
-<td valign="top" width="333">
-<p>Cantons d'Allonnes, Doué-la-Fontaine, Gennes, Montreuil-Bellay, Saumur-Nord, Saumur-Sud et Vihiers. (3)] </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="109">
-<p>[Saumur </p>
-</td>
-<td valign="top" width="333">
-<p>Cantons d'Allonnes, Baugé, Beaufort-en-Vallée, Doué-la-Fontaine, Durtal, Gennes, Longué-Jumelles, Montreuil-Bellay, Noyant, Seiches sur-le-Loir, Saumur-Nord, Saumur-Sud et Vihiers. (4)] </p>
+<p>Cantons d'Allonnes, Baugé, Beaufort-en-Vallée, Doué-la-Fontaine, Gennes, Longué-Jumelles, Montreuil-Bellay, Noyant, Saumur-Nord, Saumur-Sud et Vihiers.</p>
 </td>
 </tr>
 <tr>
@@ -1095,40 +1029,13 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 </tr>
 <tr>
 <td rowspan="3" valign="top" width="154">
-<p>[Dole (5)] </p>
-</td>
-<td valign="top" width="109">
-<p>[Arbois </p>
-</td>
-<td valign="top" width="333">
-<p>Cantons d'Arbois, Champagnole, Les Planches-en-Montagne, Nozeroy, Poligny, Salins-les-Bains et Villers-Farlay. (3)] </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="109">
-<p>[Dole </p>
-</td>
-<td valign="top" width="333">
-<p>Cantons de Chaumergy, Chaussin, Chemin, Dampierre, Dole-Nord Est, Dole-Sud-Ouest, Gendrey, Montbarrey, Montmirey-le-Château et Rochefort-sur-Nenon. (3)] </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="109">
-<p>[Dole </p>
-</td>
-<td valign="top" width="333">
-<p>Cantons d'Arbois, Champagnole, Chaumergy, Chaussin, Chemin, Dampierre, Dole-Nord-Est, Dole-Sud-Ouest, Gendrey, Les Planches-en-Montagne, Montbarrey, Montmirey-le-Château, Nozeroy, Poligny, Rochefort-sur-Nenon, Salins-les-Bains et Villers-Farlay. (4)] </p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" valign="top" width="154">
 <p>Lons-le-Saunier </p>
 </td>
 <td valign="top" width="109">
-<p>[Dole (6)] </p>
+<p>Dole</p>
 </td>
 <td valign="top" width="333">
-<p>Cantons d'Arbois, Champagnole, Chaumergy, Chaussin, Chemin, Dampierre, Dole-Nord-Est, Dole-Sud-Ouest, Gendrey, Les Planches-en-Montagne, Montbarrey, Montmirey-le-Château, Nozeroy, Poligny, Rochefort-sur-Nenon, Salins-les-Bains et Villers-Farlay. </p>
+<p>Cantons d'Arbois, Champagnole, Chaumergy, Chaussin, Chemin, Dampierre, Dole-Nord-Est, Dole-Sud-Ouest, Gendrey, Les Planches-en-Montagne, Montbarrey, Montmirey-le-Château, Nozeroy, Poligny, Rochefort-sur-Nenon, Salins-les-Bains et Villers-Farlay.</p>
 </td>
 </tr>
 <tr>
@@ -1136,7 +1043,7 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 <p>Lons-le-Saunier </p>
 </td>
 <td valign="top" width="333">
-<p>Cantons d'Arinthod, Beaufort, Bletterans, Clairvaux-les-Lacs, Conliège, Lons-le-Saunier-Nord, Lons-le-Saunier-Sud, Orgelet, Saint-Amour, Saint-Julien, Sellières et Voiteur. </p>
+<p>Cantons d'Arinthod, Beaufort, Bletterans, Clairvaux-les-Lacs, Conliège, Lons-le-Saunier-Nord, Lons-le-Saunier-Sud, Orgelet, Saint-Amour, Saint-Julien, Sellières et Voiteur.</p>
 </td>
 </tr>
 <tr>
@@ -1144,7 +1051,16 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 <p>Saint-Claude </p>
 </td>
 <td valign="top" width="333">
-<p>Cantons des-Bouchoux, Moirans-en-Montagne, Morez, Saint-Claude et Saint-Laurent-en-Grandvaux. </p>
+<p>Cantons Les Bouchoux, Moirans-en-Montagne, Morez, Saint-Claude et Saint-Laurent-en-Grandvaux.</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Dont une chambre détachée à Dole</p>
+</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Ressort de la chambre détachée à Dole : cantons d'Arbois,<br/>Champagnole, Chaumergy, Chaussin, Chemin, Dampierre,<br/>Dole-Nord-Est, Dole-Sud-Ouest, Gendrey, Les Planches-en-Montagne,<br/>Montbarrey, Montmirey-le-Château, Nozeroy, Poligny,<br/>Rochefort-sur-Nenon, Salins-les-Bains et Villers-Farlay.</p>
 </td>
 </tr>
 <tr>
@@ -1743,13 +1659,17 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 <p align="left">Cayenne </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Cantons d'Approuague-Kaw, Cayenne 1er canton Nord-Ouest, Cayenne 2e canton Nord-Est, Cayenne 3e canton Sud-Ouest, Cayenne 4e canton Centre, Cayenne 5e canton Sud, Cayenne 6e canton Sud-Est, Iracoubo, Kourou, Macouria, Mana, Maripasoula, Matoury, Montsinéry-Tonnegrande, Remire-Montjoly, Roura, Saint-Georges-Oyapoc, Saint-Laurent-du-Maroni et Sinnamary. </p>
+<p align="left">Cantons d'Approuague-Kaw, Cayenne 1er canton Nord-Ouest,<br/>Cayenne 2e canton Nord-Est, Cayenne 3e canton Sud-Ouest,<br/>Cayenne 4e canton Centre, Cayenne 5e canton Sud, Cayenne<br/>6e canton Sud-Est, Iracoubo, Kourou, Macouria, Mana, Maripasoula,<br/>Matoury, Montsinéry-Tonnegrande, Remire-Montjoly, Roura,<br/>Saint-Georges-Oyapoc, Saint-Laurent-du-Maroni et Sinnamary.</p>
 </td>
 </tr>
 <tr>
-<td>Dont une chambre détachée à Saint-Laurent-du-Maroni </td>
-<td/>
-<td>Ressort de la chambre détachée à Saint-Laurent-du-Maroni : Mana, Maripasoula, Saint-Laurent-du-Maroni</td>
+<td align="left" valign="top">
+<p align="left">Dont une chambre détachée à Saint-Laurent-du-Maroni</p>
+</td>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p align="left">Ressort de la chambre détachée à Saint-Laurent-du-Maroni :<br/>cantons de Mana, Maripasoula, Saint-Laurent-du-Maroni.</p>
+</td>
 </tr>
 <tr>
 <td colspan="3" width="596">
@@ -2643,7 +2563,9 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 </td>
 </tr>
 <tr>
-<td valign="top" width="154">Bourgoin-Jallieu</td>
+<td valign="top" width="154">
+<p>Bourgoin-Jallieu </p>
+</td>
 <td valign="top" width="109">
 <p>Bourgoin-Jallieu </p>
 </td>
@@ -2652,24 +2574,19 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 </td>
 </tr>
 <tr>
-<td rowspan="2" valign="top" width="154">
+<td valign="top" width="154">
 <p>Grenoble </p>
 </td>
 <td valign="top" width="109">
 <p>Grenoble </p>
 </td>
 <td valign="top" width="333">
-<p align="left">Cantons d'Allevard, Clelles, Corps, Domène, Echirolles-Est, Echirolles-Ouest, Eybens, Fontaine-Sassenage, Fontaine-Seyssinet, Goncelin, Grenoble 1er canton, Grenoble 2e canton, Grenoble 3e canton, Grenoble 4e canton, Grenoble 5e canton, Grenoble 6e canton, La Mure, Le Bourg-d'Oisans, Le Touvet, Mens, Meylan, Monestier-de-Clermont, Pont-en-Royans, Rives, Roybon, Saint-Egrève, Saint-Etienne-de-Saint-Geoirs, Saint-Ismier, Saint-Laurent-du-Pont, Saint-Marcellin, Saint-Martin-d'Hères-Nord, Saint-Martin-d'Hères-Sud, Tullins, Valbonnais, Vif, Villard-de-Lans, Vinay, Vizille et Voiron. </p>
+<p>Cantons d'Allevard, Clelles, Corps, Domène, Echirolles-Est, Echirolles-Ouest, Eybens, Fontaine-Sassenage, Fontaine-Seyssinet, Goncelin, Grenoble 1er canton, Grenoble 2e canton, Grenoble 3e canton, Grenoble 4e canton, Grenoble 5e canton, Grenoble 6e canton, La Mure, Le Bourg-d'Oisans, Le Touvet, Mens, Meylan, Monestier-de-Clermont, Pont-en-Royans, Rives, Roybon, Saint-Egrève, Saint-Etienne-de-Saint-Geoirs, Saint-Ismier, Saint-Laurent-du-Pont, Saint-Marcellin, Saint-Martin-d'Hères-Nord, Saint-Martin-d'Hères-Sud, Tullins, Valbonnais, Vif, Villard-de-Lans, Vinay, Vizille et Voiron. </p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="109"/>
-<td valign="top" width="333"/>
-</tr>
-<tr>
 <td valign="top" width="154">
-<p>Vienne <br/>
-</p>
+<p>Vienne</p>
 </td>
 <td valign="top" width="109">
 <p>Vienne </p>
@@ -2689,49 +2606,25 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 </td>
 </tr>
 <tr>
-<td rowspan="2" valign="top" width="154">
+<td valign="top" width="154">
 <p>Brive-la-Gaillarde </p>
 </td>
 <td valign="top" width="109">
 <p>Brive-la-Gaillarde </p>
 </td>
 <td valign="top" width="333">
-<p>Cantons d'Ayen, Beaulieu-sur-Dordogne, Beynat, Brive-la-Gaillarde Centre, Brive-la-Gaillarde-Nord-Est, Brive-la-Gaillarde-Nord-Ouest, Brive-la-Gaillarde-Sud-Est, Brive-la-Gaillarde-Sud-Ouest, Donzenac, Juillac, Larche, Lubersac, Malemort-sur-Corrèze, Mevssac et Vigeois. </p>
+<p>Cantons d'Ayen, Beaulieu-sur-Dordogne, Beynat, Brive-la-Gaillarde Centre, Brive-la-Gaillarde-Nord-Est, Brive-la-Gaillarde-Nord-Ouest, Brive-la-Gaillarde-Sud-Est, Brive-la-Gaillarde-Sud-Ouest, Donzenac, Juillac, Larche, Lubersac, Malemort-sur-Corrèze, Meyssac et Vigeois.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="109">
-<p>[Tulle (6)] </p>
-</td>
-<td valign="top" width="333">
-<p>Cantons d'Argentat, Bort-les-Orgues, Bugeat, Corrèze, Égletons, Eygurande, La Roche-Canillac, Lapleau, Mercoeur, Meymac, Neuvic, Saint-Privat, Seilhac, Sornac, Treignac, Tulle-Campagne-Nord, Tulle Campagne-Sud, Tulle-Urbain-Nord, Tulle-Urbain-Sud, Ussel-Est, Ussel-Ouest et Uzerche. </p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" valign="top" width="154">
-<p>[Tulle (5)] </p>
+<td valign="top" width="154">
+<p>Tulle</p>
 </td>
 <td valign="top" width="109">
-<p>[Tulle </p>
+<p>Tulle </p>
 </td>
 <td valign="top" width="333">
-<p>Cantons d'Argentat, Corrèze, Égletons, La Roche-Canillac, Lapleau, Mercoeur, Saint-Privat, Seilhac, Treignac, Tulle-Campagne-Nord, Tulle-Campagne-Sud, Tulle-Urbain-Nord, Tulle-Urbain-Sud et Uzerche. (3)] </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="109">
-<p>[Tulle </p>
-</td>
-<td valign="top" width="333">
-<p>Cantons d'Argentat, Bort-les-Orgues, Bugeat, Corrèze, Égletons, Eygurande, La Roche-Canillac, Lapleau, Mercoeur, Meymac, Neuvic, Saint-Privat, Seilhac, Sornac, Treignac, Tulle-Campagne-Nord, Tulle Campagne-Sud, Tulle-Urbain-Nord, Tulle-Urbain-Sud, Ussel-Est, Ussel-Ouest et Uzerche. (4)] </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="109">
-<p>[Ussel </p>
-</td>
-<td valign="top" width="333">
-<p>Cantons de Bort-les-Orgues, Bugcat, Eygurande, Mcymae, Ncuvic, Sornac, Ussel-Est et Ussel-Ouest. (3)] </p>
+<p>Cantons d'Argentat, Bort-les-Orgues, Bugeat, Corrèze, Egletons, Eygurande, La Roche-Canillac, Lapleau, Mercœur, Meymac, Neuvic, Saint-Privat, Seilhac, Sornac, Treignac, Tulle-Campagne-Nord, Tulle Campagne-Sud, Tulle-Urbain-Nord, Tulle-Urbain-Sud, Ussel-Est, Ussel-Ouest et Uzerche.</p>
 </td>
 </tr>
 <tr>
@@ -2763,7 +2656,7 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 <p>[Guéret </p>
 </td>
 <td align="left" valign="top">
-<p>Cantons d'Ahun, Aubusson, Auzances, Bellegarde-en-Marche,<br/>Bénévent-l'Abbaye, Bonnat, Bourganeuf, Boussac,<br/>Chambon-sur-Voueize, Châtelus-Malvaleix, Chénérailles, Crocq,<br/>Dun-le-Palestel, Évaux-les-Bains, Felletin, Gentioux-Pigerolles,<br/>Guéret-Nord, Guéret Sud-Est, Guéret-Sud-Ouest, Jarnages, La Courtine,<br/>La Souterraine, Le Grand-Bourg, Pontarion, Royère-de-Vassière,<br/>Saint-Sulpice-les Champs et Saint-Vaury. (10)] </p>
+<p>Cantons d'Ahun, Aubusson, Auzances, Bellegarde-en-Marche,<br/>Bénévent-l'Abbaye, Bonnat, Bourganeuf, Boussac, Chambon-sur-Voueize,<br/>Châtelus-Malvaleix, Chénérailles, Crocq, Dun-le-Palestel,<br/>Évaux-les-Bains, Felletin, Gentioux-Pigerolles, Guéret-Nord,<br/>Guéret Sud-Est, Guéret-Sud-Ouest, Jarnages, La Courtine,<br/>La Souterraine, Le Grand-Bourg, Pontarion, Royère-de-Vassière,<br/>Saint-Sulpice-les Champs et Saint-Vaury. (10)] </p>
 </td>
 </tr>
 <tr>
@@ -2894,7 +2787,7 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 <p>Roanne </p>
 </td>
 <td valign="top" width="333">
-<p>Cantons de Bclmont-de-la-Loire, Charlicu, La Pacaudière, Néronde, Perreux, Roanne-Nord, Roanne-Sud, Saint-Germain-Laval, Saint-Haon-le-Châtel, Saint-Just-en-Chevalet et Saint-Symphorien-de-Lay. </p>
+<p>Cantons de Belmont-de-la-Loire, Charlicu, La Pacaudière, Néronde, Perreux, Roanne-Nord, Roanne-Sud, Saint-Germain-Laval, Saint-Haon-le-Châtel, Saint-Just-en-Chevalet et Saint-Symphorien-de-Lay. </p>
 </td>
 </tr>
 <tr>
@@ -3171,7 +3064,7 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 </td>
 </tr>
 <tr>
-<td rowspan="5" valign="top" width="154">
+<td rowspan="3" valign="top" width="154">
 <p>Rodez </p>
 </td>
 <td valign="top" width="109">
@@ -3183,7 +3076,7 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 </tr>
 <tr>
 <td valign="top" width="109">
-<p>[Millau (10)] </p>
+<p>Millau</p>
 </td>
 <td valign="top" width="333">
 <p>Cantons de Belmont-sur-Rance, Camarès, Campagnac, Cornus, Millau-Est, Millau-Ouest, Nant, Peyreleau, Saint-Affrique, Saint-Beauzély, Saint-Rome-de-Tarn, Saint-Sernin-sur-Rance, Salles-Curan, Sévérac-le-Château et Vézins-de-Lévézou. </p>
@@ -3191,25 +3084,29 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 </tr>
 <tr>
 <td valign="top" width="109">
-<p>[Rodez </p>
+<p>Rodez </p>
 </td>
 <td valign="top" width="333">
-<p>Cantons de Baraqueville-Sauveterre, Bozouls, Cassagnes-Bégonhès, Conques, La Salvetat-Peyralès, Laissac, Marcillac-Vallon, Naucelle, Pont-de-Salars, Réquista, Rignac, Rodez-Est, Rodez-Nord et Rodez Ouest. (9)] </p>
+<p>Cantons d'Aubin, Baraqueville-Sauveterre, Bozouls, Capdenac-Gare, Cassagnes-Bégonhès, Conques, Decazeville, Entraygues-sur-Truyère, Espalion, Estaing, Laguiole, Laissac, La Salvetat-Peyralès, Marcillac-Vallon, Montbazens, Mur-de-Barrez, Najac, Naucelle, Pont-de-Salars, Réquista, Rieupeyroux, Rignac, Rodez-Est, Rodez-Nord, Rodez-Ouest, Saint-Amans-des-Cots, Saint-Chély-d'Aubrac, Sainte-Geneviève-sur-Argence, Saint-Geniez-d'Olt, Villefranche-de-Rouergue et Villeneuve.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="109">
-<p>[Rodez </p>
+<td align="left" valign="top">
+<p align="left">Dont une chambre détachée à Millau </p>
 </td>
-<td valign="top" width="333">
-<p>Cantons d'Aubin, Baraqueville-Sauveterre, Bozouls, Capdenac-Gare, Cassagnes-Bégonhès, Conques, Decazeville, Entraygues-sur-Truyère, Espalion, Estaing, Laguiole, Laissac, La Salvetat-Peyralès, Marcillac-Vallon, Montbazens, Mur-de-Barrez, Najac, Naucelle, Pont-de-Salars, Réquista, Rieupeyroux, Rignac, Rodez-Est, Rodez-Nord, Rodez Ouest, Saint-Amans-des-Cots, Saint-Chély-d'Aubrac, Sainte-Geneviève-sur-Argence, Saint-Geniez-d'Olt, Villefranche-de-Rouergue et Villeneuve. (10)] </p>
+<td align="left" valign="top">
+<br/>
+</td>
+<td align="left" valign="top">
+<p align="left">Ressort de la chambre détachée à Millau : Cantons de<br/>Belmont-sur-Rance, Camarès, Campagnac, Cornus, Millau-Est,<br/>Millau-Ouest, Nant, Peyreleau, Saint-Affrique, Saint-Beauzély,<br/>Saint-Rome-de-Tarn, Saint-Sernin-sur-Rance, Salles-Curan,<br/>Sévérac-le-Château et Vézins-de-Lévézou. </p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="109">
+<td/>
+<td>
 <p>[Villefranche-de-Rouergue </p>
 </td>
-<td valign="top" width="333">
+<td>
 <p>Cantons d'Aubin, Capdenac-Gare, Decazeville, Montbazens, Najac, Rieupeyroux, Villefranche-de-Rouergue et Villeneuve. (9)] </p>
 </td>
 </tr>
@@ -3442,60 +3339,56 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 </tr>
 <tr>
 <td rowspan="5" valign="top" width="154">
-<p>Epinal </p>
+<p align="left">Epinal </p>
 </td>
 <td valign="top" width="109">
-<p>[Epinal </p>
+<p align="left">[Epinal </p>
 </td>
 <td valign="top" width="333">
-<p>Cantons de Bains-les-Bains, Bruyères, Bulgnéville, Châtel-sur-Moselle, Châtenois, Coussey, Épinal-Est, Épinal-Ouest, Lamarche, Neufchâteau, Rambervillers et Xertigny. (11)] </p>
+<p align="left">Cantons de Bains-les-Bains, Bruyères, Bulgnéville, Châtel-sur-Moselle, Châtenois, Coussey, Épinal-Est, Épinal-Ouest, Lamarche, Neufchâteau, Rambervillers et Xertigny. (11)] </p>
 </td>
 </tr>
 <tr>
-<td>
-<p>[Epinal </p>
+<td align="left" valign="top">
+<p align="left">[Epinal </p>
 </td>
-<td>
-<p>Cantons de Bains-les-Bains, Bruyères, Bulgnéville, </p>
-<p>Châtel-sur-Moselle, Châtenois, Coussey, Épinal-Est, </p>
-<p>Épinal-Ouest, Lamarche, Le Thillot, Neufchâteau, </p>
-<p>Plombière-les-Bains, Rambervillers, Remiremont, </p>
-<p>Saulxures-sur-Moselotte et Xertigny. (12 et 3)] </p>
+<td align="left" valign="top">
+<p align="left">Cantons de Bains-les-Bains, Bruyères, Bulgnéville,<br/>Châtel-sur-Moselle, Châtenois, Coussey, Épinal-Est,<br/>Épinal-Ouest, Lamarche, Le Thillot, Neufchâteau,<br/>Plombière-les-Bains, Rambervillers, Remiremont,<br/>Saulxures-sur-Moselotte et Xertigny. (12 et 3)] </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="109">
-<p>[Mirecourt </p>
+<p align="left">[Mirecourt </p>
 </td>
 <td valign="top" width="333">
-<p>Cantons de Charmes, Darney, Dompaire, Mirecourt, Monthureux-sur-Saône et Vittel. (3)] </p>
+<p align="left">Cantons de Charmes, Darney, Dompaire, Mirecourt, Monthureux-sur-Saône et Vittel. (3)] </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="109">
-<p>[Remiremont </p>
+<p align="left">[Remiremont </p>
 </td>
 <td valign="top" width="333">
-<p>Cantons de Le Thillot, Plombières-les-Bains, Remiremont et Saulxures-sur-Moselotte. (11)] </p>
+<p align="left">Cantons de Le Thillot, Plombières-les-Bains, Remiremont et Saulxures-sur-Moselotte. (11)] </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="109">
-<p>[Saint-Dié-des-Vosges (6)] </p>
+<p align="left">[Saint-Dié-des-Vosges (6)] </p>
 </td>
 <td valign="top" width="333">
-<p>Cantons de Brouvelieures, Corcieux, Fraize, Gérardmer, Provenchères-sur-Fave, Raon-l'Étape, Saint-Dié-des-Vosges-Est, Saint-Dié-des-Vosges-Ouest et Senones. </p>
+<p align="left">Cantons de Brouvelieures, Corcieux, Fraize, Gérardmer, Provenchères-sur-Fave, Raon-l'Étape, Saint-Dié-des-Vosges-Est, Saint-Dié-des-Vosges-Ouest et Senones. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="154">
-<p>[Saint-Dié-des-Vosges (5)] </p>
+<p align="left">[Saint-Dié-des-Vosges (5)] </p>
 </td>
 <td valign="top" width="109">
-<p>Saint-Dié-des-Vosges </p>
+<p align="left">Saint-Dié-des-Vosges </p>
 </td>
 <td valign="top" width="333">
-<p>Cantons de Brouvelieures, Corcieux, Fraize, Gérardmer, Provenchères-sur-Fave, Raon-l'Étape, Saint-Dié-des-Vosges-Est, Saint-Dié-des-Vosges-Ouest et Senones. </p>
+<p align="left">Cantons de Brouvelieures, Corcieux, Fraize, Gérardmer, Provenchères-sur-Fave, Raon-l'Étape, Saint-Dié-des-Vosges-Est, Saint-Dié-des-Vosges-Ouest et Senones. </p>
 </td>
 </tr>
 <tr>
@@ -3796,37 +3689,37 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 </tr>
 <tr>
 <td rowspan="4" valign="top" width="154">
-<p>Blois </p>
+<p align="left">Blois </p>
 </td>
 <td valign="top" width="109">
-<p>[Blois </p>
+<p align="left">[Blois </p>
 </td>
 <td valign="top" width="333">
-<p>Cantons de Blois 1er canton, Blois 2e canton, Blois 3e canton, Blois 4e canton, Blois 5e canton, Bracieux, Contres, Herbault, Marchenoir, Mer, Montrichard, Ouzouer-le-Marché, Saint-Aignan et Vineuil. (3)] </p>
+<p align="left">Cantons de Blois 1er canton, Blois 2e canton, Blois 3e canton, Blois 4e canton, Blois 5e canton, Bracieux, Contres, Herbault, Marchenoir, Mer, Montrichard, Ouzouer-le-Marché, Saint-Aignan et Vineuil. (3)] </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="109">
-<p>[Blois </p>
+<p align="left">[Blois </p>
 </td>
 <td valign="top" width="333">
-<p>Cantons de Blois 1er canton, Blois 2e canton, Blois 3e canton, Blois 4e canton, Blois 5e canton, Bracieux, Contres, Droué, Herbault, Lamotte Beuvron, Marchenoir, Mennetou-sur-Cher, Mer, Mondoubleau, Montoire-sur-le-Loir, Morée, Montrichard, Neung-sur-Beuvron, Ouzouer-le-Marché, Romorantin-Lanthenay-Nord, Romorantin Lanthenay-Sud, Saint-Aignan, Saint-Amand-Longpré, Salbris, Savigny-sur-Braye, Selles-sur-Cher, Selommes, Vendôme 1er canton, Vendôme 2e canton et Vineuil. (4)] </p>
+<p align="left">Cantons de Blois 1er canton, Blois 2e canton, Blois 3e canton, Blois 4e canton, Blois 5e canton, Bracieux, Contres, Droué, Herbault, Lamotte Beuvron, Marchenoir, Mennetou-sur-Cher, Mer, Mondoubleau, Montoire-sur-le-Loir, Morée, Montrichard, Neung-sur-Beuvron, Ouzouer-le-Marché, Romorantin-Lanthenay-Nord, Romorantin Lanthenay-Sud, Saint-Aignan, Saint-Amand-Longpré, Salbris, Savigny-sur-Braye, Selles-sur-Cher, Selommes, Vendôme 1er canton, Vendôme 2e canton et Vineuil. (4)] </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="109">
-<p>[Romorantin-Lanthenay </p>
+<p align="left">[Romorantin-Lanthenay </p>
 </td>
 <td valign="top" width="333">
-<p>Cantons de Lamotte-Beuvron, Mennetou-sur-Cher, Neung-sur-Beuvron, Romorantin-Lanthenay-Nord, Romorantin-Lanthenay-Sud, Salbris et Selles-sur-Cher. (3)] </p>
+<p align="left">Cantons de Lamotte-Beuvron, Mennetou-sur-Cher, Neung-sur-Beuvron, Romorantin-Lanthenay-Nord, Romorantin-Lanthenay-Sud, Salbris et Selles-sur-Cher. (3)] </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="109">
-<p>[Vendôme </p>
+<p align="left">[Vendôme </p>
 </td>
 <td valign="top" width="333">
-<p>Cantons de Droué, Mondoubleau, Montoire-sur-le-Loir, Morée, Saint-Amand-Longpré, Savigny-sur-Braye, Selommes, Vendôme 1 ` t canton et Vendôme 2e canton. (3)] </p>
+<p align="left">Cantons de Droué, Mondoubleau, Montoire-sur-le-Loir, Morée, Saint-Amand-Longpré, Savigny-sur-Braye, Selommes, Vendôme 1er canton et Vendôme 2e canton. (3)] </p>
 </td>
 </tr>
 <tr>
@@ -3841,45 +3734,45 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 </tr>
 <tr>
 <td rowspan="5" valign="top" width="154">
-<p>Evry </p>
+<p align="left">Evry </p>
 </td>
 <td valign="top" width="109">
-<p>Etampes </p>
+<p align="left">Etampes </p>
 </td>
 <td valign="top" width="333">
-<p>Cantons de Dourdan, Étampes, Étréchy, La Ferté-Alais, Méréville et Saint-Chéron. </p>
+<p align="left">Cantons de Dourdan, Étampes, Étréchy, La Ferté-Alais, Méréville et Saint-Chéron. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="109">
-<p>Evry </p>
+<p align="left">Evry </p>
 </td>
 <td valign="top" width="333">
-<p>Cantons de Corbeil-Essonnes-Est, Corbeil-Essonnes-Ouest, Évry Nord, Évry-Sud, Mennecy, Milly-la-Forêt, Ris-Orangis et Saint-Germain-lès-Corbeil. </p>
+<p align="left">Cantons de Corbeil-Essonnes-Est, Corbeil-Essonnes-Ouest, Évry Nord, Évry-Sud, Mennecy, Milly-la-Forêt, Ris-Orangis et Saint-Germain-lès-Corbeil. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="109">
-<p>Juvisy-sur-Orge </p>
+<p align="left">Juvisy-sur-Orge </p>
 </td>
 <td valign="top" width="333">
-<p>Cantons de Brunoy, Draveil, Epinay-sous-Sénart, Grigny, Juvisy-sur-Orge (uniquement la commune de Juvisy-sur-Orge), Montgeron, Morsang-sur-Orge, Vigneux-sur-Seine, Viry-Châtillon et Yerres. </p>
+<p align="left">Cantons de Brunoy, Draveil, Epinay-sous-Sénart, Grigny, Juvisy-sur-Orge (uniquement la commune de Juvisy-sur-Orge), Montgeron, Morsang-sur-Orge, Vigneux-sur-Seine, Viry-Châtillon et Yerres. </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="109">
-<p>Longjumeau </p>
+<p align="left">Longjumeau </p>
 </td>
 <td valign="top" width="333">
-<p>A l'exception de l'emprise de l'aérodrome de Paris-Orly, cantons d'Arpajon, Athis-Mons, Brétigny-sur-Orge, Chilly-Mazarin, Juvisy sur-Orge (uniquement la fraction de la commune de Savigny-sur-Orge), Longjumeau, Massy-Est, Massy-Ouest, Montlhéry, Sainte Geneviève-des-Bois, Saint-Michel-sur-Orge, Savigny-sur-Orge et Villebon-sur-Yvette (uniquement les communes de Ballainvilliers, de-Champlan et de Saulx-les-Chartreux). </p>
+<p align="left">A l'exception de l'emprise de l'aérodrome de Paris-Orly, cantons d'Arpajon, Athis-Mons, Brétigny-sur-Orge, Chilly-Mazarin, Juvisy sur-Orge (uniquement la fraction de la commune de Savigny-sur-Orge), Longjumeau, Massy-Est, Massy-Ouest, Montlhéry, Sainte Geneviève-des-Bois, Saint-Michel-sur-Orge, Savigny-sur-Orge et Villebon-sur-Yvette (uniquement les communes de Ballainvilliers, de-Champlan et de Saulx-les-Chartreux). </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="109">
-<p>Palaiseau </p>
+<p align="left">Palaiseau </p>
 </td>
 <td valign="top" width="333">
-<p>Cantons de Bièvres, Gif-sur-Yvette, Les Ulis, Limours, Orsay, Palaiseau et Villebon-sur-Yvette (uniquement les communes de Villebon-sur-Yvette et Villejust). </p>
+<p align="left">Cantons de Bièvres, Gif-sur-Yvette, Les Ulis, Limours, Orsay, Palaiseau et Villebon-sur-Yvette (uniquement les communes de Villebon-sur-Yvette et Villejust). </p>
 </td>
 </tr>
 <tr>
@@ -4959,75 +4852,31 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 </tr>
 <tr>
 <td valign="top" width="154">
-<p>[Dinan (5)] </p>
-</td>
-<td valign="top" width="109">
-<p>Dinan </p>
-</td>
-<td valign="top" width="333">
-<p>Cantons de Broons, Caulnes, Dinan-Est, Dinan-Ouest, Évran, Jugon-les-Lacs, Matignon, Plancoët, Plélan-le-Petit et Ploubalay. </p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" valign="top" width="154">
-<p>[Guingamp (5)] </p>
-</td>
-<td valign="top" width="109">
-<p>[Guingamp </p>
-</td>
-<td valign="top" width="333">
-<p>Cantons de Bégard, Belle-Isle-en-Terre, Bourbriac, Callac, Guingamp, Maël-Carhaix, Plouagat, Pontrieux, Rostrenen et Saint-Nicolas-du-Pélem. (3)] </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="109">
-<p>[Guingamp </p>
-</td>
-<td valign="top" width="333">
-<p>Cantons de Bégard, Belle-Isle-en-Terre, Bourbriac, Callac, Guingamp, Lannion, La Roche-Derrien, Lézardrieux, Maël-Carhaix, Perros-Guirec, Plestin-les-Grèves, Plouagat, Plouaret, Pontrieux, Rostrenen, Saint-Nicolas-du-Pélem et Tréguier. (4)] </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="109">
-<p>[Lannion </p>
-</td>
-<td valign="top" width="333">
-<p>Cantons de La Roche-Derrien, Lannion, Lézardrieux, Perros-Guirec, Plestin-les-Grèves, Plouaret et Tréguier. (3)] </p>
-</td>
-</tr>
-<tr>
-<td rowspan="4" valign="top" width="154">
 <p>Saint-Brieuc </p>
 </td>
 <td valign="top" width="109">
-<p>[Loudéac </p>
+<p>Guingamp</p>
 </td>
 <td valign="top" width="333">
-<p>Cantons de Collinée, Corlay, Gouarec, La Chèze, Loudéac, Merdrignac, Mûr-de-Bretagne, Plouguenast et Uzel. (3)] </p>
+<p>Cantons de Bégard, Belle-Isle-en-Terre, Bourbriac, Callac, Guingamp, Lannion, La Roche-Derrien, Lézardrieux, Maël-Carhaix, Perros-Guirec, Plestin-les-Grèves, Plouagat, Plouaret, Pontrieux, Rostrenen, Saint-Nicolas-du-Pélem et Tréguier.</p>
 </td>
 </tr>
 <tr>
+<td/>
 <td valign="top" width="109">
-<p>[Guingamp (6)] </p>
+<p>Saint-Brieuc </p>
 </td>
 <td valign="top" width="333">
-<p>Cantons de Bégard, Belle-Isle-en-Terre, Bourbriac, Callac, Guingamp, Lannion, La Roche-Derrien, Lézardrieux, Maël-Carhaix, Perros-Guirec, Plestin-les-Grèves, Plouagat, Plouaret, Pontrieux, Rostrenen, Saint-Nicolas-du-Pélem et Tréguier. </p>
+<p>Cantons de Châtelaudren, Collinée, Corlay, Etables-sur-Mer, Gouarec, La Chèze, Lamballe, Langueux, Lanvollon, Loudéac, Merdrignac, Moncontour, Mûr-de-Bretagne, Paimpol, Pléneuf-Val-André, Plérin, Plœuc-sur-Lié, Ploufragan, Plouguenast, Plouha, Quintin, Saint-Brieuc-Nord, Saint-Brieuc-Ouest, Saint-Brieuc-Sud et Uzel.</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="109">
-<p>[Saint-Brieuc </p>
+<td align="left" valign="top">
+<p align="left">Dont une chambre détachée à Guingamp</p>
 </td>
-<td valign="top" width="333">
-<p>Cantons de Châtelaudren, Étables-sur-Mer, Lamballe, Langueux, Lanvollon, Moncontour, Paimpol, Pléneuf-Val-André, Plérin, Ploeuc-sur-Lié, Ploufragan, Plouha, Quintin, Saint-Brieuc-Nord, Saint-Brieuc-Ouest et Saint-Brieuc-Sud. (3)] </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="109">
-<p>[Saint-Brieuc </p>
-</td>
-<td valign="top" width="333">
-<p>Cantons de Châtelaudren, Collinée, Corlay, Étables-sur-Mer, Gouaree, La Chèze, Lamballe, Langueux, Lanvollon, Loudéac, Merdrignac, Moncontour, Mûr-de-Bretagne, Paimpol, Pléneuf-Val-André, Plérin, Ploeuc-sur-Lié, Ploufragan, Plouguenast, Plouha, Quintin, Saint-Brieuc-Nord, Saint-Brieuc-Ouest, Saint-Brieuc-Sud et Uzel. (4)] </p>
+<td align="left" valign="top"/>
+<td align="left" valign="top">
+<p>Ressort de la chambre détachée à Guingamp : cantons de<br/>Bégard, Belle-Isle-en-Terre, Bourbriac, Callac, Guingamp,<br/>Lannion, La Roche-Derrien, Lézardrieux, Maël-Carhaix,<br/>Perros-Guirec, Plestin-les-Grèves, Plouagat, Plouaret,<br/>Pontrieux, Rostrenen, Saint-Nicolas-du-Pélem et Tréguier.</p>
 </td>
 </tr>
 <tr>
@@ -5134,10 +4983,10 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 </tr>
 <tr>
 <td valign="top" width="109">
-<p>[Rennes </p>
+<p align="left">[Rennes </p>
 </td>
 <td valign="top" width="333">
-<p>Cantons d'Antrain, Argentré-du-Plessis, Bécherel, Betton, Bruz, Cesson-Sévigné, Châteaubourg, Châteaugiron, Fougères-Nord, Fougères-Sud, Hédé, Janzé, La Guerche-de-Bretagne, Liffré, Louvigné-du-Désert, Montauban-de-Bretagne, Montfort-sur-Meu, Mordelles, Plélan-le-Grand, Rennes-Brequigny, Rennes-Centre, Rennes-Centre-Ouest, Rennes-Centre-Sud, Rennes-Est, Rennes-le-Blosne, Rennes-Nord, Rennes-Nord-Est, Rennes-Nord-Ouest, Rennes-Sud-Est, Rennes-Sud-Ouest, Retiers, Saint-Aubin-d'Aubigné, Saint-Aubin-du-Cormier, Saint-Brice-en-Coglès, Saint-Méen-le-Grand, Vitré-Est et Vitré-Ouest (21)] </p>
+<p align="left">Cantons d'Antrain, Argentré-du-Plessis, Bécherel, Betton, Bruz, Cesson-Sévigné, Châteaubourg, Châteaugiron, Fougères-Nord, Fougères-Sud, Hédé, Janzé, La Guerche-de-Bretagne, Liffré, Louvigné-du-Désert, Montauban-de-Bretagne, Montfort-sur-Meu, Mordelles, Plélan-le-Grand, Rennes-Brequigny, Rennes-Centre, Rennes-Centre-Ouest, Rennes-Centre-Sud, Rennes-Est, Rennes-le-Blosne, Rennes-Nord, Rennes-Nord-Est, Rennes-Nord-Ouest, Rennes-Sud-Est, Rennes-Sud-Ouest, Retiers, Saint-Aubin-d'Aubigné, Saint-Aubin-du-Cormier, Saint-Brice-en-Coglès, Saint-Méen-le-Grand, Vitré-Est et Vitré-Ouest (21)] </p>
 </td>
 </tr>
 <tr>
@@ -5150,10 +4999,10 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 </tr>
 <tr>
 <td valign="top" width="109">
-<p>[Vitré </p>
+<p align="left">[Vitré </p>
 </td>
 <td valign="top" width="333">
-<p>Cantons d'Argentré-du-Plessis, Châteaubourg, La Guerche-de-Bretagne, Retiers, Vitré-Est et Vitré-Ouest. (3)] </p>
+<p align="left">Cantons d'Argentré-du-Plessis, Châteaubourg, La Guerche-de-Bretagne, Retiers, Vitré-Est et Vitré-Ouest. (3)] </p>
 </td>
 </tr>
 <tr>
@@ -5806,56 +5655,32 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 </tr>
 <tr>
 <td valign="top" width="154">
-<p>[Saint-Gaudens (5)] </p>
+<p>Saint-Gaudens </p>
 </td>
 <td valign="top" width="109">
 <p>Saint-Gaudens </p>
 </td>
 <td valign="top" width="333">
-<p>Cantons d'Aspet, Aurignac, Bagnères-de-Luchon, Barbazan, Boulogne-sur-Gesse, Cazères, Le Fousseret, L'Isle-en-Dodon, Montréjeau, Saint-Béat, Saint-Gaudens, Saint-Martory et Salies-du-Salat. </p>
+<p>Cantons d'Aspet, Aurignac, Bagnères-de-Luchon, Barbazan, Boulogne-sur-Gesse, Cazères, Le Fousseret, L'Isle-en-Dodon, Montréjeau, Saint-Béat, Saint-Gaudens, Saint-Martory et Salies-du-Salat.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="5" valign="top" width="154">
+<td rowspan="2" valign="top" width="154">
 <p>Toulouse </p>
 </td>
 <td valign="top" width="109">
 <p>Muret </p>
 </td>
 <td valign="top" width="333">
-<p>Cantons d'Auterive, Carbonne, Cintegabelle, Montesquieu-Volvestre, Muret, Portet-sur-Garonne, Rieumes, Rieux et Saint-Lys. </p>
+<p>Cantons d'Auterive, Carbonne, Cintegabelle, Montesquieu-Volvestre, Muret, Portet-sur-Garonne, Rieumes, Rieux et Saint-Lys.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="109">
-<p>[Saint-Gaudens (6)] </p>
+<p>Toulouse</p>
 </td>
 <td valign="top" width="333">
-<p>Cantons d'Aspet, Aurignac, Bagnères-de-Luchon, Barbazan, Boulogne-sur-Gesse, Cazères, Le Fousseret, L'Isle-en-Dodon, Montréjeau, Saint-Béat, Saint-Gaudens, Saint-Martory et Salies-du-Salat. </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="109">
-<p>[Toulouse </p>
-</td>
-<td valign="top" width="333">
-<p>Cantons de Blagnac, Cadours, Castanet-Tolosan, Fronton, Grenade, Léguevin, Montastruc-la-Conseillère, Toulouse 1er canton, Toulouse 2e canton, Toulouse 3e canton, Toulouse 4e canton, Toulouse 5e canton, Toulouse 6e canton, Toulouse 7e canton, Toulouse 8e canton, Toulouse 9e canton, Toulouse 10e canton, Toulouse 11e canton, Toulouse 12e canton, Toulouse 13e canton, Toulouse 14e canton, Toulouse 15e canton, Tournefeuille, Verfeil et Villemur-sur-Tarn. (3)] </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="109">
-<p>[Toulouse </p>
-</td>
-<td valign="top" width="333">
-<p>Cantons de Blagnac, Cadours, Caraman, Castanet-Tolosan, Fronton, Grenade, Lanta, Léguevin, Montastruc-la-Conseillère, Montgiscard, Nailloux, Revel, Toulouse 1er canton, Toulouse 2e canton, Toulouse 3e canton, Toulouse 4e canton, Toulouse 5e canton, Toulouse 6e canton, Toulouse 7e canton, Toulouse 8e canton, Toulouse 9e canton, Toulouse 10e canton, Toulouse 11e canton, Toulouse 12e canton, Toulouse 13e canton, Toulouse 14e canton, Toulouse 15e canton, Tournefeuille, Verfeil, Villefranche-de-Lauragais et Villemur-sur-Tarn. (4)] </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="109">
-<p>[Villefranche-de-Lauragais </p>
-</td>
-<td valign="top" width="333">
-<p>Cantons de Caraman, Lanta, Montgiscard, Nailloux, Revel et Villefranche-de-Lauragais. (3)] </p>
+<p>Cantons de Blagnac, Cadours, Caraman, Castanet-Tolosan, Fronton, Grenade, Lanta, Léguevin, Montastruc-la-Conseillère, Montgiscard, Nailloux, Revel, Toulouse 1er canton, Toulouse 2e canton, Toulouse 3e canton, Toulouse 4e canton, Toulouse 5e canton, Toulouse 6e canton, Toulouse 7e canton, Toulouse 8e canton, Toulouse 9e canton, Toulouse 10e canton, Toulouse 11e canton, Toulouse 12e canton, Toulouse 13e canton, Toulouse 14e canton, Toulouse 15e canton, Tournefeuille, Verfeil, Villefranche-de-Lauragais et Villemur-sur-Tarn.</p>
 </td>
 </tr>
 <tr>
@@ -5941,7 +5766,7 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 <p align="left">Montauban </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Cantons de Caussade, Caylus, Lafrançaise, Molières,<br/>Monclar-de-Quercy, Montauban, 1er canton, Montauban 2e<br/>canton, Montauban 3ème canton, Montauban 4e canton,<br/>Montauban 5e canton, Montauban 6e canton, Montpezat-de-Quercy, Nègrepelisse, Saint-Antonin-Noble-Val et Villebrumier. <br/>
+<p align="left">Cantons de Caussade, Caylus, Lafrançaise, Molières,<br/>Monclar-de-Quercy, Montauban, 1er canton, Montauban 2e<br/>canton, Montauban 3ème canton, Montauban 4e canton,<br/>Montauban 5e canton, Montauban 6e canton, Montpezat-<br/>de-Quercy, Nègrepelisse, Saint-Antonin-Noble-Val et Villebrumier. <br/>
 </p>
 </td>
 </tr>
@@ -6208,6 +6033,9 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 </tr>
 </tbody>
 </table>
+<div align="center"/>
+<div align="center"/>
+<div align="center"/>
 <div align="center">
 <table>
 <tbody>
@@ -6318,8 +6146,7 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 <tbody>
 <tr>
 <td width="312">
-<p align="center">Siège du tribunal de première instance </p>
-<p align="center">et de la juridiction de proximité </p>
+<p align="center">Siège du tribunal de première instance<br/>et de la juridiction de proximité </p>
 </td>
 <td width="302">
 <p align="center">Ressort </p>
@@ -6337,10 +6164,10 @@ SIÈGE ET RESSORT DES COURS D'APPEL ET DES TRIBUNAUX SUPÉRIEURS D'APPEL, DES TR
 </tr>
 <tr>
 <td width="312">
-<p>Saint-Pierre </p>
+<p align="left">Saint-Pierre </p>
 </td>
 <td width="302">
-<p>Collectivité territoriale de Saint-Pierre-et-Miquelon </p>
+<p align="left">Collectivité territoriale de Saint-Pierre-et-Miquelon </p>
 </td>
 </tr>
 </tbody>
