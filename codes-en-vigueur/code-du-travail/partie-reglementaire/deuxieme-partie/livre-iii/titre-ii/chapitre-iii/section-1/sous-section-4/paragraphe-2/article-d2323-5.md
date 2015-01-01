@@ -22,6 +22,10 @@ d) Aux effectifs concernés répartis par catégorie socioprofessionnelle et par
 
 6° Les informations, pour l'année antérieure et l'année en cours, relatives aux congés individuels de formation, aux congés de bilan de compétences, aux congés de validation des acquis de l'expérience et aux congés pour enseignement accordés, notamment leur objet, leur durée et leur coût, aux conditions dans lesquelles ces congés ont été accordés ou reportés ainsi qu'aux résultats obtenus ;
 
-7° Le bilan, pour l'année antérieure et l'année en cours, des conditions de mise en œuvre des contrats et des périodes de professionnalisation ainsi que de la mise en œuvre du droit individuel à la formation. Le bilan porte également sur l'accueil des enseignants et des conseillers d'orientation ;
+7° Le bilan, pour l'année antérieure et l'année en cours, des conditions de mise en œuvre des contrats et des périodes de professionnalisation ainsi que de la mise en œuvre du compte personnel de formation. Le bilan porte également sur l'accueil des enseignants et des conseillers d'orientation ;
 
-8° Le plan de formation de l'entreprise et les conditions de mise en œuvre des périodes et des contrats de professionnalisation ainsi que la mise en œuvre du droit individuel à la formation pour l'année à venir, comportant respectivement les informations mentionnées aux 5° et 7°.
+8° Le plan de formation de l'entreprise et les conditions de mise en œuvre des périodes et des contrats de professionnalisation ainsi que la mise en œuvre du compte personnel de formation pour l'année à venir, comportant respectivement les informations mentionnées aux 5° et 7° ;
+
+9° Le nombre des salariés bénéficiaires de l'abondement mentionné au dernier alinéa du II de l'article L. 6315-1 ainsi que les sommes versées à ce titre ;
+
+10° Le nombre des salariés bénéficiaires de l'entretien professionnel mentionné au I de l'article L. 6315-1.
