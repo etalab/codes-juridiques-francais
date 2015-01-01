@@ -20,7 +20,7 @@ Par dérogation au II du même article 46, les plafonds individuels portent sur 
 
 Cette taxe pourvoit à une partie des dépenses des établissements publics constituant le réseau des chambres de métiers et de l'artisanat. Elle est employée, dans le respect des règles de concurrence nationales et communautaires, pour remplir les missions qui leur sont confiées par les lois et les règlements, à l'exclusion des activités marchandes.
 
-La taxe est acquittée par les chefs d'entreprises individuelles ou les sociétés soumis à l'obligation de s'inscrire au répertoire des métiers ou qui y demeurent immatriculés. Les personnes physiques titulaires de l'allocation de solidarité aux personnes âgées mentionnée à l'article L. 815-1 du code de la sécurité sociale ou de l'allocation supplémentaire d'invalidité mentionnée à l'article L. 815-24 du même code sont dégrevées d'office de la taxe. Les chefs d'entreprises individuelles exerçant une activité artisanale à titre principal bénéficiant du régime prévu à l'article L. 133-6-8 du même code sont exonérés de cette taxe jusqu'au terme de la deuxième année civile suivant celle de la création de leur entreprise.
+La taxe est acquittée par les chefs d'entreprises individuelles ou les sociétés soumis à l'obligation de s'inscrire au répertoire des métiers ou qui y demeurent immatriculés. Les personnes physiques titulaires de l'allocation de solidarité aux personnes âgées mentionnée à l'article L. 815-1 du code de la sécurité sociale ou de l'allocation supplémentaire d'invalidité mentionnée à l'article L. 815-24 du même code sont dégrevées d'office de la taxe.
 
 Cette taxe est composée :
 
