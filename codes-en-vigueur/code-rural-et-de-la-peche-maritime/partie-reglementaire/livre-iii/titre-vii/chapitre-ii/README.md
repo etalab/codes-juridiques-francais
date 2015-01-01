@@ -14,6 +14,6 @@
 - [Article D372-18](article-d372-18.md)
 - [Article R372-3](article-r372-3.md)
 - [Article R372-4](article-r372-4.md)
-- [Article R372-5](article-r372-5.md)
+- [Article R372-6](article-r372-6.md)
 - [Article R372-7](article-r372-7.md)
 - [Article R372-19](article-r372-19.md)

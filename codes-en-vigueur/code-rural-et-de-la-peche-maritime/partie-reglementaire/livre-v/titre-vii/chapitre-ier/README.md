@@ -4,7 +4,6 @@
 - [Article D571-2](article-d571-2.md)
 - [Article D571-3](article-d571-3.md)
 - [Article D571-15](article-d571-15.md)
-- [Article R571-4](article-r571-4.md)
 - [Article R571-5](article-r571-5.md)
 - [Article R571-6](article-r571-6.md)
 - [Article R571-7](article-r571-7.md)
