@@ -6,4 +6,3 @@
 - [Article L8271-9](article-l8271-9.md)
 - [Article L8271-10](article-l8271-10.md)
 - [Article L8271-12](article-l8271-12.md)
-- [Article L8271-13](article-l8271-13.md)
