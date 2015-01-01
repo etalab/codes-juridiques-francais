@@ -4,7 +4,7 @@ A défaut d'accord amiable, le prix d'acquisition est fixé par la juridiction c
 
 Le prix est fixé, payé ou, le cas échéant, consigné selon les règles applicables en matière d'expropriation. Toutefois, dans ce cas :
 
-a) La date de référence prévue à l'article L. 13-15 du code de l'expropriation pour cause d'utilité publique est soit la date à laquelle est devenu opposable aux tiers le plus récent des actes rendant public, approuvant, révisant ou modifiant le plan d'occupation des sols ou approuvant, modifiant ou révisant le plan local d'urbanisme et délimitant la zone dans laquelle est situé le bien, soit, en l'absence d'un tel plan, cinq ans avant la déclaration par laquelle le propriétaire a manifesté son intention d'aliéner le bien ;
+a) La date de référence prévue à l'article L. 322-2 du code de l'expropriation pour cause d'utilité publique est soit la date à laquelle est devenu opposable aux tiers le plus récent des actes rendant public, approuvant, révisant ou modifiant le plan d'occupation des sols ou approuvant, modifiant ou révisant le plan local d'urbanisme et délimitant la zone dans laquelle est situé le bien, soit, en l'absence d'un tel plan, cinq ans avant la déclaration par laquelle le propriétaire a manifesté son intention d'aliéner le bien ;
 
 b) Les améliorations, transformations ou changements d'affectation opérés par le propriétaire postérieurement à la date fixée au a) ci-dessus ne sont pas présumés revêtir un caractère spéculatif ;
 

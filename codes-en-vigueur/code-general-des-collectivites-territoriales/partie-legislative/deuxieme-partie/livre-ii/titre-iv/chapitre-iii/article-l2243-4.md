@@ -22,6 +22,6 @@ Cet arrêté est publié au recueil des actes administratifs du département et 
 
 Dans le mois qui suit la prise de possession, l'autorité expropriante est tenue de poursuivre la procédure d'expropriation dans les conditions prévues par le code de l'expropriation pour cause d'utilité publique.
 
-L'ordonnance d'expropriation ou la cession amiable consentie après l'intervention de l'arrêté prévu au présent article produit les effets visés à l'article L. 12-2 du code de l'expropriation pour cause d'utilité publique.
+L'ordonnance d'expropriation ou la cession amiable consentie après l'intervention de l'arrêté prévu au présent article produit les effets visés à l'article L. 222-2 du code de l'expropriation pour cause d'utilité publique.
 
 Les modalités de transfert de propriété des immeubles ou de droits réels immobiliers et d'indemnisation des propriétaires sont régies par le code de l'expropriation pour cause d'utilité publique.

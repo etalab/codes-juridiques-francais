@@ -4,6 +4,6 @@ Sans préjudice des dispositions prévues au 5° de l'article L. 2212-2 et à l'
 
 Ces dispositions ne s'appliquent pas aux cavités souterraines d'origine naturelle ou humaine résultant de l'exploitation passée ou en cours d'une mine.
 
-La procédure prévue par les articles L. 15-6 à L. 15-8 du code de l'expropriation pour cause d'utilité publique est applicable lorsque l'extrême urgence rend nécessaire l'exécution immédiate de mesures de sauvegarde.
+La procédure prévue par les articles L. 521-1 à L. 521-8 du code de l'expropriation pour cause d'utilité publique est applicable lorsque l'extrême urgence rend nécessaire l'exécution immédiate de mesures de sauvegarde.
 
 Toutefois, pour la détermination du montant des indemnités qui doit permettre le remplacement des biens expropriés, il n'est pas tenu compte de l'existence du risque. Les indemnités perçues en application du quatrième alinéa de l'article L. 125-2 du code des assurances viennent en déduction des indemnités d'expropriation, lorsque les travaux de réparation liés au sinistre n'ont pas été réalisés et la valeur du bien a été estimée sans tenir compte des dommages subis.

@@ -1,6 +1,6 @@
 # Article L153-8
 
-I. ― Le bénéficiaire d'un titre minier, à l'intérieur du périmètre défini par ce titre et, sous réserve, à l'extérieur de celui-ci, d'une déclaration d'utilité publique prononcée dans les formes prévues à la section 1 du chapitre Ier du titre Ier du code de l'expropriation pour cause d'utilité publique, peut également dans les limites énoncées au II de l'article L. 153-3 être autorisé à :
+I. ― Le bénéficiaire d'un titre minier, à l'intérieur du périmètre défini par ce titre et, sous réserve, à l'extérieur de celui-ci, d'une déclaration d'utilité publique prononcée dans les formes prévues au titre II du livre Ier du code de l'expropriation pour cause d'utilité publique, peut également dans les limites énoncées au II de l'article L. 153-3 être autorisé à :
 
 1° Etablir à demeure, à une hauteur minimale fixée par décret en Conseil d'Etat au-dessus du sol, des câbles, canalisations ou engins transporteurs ainsi que les pylônes et mâts nécessaires à leur soutien ;
 

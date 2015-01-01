@@ -10,10 +10,10 @@ Les servitudes définies aux 1° et 2° ci-dessus s'appliquent dès ladéclarati
 
 Après exécution des travaux, les terrains de culture et la voirie sont remisen état, à la charge du titulaire de l'autorisation de construire et d'exploiter.
 
-II. ― Les servitudes donnent droit à indemnisation des propriétaires des terrains et des titulaires de droits réels ou de leurs ayants droit concernés, par accord amiable entre le titulaire de l'autorisation et les propriétaires du sol ou, à défaut, conformément aux dispositions du chapitre III du code de l'expropriation.
+II. ― Les servitudes donnent droit à indemnisation des propriétaires des terrains et des titulaires de droits réels ou de leurs ayants droit concernés, par accord amiable entre le titulaire de l'autorisation et les propriétaires du sol ou, à défaut, conformément aux dispositions en vigueur en matière d'expropriation pour cause d'utilité publique.
 
 Les contestations éventuelles relèvent de la juridiction compétente en matière d'expropriation pour cause d'utilité publique.
 
 III. ― Dans le cas où la mise en œuvre des servitudes rend impossible l'utilisation normale d'un terrain, le propriétaire peut requérir l'acquisition par le titulaire de la déclaration d'utilité publique de tout ou partie de ce terrain. La requête porte au maximum sur la bande large définie au I, à moins que le propriétaire ne démontre l'impossibilité d'utilisation de l'ensemble du terrain.
 
-Sans préjudice de l'indemnité d'expropriation visant l'établissement des servitudes mentionnées au II, les conditions de mise en œuvre de l'alinéa précédent sont, quelle que soit la destination du terrain faisant l'objet de la requête, celles fixées par l'article L. 13-11 du code de l'expropriation pour cause d'utilité publique.
+Sans préjudice de l'indemnité d'expropriation visant l'établissement des servitudes mentionnées au II, les conditions de mise en œuvre de l'alinéa précédent sont, quelle que soit la destination du terrain faisant l'objet de la requête, celles fixées par le chapitre II du titre IV du livre II du code de l'expropriation pour cause d'utilité publique.

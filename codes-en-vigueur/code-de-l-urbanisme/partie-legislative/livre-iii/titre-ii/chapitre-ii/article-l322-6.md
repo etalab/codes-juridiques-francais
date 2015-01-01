@@ -14,7 +14,7 @@ L'arrêté de l'autorité administrative éteint par lui-même et à sa date, po
 
 L'arrêté de l'autorité administrative met fin dans les mêmes conditions aux contrats de louage dont ces immeubles étaient l'objet. Si le bail éteint était soumis aux dispositions du chapitre V du titre IV du livre Ier du code de commerce, l'association foncière urbaine devra au preneur une indemnité calculée selon les règles fixées par ces dispositions à moins qu'elle ne préfère lui offrir le bail d'un local équivalant à celui dont la jouissance lui a été retirée. En ce qui concerne les locaux d'habitation ou professionnels, quelle que soit la nature du titre d'occupation, le droit au relogement est exercé comme en matière d'expropriation.
 
-La juridiction prévue à l'article L. 13-1 du code de l'expropriation pour cause d'utilité publique est compétente pour statuer sur les contestations relatives à l'évaluation des parcelles remembrées. Elle statue aussi sur les contestations soulevées à l'occasion du remembrement et afférentes aux privilèges, hypothèques et autres droits réels.
+La juridiction prévue à l'article L. 311-5 du code de l'expropriation pour cause d'utilité publique est compétente pour statuer sur les contestations relatives à l'évaluation des parcelles remembrées. Elle statue aussi sur les contestations soulevées à l'occasion du remembrement et afférentes aux privilèges, hypothèques et autres droits réels.
 
 La décision motivée prise par l'organe compétent de l'association foncière urbaine est notifiée aux intéressés qui disposent d'un délai de deux mois pour saisir la juridiction.
 

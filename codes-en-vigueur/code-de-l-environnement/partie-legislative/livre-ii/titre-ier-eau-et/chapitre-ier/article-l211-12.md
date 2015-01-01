@@ -10,7 +10,7 @@ II.-Ces servitudes peuvent avoir un ou plusieurs des objets suivants :
 
 3° Préserver ou restaurer des zones humides dites " zones stratégiques pour la gestion de l'eau " délimitées en application de l'article L. 212-5-1.
 
-III.-Les zones soumises aux servitudes visées aux 1° et 2° du II sont délimitées par arrêté préfectoral. Celui-ci est pris après enquête publique réalisée conformément au chapitre III du titre II du livre Ier du présent code menée conformément au code de l'expropriation pour cause d'utilité publique. Les zones soumises aux servitudes visées au 3° du II sont délimitées conformément à l'article L. 212-5-1.
+III.-Les zones soumises aux servitudes visées aux 1° et 2° du II sont délimitées par arrêté préfectoral. Celui-ci est pris après enquête publique réalisée conformément au chapitre III du titre II du livre Ier du présent code. Les zones soumises aux servitudes visées au 3° du II sont délimitées conformément à l'article L. 212-5-1.
 
 IV.-Dans les zones de rétention temporaire des eaux de crues ou de ruissellement mentionnées au 1° du II, l'arrêté préfectoral peut obliger les propriétaires et les exploitants à s'abstenir de tout acte de nature à nuire au bon fonctionnement, à l'entretien et à la conservation des ouvrages destinés à permettre l'inondation de la zone. A cet effet, l'arrêté préfectoral peut soumettre à déclaration préalable, auprès des autorités compétentes en matière d'urbanisme, les travaux qui, en raison de leur nature, de leur importance ou de leur localisation, sont susceptibles de faire obstacle au stockage ou à l'écoulement des eaux et n'entrent pas dans le champ d'application des autorisations ou déclarations instituées par le code de l'urbanisme.
 

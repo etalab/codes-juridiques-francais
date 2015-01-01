@@ -24,7 +24,7 @@ c) Les parts ou actions de sociétés d'attribution visées aux chapitres II et 
 
 d) Les immeubles cédés au locataire en exécution de la promesse de vente insérée dans un contrat de crédit-bail immobilier conclu en application du 2 de l'article L. 313-7 du code monétaire et financier ;
 
-e) Les immeubles qui font l'objet d'une mise en demeure d'acquérir en application des articles L. 111-10, L. 123-2, L123-17 ou L. 311-2 du présent code ou de l'article L. 11-7 du code de l'expropriation pour cause d'utilité publique ;
+e) Les immeubles qui font l'objet d'une mise en demeure d'acquérir en application des articles L. 111-10, L. 123-2, L123-17 ou L. 311-2 du présent code ou des articles L. 241-1 et L. 241-2 du code de l'expropriation pour cause d'utilité publique ;
 
 f) abrogé ;
 
@@ -32,4 +32,6 @@ g) L'aliénation par l'Etat, ses établissements publics ou des sociétés dont 
 
 h) Les transferts en pleine propriété des immeubles appartenant à l'Etat ou à ses établissements publics, réalisés conformément à l'article 141 de la loi n° 2006-1771 du 30 décembre 2006 de finances rectificative pour 2006 ;
 
-i) Les biens acquis par un organisme visé aux articles L. 321-4 et L. 324-1 lorsqu'il agit à la demande expresse de la collectivité titulaire du droit de préemption urbain.
+i) Les biens acquis par un organisme visé aux articles L. 321-4 et L. 324-1 lorsqu'il agit à la demande expresse de la collectivité titulaire du droit de préemption urbain ;
+
+j) Les cessions entre la SNCF, SNCF Réseau et SNCF Mobilités.

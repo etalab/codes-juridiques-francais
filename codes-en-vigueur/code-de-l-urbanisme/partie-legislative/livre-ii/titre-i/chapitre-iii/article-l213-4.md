@@ -6,7 +6,7 @@ Lorsqu'il est fait application de l'article L. 213-2-1, le prix d'acquisition fi
 
 Le prix est fixé, payé ou, le cas échéant, consigné selon les règles applicables en matière d'expropriation. Toutefois, dans ce cas :
 
-a) La date de référence prévue à l'article L. 13-15 du code de l'expropriation pour cause d'utilité publique est :
+a) La date de référence prévue à l'article L. 322-2 du code de l'expropriation pour cause d'utilité publique est :
 
 -pour les biens compris dans le périmètre d'une zone d'aménagement différé :
 
