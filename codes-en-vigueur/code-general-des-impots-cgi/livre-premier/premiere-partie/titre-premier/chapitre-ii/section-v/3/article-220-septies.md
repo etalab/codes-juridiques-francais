@@ -16,7 +16,8 @@ II. Le crédit d'impôt prévu au I est imputable sur le montant de l'impôt sur
 
 L'imputation du crédit d'impôt ne peut être appliquée sur l'impôt sur les sociétés résultant de l'imposition :
 
-1° des produits des actions ou parts de société, et des résultats de participations dans des organismes mentionnés aux articles 8,8 quater, 239 quater, 239 quater B et 239 quater C ;
+1° des produits des actions ou parts de société, et des résultats de participations dans des organismes mentionnés aux articles 8,
+8 quater, 239 quater, 239 quater B et 239 quater C ;
 
 2° des subventions, libéralités et abandons de créances ;
 
@@ -46,7 +47,7 @@ b) une activité de services qui n'est pas directement nécessaire à une activi
 
 c) une activité bancaire, financière, d'assurances, de location ou de gestion d'immeubles ou de travaux immobiliers ;
 
-3° elle ne doit pas être soumise aux dispositions des articles 44 sexies, 44 septies et 223 A ;
+3° elle ne doit pas être soumise aux dispositions des  articles 44 sexies, 44 septies, 223 A et 223 A bis ;
 
 4° son effectif de salariés, bénéficiant d'un contrat de travail à durée indéterminée ou d'une durée de six mois au moins, doit être égal ou supérieur à dix au cours de chaque exercice de la période définie au premier alinéa du II : si l'effectif varie en cours d'exercice, il est calculé compte tenu de la durée de présence des salariés en cause pendant l'exercice.
 

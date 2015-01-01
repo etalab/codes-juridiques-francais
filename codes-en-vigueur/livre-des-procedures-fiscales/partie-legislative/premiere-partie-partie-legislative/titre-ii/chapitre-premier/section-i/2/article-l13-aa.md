@@ -10,7 +10,7 @@ c) Dont plus de la moitié du capital ou des droits de vote est détenue, à la 
 
 d) (Périmé)
 
-e) Appartenant à un groupe relevant du régime fiscal prévu à l'article 223 A du même code lorsque ce groupe comprend au moins une personne morale satisfaisant l'une des conditions mentionnées aux a, b, c ou d,
+e) Appartenant à un groupe relevant du régime fiscal prévu à l'article 223 A ou à l'article 223 A bis du même code lorsque ce groupe comprend au moins une personne morale satisfaisant l'une des conditions mentionnées aux a, b, c ou d,
 
 doivent tenir à disposition de l'administration une documentation permettant de justifier la politique de prix de transfert pratiquée dans le cadre de transactions de toute nature réalisées avec des entités juridiques liées au sens du 12 de l'article 39 du même code établies ou constituées hors de France, ci-après désignées par les termes : " entreprises associées ”.
 

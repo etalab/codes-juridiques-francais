@@ -44,7 +44,7 @@ Le présent 3 n'est pas applicable aux sommes laissées ou mises à disposition 
 
 1° A raison d'obligations émises dans le cadre d'une offre au public au sens de l'article L. 411-1 du code monétaire et financier ou d'une réglementation étrangère équivalente ;
 
-2° Pour leur fraction dont le remboursement est exclusivement garanti par le nantissement des titres du débiteur, ou de créances sur ce débiteur, ou des titres d'une société détenant directement ou indirectement le débiteur lorsque le détenteur de ces titres et le débiteur sont membres d'un même groupe mentionné à l'article 223 A ;
+2° Pour leur fraction dont le remboursement est exclusivement garanti par le nantissement des titres du débiteur, ou de créances sur ce débiteur, ou des titres d'une société détenant directement ou indirectement le débiteur lorsque le détenteur de ces titres et le débiteur sont membres d'un même groupe mentionné à l'article 223 A ou à l'article 223 A bis ;
 
 3° A la suite du remboursement d'une dette préalable, rendu obligatoire par la prise de contrôle du débiteur ou en exécution d'une procédure de sauvegarde ou d'un redressement judiciaire, dans la limite du capital remboursé et des intérêts échus à cette occasion ;
 

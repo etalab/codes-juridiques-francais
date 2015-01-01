@@ -16,7 +16,7 @@ b) Pour les entreprises ayant réalisé un chiffre d'affaires compris entre 1 mi
 
 c) Pour les entreprises ayant réalisé un chiffre d'affaires supérieur à 5 milliards d'euros au cours du dernier exercice clos ou de la période d'imposition, ramené s'il y a lieu à douze mois, à la différence entre 95 % du montant de l'impôt sur les sociétés estimé au titre de cet exercice selon les mêmes modalités que celles définies au premier alinéa et le montant des acomptes déjà versés au titre du même exercice.
 
-Pour l'application des dispositions des a, b et c le chiffre d'affaires est apprécié, pour la société mère d'un groupe mentionné à l'article 223 A, en faisant la somme des chiffres d'affaires de chacune des sociétés membres de ce groupe.
+Pour l'application des dispositions des a, b et c le chiffre d'affaires est apprécié, pour la société mère d'un groupe mentionné à l'article 223 A ou à l'article 223 A bis, en faisant la somme des chiffres d'affaires de chacune des sociétés membres de ce groupe.
 
 1 bis et 1 ter. (Abrogés pour les exercices ouverts à compter du 1er janvier 1993).
 

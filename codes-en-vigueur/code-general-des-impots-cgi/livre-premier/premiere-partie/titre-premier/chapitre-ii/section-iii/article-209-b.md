@@ -18,7 +18,7 @@ d. Par un partenaire commercial de la personne morale dès lors que les relation
 
 Toutefois, les actions, parts, droits financiers ou droits de vote mentionnés aux a, b, c et d ne sont pas pris en compte pour le calcul du pourcentage de résultat de l'entité juridique établie hors de France, qui est réputé constituer un revenu de capitaux mobiliers de la personne morale.
 
-3. Le bénéfice de l'entreprise ou le revenu de capitaux mobiliers mentionné au 1 est réputé acquis le premier jour du mois qui suit la clôture de l'exercice de l'entreprise ou de l'entité juridique établie ou constituée hors de France. Il est déterminé selon les règles fixées par le présent code à l'exception des dispositions prévues à l'article 223 A.
+3. Le bénéfice de l'entreprise ou le revenu de capitaux mobiliers mentionné au 1 est réputé acquis le premier jour du mois qui suit la clôture de l'exercice de l'entreprise ou de l'entité juridique établie ou constituée hors de France. Il est déterminé selon les règles fixées par le présent code à l'exception des dispositions prévues à l'article 223 A et à l'article 223 A bis.
 
 4. L'impôt acquitté localement par l'entreprise ou l'entité juridique, établie hors de France, est imputable sur l'impôt établi en France, à condition d'être comparable à l'impôt sur les sociétés et, s'il s'agit d'une entité juridique, dans la proportion mentionnée à la dernière phrase du premier alinéa du 1.
 

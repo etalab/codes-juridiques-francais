@@ -8,7 +8,7 @@ L'investissement est égal au montant net des capitaux transférés au profit de
 
 La filiale, qui doit revêtir la forme d'une société de capitaux, ou l'établissement doit être soumis à l'étranger à une imposition de ses bénéfices comparable à celle qui résulterait de l'application de l'impôt sur les sociétés.
 
-La filiale ou l'établissement doit avoir pour activité la commercialisation à l'étranger de biens produits principalement par l'entreprise qui constitue la provision dans l'un de ses établissements dont les résultats sont soumis à l'impôt sur les sociétés ou par les sociétés membres d'un groupe mentionné à l'article 223 A dont elle fait également partie.
+La filiale ou l'établissement doit avoir pour activité la commercialisation à l'étranger de biens produits principalement par l'entreprise qui constitue la provision dans l'un de ses établissements dont les résultats sont soumis à l'impôt sur les sociétés ou par les sociétés membres d'un groupe mentionné à l'article 223 A ou à l'article 223 A bis dont elle fait également partie.
 
 Les dispositions du présent I ne sont plus applicables aux investissements réalisés après le 31 décembre 2003.
 

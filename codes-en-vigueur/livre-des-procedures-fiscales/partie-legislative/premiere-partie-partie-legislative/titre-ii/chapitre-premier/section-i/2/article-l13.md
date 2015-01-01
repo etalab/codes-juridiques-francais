@@ -14,7 +14,7 @@ a) Personnes morales ou groupements de personnes de droit ou de fait détenant �
 
 b) Personnes morales ou groupements de personnes de droit ou de fait dont plus de la moitié du capital ou des droits de vote est détenue à la clôture de leur exercice, directement ou indirectement, par une personne ou un groupement mentionné aux mêmes 1 ou 1° ;
 
-c) Personnes morales qui appartiennent à un groupe relevant du régime fiscal prévu à l'article 223 A du code général des impôts lorsque celui-ci comprend au moins une personne mentionnée au 1 ou au 1° du présent 2.
+c) Personnes morales qui appartiennent à un groupe relevant du régime fiscal prévu à l'article 223 A ou à l'article 223 A bis du code général des impôts lorsque celui-ci comprend au moins une personne mentionnée au 1 ou au 1° du présent 2.
 
 III.-Les sociétés commerciales qui établissent, en application de l'article L. 233-16 du code de commerce, des comptes consolidés sont tenues de les présenter.
 
