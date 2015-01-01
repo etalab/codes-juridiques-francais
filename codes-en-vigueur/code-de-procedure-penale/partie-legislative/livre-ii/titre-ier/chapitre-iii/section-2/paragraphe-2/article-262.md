@@ -10,4 +10,4 @@ Selon le cas, soit le procureur général ou son délégué, soit le procureur d
 
 Le bâtonnier de l'Ordre des avocats de la juridiction, siège de la cour d'assises ou son représentant ;
 
-Cinq conseillers généraux désignés chaque année par le conseil général et, à Paris, cinq conseillers désignés par le Conseil de Paris.
+Cinq conseillers généraux désignés chaque année par le conseil général, à Paris, cinq conseillers désignés par le Conseil de Paris et, à Lyon, deux conseillers désignés par le conseil général du Rhône et trois conseillers désignés par le conseil de la métropole de Lyon.

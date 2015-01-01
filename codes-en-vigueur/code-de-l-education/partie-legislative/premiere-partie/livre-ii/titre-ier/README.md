@@ -6,3 +6,4 @@
 - [Chapitre IV : Les compétences des régions](chapitre-iv)
 - [Chapitre V : Les compétences de la collectivité territoriale de Corse.](chapitre-v)
 - [Chapitre VI : Les compétences communes aux collectivités territoriales.](chapitre-vi)
+- [Chapitre VII : Les compétences de la métropole de Lyon](chapitre-vii)
