@@ -7,4 +7,5 @@
 - [Article L3641-5](article-l3641-5.md)
 - [Article L3641-6](article-l3641-6.md)
 - [Article L3641-7](article-l3641-7.md)
+- [Article L3641-8](article-l3641-8.md)
 - [Article L3641-9](article-l3641-9.md)
