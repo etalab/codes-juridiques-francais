@@ -10,3 +10,5 @@
 - [Article R612-29](article-r612-29.md)
 - [Article R612-29-1](article-r612-29-1.md)
 - [Article R612-29-2](article-r612-29-2.md)
+- [Article R612-29-3](article-r612-29-3.md)
+- [Article R612-29-4](article-r612-29-4.md)
