@@ -12,6 +12,7 @@
 - [Article L225-102](article-l225-102.md)
 - [Article L225-102-1](article-l225-102-1.md)
 - [Article L225-102-2](article-l225-102-2.md)
+- [Article L225-102-3](article-l225-102-3.md)
 - [Article L225-103](article-l225-103.md)
 - [Article L225-104](article-l225-104.md)
 - [Article L225-105](article-l225-105.md)

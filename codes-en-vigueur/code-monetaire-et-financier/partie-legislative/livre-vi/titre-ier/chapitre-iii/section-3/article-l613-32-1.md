@@ -12,7 +12,7 @@ III.-Lorsqu'un établissement de crédit ou une entreprise d'investissement soum
 
 2° S'acquitte des tâches prévues au 2 du II de l'article L. 613-20-1.
 
-Lorsque l'Autorité de contrôle prudentiel et de résolution, en sa qualité d'autorité chargée de la surveillance d'un établissement de crédit ou d'une entreprise d'investissement ayant des succursales d'importance significative, a connaissance d'une situation visée à l'article L. 613-20-5, elle alerte sans délai les personnes mentionnées à cet article ainsi que celles mentionnées à l'article L. 612-11.
+Lorsque l'Autorité de contrôle prudentiel et de résolution, en sa qualité d'autorité chargée de la surveillance d'un établissement de crédit ou d'une entreprise d'investissement ayant des succursales d'importance significative, a connaissance d'une situation visée à l'article L. 613-20-5, elle alerte sans délai les personnes mentionnées à cet article ainsi que le directeur général du Trésor.
 
 IV.-Lorsque la section 1 du présent chapitre ne s'applique pas, l'Autorité de contrôle prudentiel et de résolution peut, en sa qualité d'autorité de surveillance d'un établissement de crédit ou d'entreprise d'investissement ayant des succursales d'importance significative, établir et présider un collège des autorités de surveillance.
 

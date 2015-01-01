@@ -6,3 +6,4 @@
 - [Section 4 : Dispositions communes à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon](section-4)
 - [Section 5](section-5)
 - [Section 6 :  Des tarifs des services bancaires de base](section-6)
+- [Section 7 : Mise en œuvre des normes techniques](section-7)

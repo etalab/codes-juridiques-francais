@@ -6,7 +6,7 @@ Les dispositions de la présente section s'appliquent également aux exploitants
 
 Au sens de la présente section :
 
--les gaz à effet de serre sont les gaz énumérés à l'annexe I de la directive 2003/87/ CE du 13 octobre 2003 et les autres composants gazeux de l'atmosphère, tant naturels qu'anthropiques, qui absorbent et renvoient un rayonnement infrarouge ;
+-les gaz à effet de serre sont les gaz énumérés à   l'annexe II de la directive 2003/87/ CE du 13 octobre 2003 et les autres composants gazeux de l'atmosphère, tant naturels qu'anthropiques, qui absorbent et renvoient un rayonnement infrarouge ;
 
 -une tonne d'équivalent dioxyde de carbone est une tonne métrique de dioxyde de carbone (CO2) ou une quantité de tout autre gaz à effet de serre mentionné à l'annexe II de la directive 2003/87/ CE du 13 octobre 2003 ayant un potentiel de réchauffement planétaire équivalent ;
 

@@ -12,7 +12,7 @@ Il nomme à tous les emplois de la Banque, sous réserve des dispositions de l'a
 
 Le gouverneur est assisté d'un premier et d'un second sous-gouverneurs. Les sous-gouverneurs exercent les fonctions qui leur sont déléguées par le gouverneur. En cas d'absence ou d'empêchement du gouverneur, le conseil général est présidé par l'un des sous-gouverneurs, désigné spécialement à cet effet par le gouverneur.
 
-Le gouverneur et les deux sous-gouverneurs sont nommés par décret en Conseil des ministres pour une durée de six ans renouvelable une fois. La limite d'âge applicable à l'exercice de ces fonctions est fixée à soixante-cinq ans.
+Le gouverneur et les deux sous-gouverneurs sont nommés par décret en Conseil des ministres pour une durée de six ans renouvelable une fois. La limite d'âge applicable à l'exercice de ces fonctions est fixée à soixante-cinq ans. Lorsqu'ils atteignent cette limite d'âge, le gouverneur et les deux sous-gouverneurs sont maintenus dans leurs fonctions jusqu'au terme de leur mandat en cours.
 
 Il ne peut être mis fin, avant terme, à leurs fonctions que s'ils deviennent incapables d'exercer celles-ci ou commettent une faute grave, par révocation sur demande motivée du conseil général statuant à la majorité des membres autres que l'intéressé.
 
