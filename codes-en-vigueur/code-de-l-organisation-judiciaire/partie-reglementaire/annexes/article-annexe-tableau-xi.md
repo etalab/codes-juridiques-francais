@@ -18,8 +18,7 @@ SIÈGE ET RESSORT DES GREFFES DÉTACHÉS
 <p align="center">SIÈGE DU GREFFE<br/>détaché </p>
 </td>
 <td>
-<p align="center">
-<br/>RESSORT DU GREFFE<br/>détaché </p>
+<p align="center">RESSORT DU GREFFE<br/>détaché </p>
 </td>
 </tr>
 <tr>
@@ -86,6 +85,22 @@ SIÈGE ET RESSORT DES GREFFES DÉTACHÉS
 </td>
 <td>
 <p>Cantons de Mana, Maripasoula et Saint-Laurent-du-Maroni </p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p align="center">Cour d'appel de Montpellier</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Rodez</p>
+</td>
+<td>
+<p>Millau</p>
+</td>
+<td colspan="2">
+<p>Cantons de Belmont-sur-Rance, Camarès, Campagnac, Cornus, Millau-Est, Millau-Ouest, Nant, Peyreleau, Saint-Affrique, Saint-Beauzély, Saint-Rome-de-Tarn, Saint-Sernin-sur-Rance, Salles-Curan, Sévérac-le-Château et Vézins-de-Lévézou</p>
 </td>
 </tr>
 <tr>
