@@ -10,7 +10,7 @@ I.-Les fonds d'investissement de proximité sont des fonds communs de placement 
 
 4° Respecter les conditions définies aux b, sous réserve des dispositions du 3° du présent I, b bis, b ter et f du 1 du I de l'article 885-0 V bis du code général des impôts et aux b, c et d du VI du même article ;
 
-5° Compter au moins deux salariés ;
+5° Compter au moins deux salariés. Cette condition ne s'applique pas aux sociétés mentionnées au 3° du présent I ;
 
 6° Ne pas avoir procédé au cours des douze derniers mois au remboursement, total ou partiel, d'apports.
 

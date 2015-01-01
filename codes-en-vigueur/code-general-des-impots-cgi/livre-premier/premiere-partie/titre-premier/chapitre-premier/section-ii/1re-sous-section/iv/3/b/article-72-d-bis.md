@@ -22,7 +22,7 @@ e) Au titre de l'exercice de survenance d'un aléa économique lorsque la diffé
 
 3.-Les sommes déduites et les intérêts ainsi utilisés sont rapportés au résultat de l'exercice au cours duquel leur utilisation est intervenue.
 
-Lorsque ces sommes et intérêts ne sont pas utilisés au cours des sept exercices qui suivent celui au titre duquel la déduction a été pratiquée, ils sont rapportés aux résultats du septième exercice suivant celui au titre duquel la déduction a été pratiquée et majorés d'un montant égal au produit de ces sommes et intérêts par le taux de l'intérêt de retard prévu à l'article 1727.
+Lorsque ces sommes et intérêts ne sont pas utilisés au cours des sept exercices qui suivent celui au titre duquel la déduction a été pratiquée, ils sont rapportés aux résultats du septième exercice suivant celui au titre duquel la déduction a été pratiquée et majorés d'un montant égal au produit de ces sommes et intérêts par le taux d'intérêt légal.
 
 Lorsque ces sommes et intérêts sont prélevés dans des cas autres que ceux mentionnés au 2 du présent I, ils sont rapportés au résultat de l'exercice au cours duquel cette utilisation a été effectuée et majorés d'un montant égal au produit de ces sommes et intérêts par le taux de l'intérêt de retard prévu au même article 1727.
 

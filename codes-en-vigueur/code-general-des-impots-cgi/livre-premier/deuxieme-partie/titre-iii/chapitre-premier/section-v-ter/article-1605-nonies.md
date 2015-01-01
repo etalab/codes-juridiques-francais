@@ -24,4 +24,4 @@ V. ― Une déclaration, conforme à un modèle établi par l'administration, re
 
 Lorsque la cession est exonérée en application du III ou par l'effet de l'abattement prévu au second alinéa du II du présent article, aucune déclaration n'est déposée. L'acte de cession soumis à la formalité fusionnée ou présenté à l'enregistrement précise, sous peine de refus de dépôt ou de la formalité d'enregistrement, la nature et le fondement de cette exonération ou de cette absence de taxation. Les deux derniers alinéas du III de l'article 150 VG sont applicables.
 
-VI. ― La taxe est versée lors du dépôt de la déclaration prévue au V. Les I et II de l'article 150 VF, le second alinéa du I et les II et III de l'article 150 VH et le premier alinéa du IV de l'article 244 bis A sont applicables.
+VI. ― La taxe est versée lors du dépôt de la déclaration prévue au V. Les I et II de l'article 150 VF, le second alinéa du I et les II et III de l'article 150 VH et le IV de l'article 244 bis A sont applicables.

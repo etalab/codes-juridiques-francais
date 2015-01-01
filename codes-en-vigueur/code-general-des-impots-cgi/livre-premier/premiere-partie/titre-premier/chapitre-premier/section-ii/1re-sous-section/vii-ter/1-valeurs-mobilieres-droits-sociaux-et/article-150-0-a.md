@@ -30,7 +30,7 @@ II.-Les dispositions du I sont applicables :
 
 5. Au gain net retiré des cessions de parts des fonds communs de créances dont la durée à l'émission est supérieure à cinq ans.
 
-6. Indépendamment de l'application des dispositions des articles 109,112,120 et 161, au gain net retiré par le bénéficiaire lors d'un rachat par une société émettrice de ses propres titres et défini au 8 ter de l'article 150-0 D ;
+6. Au gain net retiré par le bénéficiaire lors d'un rachat par une société émettrice de ses propres titres et défini au 8 ter de l'article 150-0 D ;
 
 7. Sous réserve de l'application de l'article 163 quinquies B et du 8, en cas de distribution d'une fraction des actifs d'un fonds commun de placement à risques , d'un fonds professionnel spécialisé relevant de l'article L. 214-37 du code monétaire et financier, dans sa rédaction antérieure à l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre juridique de la gestion d'actifs, d'un fonds professionnel de capital d'investissement ou d'une entité de même nature constituée sur le fondement d'un droit étranger, à l'excédent du montant des sommes ou valeurs distribuées sur le montant des apports, ou le prix d'acquisition des parts s'il est différent du montant des apports ;
 

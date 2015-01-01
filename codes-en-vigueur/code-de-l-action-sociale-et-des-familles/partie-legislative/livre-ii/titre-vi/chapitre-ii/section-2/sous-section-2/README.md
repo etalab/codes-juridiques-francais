@@ -10,4 +10,3 @@
 - [Article L262-20](article-l262-20.md)
 - [Article L262-21](article-l262-21.md)
 - [Article L262-22](article-l262-22.md)
-- [Article L262-23](article-l262-23.md)

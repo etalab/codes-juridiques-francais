@@ -22,6 +22,6 @@ IV.-Une déclaration, conforme à un modèle établi par l'administration, retra
 
 Lorsque la cession est exonérée en application du a ou du b du II, aucune déclaration ne doit être déposée.L'acte de cession soumis à la formalité fusionnée ou présenté à l'enregistrement précise, sous peine de refus de dépôt ou de la formalité d'enregistrement, la nature et le fondement de cette exonération ou de cette absence de taxation. Les dispositions des deuxième et troisième alinéas du III de l'article 150 VG sont applicables.
 
-V.-La taxe est versée lors du dépôt de la déclaration prévue au IV. Les dispositions des I et II de l'article 150 VF, du second alinéa du I et des II et III de l'article 150 VH et de l'avant-dernier alinéa du I de l'article 244 bis A sont applicables.
+V.-La taxe est versée lors du dépôt de la déclaration prévue au IV. Les dispositions des I et II de l'article 150 VF, du second alinéa du I et des II et III de l'article 150 VH et du IV de l'article 244 bis A sont applicables.
 
 VI.-La délibération prévue au I s'applique aux cessions réalisées à compter du premier jour du troisième mois qui suit la date à laquelle cette délibération est intervenue. Elle est notifiée aux services fiscaux au plus tard le premier jour du deuxième mois qui suit la date à laquelle elle est intervenue.A défaut, la taxe n'est pas due.
