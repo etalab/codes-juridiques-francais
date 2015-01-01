@@ -12,7 +12,7 @@ Les dispositions relatives aux grands établissements placés sous la tutelle du
 
 5° Ecole nationale des chartes : décret n° 87-832 du 8 octobre 1987 relatif à l'Ecole nationale des Chartes ;
 
-6° Ecole centrale des arts et manufactures : décret n° 90-361 du 20 avril 1990 portant organisation de l'Ecole centrale des arts et manufactures ;
+6° Supprimé
 
 7° Ecole pratique des hautes études : décret n° 2005-1444 du 24 novembre 2005 relatif à l'Ecole pratique des hautes études ;
 

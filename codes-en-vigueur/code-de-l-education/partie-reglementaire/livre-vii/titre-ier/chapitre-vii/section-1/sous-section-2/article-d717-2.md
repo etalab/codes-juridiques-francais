@@ -8,4 +8,6 @@ Les dispositions relatives aux grands établissements placés sous la tutelle co
 
 3° Ecole des hautes études en santé publique, sous la tutelle conjointe des ministres chargés de l'enseignement supérieur, de la recherche, de la santé et des affaires sociales : décret n° 2006-1546 du 7 décembre 2006 relatif à l'Ecole des hautes études en santé publique ;
 
-4° Institut national supérieur des sciences agronomiques, de l'alimentation et de l'environnement, sous la tutelle conjointe des ministres chargés de l'enseignement supérieur et de l'agriculture : décret n° 2009-189 du 18 février 2009 portant création de l'Institut national supérieur des sciences agronomiques, de l'alimentation et de l'environnement (AgroSup Dijon).
+4° Institut national supérieur des sciences agronomiques, de l'alimentation et de l'environnement, sous la tutelle conjointe des ministres chargés de l'enseignement supérieur et de l'agriculture : décret n° 2009-189 du 18 février 2009 portant création de l'Institut national supérieur des sciences agronomiques, de l'alimentation et de l'environnement (AgroSup Dijon) ;
+
+5° CentraleSupélec, sous la tutelle conjointe des ministres chargés de l'enseignement supérieur et de l'industrie : décret n° 2014-1679 du 30 décembre 2014 portant création de CentraleSupélec.

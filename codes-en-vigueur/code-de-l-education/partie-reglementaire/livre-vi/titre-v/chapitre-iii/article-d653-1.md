@@ -6,7 +6,7 @@ Les dispositions relatives aux formations dispensées dans les grands établisse
 
 2° Le décret n° 88-413 du 2 avril 1988 relatif au Conservatoire national des arts et métiers ;
 
-3° Le décret n° 90-361 du 20 avril 1990 portant organisation de l'Ecole centrale des arts et manufactures ;
+3° Le décret n° 2014-1679 du 30 décembre 2014 portant création de CentraleSupélec ;
 
 4° Le décret n° 2006-1546 du 7 décembre 2006 relatif à l'Ecole des hautes études en santé publique ;
 

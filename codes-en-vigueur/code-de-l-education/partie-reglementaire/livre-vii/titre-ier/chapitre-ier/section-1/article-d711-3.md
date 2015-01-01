@@ -8,7 +8,7 @@ Le statut de grand établissement fixé par l'article L. 717-1 s'applique aux é
 
 3° Conservatoire national des arts et métiers ;
 
-4° Ecole centrale des arts et manufactures ;
+4° CentraleSupélec ;
 
 5° Ecole des hautes études en santé publique ;
 
