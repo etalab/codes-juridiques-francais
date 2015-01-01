@@ -20,3 +20,4 @@
 - [Article Annexe Tableau XIV](article-annexe-tableau-xiv.md)
 - [Article Annexe Tableau XVI](article-annexe-tableau-xvi.md)
 - [Article Annexe Tableau XVII](article-annexe-tableau-xvii.md)
+- [Article Tableau IV bis](article-tableau-iv-bis.md)
