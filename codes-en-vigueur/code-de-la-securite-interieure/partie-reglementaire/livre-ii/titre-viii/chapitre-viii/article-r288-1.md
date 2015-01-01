@@ -63,7 +63,7 @@ Sont applicables dans les Terres australes et antarctiques françaises les dispo
 <td>
 <p align="center"> R. 222-1</p>
 </td>
-<td> Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15,18 et 19 de la loi n° 2013-1168 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses dispositions concernant la défense et la sécurité nationale </td>
+<td> Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15, 18 et 19 de la loi n° 2013-1168 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses dispositions concernant la défense et la sécurité nationale </td>
 </tr>
 <tr>
 <td align="center">R. 223-2 <br/>
@@ -112,12 +112,25 @@ Sont applicables dans les Terres australes et antarctiques françaises les dispo
 <td align="center"/>
 </tr>
 <tr>
-<td align="center">R. 242-1 à R. 242-3 <br/>
-</td>
+<td align="center">R. 241-1 et R. 241-2 </td>
 <td align="center">
-<p align="left">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) <br/>
+<p align="left">Résultant du décret n° 2014-1576 du 24 décembre 2014 relatif à l'accès administratif aux données de connexion <br/>
+<br/>
 </p>
 </td>
+</tr>
+<tr>
+<td>
+<p align="center">R. 242-2 </p>
+</td>
+<td>Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) <br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">R. 246-1 à R. 246-9 </p>
+</td>
+<td>Résultant du décret n° 2014-1576 du 24 décembre 2014 relatif à l'accès administratif aux données de connexion</td>
 </tr>
 <tr>
 <td align="center">
