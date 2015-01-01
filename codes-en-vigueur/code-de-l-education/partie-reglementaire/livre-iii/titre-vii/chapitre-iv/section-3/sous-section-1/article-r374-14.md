@@ -6,7 +6,7 @@ A cette fin, il peut passer des conventions avec les collectivités territoriale
 
 En matière de documentation, il met à la disposition des communautés universitaires et éducatives, et notamment des centres de documentation et d'information des établissements du second degré, y compris ceux relevant du ministre chargé de l'agriculture, des bibliothèques et des centres documentaires des écoles, les textes et documents pédagogiques de nature administrative ou technique, ainsi que les produits et services documentaires qui leur sont nécessaires.
 
-En matière d'édition, il apporte sa contribution à l'édition nationale écrite, audiovisuelle ou informatique, selon les modalités définies par le Centre national de documentation pédagogique ; en outre, il édite sur tout support des documents correspondant aux objectifs académiques définis par le vice-recteur.
+En matière d'édition, il apporte sa contribution à l'édition nationale écrite, audiovisuelle ou informatique, selon les modalités définies par le    Réseau Canopé ; en outre, il édite sur tout support des documents correspondant aux objectifs académiques définis par le vice-recteur.
 
 En matière d'ingénierie éducative, il tient informés les usagers et les enseignants, notamment ceux qui sont en cours de formation dans les instituts universitaires de formation des maîtres, des possibilités offertes à l'enseignement par les techniques modernes de la communication et leur apporte dans ces domaines aide, assistance et conseil.
 
