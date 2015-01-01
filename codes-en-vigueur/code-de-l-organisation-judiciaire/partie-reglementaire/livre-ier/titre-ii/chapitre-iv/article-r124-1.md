@@ -8,7 +8,7 @@ Lorsque certains services sont transférés, le siège de la juridiction est, po
 
 Dans tous les cas, la dénomination de la juridiction demeure celle du siège initial fixé par décret.
 
-La commission permanente de la juridiction, ou, pour les juridictions ne comportant pas de commission permanente, l'assemblée plénière ou l'assemblée générale est convoquée sans délai afin d'émettre un avis sur le projet de transfert.
+La commission plénière  de la juridiction, ou, pour les juridictions ne comportant pas de commission plénière, l'assemblée plénière ou l'assemblée générale est convoquée sans délai afin d'émettre un avis sur le projet de transfert.
 
 Le premier président de la cour d'appel, après avis du procureur général près cette cour, prend, par ordonnance, la décision portant transfert total ou partiel des services de la juridiction. L'ordonnance indique le motif du transfert, la date à laquelle il sera effectif, la durée prévisible, l'adresse du ou des services transférés.
 

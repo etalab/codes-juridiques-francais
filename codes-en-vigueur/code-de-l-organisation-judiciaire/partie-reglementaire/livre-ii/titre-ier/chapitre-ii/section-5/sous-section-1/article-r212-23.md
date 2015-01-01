@@ -8,7 +8,7 @@ Elles sont, en outre, convoquées par leur président :
 
 2° Soit à la demande de la majorité de leurs membres ;
 
-3° Soit à la demande des deux tiers des membres de la commission permanente pour la réunion de l'assemblée plénière ;
+3° Soit à la demande des deux tiers des membres de  la commission plénière  pour la réunion de l'assemblée plénière ;
 
 4° Soit à la demande des deux tiers des membres d'une commission restreinte pour la réunion de la formation de l'assemblée générale correspondante.
 

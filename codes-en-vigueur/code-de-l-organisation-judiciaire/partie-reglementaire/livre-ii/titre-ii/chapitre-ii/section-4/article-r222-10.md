@@ -10,6 +10,6 @@ Le tribunal d'instance se réunit en assemblée générale dans les conditions p
 
 4° L'assemblée plénière des magistrats et des fonctionnaires.
 
-L'assemblée plénière des magistrats et des fonctionnaires comporte une commission permanente.
+L'assemblée plénière des magistrats et des fonctionnaires comporte une commission plénière .
 
 Chacune des autres assemblées peut constituer une commission restreinte.

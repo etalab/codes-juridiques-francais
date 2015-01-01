@@ -6,6 +6,6 @@
 - [Sous-Section 4 : L'assemblée des magistrats du siège et du parquet](sous-section-4)
 - [Sous-Section 5 : L'assemblée des fonctionnaires du greffe](sous-section-5)
 - [Sous-Section 6 : L'assemblée plénière des magistrats et des fonctionnaires](sous-section-6)
-- [Sous-Section 7 : La commission permanente](sous-section-7)
+- [Sous-Section 7 :  La commission plénière](sous-section-7)
 - [Sous-Section 8 : La commission restreinte](sous-section-8)
 - [Article R312-27](article-r312-27.md)

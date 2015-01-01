@@ -12,6 +12,6 @@ Le tribunal de grande instance se réunit en assemblée générale dans les cond
 
 5° L'assemblée plénière des magistrats et des fonctionnaires.
 
-L'assemblée plénière des magistrats et des fonctionnaires comporte une commission permanente.
+L'assemblée plénière des magistrats et des fonctionnaires comporte une commission plénière .
 
-Dans les tribunaux de grande instance comportant un effectif d'au moins vingt magistrats, l'assemblée des magistrats du siège, l'assemblée des magistrats du siège et du parquet et les assemblées des fonctionnaires du greffe et du secrétariat de parquet autonome comportent une commission restreinte.
+Dans les tribunaux de grande instance comportant un effectif d'au moins vingt magistrats, l'assemblée des magistrats du siège, l'assemblée des magistrats du parquet, l'assemblée des magistrats du siège et du parquet et les assemblées des fonctionnaires du greffe et du secrétariat de parquet autonome comportent une commission restreinte.

@@ -4,7 +4,7 @@ La commission permanente :
 
 1° Prépare les réunions de l'assemblée plénière ; à cet effet, le magistrat chargé de la direction et de l'administration du tribunal d'instance lui communique, quinze jours au moins avant la date de la réunion, après délibération des assemblées concernées, les projets de décisions qui feront l'objet d'échanges de vues à l'assemblée plénière ; la commission fait connaître à ce magistrat ses avis et propositions ;
 
-2° Elabore et arrête le règlement intérieur ;
+2° (Abrogé) ;
 
 3° Donne son avis sur les demandes d'attribution de mobilier, matériel technique et autres équipements spéciaux non financés sur les moyens propres de la juridiction ;
 
