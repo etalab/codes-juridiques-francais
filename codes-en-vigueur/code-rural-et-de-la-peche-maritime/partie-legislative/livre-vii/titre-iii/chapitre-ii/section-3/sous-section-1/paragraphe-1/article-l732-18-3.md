@@ -8,7 +8,7 @@ III. ― Les I et II sont également applicables à l'assuré justifiant d'une i
 
 1° Que le taux d'incapacité permanente de l'assuré soit au moins égal à un taux déterminé par décret ;
 
-2° Que l'assuré ait été exposé, pendant un nombre d'années déterminé par décret, à un ou plusieurs facteurs de risques professionnels mentionnés à l'article L. 4121-3-1 du code du travail ;
+2° Que l'assuré ait été exposé, pendant un nombre d'années déterminé par décret, à un ou plusieurs facteurs de risques professionnels mentionnés à l'article L. 4161-1 du code du travail ;
 
 3° Qu'il puisse être établi que l'incapacité permanente dont est atteint l'assuré est directement liée à l'exposition à ces facteurs de risques professionnels.
 
