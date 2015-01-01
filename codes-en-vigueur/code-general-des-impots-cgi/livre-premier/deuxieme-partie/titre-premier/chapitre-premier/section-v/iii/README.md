@@ -4,4 +4,3 @@
 - [Article 1467](article-1467.md)
 - [Article 1467 A](article-1467-a.md)
 - [Article 1468](article-1468.md)
-- [Article 1469 A quater](article-1469-a-quater.md)
