@@ -8,3 +8,4 @@
 - [Article R6332-106-4](article-r6332-106-4.md)
 - [Article R6332-106-5](article-r6332-106-5.md)
 - [Article R6332-107](article-r6332-107.md)
+- [Article R6332-108](article-r6332-108.md)
