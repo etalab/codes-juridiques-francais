@@ -16,7 +16,7 @@ Par exception aux dispositions du cinquième alinéa, pour les opérations menti
 
 Par exception aux cinquième et sixième alinéas, pour les opérations mentionnées au premier alinéa réalisées à compter du 1er janvier 2006 et pour les opérations mentionnées au sixième alinéa, la valeur locative des immobilisations corporelles ne peut être inférieure à :
 
-a. 90 % de son montant avant l'opération pour les opérations entre sociétés membres d'un groupe au sens de l'article 223 A ;
+a. 90 % de son montant avant l'opération pour les opérations entre sociétés membres d'un groupe au sens de l'article 223 A ou de l'article 223 A bis ;
 
 b. Sous réserve des dispositions du a, 50 % de son montant avant l'opération pour les opérations de reprise d'immobilisations prévue par un plan de cession ou comprises dans une cession d'actifs en sauvegarde, en redressement ou en liquidation judiciaire, jusqu'à la deuxième année suivant celle du jugement ordonnant la cession ou autorisant la cession d'actifs en cours de période d'observation.
 
@@ -24,7 +24,7 @@ Par exception aux cinquième et sixième alinéas, pour les opérations réalis�
 
 1° 100 % de son montant avant l'opération lorsque, directement ou indirectement, l'entreprise cessionnaire ou bénéficiaire de l'apport contrôle l'entreprise cédante, apportée ou scindée ou est contrôlée par elle, ou ces deux entreprises sont contrôlées par la même entreprise ;
 
-2° 90 % de son montant avant l'opération pour les opérations autres que celles mentionnées au 1° entre sociétés membres d'un groupe au sens de l'article 223 A ;
+2° 90 % de son montant avant l'opération pour les opérations autres que celles mentionnées au 1° entre sociétés membres d'un groupe au sens de l'article 223 A ou de l'article 223 A bis ;
 
 3° Sous réserve des dispositions des 1° et 2°, 50 % de son montant avant l'opération pour les opérations de reprise d'immobilisations prévue par un plan de cession ou comprises dans une cession d'actifs en sauvegarde, en redressement ou en liquidation judiciaire, jusqu'à la deuxième année suivant celle du jugement ordonnant la cession ou autorisant la cession d'actifs en cours de période d'observation.
 
