@@ -32,7 +32,7 @@ Hautes-Alpes : tout le département zone de sismicité moyenne, sauf :
 
 ― les cantons de Barcillonnette, Gap-Campagne, Gap-Centre, Gap-Nord-Est, Gap-Nord-Ouest, Gap-Sud-Est, Gap-Sud-Ouest, La Grave, Saint-Etienne-en-Dévoluy, Saint-Firmin, Tallard : zone de sismicité modérée ;
 
-― les communes d'Aspres-sur-Buëch, Bénévent-et-Charbillac, Buissard, Chabottes, Châteauneuf-d'Oze, Les Costes, La Fare-en-Champsaur, Forest-Saint-Julien, Furmeyer, Les Infournas, Laye, Lazer, Monêtier-Allemont, Montmaur, La Motte-en-Champsaur, Le Noyer, Le Poët, Poligny, Ribiers, La Rochette, Saint-Auban-d'Oze, Saint-Bonnet-en-Champsaur, Saint-Eusèbe-en-Champsaur, Saint-Julien-en-Beauchêne, Saint-Julien-en-Champsaur, Saint-Laurent-du-Cros, Saint-Michel-de-Chaillol, Le Saix, Upaix, Ventavon : zone de sismicité modérée ;
+― les communes d'Aspres-sur-Buëch, Bénévent-et-Charbillac, Buissard, Chabottes, Châteauneuf-d'Oze, Les Costes, La Fare-en-Champsaur, Forest-Saint-Julien, Furmeyer, Les Infournas, Laye, Lazer, Monêtier-Allemont, Montmaur, La Motte-en-Champsaur, Le Noyer, Le Poët, Poligny, Ribiers, La Rochette, Saint-Auban-d'Oze, Saint-Bonnet-en-Champsaur, Saint-Eusèbe-en-Champsaur, Saint-Julien-en-Beauchêne, Saint-Julien-en-Champsaur, Saint-Laurent-du-Cros, Saint-Michel-de-Chaillol, Le Saix, Upaix, Ventavon, Veynes : zone de sismicité modérée ;
 
 ― les cantons d'Orpierre, Rosans, Serres : zone de sismicité faible ;
 
@@ -92,7 +92,9 @@ Bouches-du-Rhône : tout le département zone de sismicité modérée, sauf :
 
 ― les cantons de Allauch, Aubagne, La Ciotat, Port-Saint-Louis-du-Rhône, Roquevaire : zone de sismicité faible ;
 
-― les communes de Arles, Fuveau, Marseille, Mimet, Peynier, Puyloubier, Rousset, Saintes-Maries-de-la-Mer, Trets : zone de sismicité faible.
+― les communes de Arles, Fuveau, Marseille, Mimet, Peynier, Puyloubier, Rousset, Trets : zone de sismicité faible ;
+
+-la commune des Saintes-Maries-de-la-Mer : zone de sismicité très faible.
 
 Calvados : tout le département zone de sismicité faible, sauf :
 
@@ -194,7 +196,7 @@ Haute-Garonne : tout le département zone de sismicité très faible, sauf :
 
 ― les cantons de Cazères, Le Fousseret, L'Isle-en-Dodon, Montesquieu-Volvestre, Rieux : zone de sismicité faible ;
 
-― les communes d'Alan, Aurignac, Ausseing, Auzas, Bachas, Benque, Bois-de-la-Pierre, Boulogne-sur-Gesse, Boussan, Bouzin, Capens, Carbonne, Cassagnabère-Tournas, Castéra-Vignoles, Cazeneuve-Montaut, Ciadoux, Eoux, Escanecrabe, Esparron, Esperce, Le Fréchet, Gaillac-Toulza, Labastide-Clermont, Laffite-Toupière, Lautignac, Lunax, Mancioux, Marliac, Marquefave, Mondilhan, Monès, Montastruc-Savès, Montgaillard-sur-Save, Montgazin, Montoulieu-Saint-Bernard, Nénigan, Péguilhan, Peyrissas, Peyrouzet, Peyssies, Le Pin-Murelet, Roquefort-sur-Garonne, Saint-André, Saint-Elix-Séglan, Saint-Ferréol, Saint-Pé-Delbosc, Saint-Sulpice-sur-Lèze, Sajas, Samouillan, Savères, Terrebasse : zone de sismicité faible.
+― les communes d'Alan, Aurignac, Ausseing, Auzas, Bachas, Benque, Bois-de-la-Pierre, Boulogne-sur-Gesse, Boussan, Bouzin, Capens, Carbonne, Cassagnabère-Tournas, Castéra-Vignoles, Cazeneuve-Montaut, Ciadoux, Eoux, Escanecrabe, Esparron, Esperce, Le Fréchet, Gaillac-Toulza, Labastide-Clermont, Laffite-Toupière, Lautignac, Lunax, Mancioux, Marliac, Marquefave, Mondilhan, Monès, Montastruc-Savès, Montgaillard-sur-Save, Montgazin, Montoulieu-Saint-Bernard, Nénigan, Péguilhan, Peyrissas, Peyrouzet, Peyssies, Le Pin-Murelet, Roquefort-sur-Garonne, Saint-André, Saint-Elix-Séglan, Saint-Ferréol-de-Comminges, Saint-Pé-Delbosc, Saint-Sulpice-sur-Lèze, Sajas, Samouillan, Savères, Terrebasse : zone de sismicité faible.
 
 Gers : tout le département zone de sismicité très faible, sauf :
 
@@ -232,7 +234,7 @@ Isère : tout le département zone de sismicité modérée, sauf :
 
 ― les cantons d'Allevard, Domène, Echirolles-Est, Echirolles-Ouest, Eybens, Fontaine-Sassenage, Fontaine-Seyssinet, Goncelin, Grenoble 1er canton, Grenoble 2e canton, Grenoble 3e canton, Grenoble 4e canton, Grenoble 5e canton, Grenoble 6e canton, Meylan, Pont-en-Royans, Saint-Egrève, Saint-Ismier, Saint-Laurent-du-Pont, Saint-Martin-d'Hères-Nord, Saint-Martin-d'Hères-Sud, Le Touvet, Vif, Villard-de-Lans : zone de sismicité moyenne ;
 
-― les communes de L'Albenc, Beaulieu, Brié-et-Angonnes, La Buisse, Champagnier, Champ-sur-Drac, Chamrousse, Chantesse, Château-Bernard, Cognin-les-Gorges, Coublevie, Jarrie, Malleval, Merlas, Miribel-Lanchâtre, Moirans, Montaud, Montchaboud, Monteynard, Notre-Dame-de-Commiers, Notre-Dame-de-l'Osier, Notre-Dame-de-Mésage, Poliénas, Pommiers-la-Placette, Le Pont-de-Beauvoisin, La Rivière, Romagnieu, Rovon, Saint-Albin-de-Vaulserre, Saint-Andéol, Saint-Aupre, Saint-Bueil, Saint-Etienne-de-Crossey, Saint-Geoire-en-Valdaine, Saint-Georges-de-Commiers, Saint-Gervais, Saint-Hilaire-du-Rosier, Saint-Jean-d'Avelanne, Saint-Jean-de-Moirans, Saint-Julien-de-Raz, Saint-Marcellin, Saint-Martin-de-la-Cluze, Saint-Martin-de-Vaulserre, Saint-Nicolas-de-Macherin, Saint-Pierre-de-Mésage, Saint-Quentin-sur-Isère, Saint-Sauveur, Saint-Vérand, Séchilienne, La Sône, Têche, Tullins, Vaulnaveys-le-Bas, Vaulnaveys-le-Haut, Velanne, Vinay, Vizille, Voiron, Voissant, Voreppe, Vourey : zone de sismicité moyenne.
+― les communes de L'Albenc, Beaulieu, Brié-et-Angonnes, La Buisse, Champagnier, Champ-sur-Drac, Chamrousse, Chantesse, Château-Bernard, Cognin-les-Gorges, Coublevie, Jarrie, Malleval-en-Vercors, Merlas, Miribel-Lanchâtre, Moirans, Montaud, Montchaboud, Monteynard, Notre-Dame-de-Commiers, Notre-Dame-de-l'Osier, Notre-Dame-de-Mésage, Poliénas, Pommiers-la-Placette, Le Pont-de-Beauvoisin, La Rivière, Romagnieu, Rovon, Saint-Albin-de-Vaulserre, Saint-Andéol, Saint-Aupre, Saint-Bueil, Saint-Etienne-de-Crossey, Saint-Geoire-en-Valdaine, Saint-Georges-de-Commiers, Saint-Gervais, Saint-Hilaire-du-Rosier, Saint-Jean-d'Avelanne, Saint-Jean-de-Moirans, Saint-Julien-de-Raz, Saint-Marcellin, Saint-Martin-de-la-Cluze, Saint-Martin-de-Vaulserre, Saint-Nicolas-de-Macherin, Saint-Pierre-de-Mésage, Saint-Quentin-sur-Isère, Saint-Sauveur, Saint-Vérand, Séchilienne, La Sône, Têche, Tullins, Vaulnaveys-le-Bas, Vaulnaveys-le-Haut, Velanne, Vinay, Vizille, Voiron, Voissant, Voreppe, Vourey : zone de sismicité moyenne.
 
 Jura : tout le département zone de sismicité modérée, sauf :
 
@@ -322,7 +324,7 @@ Nord : tout le département zone de sismicité modérée, sauf :
 
 ― les cantons d'Armentières, Bailleul-Nord-Est, Bailleul-Sud-Ouest, Bassée (La), Bergues, Bourbourg, Cassel, Coudekerque-Branche, Cysoing, Douai-Nord, Douai-Nord-Est, Douai-Sud-Ouest, Dunkerque-Est, Dunkerque-Ouest, Grande-Synthe, Gravelines, Haubourdin, Hazebrouck-Nord, Hazebrouck-Sud, Hondschoote, Lannoy, Lille-Centre, Lille-Est, Lille-Nord, Lille-Nord-Est, Lille-Ouest, Lille-Sud, Lille-Sud-Est, Lille-Sud-Ouest, Lomme, Marcq-en-Barœul, Merville, Orchies, Pont-à-Marcq, Quesnoy-sur-Deûle, Roubaix-Centre, Roubaix-Est, Roubaix-Nord, Roubaix-Ouest, Seclin-Nord, Seclin-Sud, Steenvoorde, Tourcoing-Nord, Tourcoing-Nord-Est, Tourcoing-Sud, Villeneuve-d'Ascq-Nord, Villeneuve-d'Ascq-Sud, Wormhout : zone de sismicité faible ;
 
-― les communes d'Anneux, Anor, Arleux, Baives, Banteux, Bantouzelle, Boursies, Bouvignies, Brillon, Brunémont, Bugnicourt, Busigny, Cantin, Clary, Dechy, Dehéries, Doignies, Douai, Ecaillon, Elincourt, Erchin, Estrées, Etroeungt, Férin, Féron, Flesquières, Flines-lès-Mortagne, Floyon, Fourmies, Glageon, Goeulzin, Gonnelieu, Gouzeaucourt, Guesnain, Hamel, Honnechy, Honnecourt-sur-Escaut, Larouillies, Lecelles, Lécluse, Lewarde, Loffre, Malincourt, Marchiennes, Maretz, Masny, Maulde, Mazinghien, Moeuvres, Montigny-en-Ostrevent, Mortagne-du-Nord, Moustier-en-Fagne, Ohain, Pecquencourt, Rainsars, Rejet-de-Beaulieu, Ribécourt-la-Tour, Rieulay, Roucourt, Les Rues-des-Vignes, Rumegies, Sains-du-Nord, Saint-Souplet, Sars-et-Rosières, Thun-Saint-Amand, Tilloy-lez-Marchiennes, Trélon, Villers-au-Tertre, Villers-Guislain, Villers-Outréaux, Villers-Plouich, Vred, Wallers-Trélon, Wignehies : zone de sismicité faible.
+― les communes d'Anneux, Anor, Arleux, Baives, Banteux, Bantouzelle, Boursies, Bouvignies, Brillon, Brunémont, Bugnicourt, Busigny, Cantin, Clary, Dechy, Dehéries, Doignies, Douai, Ecaillon, Elincourt, Erchin, Estrées, Etroeungt, Férin, Féron, Flesquières, Flines-lès-Mortagne, Floyon, Fourmies, Glageon, Goeulzin, Gonnelieu, Gouzeaucourt, Guesnain, Hamel, Honnechy, Honnecourt-sur-Escaut, Larouillies, Lecelles, Lécluse, Lewarde, Loffre, Malincourt, Marchiennes, Maretz, Masny, Maulde, Mazinghien, Moeuvres, Montigny-en-Ostrevent, Mortagne-du-Nord, Moustier-en-Fagne, Ohain, Pecquencourt, Rainsars, Rejet-de-Beaulieu, Ribécourt-la-Tour, Rieulay, Roucourt, Les Rues-des-Vignes, Rumegies, Sains-du-Nord, Saint-Souplet, Sars-et-Rosières, Thun-Saint-Amand, Tilloy-lez-Marchiennes, Trélon, Villers-au-Tertre, Villers-Guislain, Villers-Outréaux, Villers-Plouich, Vred, Wallers-en-Fagne, Wignehies : zone de sismicité faible.
 
 Oise : tout le département zone de sismicité très faible.
 
