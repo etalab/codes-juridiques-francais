@@ -21,7 +21,7 @@ A.-Diplômes et titres délivrés par le ministère chargé de l'enseignement su
 <tbody>
 <tr>
 <td align="left" valign="top">
-<br clear="none"/>DEUG " sciences et techniques des activités physiques et sportives : animateur-technicien des activités physiques pour tous ". <br clear="none"/>
+<br clear="none"/>DEUG "sciences et techniques des activités physiques et sportives : animateur-technicien des activités physiques pour tous". <br clear="none"/>
 </td>
 <td align="left" valign="top">
 <br clear="none"/>Encadrement et animation auprès de tout public des activités physiques ou sportives à un niveau d'initiation, d'entretien ou de loisir. <br clear="none"/>
@@ -32,7 +32,7 @@ A.-Diplômes et titres délivrés par le ministère chargé de l'enseignement su
 </tr>
 <tr>
 <td align="left" valign="top">
-<br clear="none"/>DEUST " activités physiques et sportives adaptées : déficiences intellectuelles, troubles psychiques ". <br clear="none"/>
+<br clear="none"/>DEUST "activités physiques et sportives adaptées : déficiences intellectuelles, troubles psychiques". <br clear="none"/>
 </td>
 <td align="left" valign="top">
 <br clear="none"/>Encadrement des activités physiques ou sportives auprès de personnes souffrant de déficiences intellectuelles et de troubles psychiques. <br clear="none"/>
@@ -43,7 +43,7 @@ A.-Diplômes et titres délivrés par le ministère chargé de l'enseignement su
 </tr>
 <tr>
 <td align="left" valign="top">
-<br clear="none"/>DEUST " activités physiques et sportives et inadaptations sociales ". <br clear="none"/>
+<br clear="none"/>DEUST "activités physiques et sportives et inadaptations sociales". <br clear="none"/>
 </td>
 <td align="left" valign="top">
 <br clear="none"/>Encadrement des activités physiques ou sportives auprès de personnes présentant des inadaptations sociales. <br clear="none"/>
@@ -54,7 +54,7 @@ A.-Diplômes et titres délivrés par le ministère chargé de l'enseignement su
 </tr>
 <tr>
 <td align="left" valign="top">
-<br clear="none"/>DEUST " action, commercialisation des services sportifs ". <br clear="none"/>
+<br clear="none"/>DEUST "action, commercialisation des services sportifs". <br clear="none"/>
 </td>
 <td align="left" valign="top">
 <br clear="none"/>Encadrement des pratiques physiques liées aux loisirs. <br clear="none"/>
@@ -65,7 +65,7 @@ A.-Diplômes et titres délivrés par le ministère chargé de l'enseignement su
 </tr>
 <tr>
 <td align="left" valign="top">
-<br clear="none"/>DEUST " manager de club sportif ". <br clear="none"/>
+<br clear="none"/>DEUST "manager de club sportif". <br clear="none"/>
 </td>
 <td align="left" valign="top">
 <br clear="none"/>Encadrement des activités physiques ou sportives. <br clear="none"/>
@@ -76,7 +76,7 @@ A.-Diplômes et titres délivrés par le ministère chargé de l'enseignement su
 </tr>
 <tr>
 <td align="left" valign="top">
-<br clear="none"/>DEUST " métiers de la forme ". <br clear="none"/>
+<br clear="none"/>DEUST "métiers de la forme". <br clear="none"/>
 </td>
 <td align="left" valign="top">
 <br clear="none"/>Encadrement pour tout public d'activités physiques dans le secteur des métiers de la forme. <br clear="none"/>
@@ -87,7 +87,7 @@ A.-Diplômes et titres délivrés par le ministère chargé de l'enseignement su
 </tr>
 <tr>
 <td align="left" valign="top">
-<br clear="none"/>DEUST " pratique et gestion des activités physiques et sportives et de loisirs pour les publics seniors ". <br clear="none"/>
+<br clear="none"/>DEUST "pratique et gestion des activités physiques et sportives et de loisirs pour les publics seniors". <br clear="none"/>
 </td>
 <td align="left" valign="top">
 <br clear="none"/>Encadrement des activités physiques ou sportives de publics seniors. <br clear="none"/>
@@ -98,7 +98,7 @@ A.-Diplômes et titres délivrés par le ministère chargé de l'enseignement su
 </tr>
 <tr>
 <td align="left" valign="top">
-<br clear="none"/>DEUST " animation et gestion des activités physiques, sportives ou culturelles ". <br clear="none"/>
+<br clear="none"/>DEUST "animation et gestion des activités physiques, sportives ou culturelles". <br clear="none"/>
 </td>
 <td align="left" valign="top">
 <br clear="none"/>Animation auprès de tout public par la découverte des activités physiques, sportives ou culturelles et par l'initiation à ces activités. <br clear="none"/>
@@ -111,7 +111,7 @@ A.-Diplômes et titres délivrés par le ministère chargé de l'enseignement su
 </tr>
 <tr>
 <td align="left" valign="top">
-<br clear="none"/>Licence professionnelle " santé, option vieillissement et activités physiques adaptées ". <br clear="none"/>
+<br clear="none"/>Licence professionnelle "santé, option vieillissement et activités physiques adaptées". <br clear="none"/>
 </td>
 <td align="left" valign="top">
 <br clear="none"/>Encadrement des activités physiques ou sportives de publics seniors. <br clear="none"/>
@@ -122,7 +122,7 @@ A.-Diplômes et titres délivrés par le ministère chargé de l'enseignement su
 </tr>
 <tr>
 <td align="left" valign="top">
-<br clear="none"/>Licence professionnelle " activités sportives, option remise en forme et loisirs sportifs associés : responsable d'équipe de projets ". <br clear="none"/>
+<br clear="none"/>Licence professionnelle "activités sportives, option remise en forme et loisirs sportifs associés : responsable d'équipe de projets". <br clear="none"/>
 </td>
 <td align="left" valign="top">
 <br clear="none"/>Encadrement pour tout public d'activités physiques dans le secteur des métiers de la forme. <br clear="none"/>
@@ -133,7 +133,7 @@ A.-Diplômes et titres délivrés par le ministère chargé de l'enseignement su
 </tr>
 <tr>
 <td align="left" valign="top">
-<br clear="none"/>Licence professionnelle " activités sportives ", spécialité " développement social et médiation par le sport ". <br clear="none"/>
+<br clear="none"/>Licence professionnelle "activités sportives", spécialité "développement social et médiation par le sport ". <br clear="none"/>
 </td>
 <td align="left" valign="top">
 <br clear="none"/>Encadrement et animation auprès de tout public, des activités physiques et sportives. <br clear="none"/>
@@ -146,7 +146,7 @@ A.-Diplômes et titres délivrés par le ministère chargé de l'enseignement su
 </tr>
 <tr>
 <td align="left" valign="top">
-<br clear="none"/>Licence professionnelle activités sportives, spécialité " métiers de la forme ". <br clear="none"/>
+<br clear="none"/>Licence professionnelle activités sportives, spécialité "métiers de la forme". <br clear="none"/>
 </td>
 <td align="left" valign="top">
 <br clear="none"/>Encadrement auprès de tout public d'activités physiques dans le secteur des métiers de la forme. <br clear="none"/>
@@ -155,7 +155,7 @@ A.-Diplômes et titres délivrés par le ministère chargé de l'enseignement su
 </tr>
 <tr>
 <td align="left" valign="top">
-<br clear="none"/>Licence professionnelle " animation, gestion et organisation des activités physiques ou sportives ". <br clear="none"/>
+<br clear="none"/>Licence professionnelle "animation, gestion et organisation des activités physiques ou sportives". <br clear="none"/>
 </td>
 <td align="left" valign="top">
 <br clear="none"/>Encadrement auprès de tout public à des fins d'initiation, d'entretien ou de loisir dans la ou les discipline (s) mentionnée (s) dans l'annexe descriptive au diplôme visée à l'article D. 123-13 du code de l'éducation. <br clear="none"/>
@@ -164,7 +164,7 @@ A.-Diplômes et titres délivrés par le ministère chargé de l'enseignement su
 </tr>
 <tr>
 <td align="left" valign="top">
-<br clear="none"/>Licence " éducation et motricité " filière " sciences et techniques des activités physiques et sportives ". <br clear="none"/>
+<br clear="none"/>Licence "éducation et motricité" filière "sciences et techniques des activités physiques et sportives". <br clear="none"/>
 </td>
 <td align="left" valign="top">
 <br clear="none"/>Encadrement et enseignement des activités physiques ou sportives auprès des enfants, adolescents et jeunes adultes. <br clear="none"/>
@@ -173,7 +173,7 @@ A.-Diplômes et titres délivrés par le ministère chargé de l'enseignement su
 </tr>
 <tr>
 <td align="left" valign="top">
-<br clear="none"/>Licence " entraînement sportif " filière " sciences et techniques des activités physiques et sportives ". <br clear="none"/>
+<br clear="none"/>Licence "entraînement sportif" filière "sciences et techniques des activités physiques et sportives". <br clear="none"/>
 </td>
 <td align="left" valign="top">
 <br clear="none"/>Encadrement de différents publics à des fins d'amélioration de la performance ou de développement personnel dans la (les) discipline (s) mentionnée (s) dans l'annexe descriptive au diplôme mentionnée à l'article D. 123-13 du code de l'éducation. <br clear="none"/>
@@ -182,7 +182,7 @@ A.-Diplômes et titres délivrés par le ministère chargé de l'enseignement su
 </tr>
 <tr>
 <td align="left" valign="top">
-<br clear="none"/>Licence " activité physique adaptée et santé " filière " sciences et techniques des activités physiques et sportives ". <br clear="none"/>
+<br clear="none"/>Licence "activité physique adaptée et santé" filière "sciences et techniques des activités physiques et sportives". <br clear="none"/>
 </td>
 <td align="left" valign="top">
 <br clear="none"/>Encadrement des activités physiques ou sportives à destination de différents publics dans une perspective de prévention-santé ou de réadaptation ou d'intégration de personnes présentant l'altération d'une fonction physique ou psychique. <br clear="none"/>
@@ -221,7 +221,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 </tr>
 <tr>
 <td align="left" valign="top">
-<br clear="none"/>BEES, option " métiers de la forme ". <br clear="none"/>
+<br clear="none"/>BEES, option "métiers de la forme". <br clear="none"/>
 </td>
 <td align="left" valign="top">
 <br clear="none"/>Enseignement des méthodes et techniques visant à entretenir et améliorer la condition physique ; conduite de séances de préparation physique sportive. <br clear="none"/>
@@ -230,7 +230,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 </tr>
 <tr>
 <td align="left" valign="top">
-<br clear="none"/>BEES, option " activités gymniques " (gymnastique générale, gymnastique artistique féminine, gymnastique artistique masculine, gymnastique rythmique et sportive, aérobic). <br clear="none"/>
+<br clear="none"/>BEES, option "activités gymniques" (gymnastique générale, gymnastique artistique féminine, gymnastique artistique masculine, gymnastique rythmique et sportive, aérobic). <br clear="none"/>
 </td>
 <td align="left" valign="top">
 <br clear="none"/>Enseignement des activités gymniques dans tout établissement. <br clear="none"/>
@@ -239,7 +239,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 </tr>
 <tr>
 <td align="left" valign="top">
-<br clear="none"/>BEES, option " gymnastique sportive féminine ". <br clear="none"/>
+<br clear="none"/>BEES, option "gymnastique sportive féminine". <br clear="none"/>
 </td>
 <td align="left" valign="top">
 <br clear="none"/>Enseignement des activités gymniques dans tout établissement. <br clear="none"/>
@@ -248,7 +248,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 </tr>
 <tr>
 <td align="left" valign="top">
-<br clear="none"/>BEES, option " gymnastique sportive masculine ". <br clear="none"/>
+<br clear="none"/>BEES, option "gymnastique sportive masculine". <br clear="none"/>
 </td>
 <td align="left" valign="top">
 <br clear="none"/>Enseignement des activités gymniques dans tout établissement. <br clear="none"/>
@@ -257,7 +257,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 </tr>
 <tr>
 <td align="left" valign="top">
-<br clear="none"/>BEES, option " gymnastique sportive masculine et féminine ". <br clear="none"/>
+<br clear="none"/>BEES, option "gymnastique sportive masculine et féminine". <br clear="none"/>
 </td>
 <td align="left" valign="top">
 <br clear="none"/>Enseignement des activités gymniques dans tout établissement. <br clear="none"/>
@@ -266,7 +266,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 </tr>
 <tr>
 <td align="left" valign="top">
-<br clear="none"/>BEES, option " gymnastique rythmique et sportive ". <br clear="none"/>
+<br clear="none"/>BEES, option "gymnastique rythmique et sportive". <br clear="none"/>
 </td>
 <td align="left" valign="top">
 <br clear="none"/>Enseignement des activités gymniques dans tout établissement. <br clear="none"/>
@@ -275,7 +275,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 </tr>
 <tr>
 <td align="left" valign="top">
-<br clear="none"/>BEES, option " haltérophilie, culturisme, musculation éducative, sportive et d'entretien ". <br clear="none"/>
+<br clear="none"/>BEES, option "haltérophilie, culturisme, musculation éducative, sportive et d'entretien". <br clear="none"/>
 </td>
 <td align="left" valign="top">
 <br clear="none"/>Enseignement de l'haltérophilie, du culturisme, de la musculation éducative, sportive et d'entretien dans tout établissement. <br clear="none"/>
@@ -284,7 +284,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 </tr>
 <tr>
 <td align="left" valign="top">
-<br clear="none"/>BEES, option " animation des activités physiques pour tous ". <br clear="none"/>
+<br clear="none"/>BEES, option "animation des activités physiques pour tous". <br clear="none"/>
 </td>
 <td align="left" valign="top">
 <br clear="none"/>Encadrement des activités physiques ou sportives dans une perspective de découverte des activités encadrées, de développement et de maintien des capacités physiques individuelles dans tout établissement. <br clear="none"/>
@@ -295,7 +295,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 </tr>
 <tr>
 <td align="left" valign="top">
-<br clear="none"/>BEES, option " activités physiques et sportives adaptées ". <br clear="none"/>
+<br clear="none"/>BEES, option "activités physiques et sportives adaptées". <br clear="none"/>
 </td>
 <td align="left" valign="top">
 <br clear="none"/>Enseignement des activités physiques ou sportives adaptées auprès des personnes déficientes intellectuelles ou des personnes atteintes de troubles psychiques. <br clear="none"/>
@@ -306,7 +306,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 </tr>
 <tr>
 <td align="left" valign="top">
-<br clear="none"/>BEES, option " sports pour handicapés physiques et sensoriels " (options principales : athlétisme, basket-ball en fauteuil roulant, développé couché et musculation, tennis de table, tir à l'arc, volley-ball, natation, ski alpin, ski nordique de fond). <br clear="none"/>
+<br clear="none"/>BEES, option "sports pour handicapés physiques et sensoriels" (options principales : athlétisme, basket-ball en fauteuil roulant, développé couché et musculation, tennis de table, tir à l'arc, volley-ball, natation, ski alpin, ski nordique de fond). <br clear="none"/>
 </td>
 <td align="left" valign="top">
 <br clear="none"/>Enseignement des activités physiques ou sportives adaptées auprès des personnes handicapées physiques et sensorielles. <br clear="none"/>
@@ -318,7 +318,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 </tr>
 <tr>
 <td align="left" valign="top">
-<br clear="none"/>BEES, option " activités de la natation ". <br clear="none"/>
+<br clear="none"/>BEES, option "activités de la natation". <br clear="none"/>
 </td>
 <td align="left" valign="top">
 <br clear="none"/>Enseignement des activités de la natation, entraînement à la compétition et surveillance des baignades dans tout lieu de baignade ou établissement de natation. <br clear="none"/>
@@ -329,7 +329,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 </tr>
 <tr>
 <td align="left" valign="top">
-<br clear="none"/>BEES, option " aviron ". <br clear="none"/>
+<br clear="none"/>BEES, option "aviron". <br clear="none"/>
 </td>
 <td align="left" valign="top">
 <br clear="none"/>Enseignement de l'aviron dans tout établissement. <br clear="none"/>
@@ -338,7 +338,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 </tr>
 <tr>
 <td align="left" valign="top">
-<br clear="none"/>BEES, option " canoë-kayak et disciplines associées ". <br clear="none"/>
+<br clear="none"/>BEES, option "canoë-kayak et disciplines associées". <br clear="none"/>
 </td>
 <td align="left" valign="top">
 <br clear="none"/>Enseignement du canoë-kayak (canoë-kayak, raft, nage en eaux vives) dans tout établissement. <br clear="none"/>
@@ -350,7 +350,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 </tr>
 <tr>
 <td align="left" valign="top">
-<br clear="none"/>BEES, option " canoë-kayak et disciplines associées " assorti du certificat de qualification complémentaire (CQC) " entraînement à la compétition ". <br clear="none"/>
+<br clear="none"/>BEES, option "canoë-kayak et disciplines associées" assorti du certificat de qualification complémentaire (CQC) "entraînement à la compétition". <br clear="none"/>
 </td>
 <td align="left" valign="top">
 <br clear="none"/>Enseignement du canoë-kayak (canoë-kayak, raft, nage en eaux vives) dans tout établissement. Organisation et encadrement de séances ou stages d'entraînement. <br clear="none"/>
@@ -362,7 +362,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 </tr>
 <tr>
 <td align="left" valign="top">
-<br clear="none"/>BEES, option " canoë-kayak et disciplines associées " assorti du CQC " mer ". <br clear="none"/>
+<br clear="none"/>BEES, option "canoë-kayak et disciplines associées" assorti du CQC "mer". <br clear="none"/>
 </td>
 <td align="left" valign="top">
 <br clear="none"/>Enseignement du canoë-kayak (canoë-kayak, raft, nage en eaux vives) dans tout établissement. Organisation et encadrement des sorties en mer, y compris vent supérieur à force 3 Beaufort ou à plus d'un mille d'un abri accessible et conduite des séances d'apprentissage et d'entraînement de canoë-kayak de vagues. <br clear="none"/>
@@ -371,7 +371,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 </tr>
 <tr>
 <td align="left" valign="top">
-<br clear="none"/>BEES, option " canoë-kayak et disciplines associées " assorti du CQC " raft en eaux vives ". <br clear="none"/>
+<br clear="none"/>BEES, option "canoë-kayak et disciplines associées" assorti du CQC "raft en eaux vives". <br clear="none"/>
 </td>
 <td align="left" valign="top">
 <br clear="none"/>Enseignement du canoë-kayak (canoë-kayak, raft, nage en eaux vives) dans tout établissement. Organisation et encadrement du canoë-kayak et du raft y compris dans les rivières de classe supérieure à 3. <br clear="none"/>
@@ -1912,13 +1912,21 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="left" valign="top"/>
 </tr>
 <tr>
-<td>Sports de contact </td>
-<td>Animation d'activités de sports de contact. </td>
-<td>A l'exclusion de toute pratique compétitive. </td>
+<td>
+<p align="left">Sports de contact </p>
+</td>
+<td>
+<p align="left">Animation d'activités de sports de contact. </p>
+</td>
+<td>
+<p align="left">A l'exclusion de toute pratique compétitive. </p>
+</td>
 </tr>
 <tr>
 <td>Boxe. </td>
-<td>Encadrement, animation et apprentissage des différentes formes de pratique de la boxe et préparation aux compétitions. </td>
+<td>
+<p align="left">Encadrement, animation et apprentissage des différentes formes de pratique de la boxe et préparation aux compétitions. </p>
+</td>
 <td/>
 </tr>
 <tr>
@@ -2581,15 +2589,21 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="left" valign="top"/>
 </tr>
 <tr>
-<td>CS athlétisme et disciplines associées . <br clear="none"/>
+<td align="left" valign="top">
+<p align="left">CS athlétisme et disciplines associées . <br clear="none"/>
+</p>
 </td>
-<td>Encadrement et conduite de séances de découverte et d'initiation des différents groupes de spécialités de l'athlétisme et disciplines associées. <br clear="none"/>
+<td align="left" valign="top">
+<p align="left">Encadrement et conduite de séances de découverte et d'initiation des différents groupes de spécialités de l'athlétisme et disciplines associées. <br clear="none"/>
+</p>
 </td>
-<td>A l'exclusion de toute pratique compétitive. </td>
+<td align="left" valign="top">
+<p align="left">A l'exclusion de toute pratique compétitive. </p>
+</td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br clear="none"/>BP JEPS, spécialité " activités sports collectifs " <br clear="none"/>
+<br clear="none"/>BP JEPS, spécialité "activités sports collectifs". <br clear="none"/>
 </td>
 <td align="left" valign="top">
 <br clear="none"/>Conduite de séances et de cycles d'initiation, de découverte et d'animation sportive en sports collectifs. <br clear="none"/>
@@ -2704,7 +2718,9 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <tr>
 <td>CS athlétisme et disciplines associées . <br clear="none"/>
 </td>
-<td>Encadrement et conduite de séances de découverte et d'initiation des différents groupes de spécialités de l'athlétisme et disciplines associées. <br clear="none"/>
+<td>
+<p align="left">Encadrement et conduite de séances de découverte et d'initiation des différents groupes de spécialités de l'athlétisme et disciplines associées. <br clear="none"/>
+</p>
 </td>
 <td>A l'exclusion de toute pratique compétitive. <br clear="none"/>
 </td>
@@ -2819,9 +2835,15 @@ C.-Diplômes délivrés par le ministère chargé des sports
 </td>
 </tr>
 <tr>
-<td>BP JEPS, spécialité " activités du cyclisme " </td>
-<td>Préparation et mise en œuvre de cycles d'animation et d'initiation en vélo. </td>
-<td>A l'exclusion de toute pratique compétitive. <br clear="none"/>
+<td align="left" valign="top">
+<p align="left">BP JEPS, spécialité " activités du cyclisme " </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Préparation et mise en œuvre de cycles d'animation et d'initiation en vélo. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">A l'exclusion de toute pratique compétitive. <br clear="none"/>
+</p>
 </td>
 </tr>
 <tr>
@@ -2830,25 +2852,49 @@ C.-Diplômes délivrés par le ministère chargé des sports
 </td>
 </tr>
 <tr>
-<td>BMX. </td>
-<td>Préparation et mise en œuvre de cycles d'apprentissage en BMX. </td>
-<td/>
-</tr>
-<tr>
-<td>Cyclisme traditionnel. </td>
-<td>Préparation et mise en œuvre de cycles d'apprentissage en cyclisme traditionnel. </td>
-<td/>
-</tr>
-<tr>
-<td>VTT. </td>
-<td>Préparation et mise en œuvre de cycles d'apprentissage en VTT. </td>
-<td/>
-</tr>
-<tr>
-<td>BP JEPS, spécialité " lutte et disciplines associées ". <br clear="none"/>
+<td>
+<p align="left">BMX. </p>
 </td>
-<td>Conduite de séances et de cycles d'initiation, de découverte et d'animation sportive dans toutes les activités de lutte et disciplines associées. </td>
-<td>A l'exclusion de toute pratique compétitive au-delà du niveau régional. </td>
+<td>
+<p align="left">Préparation et mise en œuvre de cycles d'apprentissage en BMX. </p>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">Cyclisme traditionnel. </p>
+</td>
+<td>
+<p align="left">Préparation et mise en œuvre de cycles d'apprentissage en cyclisme traditionnel. </p>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">VTT. </p>
+</td>
+<td>
+<p align="left">Préparation et mise en œuvre de cycles d'apprentissage en VTT. </p>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="left">BP JEPS, spécialité " lutte et disciplines associées ". <br clear="none"/>
+</p>
+</td>
+<td>
+<p align="left">Conduite de séances et de cycles d'initiation, de découverte et d'animation sportive dans toutes les activités de lutte et disciplines associées. </p>
+</td>
+<td>
+<p align="left">A l'exclusion de toute pratique compétitive au-delà du niveau régional. </p>
+</td>
 </tr>
 <tr>
 <td colspan="3">
@@ -2857,14 +2903,20 @@ C.-Diplômes délivrés par le ministère chargé des sports
 </tr>
 <tr>
 <td>Lutte. </td>
-<td>Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation aux premiers niveaux de compétition régionale en lutte. </td>
+<td>
+<p align="left">Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation aux premiers niveaux de compétition régionale en lutte. </p>
+</td>
 <td/>
 </tr>
 <tr>
-<td>Sambo. </td>
-<td>Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation aux premiers niveaux de compétition régionale en sambo. <br clear="none"/>
+<td align="left" valign="top">
+<p align="left">Sambo. </p>
 </td>
-<td/>
+<td align="left" valign="top">
+<p align="left">Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation aux premiers niveaux de compétition régionale en sambo. <br clear="none"/>
+</p>
+</td>
+<td align="left" valign="top"/>
 </tr>
 <tr>
 <td>Grappling. </td>
@@ -2872,16 +2924,24 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td/>
 </tr>
 <tr>
-<td>Lutte bretonne (gouren). </td>
-<td>Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation aux premiers niveaux de compétition régionale en lutte bretonne (gouren). </td>
-<td/>
+<td align="left" valign="top">
+<p align="left">Lutte bretonne (gouren). </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation aux premiers niveaux de compétition régionale en lutte bretonne (gouren). </p>
+</td>
+<td align="left" valign="top"/>
 </tr>
 <tr>
-<td>BP JEPS, spécialité judo-jujitsu . <br clear="none"/>
+<td align="left" valign="top">
+<p align="left">BP JEPS, spécialité "judo-jujitsu". <br clear="none"/>
+</p>
 </td>
-<td>Encadrement et animation d'activités d'éveil, de découverte et d'initiation au judo-jujitsu pour tous les publics. Encadrement et conduite de cycles d'apprentissage, d'enseignement et d'entraînement du judo-jujitsu jusqu'aux premiers niveaux de compétition. Encadrement et conduite de cycles d'apprentissage permettant la préparation aux grades. <br clear="none"/>
+<td align="left" valign="top">
+<p align="left">Encadrement et animation d'activités d'éveil, de découverte et d'initiation au judo-jujitsu pour tous les publics. Encadrement et conduite de cycles d'apprentissage, d'enseignement et d'entraînement du judo-jujitsu jusqu'aux premiers niveaux de compétition. Encadrement et conduite de cycles d'apprentissage permettant la préparation aux grades. <br clear="none"/>
+</p>
 </td>
-<td/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
 <td>BP JEPS, spécialité "basket-ball". <br clear="none"/>
@@ -2891,11 +2951,24 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td/>
 </tr>
 <tr>
-<td>BP JEPS, spécialité "patinage sur glace".<br clear="none"/>
+<td align="left" valign="top">
+<p align="left">BP JEPS, spécialité "patinage sur glace".<br clear="none"/>
+</p>
 </td>
-<td>Encadrement, enseignement et animation d'activités de découverte, de loisir et d'initiation. Conduite de cycles d'apprentissage jusqu'aux premiers niveaux de compétition en patinage sur glace. <br clear="none"/>
+<td align="left" valign="top">
+<p align="left">Encadrement, enseignement et animation d'activités de découverte, de loisir et d'initiation. Conduite de cycles d'apprentissage jusqu'aux premiers niveaux de compétition en patinage sur glace. <br clear="none"/>
+</p>
 </td>
-<td/>
+<td align="left" valign="top"/>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">BP JEPS, spécialité "rugby à XV". </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Encadrement, enseignement et animation d'activités de découverte, de loisir et d'initiation. Conduite de cycles d'apprentissage jusqu'aux premiers niveaux de compétition en rugby à XV.</p>
+</td>
+<td align="left" valign="top"/>
 </tr>
 <tr>
 <td colspan="3">
@@ -2960,10 +3033,16 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <td align="left" valign="top"/>
 </tr>
 <tr>
-<td>UCC vélo tout terrain . <br clear="none"/>
+<td>
+<p align="left">UCC vélo tout terrain . <br clear="none"/>
+</p>
 </td>
-<td>Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en vélo tout terrain. </td>
-<td>A l'exclusion du vélo tout terrain de descente. </td>
+<td>
+<p align="left">Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en vélo tout terrain. </p>
+</td>
+<td>
+<p align="left">A l'exclusion du vélo tout terrain de descente. </p>
+</td>
 </tr>
 <tr>
 <td colspan="3">
@@ -3173,11 +3252,17 @@ C.-Diplômes délivrés par le ministère chargé des sports
 </td>
 </tr>
 <tr>
-<td>DE JEPS, spécialité " perfectionnement sportif ", mention " spéléologie ". <br clear="none"/>
+<td>
+<p align="left">DE JEPS, spécialité " perfectionnement sportif ", mention " spéléologie ". <br clear="none"/>
+</p>
 </td>
-<td>Enseignement, animation, encadrement de la spéléologie ou entraînement de ses pratiquants. <br clear="none"/>
+<td>
+<p align="left">Enseignement, animation, encadrement de la spéléologie ou entraînement de ses pratiquants. <br clear="none"/>
+</p>
 </td>
-<td>Autorisation d'exercer pour une durée de cinq ans, renouvelée à l'issue d'un stage de recyclage. </td>
+<td>
+<p align="left">Autorisation d'exercer pour une durée de cinq ans, renouvelée à l'issue d'un stage de recyclage. </p>
+</td>
 </tr>
 <tr>
 <td align="left" valign="top">
@@ -3274,24 +3359,81 @@ C.-Diplômes délivrés par le ministère chargé des sports
 </td>
 </tr>
 <tr>
-<td>Diplômes d'Etat des métiers d'enseignement, d'encadrement et d'entraînement des sports de montagne. <br clear="none"/>
+<td>
+<p align="left">Diplômes d'Etat des métiers d'enseignement, d'encadrement et d'entraînement des sports de montagne. <br clear="none"/>
+</p>
 </td>
 <td/>
 <td/>
 </tr>
 <tr>
-<td>Diplôme d'Etat de ski-moniteur national de ski alpin. <br clear="none"/>
+<td align="left" valign="top">
+<p align="left">Diplôme d'Etat de ski-moniteur national de ski alpin. <br clear="none"/>
+</p>
 </td>
-<td>Encadrement, animation, enseignement et entraînement du ski alpin et de ses activités dérivées en application de l'ensemble des classes de la progression du ski alpin et de ses activités dérivées définies par la commission de la formation et de l'emploi du conseil supérieur des sports de montagne. <br clear="none"/>
+<td align="left" valign="top">
+<p align="left">Encadrement, animation, enseignement et entraînement du ski alpin et de ses activités dérivées en application de l'ensemble des classes de la progression du ski alpin et de ses activités dérivées définies par la commission de la formation et de l'emploi du conseil supérieur des sports de montagne. <br clear="none"/>
+</p>
 </td>
-<td>A l'exclusion des zones glaciaires non balisées et des terrains dont la fréquentation fait appel aux techniques de l'alpinisme. <p>Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage. </p>
+<td align="left" valign="top">
+<p align="left">A l'exclusion des zones glaciaires non balisées et des terrains dont la fréquentation fait appel aux techniques de l'alpinisme. </p>
+<p>Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage. </p>
 </td>
 </tr>
 <tr>
-<td>Diplôme d'Etat de ski - moniteur national de ski nordique de fond. <br clear="none"/>
+<td align="left" valign="top">
+<p align="left">Diplôme d'Etat de ski-moniteur national de ski nordique de fond. <br clear="none"/>
+</p>
 </td>
-<td>Encadrement, animation, enseignement et entraînement du ski nordique de fond et de ses activités dérivées en application de l'ensemble des classes de la progression du ski nordique de fond et de ses activités dérivées définies par la commission de la formation et de l'emploi du Conseil supérieur des sports de montagne. </td>
-<td>Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage.</td>
+<td align="left" valign="top">
+<p align="left">Encadrement, animation, enseignement et entraînement du ski nordique de fond et de ses activités dérivées en application de l'ensemble des classes de la progression du ski nordique de fond et de ses activités dérivées définies par la commission de la formation et de l'emploi du Conseil supérieur des sports de montagne. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage.</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Diplôme d'Etat d'alpinisme-guide de haute montagne </p>
+</td>
+<td align="left" valign="top">
+<p>Conduite et accompagnement de personnes dans des excursions ou des ascensions de montagne en rocher, neige, glace et terrain mixte.</p>
+<p>Conduite et accompagnement de personnes dans des excursions de ski de randonnée, ski alpinisme et en ski hors pistes.</p>
+<p>Enseignement des techniques d'alpinisme, d'escalade et de ski de randonnée, ski alpinisme et ski hors pistes. </p>
+<p>Entraînement aux pratiques de compétition dans les disciplines précitées.</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage. </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Diplôme d'Etat d'alpinisme-accompagnateur en moyenne montagne, option "moyenne montagne enneigée".</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Encadrement, conduite, animation, enseignement, entraînement en sécurité de tout public en randonnée pédestre et activités assimilées en moyenne montagne ainsi qu'en terrain enneigé sur des reliefs vallonnés excluant tout accident de terrain important. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">A l'exclusion :</p>
+<p>-des zones glaciaires et des zones de rochers, canyons, terrains nécessitant pour la progression l'utilisation du matériel ou des techniques de l'alpinisme ;</p>
+<p>-de la pratique de toutes les disciplines du ski et activités dérivées, à l'exception de la raquette à neige ;</p>
+<p>-de l'exercice professionnel dans les régions à climat tropical et équatorial, en période de fortes précipitations fixées par l'autorité publique compétente, sur des terrains escarpés et détrempés. </p>
+<p>Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage. </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">Diplôme d'Etat d'alpinisme-accompagnateur en moyenne montagne, option "moyenne montagne tropicale et équatoriale". </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Encadrement, conduite, animation, enseignement, entraînement en sécurité de tout public en randonnée pédestre et activités assimilées en moyenne montagne ainsi que dans les régions à climat tropical et équatorial en périodes de fortes précipitations fixées par l'autorité compétente, sur des terrains escarpés et détrempés. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">A l'exclusion :</p>
+<p>-des zones glaciaires et des zones de rochers, canyons, terrains nécessitant pour la progression l'utilisation du matériel ou des techniques de l'alpinisme ;</p>
+<p>-des terrains enneigés. </p>
+<p>Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage.</p>
+</td>
 </tr>
 </tbody>
 </table>
@@ -3411,50 +3553,63 @@ D-2. Titres à finalité professionnelle délivrés par la Fédération françai
 </table>
 
 D-3. Titres à finalité professionnelle délivrés par la Fédération française de football.
+
 <table>
-<thead>
-<tr>
-<th>INTITULÉ DU TITRE</th>
-<th>CONDITIONS D'EXERCICE </th>
-<th>LIMITES DES CONDITIONS D'EXERCICE</th>
-</tr>
-</thead>
 <tbody>
 <tr>
-<td align="center">
-<br clear="none"/>Moniteur de football. <br clear="none"/>
+<td width="151">
+<p align="center">INTITULÉ DU TITRE</p>
 </td>
-<td align="center">
-<br clear="none"/>Conduite de cycles d'apprentissage et entraînement de la pratique du football jusqu'au niveau régional. <br clear="none"/>
+<td width="302">
+<p align="center">CONDITIONS D'EXERCICE</p>
 </td>
-<td align="center"/>
+<td width="265">
+<p align="center">LIMITES DES CONDITIONS D'EXERCICE</p>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br clear="none"/>Entraîneur de football. <br clear="none"/>
+<td width="151">
+<p>Moniteur de football. </p>
 </td>
-<td align="center">
-<br clear="none"/>Entraînement en football jusqu'au niveau régional pour tous les publics. Entraînement en football au niveau national pour les publics mineurs. <br clear="none"/>
+<td width="302">
+<p>Conduite de cycles d'apprentissage et entraînement de la pratique du football jusqu'au niveau régional.</p>
 </td>
-<td align="center"/>
+<td width="265">
+<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br clear="none"/>Entraîneur formateur de football. <br clear="none"/>
+<td width="151">
+<p>Entraîneur de football. </p>
 </td>
-<td align="center">
-<br clear="none"/>Encadrement et entraînement de joueurs de haut niveau en football dans une structure de préformation ou de formation. <br clear="none"/>
+<td width="302">
+<p>Entraînement en football jusqu'au niveau régional pour tous les publics. Entraînement en football au niveau national pour les publics mineurs. </p>
 </td>
-<td align="center"/>
+<td width="265">
+<br/>
+</td>
 </tr>
 <tr>
-<td align="center">
-<br clear="none"/>Entraîneur professionnel de football. <br clear="none"/>
+<td width="151">
+<p>Entraîneur formateur de football. </p>
 </td>
-<td align="center">
-<br clear="none"/>Encadrement et entraînement de joueurs de haut niveau en football dans un club professionnel . <br clear="none"/>
+<td width="302">
+<p>Encadrement et entraînement de joueurs de haut niveau en football dans une structure de préformation ou de formation. </p>
 </td>
-<td align="center"/>
+<td width="265">
+<br/>
+</td>
+</tr>
+<tr>
+<td width="151">
+<p>Entraîneur professionnel de football.</p>
+</td>
+<td width="302">
+<p>Encadrement et entraînement de joueurs de haut niveau en football dans un club professionnel.</p>
+</td>
+<td width="265">
+<br/>
+</td>
 </tr>
 </tbody>
 </table>
@@ -3481,19 +3636,19 @@ E-1. Certificats de qualification délivrés par la Commission paritaire nationa
 <tbody>
 <tr>
 <td align="left" valign="top">
-<br clear="none"/>Certificat de qualification professionnelle (CQP) " animateur-soigneur assistant ". <br clear="none"/>
+<br clear="none"/>Certificat de qualification professionnelle (CQP) "animateur-soigneur assistant". <br clear="none"/>
 </td>
 <td align="left" valign="top">
 <br clear="none"/>Participation à l'encadrement des pratiquants dans le cadre d'une action d'animation en équitation cheval, en équitation poney ou en tourisme équestre. <br clear="none"/>
 </td>
 <td align="left" valign="top">
-<br clear="none"/>Pour les mentions " équitation public poney " et " équitation public cheval ", sous le contrôle d'un titulaire du brevet d'Etat d'éducateur sportif option " équitation " ou du brevet professionnel de la jeunesse, de l'éducation populaire et du sport spécialité " activités équestres " mention équitation. <p>Pour la mention " tourisme équestre ", sous le contrôle d'un titulaire du brevet professionnel de la jeunesse, de l'éducation populaire et du sport spécialité " activités équestres " mention " tourisme équestre " ou du brevet de guide de tourisme équestre. <br clear="none"/>
+<br clear="none"/>Pour les mentions "équitation public poney" et "équitation public cheval", sous le contrôle d'un titulaire du brevet d'Etat d'éducateur sportif option "équitation" ou du brevet professionnel de la jeunesse, de l'éducation populaire et du sport spécialité "activités équestres" mention équitation. <p>Pour la mention "tourisme équestre", sous le contrôle d'un titulaire du brevet professionnel de la jeunesse, de l'éducation populaire et du sport spécialité "activités équestres" mention "tourisme équestre" ou du brevet de guide de tourisme équestre. <br clear="none"/>
 </p>
 </td>
 </tr>
 <tr>
 <td>
-<p align="left">CQP " enseignant animateur d'équitation ". </p>
+<p align="left">CQP "enseignant animateur d'équitation". </p>
 </td>
 <td>
 <p align="left">Conduite en autonomie de séances d'initiation aux pratiques équestres. </p>
@@ -3502,7 +3657,7 @@ E-1. Certificats de qualification délivrés par la Commission paritaire nationa
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">CQP " organisateur de randonnées équestres ". </p>
+<p align="left">CQP "organisateur de randonnées équestres". </p>
 </td>
 <td align="left" valign="top">
 <p align="left">Initiation aux techniques de la randonnée équestre et conduite de promenades et de randonnées équestres en autonomie. </p>
@@ -3531,7 +3686,7 @@ E-2. Certificats de qualification délivrés par la Commission paritaire nationa
 <tbody>
 <tr>
 <td align="left" valign="top">
-<br clear="none"/>CQP " guide de véhicules terrestres motorisés à guidon " (guide de VTM à guidon), option " quad " ou option " moto verte ". <br clear="none"/>
+<br clear="none"/>CQP "guide de véhicules terrestres motorisés à guidon" (guide de VTM à guidon), option "quad" ou option "moto verte". <br clear="none"/>
 </td>
 <td align="left" valign="top">
 <br clear="none"/>Encadrement en autonomie de randonnées en véhicules terrestres motorisés à guidon (VTM) pour des publics titulaires d'un permis ou d'un brevet délivré par l'Etat permettant la conduite des VTM à guidon utilisés, conformément à l'article R. 221-1 du code de la route. </td>
@@ -3543,7 +3698,7 @@ E-2. Certificats de qualification délivrés par la Commission paritaire nationa
 </tr>
 <tr>
 <td align="left" valign="top">
-<br clear="none"/>CQP " animateur de tir à l'arc ". <br clear="none"/>
+<br clear="none"/>CQP "animateur de tir à l'arc". <br clear="none"/>
 </td>
 <td align="left" valign="top">
 <br clear="none"/>Encadrement en autonomie du tir à l'arc, par la découverte et l'animation. <br clear="none"/>
@@ -3557,7 +3712,7 @@ E-2. Certificats de qualification délivrés par la Commission paritaire nationa
 </tr>
 <tr>
 <td align="left" valign="top">
-<br clear="none"/>CQP " assistant moniteur de voile " <br clear="none"/>
+<br clear="none"/>CQP "assistant moniteur de voile". <br clear="none"/>
 </td>
 <td align="left" valign="top">
 <br clear="none"/>Animation et initiation à la pratique de la voile. <br clear="none"/>
@@ -3569,7 +3724,7 @@ E-2. Certificats de qualification délivrés par la Commission paritaire nationa
 </tr>
 <tr>
 <td align="left" valign="top">
-<br clear="none"/>CQP " animateur de savate ". <br clear="none"/>
+<br clear="none"/>CQP "animateur de savate". <br clear="none"/>
 </td>
 <td align="left" valign="top">
 <br clear="none"/>Encadrement en autonomie de la savate, incluant la mise en œuvre des procédures de passage des gants bleus, verts, rouges et blancs. <br clear="none"/>
@@ -3580,7 +3735,7 @@ E-2. Certificats de qualification délivrés par la Commission paritaire nationa
 </tr>
 <tr>
 <td align="left" valign="top">
-<br clear="none"/>CQP " animateur des activités gymniques ", mention " activités gymniques acrobatiques ". <br clear="none"/>
+<br clear="none"/>CQP "animateur des activités gymniques", mention "activités gymniques acrobatiques". <br clear="none"/>
 </td>
 <td align="left" valign="top">
 <br clear="none"/>Encadrement en autonomie, par la découverte et l'initiation, des activités gymniques acrobatiques, à visée compétitive ou non : <p>-activités gymniques au sol, aux agrès ou sur supports élastiques (piste gonflable, fast track, mini-trampoline, trampoline) ;</p>
@@ -3593,7 +3748,7 @@ E-2. Certificats de qualification délivrés par la Commission paritaire nationa
 </tr>
 <tr>
 <td align="left" valign="top">
-<br clear="none"/>CQP " animateur des activités gymniques ", mention " activités d'éveil gymnique pour la petite enfance ". <br clear="none"/>
+<br clear="none"/>CQP "animateur des activités gymniques", mention "activités d'éveil gymnique pour la petite enfance". <br clear="none"/>
 </td>
 <td align="left" valign="top">
 <br clear="none"/>Encadrement en autonomie, par la découverte et l'initiation, des activités d'éveil gymnique pour la petite enfance : <p>-activités gymniques sous forme de parcours de motricité ;</p>
@@ -3607,7 +3762,7 @@ E-2. Certificats de qualification délivrés par la Commission paritaire nationa
 </tr>
 <tr>
 <td align="left" valign="top">
-<br clear="none"/>CQP " animateur des activités gymniques ", mention " activités gymniques d'expression et d'entretien ". <br clear="none"/>
+<br clear="none"/>CQP "animateur des activités gymniques", mention "activités gymniques d'expression et d'entretien". <br clear="none"/>
 </td>
 <td align="left" valign="top">
 <br clear="none"/>Encadrement en autonomie, par la découverte et l'initiation, des activités gymniques d'expression et d'entretien : <p>-activités gymniques à dominante cardio-vasculaire ;</p>
@@ -3622,17 +3777,21 @@ E-2. Certificats de qualification délivrés par la Commission paritaire nationa
 </td>
 </tr>
 <tr>
-<td>CQP animateur des activités gymniques , mention activités gymniques d'expression . <br clear="none"/>
+<td align="left" valign="top">
+<p align="left">CQP "animateur des activités gymniques", mention "activités gymniques d'expression". <br clear="none"/>
+</p>
 </td>
-<td>Encadrement en autonomie, par la découverte et l'initiation des activités gymniques d'expression : <p>- activités gymniques dansées de groupe avec ou sans engins jusqu'à un premier niveau de compétition en gymnastique rythmique ; </p>
+<td align="left" valign="top">
+<p align="left">Encadrement en autonomie, par la découverte et l'initiation des activités gymniques d'expression : </p>
+<p>- activités gymniques dansées de groupe avec ou sans engins jusqu'à un premier niveau de compétition en gymnastique rythmique ; </p>
 <p>- activités gymniques cardio-vasculaires jusqu'à un premier niveau de compétition en gymnastique aérobic. <br clear="none"/>
 </p>
 </td>
-<td/>
+<td align="left" valign="top"/>
 </tr>
 <tr>
 <td align="left" valign="top">
-<br clear="none"/>CQP animateur de loisirs sportifs , option activités gymniques d'entretien et d'expression . <br clear="none"/>
+<br clear="none"/>CQP "animateur de loisirs sportifs", option "activités gymniques d'entretien et d'expression". <br clear="none"/>
 </td>
 <td align="left" valign="top">
 <br clear="none"/>
@@ -3651,7 +3810,7 @@ E-2. Certificats de qualification délivrés par la Commission paritaire nationa
 </tr>
 <tr>
 <td align="left" valign="top">
-<br clear="none"/>CQP animateur de loisirs sportifs , option jeux sportifs et jeux d'opposition . </td>
+<br clear="none"/>CQP "animateur de loisirs sportifs", option "jeux sportifs et jeux d'opposition". </td>
 <td align="left" valign="top">
 <br clear="none"/>
 <p>Encadrement en autonomie par la découverte et l'animation des jeux sportifs et des jeux d'opposition : </p>
@@ -3669,7 +3828,7 @@ E-2. Certificats de qualification délivrés par la Commission paritaire nationa
 </tr>
 <tr>
 <td align="left" valign="top">
-<br clear="none"/>CQP " assistant moniteur de tennis ". <br clear="none"/>
+<br clear="none"/>CQP "assistant moniteur de tennis". <br clear="none"/>
 </td>
 <td align="left" valign="top">
 <br clear="none"/>Initiation au tennis en cours collectif, des jeunes âgés de 18 ans au maximum. L'assistant moniteur de tennis bénéficie du suivi pédagogique d'un référent titulaire d'un diplôme d'Etat de niveau IV ou supérieur. <br clear="none"/>
@@ -3682,7 +3841,7 @@ E-2. Certificats de qualification délivrés par la Commission paritaire nationa
 </tr>
 <tr>
 <td align="left" valign="top">
-<br clear="none"/>CQP " éducateur de grimpe d'arbres ". <br clear="none"/>
+<br clear="none"/>CQP " éducateur de grimpe d'arbres". <br clear="none"/>
 </td>
 <td align="left" valign="top">
 <br clear="none"/>Animation et encadrement en autonomie de la grimpe dans les arbres. <br clear="none"/>
@@ -3693,7 +3852,7 @@ E-2. Certificats de qualification délivrés par la Commission paritaire nationa
 </tr>
 <tr>
 <td align="left" valign="top">
-<br clear="none"/>CQP " technicien sportif régional de basket-ball ". <br clear="none"/>
+<br clear="none"/>CQP " technicien sportif régional de basket-ball". <br clear="none"/>
 </td>
 <td align="left" valign="top">
 <br clear="none"/>Entraînement et encadrement en compétition d'équipes évoluant majoritairement aux niveaux régional et départemental. <br clear="none"/>
@@ -3711,7 +3870,7 @@ E-2. Certificats de qualification délivrés par la Commission paritaire nationa
 </tr>
 <tr>
 <td align="left" valign="top">
-<br clear="none"/>CQP " assistant moniteur char à voile ". <br clear="none"/>
+<br clear="none"/>CQP "assistant moniteur char à voile". <br clear="none"/>
 </td>
 <td align="left" valign="top">
 <br clear="none"/>Initiation à la pratique du char à voile de loisirs dans le support certifié (char assis/ allongé, char debout ou char tracté). <br clear="none"/>
@@ -3725,7 +3884,7 @@ E-2. Certificats de qualification délivrés par la Commission paritaire nationa
 </tr>
 <tr>
 <td align="left" valign="top">
-<br clear="none"/>CQP " assistant professeur arts martiaux ". <br clear="none"/>
+<br clear="none"/>CQP "assistant professeur arts martiaux". <br clear="none"/>
 </td>
 <td align="left" valign="top">
 <br clear="none"/>Encadrement en autonomie jusqu'au premier niveau de compétition dans la mention considérée (aïkido, aïkibudo, arts martiaux chinois internes, arts martiaux chinois externes, arts énergétiques chinois, judo-jujitsu, karaté et disciplines associées, kendo et disciplines associées, taekwondo et disciplines associées). <br clear="none"/>
@@ -3740,7 +3899,7 @@ E-2. Certificats de qualification délivrés par la Commission paritaire nationa
 </tr>
 <tr>
 <td align="left" valign="top">
-<br clear="none"/>CQP " assistant moniteur motonautique ". <br clear="none"/>
+<br clear="none"/>CQP "assistant moniteur motonautique". <br clear="none"/>
 </td>
 <td align="left" valign="top">
 <br clear="none"/>Animation de séances de découverte et d'initiation à la pratique du motonautisme au moyen du support véhicule nautique à moteur (VNM). <br clear="none"/>
@@ -3758,10 +3917,10 @@ E-2. Certificats de qualification délivrés par la Commission paritaire nationa
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">CQP " moniteur de roller skating " option " patinage artistique et danse ". </p>
+<p align="left">CQP "moniteur de roller skating" option "patinage artistique et danse". </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Initiation aux activités du roller skating dans les options " patinage artistique et danse ", " course ", " rink-hockey ", " roller in line hockey ", " roller acrobatique ". Encadrement en autonomie du patinage artistique et de la danse jusqu'aux premiers niveaux de compétition inclus. </p>
+<p align="left">Initiation aux activités du roller skating dans les options "patinage artistique et danse", "course", "rink-hockey", "roller in line hockey", "roller acrobatique". Encadrement en autonomie du patinage artistique et de la danse jusqu'aux premiers niveaux de compétition inclus. </p>
 </td>
 <td align="left" valign="top">
 <p align="left">Dans la limite de vingt pratiquants par titulaire du CQP. <br clear="none"/>Dans des espaces dédiés : gymnase, plateau sportif, piste de roller et skatepark. </p>
@@ -3769,10 +3928,10 @@ E-2. Certificats de qualification délivrés par la Commission paritaire nationa
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">CQP " moniteur de roller skating " option " course ". </p>
+<p align="left">CQP "moniteur de roller skating" option "course". </p>
 </td>
 <td align="left" valign="top">
-<p>Initiation aux activités du roller skating dans les options " patinage artistique et danse ", " course ", " rink-hockey ", " roller in line hockey ", " roller acrobatique ". </p>
+<p>Initiation aux activités du roller skating dans les options "patinage artistique et danse", "course", "rink-hockey", "roller in line hockey", "roller acrobatique". </p>
 <p>Encadrement en autonomie de la course jusqu'aux premiers niveaux de compétition inclus. </p>
 </td>
 <td align="left" valign="top">
@@ -3782,21 +3941,10 @@ E-2. Certificats de qualification délivrés par la Commission paritaire nationa
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">CQP " moniteur de roller skating ", option " rink-hockey ". </p>
+<p align="left">CQP "moniteur de roller skating", option "rink-hockey". </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Initiation aux activités du roller skating dans les options " patinage artistique et danse ", " course ", " rink-hockey ", " roller in line hockey ", " roller acrobatique ". Encadrement en autonomie du rink-hockey jusqu'aux premiers niveaux de compétition inclus. </p>
-</td>
-<td align="left" valign="top">
-<p align="left">Dans la limite de vingt pratiquants par titulaire du CQP. <br clear="none"/>Dans des espaces dédiés : gymnase, plateau sportif, piste de roller et skatepark. </p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<p align="left">CQP " moniteur de roller skating ", option " roller in line hockey ". </p>
-</td>
-<td align="left" valign="top">
-<p align="left">Initiation aux activités du roller skating dans les options " patinage artistique et danse ", " course ", " rink-hockey ", " roller in line hockey ", " roller acrobatique ". Encadrement en autonomie du roller in line hockey jusqu'aux premiers niveaux de compétition inclus. </p>
+<p align="left">Initiation aux activités du roller skating dans les options "patinage artistique et danse", "course", "rink-hockey", "roller in line hockey", "roller acrobatique". Encadrement en autonomie du rink-hockey jusqu'aux premiers niveaux de compétition inclus. </p>
 </td>
 <td align="left" valign="top">
 <p align="left">Dans la limite de vingt pratiquants par titulaire du CQP. <br clear="none"/>Dans des espaces dédiés : gymnase, plateau sportif, piste de roller et skatepark. </p>
@@ -3804,10 +3952,10 @@ E-2. Certificats de qualification délivrés par la Commission paritaire nationa
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">CQP " moniteur de roller skating ", option " roller acrobatique ". </p>
+<p align="left">CQP "moniteur de roller skating", option "roller in line hockey". </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Initiation aux activités du roller skating dans les options " patinage artistique et danse ", " course ", " rink-hockey ", " roller in line hockey ", " roller acrobatique ". Encadrement en autonomie du roller acrobatique jusqu'aux premiers niveaux de compétition inclus. </p>
+<p align="left">Initiation aux activités du roller skating dans les options "patinage artistique et danse", "course", "rink-hockey", "roller in line hockey", "roller acrobatique". Encadrement en autonomie du roller in line hockey jusqu'aux premiers niveaux de compétition inclus. </p>
 </td>
 <td align="left" valign="top">
 <p align="left">Dans la limite de vingt pratiquants par titulaire du CQP. <br clear="none"/>Dans des espaces dédiés : gymnase, plateau sportif, piste de roller et skatepark. </p>
@@ -3815,7 +3963,18 @@ E-2. Certificats de qualification délivrés par la Commission paritaire nationa
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">CQP " moniteur de roller skating ", option " skateboard ". </p>
+<p align="left">CQP "moniteur de roller skating", option "roller acrobatique". </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Initiation aux activités du roller skating dans les options "patinage artistique et danse", "course", "rink-hockey", "roller in line hockey", "roller acrobatique". Encadrement en autonomie du roller acrobatique jusqu'aux premiers niveaux de compétition inclus. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Dans la limite de vingt pratiquants par titulaire du CQP. <br clear="none"/>Dans des espaces dédiés : gymnase, plateau sportif, piste de roller et skatepark. </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">CQP "moniteur de roller skating", option "skateboard". </p>
 </td>
 <td align="left" valign="top">
 <p align="left">Encadrement en autonomie du skateboard jusqu'aux premiers niveaux de compétition inclus. </p>
@@ -3825,21 +3984,21 @@ E-2. Certificats de qualification délivrés par la Commission paritaire nationa
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">CQP "moniteur de roller skating", option "roller randonnée" </p>
+<td align="left" valign="top">
+<p align="left">CQP "moniteur de roller skating", option "roller randonnée".</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="left">Initiation aux activités du roller skating dans les options "patinage artistique et danse", "course", "rink-hockey", "roller in line hockey", "roller acrobatique", "roller randonnée". </p>
 <p align="left">Encadrement en autonomie du roller randonnée jusqu'aux premiers niveaux de compétition inclus.</p>
 </td>
-<td>Pour l'encadrement en autonomie du roller randonnée jusqu'aux premiers niveaux de compétition inclus : <p>-dans la limite de vingt pratiquants par titulaire du CQP ;</p>
+<td align="left" valign="top">Pour l'encadrement en autonomie du roller randonnée jusqu'aux premiers niveaux de compétition inclus : <p align="left">-dans la limite de vingt pratiquants par titulaire du CQP ;</p>
 <p>-sur voies ouvertes, sous l'autorité de deux titulaires du CQP, dans le cas où le groupe comprend plus de huit pratiquants. <br clear="none"/>
 </p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="top">
-<p align="left">CQP " moniteur d'aviron ". </p>
+<p align="left">CQP "moniteur d'aviron". </p>
 </td>
 <td align="left" valign="top">
 <p align="left">Encadrement en autonomie des activités de l'aviron jusqu'aux premiers niveaux de compétition inclus. </p>
@@ -3849,21 +4008,21 @@ E-2. Certificats de qualification délivrés par la Commission paritaire nationa
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">CQP " moniteur de rugby à XV ". </p>
+<td align="left" valign="top">
+<p align="left">CQP "moniteur de rugby à XV". </p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="left">Animation des activités de rugby à XV pour tout public, à des fins de découverte et d'initiation. </p>
 <p align="left">Encadrement des activités de rugby à XV jusqu'aux premiers niveaux de compétition dans les catégories d'âge des écoles de rugby (7 à 15 ans). <br clear="none"/>
 </p>
 </td>
-<td>
+<td align="left" valign="top">
 <br/>
 </td>
 </tr>
 <tr>
 <td>
-<p align="left">CQP " initiateur en motocyclisme ". <br clear="none"/>
+<p align="left">CQP "initiateur en motocyclisme". <br clear="none"/>
 </p>
 </td>
 <td>
@@ -3876,7 +4035,7 @@ E-2. Certificats de qualification délivrés par la Commission paritaire nationa
 </tr>
 <tr>
 <td>
-<p align="left">CQP " moniteur de squash ". </p>
+<p align="left">CQP "moniteur de squash". </p>
 </td>
 <td>
 <p align="left">Encadrement des activités de squash, jusqu'aux premiers niveaux de compétition inclus. </p>
@@ -3887,7 +4046,7 @@ E-2. Certificats de qualification délivrés par la Commission paritaire nationa
 </tr>
 <tr>
 <td>
-<p align="left">CQP " animateur de tennis de table " </p>
+<p align="left">CQP "animateur de tennis de table". </p>
 </td>
 <td>
 <p align="left">Encadrement de séances collectives de tennis de table, de l'initiation jusqu'aux premiers niveaux de compétition inclus. </p>
@@ -3897,15 +4056,15 @@ E-2. Certificats de qualification délivrés par la Commission paritaire nationa
 </td>
 </tr>
 <tr>
-<td>
-<p align="left">CQP " moniteur de tir sportif ". <br clear="none"/>
+<td align="left" valign="top">
+<p align="left">CQP "moniteur de tir sportif". <br clear="none"/>
 </p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="left">Encadrement en autonomie du tir sportif à des fins de découverte et d'initiation, pour tout public, jusqu'au premier niveau de compétition. <br clear="none"/>
 </p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="left">Pour l'activité de découverte : dans la limite de six pratiquants sur le même pas de tir. </p>
 <p align="left">Pour l'activité d'initiation : dans la limite de dix pratiquants sur le même pas de tir. </p>
 <p align="left">Sous réserve de la présentation du carnet de tir en cours de validité. </p>
@@ -3913,7 +4072,7 @@ E-2. Certificats de qualification délivrés par la Commission paritaire nationa
 </tr>
 <tr>
 <td>
-<p align="left">CQP animateur de badminton . </p>
+<p align="left">CQP "animateur de badminton". </p>
 </td>
 <td>
 <p align="left">Encadrement en autonomie de séances collectives en badminton, de l'initiation jusqu'au premier niveau de compétition.</p>
@@ -3924,12 +4083,11 @@ E-2. Certificats de qualification délivrés par la Commission paritaire nationa
 </tr>
 <tr>
 <td>
-<p align="left">CQP moniteur de football américain et de flag . <br clear="none"/>
+<p align="left">CQP "moniteur de football américain et de flag". <br clear="none"/>
 </p>
 </td>
 <td>
-<p align="left">
-<br clear="none"/>Encadrement en autonomie des activités de découverte et d'initiation de football américain et de flag jusqu'aux premiers niveaux de compétition. <br clear="none"/>
+<p>Encadrement en autonomie des activités de découverte et d'initiation de football américain et de flag jusqu'aux premiers niveaux de compétition. <br clear="none"/>
 </p>
 </td>
 <td>
@@ -3938,7 +4096,7 @@ E-2. Certificats de qualification délivrés par la Commission paritaire nationa
 </tr>
 <tr>
 <td>
-<p align="left">CQP technicien sportif de cheerleading . </p>
+<p align="left">CQP "technicien sportif de cheerleading". </p>
 </td>
 <td>
 <p align="left">Encadrement en autonomie de séances d'entraînement en cheerleading pour tout public.</p>
@@ -3977,7 +4135,7 @@ E-2. Certificats de qualification délivrés par la Commission paritaire nationa
 </tr>
 <tr>
 <td>
-<p align="left">CQP "technicien sportif de rugby à XV ". <br clear="none"/>
+<p align="left">CQP "technicien sportif de rugby à XV". <br clear="none"/>
 </p>
 </td>
 <td>
@@ -3989,41 +4147,89 @@ E-2. Certificats de qualification délivrés par la Commission paritaire nationa
 </td>
 </tr>
 <tr>
-<td>
+<td align="left" valign="top">
 <p align="left">CQP "animateur de patinoire", option " hockey sur glace".<br clear="none"/>
 </p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="left">Encadrement en autonomie de séances d'initiation et de découverte des activités en patinoire. </p>
 <p align="left">Encadrement en autonomie du hockey sur glace jusqu'aux premiers niveaux de compétition, pour un public de moins de treize ans.</p>
 </td>
-<td>
+<td align="left" valign="top">
 <br/>
 </td>
 </tr>
 <tr>
-<td>
+<td align="left" valign="top">
 <p align="left">CQP "animateur d'athlétisme", option "école d'athlé". </p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="left">Encadrement en autonomie de séances collectives et individuelles d'activités de découverte et d'initiation de l'athlétisme, jusqu'au premier niveau de compétition</p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="left">Pour des publics de moins de seize ans. </p>
 <p align="left">Dans la limite de vingt pratiquants. <br clear="none"/>
 </p>
 </td>
 </tr>
 <tr>
-<td>
+<td align="left" valign="top">
 <p align="left">CQP "animateur d'athlétisme", option "athlé loisirs". </p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="left">Encadrement en autonomie de séances collectives et individuelles d'activités de découverte, d'initiation et d'entretien pour tout public pratiquant l'athlétisme loisirs, dont la marche nordique. <br clear="none"/>
 </p>
 </td>
-<td>
+<td align="left" valign="top">
 <p align="left">A l'exclusion des pratiques compétitives</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">CQP "technicien sportif d'athlétisme", option "sprint/haies". </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Encadrement en autonomie de séances collectives et individuelles d'activités d'apprentissage, d'entraînement et de perfectionnement jusqu'au niveau national, dans les spécialités de l'option : 50 m, 60 m, 100 m, 200 m, 400 m, 60 m haies, 100 m haies, 110 m haies et 400 m haies. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Pour des publics de plus de 14 ans. <br clear="none"/>
+<br clear="none"/>Dans la limite de 12 pratiquants. </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">CQP "technicien sportif d'athlétisme", option "sauts". </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Encadrement en autonomie de séances collectives et individuelles d'activités d'apprentissage, d'entraînement et de perfectionnement jusqu'au niveau national, dans les spécialités de l'option : longueur, hauteur, triple saut et perche. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Pour des publics de plus de 14 ans. <br clear="none"/>
+<br clear="none"/>Dans la limite de 12 pratiquants. </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">CQP "technicien sportif d'athlétisme", option "lancers". </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Encadrement en autonomie de séances collectives et individuelles d'activités d'apprentissage, d'entraînement et de perfectionnement jusqu'au niveau national dans les spécialités de l'option : "disque, poids, marteau et javelot". </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Pour des publics de plus de 14 ans. <br clear="none"/>
+<br clear="none"/>Dans la limite de 12 pratiquants. </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="top">
+<p align="left">CQP "technicien sportif d'athlétisme", option "demi-fond/ marche athlétique". </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Encadrement en autonomie de séances collectives et individuelles d'activités d'apprentissage, d'entraînement et de perfectionnement jusqu'au niveau national, dans les spécialités de l'option : 800 m, 1 000 m, 1 500 m, 3 000 m, 3 000 m steeple, 5 000 m, 10 000 m, 5 000 m marche, 20 km marche et 50 km marche. </p>
+</td>
+<td align="left" valign="top">
+<p align="left">Pour des publics de plus de 14 ans. <br clear="none"/>
+<br clear="none"/>Dans la limite de 12 pratiquants.</p>
 </td>
 </tr>
 </tbody>
@@ -4048,15 +4254,15 @@ F.-Diplômes délivrés par le ministère chargé de la santé
 <tbody>
 <tr>
 <td align="center">
-<p>Diplôme de masseur-kinésithérapeute. <br clear="none"/>
+<p align="left">Diplôme de masseur-kinésithérapeute. <br clear="none"/>
 </p>
 </td>
 <td align="center">
-<p>Encadrement de la pratique de la gymnastique hygiénique d'entretien ou préventive dans les établissements d'activités physiques et sportives déclarés. <br clear="none"/>
+<p align="left">Encadrement de la pratique de la gymnastique hygiénique d'entretien ou préventive dans les établissements d'activités physiques et sportives déclarés. <br clear="none"/>
 </p>
 </td>
 <td align="center">
-<p>Dans le respect de la législation et de la déontologie de la kinésithérapie. <br clear="none"/>
+<p align="left">Dans le respect de la législation et de la déontologie de la kinésithérapie. <br clear="none"/>
 </p>
 </td>
 </tr>
