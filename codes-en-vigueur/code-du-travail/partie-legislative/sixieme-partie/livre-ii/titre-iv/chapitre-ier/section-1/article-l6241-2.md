@@ -61,7 +61,7 @@ Une part fixe de la ressource régionale pour l'apprentissage, arrêtée à la s
 </tr>
 <tr>
 <td align="left">
-<br/>Centre <br/>
+<br/>Centre-Val de Loire <br/>
 </td>
 <td align="left">
 <p align="center">
