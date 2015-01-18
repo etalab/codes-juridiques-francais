@@ -1,3 +1,3 @@
-# Section 7 bis : Compte épargne d'assurance pour la forêt
+# Section 7 bis : Compte d'investissement forestier et d'assurance
 
-- [Paragraphe 1 : Dispositions relatives aux bénéficiaires  du compte épargne d'assurance pour la forêt](paragraphe-1)
+- [Paragraphe 1 : Dispositions relatives aux bénéficiaires  du compte d'investissement forestier et d'assurance](paragraphe-1)
