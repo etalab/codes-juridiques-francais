@@ -284,7 +284,7 @@
 </tr>
 <tr>
 <td valign="top" width="154">
-<p align="center">Centre</p>
+<p align="center">Centre-Val de Loire</p>
 </td>
 <td valign="top" width="154">
 <p align="center">77</p>
