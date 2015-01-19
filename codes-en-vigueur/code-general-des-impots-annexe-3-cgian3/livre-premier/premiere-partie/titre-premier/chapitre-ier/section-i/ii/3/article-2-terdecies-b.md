@@ -10,7 +10,7 @@ Les plafonds mentionnés aux a et b sont révisés au 1er janvier de chaque ann�
 
 Pour les baux conclus en 2014, les plafonds de loyer mensuel, charges non comprises, relatifs aux logements situés outre-mer qui ouvrent droit à la réduction d'impôt prévue à l'article 199 septvicies du code général des impôts sont égaux aux montants mentionnés au cinquième alinéa de l'article 2 terdecies C, majorés :
 
--d'un quart pour les départements d'outre-mer, Saint-Barthélemy, Saint-Martin et Mayotte ;
+-d'un quart pour les départements d'outre-mer, Saint-Barthélemy et Saint-Martin ;
 
 -d'un cinquième pour la Polynésie française, la Nouvelle-Calédonie, Saint-Pierre-et-Miquelon et les îles Wallis et Futuna.
 

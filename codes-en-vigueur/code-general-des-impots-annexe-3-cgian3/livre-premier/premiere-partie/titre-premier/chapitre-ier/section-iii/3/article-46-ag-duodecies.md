@@ -4,13 +4,13 @@ Pour l'application du 2° du 6 de l'article 199 undecies A du code général des
 
 1. Pour les baux conclus en 2014, les plafonds annuels de loyer, charges non comprises, sont fixés par mètre carré de surface habitable à :
 
-1° 167 € dans les départements d'outre-mer, à Saint-Barthélemy, à Saint-Martin et à Mayotte. Ce plafond est révisé chaque année, le 1er janvier, dans la même proportion que la variation la plus élevée de la moyenne annuelle des indices des prix à la consommation hors tabac de chacun des quatre départements d'outre-mer ;
+1° 167 € dans les départements d'outre-mer, à Saint-Barthélemy et à Saint-Martin. Ce plafond est révisé chaque année, le 1er janvier, dans la même proportion que la variation la plus élevée de la moyenne annuelle des indices des prix à la consommation hors tabac de chacun des cinq départements d'outre-mer ;
 
 2° 209 € en Polynésie française, dans les îles Wallis et Futuna et les Terres australes et antarctiques françaises, à Saint-Pierre-et-Miquelon et en Nouvelle-Calédonie. Ce plafond est révisé chaque année, le 1er janvier, dans la même proportion que la variation la plus élevée de la moyenne annuelle des indices des prix à la consommation de la Polynésie française et de la Nouvelle-Calédonie.
 
 1 bis. Pour le calcul des plafonds mentionnés au 1, il est fait application :
 
-1° Dans les départements d'outre-mer, à Saint-Barthélemy, à Saint-Martin et à Mayotte, de la dernière variation annuelle publiée par l'Institut national de la statistique et des études économiques au 1er décembre de l'année qui précède celle de la conclusion du bail ;
+1° Dans les départements d'outre-mer, à Saint-Barthélemy et à Saint-Martin, de la dernière variation annuelle publiée par l'Institut national de la statistique et des études économiques au 1er décembre de l'année qui précède celle de la conclusion du bail ;
 
 2° En Polynésie française, dans les îles Wallis et Futuna et les Terres australes et antarctiques françaises et à Saint-Pierre-et-Miquelon, de la dernière variation annuelle publiée par l'Institut de la statistique de la Polynésie française au 1er décembre de l'année qui précède celle de la conclusion du bail ;
 
@@ -38,17 +38,16 @@ Pour les baux conclus en 2014, les plafonds annuels de ressources sont les suiva
 <br/>
 </th>
 <th>
-<br/>Départements d'outre-mer,<br/>
-<br/>Saint-Martin,<br/>
-<br/>Saint-Barthélemy, Mayotte<br/>
+<br/>Départements d'outre-mer, <p>Saint-Martin et Saint-Barthélemy<br/>
+</p>
 </th>
 <th>
-<br/>Polynésie française,<br/>
-<br/>Nouvelle-Calédonie,<br/>
-<br/>îles Wallis et Futuna<br/>
-<br/>Saint-Pierre-et-Miquelon,<br/>
-<br/>Terres australes<br/>
-<br/>et antarctiques françaises<br/>
+<br/>Polynésie française, <p>Nouvelle-Calédonie,</p>
+<p>îles Wallis et Futuna</p>
+<p>Saint-Pierre-et-Miquelon,</p>
+<p>Terres australes</p>
+<p>et antarctiques françaises<br/>
+</p>
 </th>
 </tr>
 <tr>

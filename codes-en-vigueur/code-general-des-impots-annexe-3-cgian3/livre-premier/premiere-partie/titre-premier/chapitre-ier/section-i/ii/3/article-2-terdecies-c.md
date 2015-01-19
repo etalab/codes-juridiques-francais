@@ -8,7 +8,7 @@ a. Les plafonds de loyer mensuel, charges non comprises, sont fixés aux quatre 
 
 -b de l'article 2 terdecies B, pour les baux conclus en 2014, s'agissant de logements visés au b de ce même article.
 
-Pour les baux conclus en 2014, les plafonds de loyer mensuel, charges non comprises, relatifs aux logements situés outre-mer qui ouvrent droit à la réduction d'impôt prévue à l'article 199 septvicies du code général des impôts sont égaux, par mètre carré de surface habitable, à 10,43 € dans les départements d'outre-mer, à Saint-Barthélemy, à Saint-Martin et à Mayotte et à 13,76 € en Polynésie française, en Nouvelle-Calédonie, à Saint-Pierre-et-Miquelon et dans les îles Wallis et Futuna. Ces plafonds sont relevés au 1er janvier de chaque année selon les modalités définies au 1 de l'article 46 AG duodecies.
+Pour les baux conclus en 2014, les plafonds de loyer mensuel, charges non comprises, relatifs aux logements situés outre-mer qui ouvrent droit à la réduction d'impôt prévue à l'article 199 septvicies du code général des impôts sont égaux, par mètre carré de surface habitable, à 10,43 € dans les départements d'outre-mer, à Saint-Barthélemy et Saint-Martin et à 13,76 € en Polynésie française, en Nouvelle-Calédonie, à Saint-Pierre-et-Miquelon et dans les îles Wallis et Futuna. Ces plafonds sont relevés au 1er janvier de chaque année selon les modalités définies au 1 de l'article 46 AG duodecies.
 
 b. Les ressources du locataire s'entendent du revenu fiscal de référence au sens du 1° du IV de l'article 1417 du code général des impôts, figurant sur l'avis d'impôt sur le revenu établi au titre de l'avant-dernière année précédant celle de la signature du contrat de location.
 
@@ -16,7 +16,6 @@ Pour les baux conclus en 2014, les plafonds annuels de ressources sont les suiva
 
 (en euros)
 
-<div>
 <table>
 <tbody>
 <tr>
@@ -31,19 +30,19 @@ Pour les baux conclus en 2014, les plafonds annuels de ressources sont les suiva
 <br/>
 </th>
 <th>
-<br/>Zone A<br/>
-<br/>(en euros)<br/>
+<br/>Zone A <p>(en euros)<br/>
+</p>
 </th>
 <th>
-<br/>Zone B1<br/>
-<br/>(en euros)<br/>
+<br/>Zone B1 <p>(en euros)<br/>
+</p>
 </th>
 <th>
 <br/>Zone B2<br/>
 </th>
 <th>
-<br/>Zone C<br/>
-<br/>(en euros)<br/>
+<br/>Zone C <p>(en euros)<br/>
+</p>
 </th>
 </tr>
 <tr>
@@ -165,7 +164,11 @@ Pour les baux conclus en 2014, les plafonds annuels de ressources sont les suiva
 <br/>+ 9 235</td>
 </tr>
 </tbody>
-</table>Ces plafonds sont révisés chaque année, au 1er janvier, selon les mêmes modalités que les plafonds de ressources prévus à l'article 2 duodecies. </div>Pour les baux conclus en 2014, les ressources des locataires de logements situés outre-mer qui ouvrent droit à la réduction d'impôt prévue à l'article 199 septvicies du code général des impôts sont les suivants :
+</table>
+
+Ces plafonds sont révisés chaque année, au 1er janvier, selon les mêmes modalités que les plafonds de ressources prévus à l'article 2 duodecies.
+
+Pour les baux conclus en 2014, les ressources des locataires de logements situés outre-mer qui ouvrent droit à la réduction d'impôt prévue à l'article 199 septvicies du code général des impôts sont les suivants :
 
 (en euros)
 
@@ -178,15 +181,15 @@ Pour les baux conclus en 2014, les plafonds annuels de ressources sont les suiva
 <th>COMPOSITION DU FOYER LOCATAIRE<br/>
 </th>
 <th>
-<br/>DÉPARTEMENTS D'OUTRE-MER,<br/>
-<br/>Saint-Martin,<br/>
-<br/>Saint-Barthélemy, Mayotte<br/>
+<br/>DÉPARTEMENTS D'OUTRE-MER, <p>Saint-Martin,</p>
+<p>Saint-Barthélemy<br/>
+</p>
 </th>
 <th>
-<br/>POLYNÉSIE FRANÇAISE,<br/>
-<br/>Nouvelle-Calédonie,<br/>
-<br/>Saint-Pierre-et-Miquelon,<br/>
-<br/>îles Wallis et Futuna<br/>
+<br/>POLYNÉSIE FRANÇAISE, <p>Nouvelle-Calédonie,</p>
+<p>Saint-Pierre-et-Miquelon,</p>
+<p>îles Wallis et Futuna<br/>
+</p>
 </th>
 </tr>
 <tr>
