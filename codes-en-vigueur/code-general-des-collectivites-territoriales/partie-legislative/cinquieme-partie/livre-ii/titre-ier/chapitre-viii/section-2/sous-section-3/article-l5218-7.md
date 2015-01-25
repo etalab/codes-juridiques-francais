@@ -44,7 +44,7 @@ II. ― Le conseil de la métropole d'Aix-Marseille-Provence peut déléguer à 
 
 14° Création, aménagement, entretien et gestion des réseaux de chaleur ou de froid urbains.
 
-III.-Le président du conseil du territoire exécute les délibérations du conseil du territoire. Pour l'exercice de ses attributions, les services de la métropole sont mis à sa disposition en tant que de besoin. Il est ordonnateur de l'état spécial du territoire.
+III.-Le président du conseil du territoire exécute les délibérations du conseil du territoire.
 
 IV.-Pour l'exercice des compétences du conseil de territoire, le conseil de la métropole d'Aix-Marseille-Provence peut donner délégation, dans les cas et conditions qu'il détermine, aux conseils de territoire pour préparer, passer, exécuter et régler les marchés de travaux, fournitures et services qui peuvent être passés sans formalités préalables en raison de leur montant. Lorsque cette délégation est accordée à un conseil de territoire, elle est donnée à l'ensemble des conseils de territoire.
 
