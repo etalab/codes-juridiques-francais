@@ -1,5 +1,4 @@
-# Paragraphe 1 : Cadre d'intervention
+# Paragraphe 1 : Contrat d'objectifs
 
-- [Article R5213-62](article-r5213-62.md)
-- [Article R5213-63](article-r5213-63.md)
-- [Article R5213-64](article-r5213-64.md)
+- [Article R5213-65](article-r5213-65.md)
+- [Article R5213-68](article-r5213-68.md)
