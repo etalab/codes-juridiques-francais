@@ -10,6 +10,8 @@ Dans ce domaine, il assure le commandement opérationnel des moyens de l'armée 
 
 Chargé, en outre, de l'exécution des plans et de la conduite des autres opérations aériennes menées au-dessus et à partir du territoire métropolitain, il assure, dans ce cadre, le commandement opérationnel des formations aériennes de l'armée de l'air et le contrôle opérationnel des autres éléments aériens mis à sa disposition ; il est, à ce titre et dans ce cadre, commandant des opérations aériennes.
 
+Dans le cadre des engagements internationaux de la France, il peut déléguer le contrôle opérationnel des moyens militaires aériens mis à sa disposition.
+
 Il est associé à l'élaboration de la doctrine d'emploi des moyens appartenant à l'armée de l'air susceptibles d'être mis à sa disposition, ainsi qu'à leur entraînement.
 
 Dans les cas prévus à l'article L. 1111-2, sur décision du Premier ministre, la responsabilité de l'organisation et de la réglementation de la circulation aérienne militaire est confiée au commandant de la défense aérienne. Dans les mêmes conditions, cette responsabilité peut être étendue au contrôle de tout trafic aérien dans l'espace national.
