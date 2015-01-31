@@ -4,7 +4,7 @@ La décision doit être motivée et la sanction ne prend effet qu'à compter du 
 
 La décision est affichée à l'intérieur de l'établissement. La section disciplinaire peut décider que cet affichage ne comprendra pas l'identité et, le cas échéant, la date de naissance de la personne sanctionnée.
 
-Elle est notifiée par le président de la section disciplinaire à la personne contre laquelle les poursuites ont été intentées, au président de l'université et au recteur d'académie.
+Elle est notifiée par le président de la section disciplinaire à la personne contre laquelle les poursuites ont été intentées, au président de l'université et au recteur d'académie. En cas de poursuites engagées à l'encontre du président de l'université, la décision est également notifiée au ministre chargé de l'enseignement supérieur.
 
 La notification doit mentionner les voies de recours et les délais selon lesquels la décision peut être contestée.
 

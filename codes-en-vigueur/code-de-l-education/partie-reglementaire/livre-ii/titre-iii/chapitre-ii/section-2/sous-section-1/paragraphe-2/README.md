@@ -1,6 +1,7 @@
 # Paragraphe 2 : Procédure disciplinaire.
 
 - [Article R232-31](article-r232-31.md)
+- [Article R232-31-1](article-r232-31-1.md)
 - [Article R232-32](article-r232-32.md)
 - [Article R232-33](article-r232-33.md)
 - [Article R232-34](article-r232-34.md)
