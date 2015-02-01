@@ -1,7 +1,5 @@
-# Chapitre V : Ressources et moyens
+# Section 1 : Certification et publicité des comptes des organisations syndicales de salariés et professionnelles d'employeurs
 
-- [Section 1 : Certification et publicité des comptes des organisations syndicales de salariés et professionnelles d'employeurs](section-1)
-- [Section 2 : Financement des organisations syndicales de salariés et des organisations professionnelles d'employeurs](section-2)
 - [Article D2135-1](article-d2135-1.md)
 - [Article D2135-2](article-d2135-2.md)
 - [Article D2135-3](article-d2135-3.md)

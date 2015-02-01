@@ -5,3 +5,4 @@
 - [Article R6332-32](article-r6332-32.md)
 - [Article R6332-33](article-r6332-33.md)
 - [Article R6332-34](article-r6332-34.md)
+- [Article R6332-35-1](article-r6332-35-1.md)
