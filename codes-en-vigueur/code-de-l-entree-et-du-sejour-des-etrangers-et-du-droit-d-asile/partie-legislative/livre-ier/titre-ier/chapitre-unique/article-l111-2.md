@@ -8,7 +8,7 @@ Ses dispositions s'appliquent sous réserve des conventions internationales.
 
 Les conditions d'entrée et de séjour des étrangers dans les îles Wallis et Futuna, en Polynésie française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises demeurent régies par les textes ci-après énumérés :
 
-1° Abrogé ;
+1° (Abrogé) ;
 
 2° Ordonnance n° 2000-371 du 26 avril 2000 relative aux conditions d'entrée et de séjour des étrangers dans les îles Wallis et Futuna ;
 
@@ -17,3 +17,5 @@ Les conditions d'entrée et de séjour des étrangers dans les îles Wallis et F
 4° Ordonnance n° 2002-388 du 20 mars 2002 relative aux conditions d'entrée et de séjour des étrangers en Nouvelle-Calédonie ;
 
 5° Loi n° 71-569 du 15 juillet 1971 relative au territoire des Terres australes et antarctiques françaises.
+
+Sont également applicables aux îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie les dispositions de l'article L. 214-8 et du neuvième alinéa de l'article L. 561-1.
