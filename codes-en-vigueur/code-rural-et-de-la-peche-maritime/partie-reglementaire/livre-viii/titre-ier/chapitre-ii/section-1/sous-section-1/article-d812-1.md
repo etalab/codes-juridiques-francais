@@ -4,7 +4,7 @@ L'enseignement supérieur agricole public relevant du ministre chargé de l'agri
 
 1° L'Institut des sciences et industries du vivant et de l'environnement (Agro Paris Tech) ;
 
-2° Le Centre international d'études supérieures en sciences agronomiques (Montpellier Sup Agro) ;
+2°         L'Institut national d'études supérieures agronomiques de Montpellier (Montpellier Sup Agro) ;
 
 3° L'Institut supérieur des sciences agronomiques, agroalimentaires, horticoles et du paysage (Agro campus Ouest) ;
 

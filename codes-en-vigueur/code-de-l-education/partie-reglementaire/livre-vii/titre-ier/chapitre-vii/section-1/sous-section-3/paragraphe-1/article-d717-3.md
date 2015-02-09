@@ -4,7 +4,7 @@ Les dispositions relatives aux grands établissements placés sous la tutelle du
 
 1° Institut des sciences et industries du vivant et de l'environnement (Agro Paris Tech) : décret n° 2006-1592 du 13 décembre 2006 portant création de l'Institut des sciences et industries du vivant et de l'environnement (Agro Paris Tech) ;
 
-2° Centre international d'études supérieures en sciences agronomiques (Montpellier Sup Agro) : décret n° 2006-1593 du 13 décembre 2006 portant création du Centre international d'études supérieures en sciences agronomiques (Montpellier Sup Agro) ;
+2° Institut national d'études supérieures agronomiques de Montpellier (Montpellier Sup Agro) : décret n° 2006-1593 du 13 décembre 2006 portant création de l'Institut national d'études supérieures agronomiques de Montpellier (Montpellier Sup Agro) ;
 
 3° Institut supérieur des sciences agronomiques, agroalimentaires, horticoles et du paysage (Agro campus Ouest) : décret n° 2008-616 du 27 juin 2008 portant création de l'Institut supérieur des sciences agronomiques, agroalimentaires, horticoles et du paysage (Agro campus Ouest) ;
 
