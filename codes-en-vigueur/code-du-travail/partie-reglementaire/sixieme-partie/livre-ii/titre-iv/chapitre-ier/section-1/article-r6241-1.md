@@ -2,7 +2,7 @@
 
 Sont pris en compte pour déterminer les sommes consacrées par une entreprise au développement de l'apprentissage, au sens de l'article L. 6241-2 :
 
-1° La part du quota de la taxe d'apprentissage versée au Trésor public, prévue au deuxième alinéa de l'article L. 6241-2 ;
+1° La  fraction régionale pour l'apprentissage  versée au Trésor public, prévue au I de l'article L. 6241-2 ;
 
 2° Les concours financiers attribués aux centres de formation d'apprentis et sections d'apprentissage, en application de l'article L. 6241-4 ;
 
