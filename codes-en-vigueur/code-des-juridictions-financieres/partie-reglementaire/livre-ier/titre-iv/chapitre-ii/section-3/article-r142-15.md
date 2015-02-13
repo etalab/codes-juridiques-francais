@@ -2,7 +2,7 @@
 
 I. - Le comptable ou ses ayants droit, peut demander, après expiration des délais de pourvoi en cassation, la révision d'un arrêt ou d'une ordonnance en produisant des justifications recouvrées depuis l'arrêt ou l'ordonnance.
 
-La requête en révision est adressée au premier président par lettre recommandée avec avis de réception. Elle doit comporter l'exposé des faits et moyens invoqués par le requérant et être accompagnée d'une copie de l'arrêt ou de l'ordonnance attaqué et des justifications sur lesquelles elle se fonde.
+La requête en révision est adressée au premier président. En cas de transmission sur support papier, elle est adressée par lettre recommandée avec demande d'avis de réception. Elle doit comporter l'exposé des faits et moyens invoqués par le requérant et être accompagnée d'une copie de l'arrêt ou de l'ordonnance attaqué et des justifications sur lesquelles elle se fonde.
 
 II. - La Cour des comptes peut procéder à la révision d'un arrêt ou d'une ordonnance, pour cause d'erreur, omission, faux ou double emploi, d'office ou sur réquisition du procureur général. Cette réquisition peut être prise de sa propre initiative ou à la demande du ministre chargé du budget, des ministres intéressés, ainsi que des représentants des collectivités et établissements concernés.
 
