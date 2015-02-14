@@ -8,3 +8,5 @@
 - [Article R*1333-66](article-r-1333-66.md)
 - [Article R*1333-67](article-r-1333-67.md)
 - [Article R*1333-67-1](article-r-1333-67-1.md)
+- [Article R*1333-67-2](article-r-1333-67-2.md)
+- [Article R*1333-67-3](article-r-1333-67-3.md)
