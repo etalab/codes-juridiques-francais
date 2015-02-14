@@ -4,7 +4,7 @@ La commission territoriale du Centre national pour le développement du sport es
 
 La commission se réunit sur convocation de ses coprésidents.
 
-Le président du conseil général ou son représentant, un maire ou un maire adjoint désigné par le président de l'Association des maires de Mayotte et le directeur du service de la jeunesse, des sports et de la vie associative de la collectivité territoriale de Mayotte assistent avec voix consultative aux séances de la commission territoriale.
+Le président du conseil général ou son représentant, un maire ou un maire adjoint désigné par le président de l'Association des maires de Mayotte et le directeur du service de la jeunesse, des sports et de la vie associative de Mayotte assistent avec voix consultative aux séances de la commission territoriale.
 
 Le délégué territorial et le président du comité régional olympique et sportif peuvent également inviter à assister à tout ou partie des réunions de la commission territoriale toute personne que celle-ci souhaite entendre.
 

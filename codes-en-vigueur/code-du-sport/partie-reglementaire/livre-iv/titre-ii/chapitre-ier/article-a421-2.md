@@ -1,6 +1,6 @@
 # Article A421-2
 
-I. ― Dans la collectivité territoriale de Mayotte la commission territoriale du Centre national pour le développement du sport comprend :
+I. ― A Mayotte la commission territoriale du Centre national pour le développement du sport comprend :
 
 Outre le délégué de l'établissement, membre de droit, ou son représentant :
 

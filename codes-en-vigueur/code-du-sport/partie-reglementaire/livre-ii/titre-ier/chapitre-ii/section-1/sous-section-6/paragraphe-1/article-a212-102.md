@@ -1,18 +1,18 @@
 # Article A212-102
 
-Le brevet d'Etat d'éducateur sportif mentionné à l'article D. 212-70 est un diplôme professionnel.
+Le troisième degré du brevet d'Etat d'éducateur sportif mentionné à l'article D. 212-70 est un diplôme professionnel.
 
-Il comporte trois degrés et atteste de l'aptitude et de la qualification de son titulaire à enseigner les activités physiques et sportives sous toutes les formes, notamment d'accompagnement, d'animation, d'initiation ou d'entraînement.
+Il atteste de l'aptitude et de la qualification de son titulaire à enseigner les activités physiques et sportives sous toutes les formes, notamment d'accompagnement, d'animation, d'initiation ou d'entraînement.
 
 En outre, il confère à son titulaire :
 
-― pour le premier degré, la qualification nécessaire à l'organisation et à la promotion des activités physiques et sportives, dans une option sportive ;
+-la qualification nécessaire à l'organisation et à la promotion des activités physiques et sportives, dans une option sportive ;
 
-― pour le deuxième degré, la qualification nécessaire au perfectionnement technique et à la formation des cadres dans une option sportive, ainsi qu'une qualification approfondie en gestion et promotion des activités physiques et sportives ;
+-la qualification nécessaire au perfectionnement technique et à la formation des cadres dans une option sportive, ainsi qu'une qualification approfondie en gestion et promotion des activités physiques et sportives ;
 
-― pour le troisième degré, la qualification nécessaire pour l'expertise et la recherche.
+-la qualification nécessaire pour l'expertise et la recherche.
 
-Chacun des trois degrés du brevet d'Etat d'éducateur sportif comprend :
+Le brevet d'Etat d'éducateur sportif comprend :
 
 1° Une partie commune à l'ensemble des options ;
 

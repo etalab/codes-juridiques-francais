@@ -2,7 +2,7 @@
 
 I. ― La commission du Centre national pour le développement du sport en Polynésie française comprend de façon paritaire :
 
-1° Outre le haut-commissaire de la République en Polynésie française, le délégué territorial du Centre national pour le développement du sport et le délégué territorial adjoint, membres de droit :
+1° Outre le haut-commissaire de la République en Polynésie française, délégué territorial du Centre national pour le développement du sport et le délégué territorial adjoint, membres de droit :
 
 a) D'une part, quatre représentants de la Polynésie française, dont le président de la Polynésie française, membres de droit, ou son représentant ;
 

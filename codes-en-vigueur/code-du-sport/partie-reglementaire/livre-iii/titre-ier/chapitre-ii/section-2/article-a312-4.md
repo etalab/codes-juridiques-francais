@@ -1,6 +1,6 @@
 # Article A312-4
 
-La demande d'homologation comporte, dans le cas des enceintes sportives ouvertes avant le 1er janvier 1996, les documents suivants :
+La demande d'homologation comporte, dans le cas des enceintes existantes, les documents suivants :
 
 1° Les pièces mentionnées aux 4° à 7°, et, le cas échéant, 8°, 10° et 11°, désignées à l'article A. 311-3, mises à jour, originelles ou reconstituées par un maître d'œuvre justifiant d'une assurance professionnelle et d'un diplôme reconnu par l'Etat ;
 

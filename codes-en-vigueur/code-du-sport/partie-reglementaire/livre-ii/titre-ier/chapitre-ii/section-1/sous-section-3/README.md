@@ -2,7 +2,6 @@
 
 - [Paragraphe 1 : Conditions d'inscription](paragraphe-1)
 - [Paragraphe 2 : L'habilitation](paragraphe-2)
-- [Paragraphe 3 : Le livret de formation](paragraphe-3)
 - [Paragraphe 4 : L'alternance](paragraphe-4)
 - [Paragraphe 5 : Nomenclature](paragraphe-5)
 - [Paragraphe 6 : Certification par unités capitalisables](paragraphe-6)
