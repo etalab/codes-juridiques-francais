@@ -1,6 +1,6 @@
 # Article R*1333-49
 
-Le ministre compétent est avisé et le délégué à la sûreté nucléaire et à la radioprotection pour les activités et installations intéressant la défense informé de toute modification envisagée des installations individuelles, de nature à entraîner une mise à jour des rapports de sûreté, des règles d'exploitation ou du plan d'urgence interne de l'installation nucléaire de base secrète.
+Le ministre compétent est avisé et le délégué à la sûreté nucléaire et à la radioprotection pour les installations et activités intéressant la défense informé de toute modification envisagée des installations individuelles, de nature à entraîner une mise à jour des rapports de sûreté, des règles d'exploitation ou du plan d'urgence interne de l'installation nucléaire de base secrète.
 
 Le ministre compétent peut à tout moment faire procéder au réexamen de la sûreté de tout ou partie de l'installation nucléaire de base secrète et, en fonction des résultats de ce réexamen, soumettre la poursuite de l'exploitation à son autorisation ou à l'intervention d'un nouveau décret.
 

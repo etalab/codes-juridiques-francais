@@ -1,6 +1,6 @@
-# Article R*1412-5
+# Article R*1333-67-9
 
-Les inspections nécessaires à l'exercice des missions mentionnées aux articles R. * 1412-1 à R. * 1412-3 portent sur :
+Les inspections nécessaires à l'exercice des missions mentionnées aux articles R. * 1333-67-5 à R. * 1333-67-7 portent sur :
 
 1° Le respect de la réglementation de sûreté nucléaire applicable aux installations et activités nucléaires et des prescriptions contenues dans les autorisations de création ou imposées ultérieurement pour le maintien de la sûreté nucléaire ;
 

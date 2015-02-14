@@ -1,5 +1,6 @@
-# Sous-section 5 : Sites et installations d'expérimentations nucléaires intéressant la défense.
+# Sous-section 5 : Anciens sites d'expérimentations nucléaires du Pacifique.
 
 - [Article R*1333-67-1](article-r-1333-67-1.md)
 - [Article R*1333-67-2](article-r-1333-67-2.md)
 - [Article R*1333-67-3](article-r-1333-67-3.md)
+- [Article R*1333-67-3-1](article-r-1333-67-3-1.md)

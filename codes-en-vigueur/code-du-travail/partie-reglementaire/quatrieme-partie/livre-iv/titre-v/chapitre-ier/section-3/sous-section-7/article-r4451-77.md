@@ -4,4 +4,4 @@ Dans le cas où l'une des valeurs limites fixées aux articles D. 4152-5, D. 415
 
 Il précise les causes présumées, les circonstances et les mesures envisagées pour éviter le renouvellement de ce dépassement.
 
-L'employeur en informe également, selon le cas, l'Autorité de sûreté nucléaire dans les conditions prévues à l'article  R. 4451-99 ou le délégué à la sûreté nucléaire et à la radioprotection pour les activités et installations intéressant la défense.
+L'employeur en informe également, selon le cas, l'Autorité de sûreté nucléaire dans les conditions prévues à l'article R. 4451-99 ou le délégué à la sûreté nucléaire et à la radioprotection pour les installations et activités intéressant la défense mentionné à l'article R.* 1333-67-5 du code de la défense.

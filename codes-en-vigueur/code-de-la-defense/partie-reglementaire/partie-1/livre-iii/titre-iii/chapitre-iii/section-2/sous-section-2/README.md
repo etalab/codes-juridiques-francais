@@ -15,4 +15,3 @@
 - [Article R*1333-51](article-r-1333-51.md)
 - [Article R*1333-51-1](article-r-1333-51-1.md)
 - [Article R*1333-52](article-r-1333-52.md)
-- [Article R*1333-53](article-r-1333-53.md)
