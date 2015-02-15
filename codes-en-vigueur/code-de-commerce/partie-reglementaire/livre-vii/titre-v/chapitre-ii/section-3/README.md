@@ -1,5 +1,7 @@
-# Section 3 : De l'avis des commissions d'aménagement commercial.
+# Section 3 : Du recours contre la décision ou avis de la commission départementale.
 
+- [Sous-section 1 : De la procédure prévue aux I et II de l'article L. 752-17](sous-section-1)
+- [Sous-section 2 : De la procédure prévue aux III à V de l'article L. 752-17](sous-section-2)
 - [Article R752-29](article-r752-29.md)
 - [Article R752-30](article-r752-30.md)
 - [Article R752-31](article-r752-31.md)

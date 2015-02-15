@@ -1,4 +1,4 @@
-# Section 1 : Des projets soumis à autorisation ou à avis des commissions d'aménagement commercial.
+# Section 1 : Des projets soumis à autorisation
 
 - [Article R752-1](article-r752-1.md)
 - [Article R752-2](article-r752-2.md)

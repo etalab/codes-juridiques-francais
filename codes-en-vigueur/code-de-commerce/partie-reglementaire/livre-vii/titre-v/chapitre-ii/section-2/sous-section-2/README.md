@@ -1,5 +1,7 @@
-# Sous-section 2 : De la procédure d'autorisation.
+# Sous-section 2 : Du dépôt des demandes de permis de construire valant autorisation d'exploitation commerciale.
 
+- [Article R752-9](article-r752-9.md)
+- [Article R752-10](article-r752-10.md)
 - [Article R752-16](article-r752-16.md)
 - [Article R752-17](article-r752-17.md)
 - [Article R752-18](article-r752-18.md)
