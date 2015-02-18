@@ -4,7 +4,7 @@ Seuls constituent des titres exécutoires :
 
 1° Les décisions des juridictions de l'ordre judiciaire ou de l'ordre administratif lorsqu'elles ont force exécutoire, ainsi que les accords auxquels ces juridictions ont conféré force exécutoire ;
 
-2° Les actes et les jugements étrangers ainsi que les sentences arbitrales déclarés exécutoires par une décision non susceptible d'un recours suspensif d'exécution ;
+2° Les actes et les jugements étrangers ainsi que les sentences arbitrales déclarés exécutoires par une décision non susceptible d'un recours suspensif d'exécution, sans préjudice des dispositions du droit de l'Union européenne applicables  ;
 
 3° Les extraits de procès-verbaux de conciliation signés par le juge et les parties ;
 

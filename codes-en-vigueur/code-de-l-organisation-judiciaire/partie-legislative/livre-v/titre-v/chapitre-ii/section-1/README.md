@@ -1,5 +1,7 @@
 # Section 1 : Le tribunal de première instance
 
+- [Sous-section 1 : Dispositions générales](sous-section-1)
+- [Sous-section 2 : Dispositions spécifiques au tribunal foncier](sous-section-2)
 - [Article L552-1](article-l552-1.md)
 - [Article L552-2](article-l552-2.md)
 - [Article L552-3](article-l552-3.md)

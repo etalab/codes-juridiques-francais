@@ -14,7 +14,7 @@ IV. - Pour l'application de l'article L. 2213-5, après le mot : " dangereuse " 
 
 ", telles que définies par la réglementation applicable localement ".
 
-V. - Pour l'application de l'article L. 2213-14, après les mots : " et dans les autres communes ", sont insérés les mots : " ou dans les communes dotées d'un régime de police d'Etat si une convention entre l'Etat et la commune a été signée à cette fin, ".
+V. - Pour l'application de l'article L. 2213-14, après les mots : "dans les autres communes ", sont insérés les mots : " ou dans les communes dotées d'un régime de police d'Etat si une convention entre l'Etat et la commune a été signée à cette fin, ".
 
 VI. - Pour l'application du troisième alinéa de l'article L. 2213-18 :
 

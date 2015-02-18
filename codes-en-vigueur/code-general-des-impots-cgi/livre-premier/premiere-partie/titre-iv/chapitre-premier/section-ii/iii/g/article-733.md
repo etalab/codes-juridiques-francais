@@ -8,4 +8,4 @@ Sont assujetties à un droit d'enregistrement de 1,20 % les ventes publiques men
 
 Le droit est assis sur le montant des sommes que contient cumulativement le procès-verbal de la vente, augmenté des charges imposées aux acquéreurs.
 
-Les adjudications à la folle enchère de biens mentionnés aux premier à troisième alinéas sont assujetties au même droit mais seulement sur ce qui excède le prix de la précédente adjudication, si le droit en a été acquitté.
+Les adjudications sur réitération des enchères de biens mentionnés aux premier à troisième alinéas sont assujetties au même droit mais seulement sur ce qui excède le prix de la précédente adjudication, si le droit en a été acquitté.

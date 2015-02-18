@@ -8,4 +8,4 @@ Le débiteur informe l'huissier de justice chargé de l'exécution des propositi
 
 La responsabilité du créancier ne peut pas être recherchée sauf si le refus d'autoriser la vente est inspiré par l'intention de nuire au débiteur.
 
-Le transfert de la propriété du bien est subordonné au versement de son prix.
+Le transfert de la propriété du bien est subordonné au paiement  de son prix.

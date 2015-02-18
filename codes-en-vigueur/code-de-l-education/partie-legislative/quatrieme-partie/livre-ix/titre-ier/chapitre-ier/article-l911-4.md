@@ -8,6 +8,6 @@ L'action récursoire peut être exercée par l'Etat soit contre le membre de l'e
 
 Dans l'action principale, les membres de l'enseignement public contre lesquels l'Etat pourrait éventuellement exercer l'action récursoire ne peuvent être entendus comme témoins.
 
-L'action en responsabilité exercée par la victime, ses parents ou ses ayants droit, intentée contre l'Etat, ainsi responsable du dommage, est portée devant le tribunal de l'ordre judiciaire du lieu où le dommage a été causé et dirigée contre le représentant de l'Etat dans le département.
+L'action en responsabilité exercée par la victime, ses parents ou ses ayants droit, intentée contre l'Etat, ainsi responsable du dommage, est portée devant le tribunal de l'ordre judiciaire du lieu où le dommage a été causé et dirigée contre l'autorité académique compétente.
 
 La prescription en ce qui concerne la réparation des dommages prévus par le présent article est acquise par trois années à partir du jour où le fait dommageable a été commis.

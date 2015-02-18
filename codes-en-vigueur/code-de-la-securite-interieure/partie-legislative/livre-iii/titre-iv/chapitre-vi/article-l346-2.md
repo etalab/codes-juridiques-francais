@@ -14,4 +14,6 @@ Pour l'application des dispositions énumérées à l'article L. 346-1 :
 
 3° quater Au dernier alinéa de l'article L. 313-4, les mots : " articles L. 762-1 et L. 762-2 du code de commerce ” sont remplacés par les mots : " dispositions applicables localement ” ;
 
-4° Le 2° de l'article L. 324-4est supprimé.
+4° A l'article L. 322-3, les mots : "le maire de la commune" sont remplacés par les mots : "l'administrateur supérieur des îles Wallis et Futuna" ;
+
+5° Le 2° de l'article L. 324-4est supprimé.
