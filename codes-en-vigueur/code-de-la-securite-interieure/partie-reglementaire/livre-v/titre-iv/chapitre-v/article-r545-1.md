@@ -8,10 +8,10 @@ Sont applicables en Polynésie française, sous réserve des adaptations prévue
 <tbody>
 <tr>
 <td>
-<p align="center"> DISPOSITIONS APPLICABLES </p>
+<p align="center">DISPOSITIONS APPLICABLES </p>
 </td>
 <td>
-<p align="center"> DANS LEUR RÉDACTION </p>
+<p align="center">DANS LEUR RÉDACTION </p>
 </td>
 </tr>
 <tr>
@@ -40,9 +40,31 @@ Sont applicables en Polynésie française, sous réserve des adaptations prévue
 </td>
 </tr>
 <tr>
-<td align="center">R. 515-1 à R. 515-21 <br/>
+<td align="center">R. 515-1 </td>
+<td align="center">Résultant du décret n° 2015-181 du 16 février 2015 portant application du code de déontologie des agents de police municipale aux directeurs de police municipale et modifiant ce code <br/>
 </td>
-<td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) <br/>
+</tr>
+<tr>
+<td>
+<p align="center">
+<br/>
+<br/>R. 515-2 à R. 515-6 </p>
+</td>
+<td>Résultant du décret n° 2013-1113 du 4 décembre 2013 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
+</tr>
+<tr>
+<td>
+<p align="center">R. 515-7 </p>
+</td>
+<td>Résultant du décret n° 2015-181 du 16 février 2015 portant application du code de déontologie des agents de police municipale aux directeurs de police municipale et modifiant ce code </td>
+</tr>
+<tr>
+<td>
+<p align="center">
+<br/>
+<br/>R. 515-8 à R. 515-21</p>
+</td>
+<td>Résultant du décret n° 2013-1113 du 4 décembre 2013 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) <br/>
 </td>
 </tr>
 <tr>
@@ -53,7 +75,7 @@ Sont applicables en Polynésie française, sous réserve des adaptations prévue
 </td>
 </tr>
 <tr>
-<td align="center">R. 521-1 à R. 522-2<br/>
+<td align="center">R. 521-1 à R. 522-2 <br/>
 </td>
 <td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) <br/>
 </td>

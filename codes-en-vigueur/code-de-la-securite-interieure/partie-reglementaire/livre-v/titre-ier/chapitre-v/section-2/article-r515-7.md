@@ -4,4 +4,4 @@ L'agent de police municipale est intègre, impartial et loyal envers les institu
 
 Il est placé au service du public et se comporte de manière exemplaire envers celui-ci.
 
-Il a le respect absolu des personnes, quelles que soient leur nationalité ou leur origine, leur condition sociale ou leurs convictions politiques, religieuses ou philosophiques.
+Il a le respect absolu des personnes, quelles que soient leur nationalité ou leur origine, leur condition sociale ou leurs convictions politiques, religieuses ou philosophiques ainsi que leurs opinions syndicales.
