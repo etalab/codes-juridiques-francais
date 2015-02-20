@@ -9,3 +9,5 @@ Les centres doivent avoir pour objet de fournir à leurs adhérents industriels,
 Ils ne peuvent agir en qualité de mandataires de leurs membres.
 
 Toutefois, les centres doivent recevoir mandat de leurs membres en vue de la télétransmission des déclarations de résultats, de leurs annexes et des autres documents les accompagnant selon la procédure prévue par le système de transfert des données fiscales et comptables.
+
+Les centres peuvent fournir à des entreprises non adhérentes des services de dématérialisation et de télétransmission de leurs déclarations fiscales, à l'occasion de leur première déclaration par cette voie.
