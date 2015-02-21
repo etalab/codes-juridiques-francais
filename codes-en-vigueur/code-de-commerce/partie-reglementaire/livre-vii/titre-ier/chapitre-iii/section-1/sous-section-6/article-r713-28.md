@@ -5,5 +5,3 @@ Les recours en annulation des élections aux chambres de commerce et d'industrie
 Toutefois, le délai de cinq jours prévu au premier alinéa de l'article R. 119 de ce code court à compter de la proclamation des résultats.
 
 L'appel est formé dans un délai d'un mois devant la cour administrative d'appel dans les conditions fixées aux articles R. 811-1 à R. 811-4 du code de justice administrative. Il est jugé comme affaire urgente.
-
-Les membres élus restent en fonction jusqu'à ce qu'il ait été définitivement statué sur les réclamations.

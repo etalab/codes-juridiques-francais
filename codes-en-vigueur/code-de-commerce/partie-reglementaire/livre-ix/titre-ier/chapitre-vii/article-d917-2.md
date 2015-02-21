@@ -1,3 +1,5 @@
 # Article D917-2
 
-Le second alinéa de l'article D. 711-67-1, le cinquième alinéa de l'article D. 711-67-4 et le deuxième alinéa de l'article D. 711-67-5 ne sont pas applicables.
+L'article D. 711-9 est ainsi rédigé :
+
+" Art. D. 711-9.-La chambre d'agriculture, de commerce, d'industrie, de métiers et de l'artisanat de Saint-Pierre-et-Miquelon établit annuellement dans le cadre de son rapport d'activité un relevé des indicateurs d'activité, de qualité et de performance, prévus à l'article D. 711-56-1, qu'elle transmet à l'Assemblée des chambres françaises de commerce et d'industrie. "
