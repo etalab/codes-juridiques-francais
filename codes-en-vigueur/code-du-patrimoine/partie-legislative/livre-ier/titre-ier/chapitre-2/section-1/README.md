@@ -1,4 +1,4 @@
-# Section 1 : Biens culturels se trouvant en France et sortis illicitement du territoire d'un autre Etat membre de la Communauté européenne
+# Section 1 : Biens culturels se trouvant en France et sortis illicitement du territoire d'un autre Etat membre de l'Union européenne
 
 - [Sous-section 1 : Champ d'application.](sous-section-1)
 - [Sous-section 2 : Procédure administrative.](sous-section-2)

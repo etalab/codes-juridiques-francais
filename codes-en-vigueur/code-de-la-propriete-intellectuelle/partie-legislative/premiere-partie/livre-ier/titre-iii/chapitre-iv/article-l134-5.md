@@ -4,7 +4,7 @@ A défaut d'opposition notifiée par l'auteur ou l'éditeur à l'expiration du d
 
 Cette proposition est formulée par écrit. Elle est réputée avoir été refusée si l'éditeur n'a pas notifié sa décision par écrit dans un délai de deux mois à la société de perception et de répartition des droits.
 
-L'autorisation d'exploitation mentionnée au premier alinéa est délivrée par la société de perception et de répartition des droits à titre exclusif pour une durée de dix ans tacitement renouvelable, sauf dans le cas mentionné à l'article L. 134-8.
+L'autorisation d'exploitation mentionnée au premier alinéa est délivrée par la société de perception et de répartition des droits à titre exclusif pour une durée de dix ans tacitement renouvelable.
 
 Mention de l'acceptation de l'éditeur est faite dans la base de données mentionnée à l'article L. 134-2.
 
