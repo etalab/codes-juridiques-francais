@@ -318,7 +318,7 @@ LES EQUIVALENCES
 </p>
 </td>
 <td align="center">
-<p align="left">Brevet d'Etat du premier degré. <br/>
+<p align="left">Brevet d'Etat du deuxième degré. <br/>
 </p>
 </td>
 </tr>
