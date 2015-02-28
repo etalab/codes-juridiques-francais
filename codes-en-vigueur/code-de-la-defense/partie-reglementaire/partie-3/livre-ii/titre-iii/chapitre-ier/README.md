@@ -1,5 +1,8 @@
 # Chapitre Ier : Organisation générale
 
+- [Section 1 : Dispositions générales](section-1)
+- [Section 2 : Organisation du soutien de la défense. - Bases de défense](section-2)
+- [Section 3 : Formations administratives et contrôle interne](section-3)
 - [Article R3231-1](article-r3231-1.md)
 - [Article R3231-2](article-r3231-2.md)
 - [Article R3231-3](article-r3231-3.md)

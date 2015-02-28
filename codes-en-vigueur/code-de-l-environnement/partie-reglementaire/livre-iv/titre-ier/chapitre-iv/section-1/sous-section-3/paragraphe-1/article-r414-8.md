@@ -16,7 +16,7 @@ Outre les membres mentionnés à l'article L. 414-2, le comité de pilotage Natu
 
 -d'associations agréées de protection de l'environnement.
 
-Lorsque le site Natura 2000 inclut pour partie des terrains relevant du ministère de la défense, le commandant de la région terre ou son représentant est membre de droit du comité.
+Lorsque le site Natura 2000 inclut pour partie des terrains relevant du ministère de la défense, le commandant de la zone terre ou son représentant est membre de droit du comité.
 
 Lorsque le site Natura 2000 s'étend sur des espaces marins, le préfet maritime et le commandant de zone maritime ou leurs représentants sont membres de droit du comité de pilotage.
 

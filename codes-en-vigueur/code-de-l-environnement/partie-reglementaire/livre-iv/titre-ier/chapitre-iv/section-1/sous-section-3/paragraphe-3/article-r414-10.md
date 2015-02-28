@@ -4,6 +4,6 @@ Lorsque plus de la moitié de la superficie des espaces d'un site Natura 2000 es
 
 Les dispositions de ce document qui sont susceptibles d'affecter l'exécution de la politique militaire au sens de l'article L. 1142-1 du code de la défense sont soumises à l'accord :
 
--du commandant de la région terre lorsqu'elles concernent des terrains relevant du ministère de la défense et les espaces aériens adjacents ;
+-du commandant de la zone terre lorsqu'elles concernent des terrains relevant du ministère de la défense et les espaces aériens adjacents ;
 
 -du commandant de zone maritime lorsqu'elles concernent des espaces marins.

@@ -4,7 +4,7 @@ La commission est chargée d'une mission générale de coordination, d'assistanc
 
 1° La désignation des opérateurs d'importance vitale mentionnés au deuxième alinéa de l'article R. 1332-3 ;
 
-2° Les plans de sécurité des opérateurs d'importance vitale dont le périmètre ne dépasse pas le ressort de la zone de défense. Tout opérateur d'importance vitale présent dans la zone est entendu lors de l'examen de son plan par la commission, s'il en fait la demande ;
+2° Les plans de sécurité des opérateurs d'importance vitale dont le périmètre ne dépasse pas le ressort de la  zone de défense et de sécurité. Tout opérateur d'importance vitale présent dans la zone est entendu lors de l'examen de son plan par la commission, s'il en fait la demande ;
 
 3° La liste des points d'importance vitale annexée aux plans de sécurité mentionnés au 2°. Elle propose éventuellement des ajouts ou suppressions à cette liste ;
 

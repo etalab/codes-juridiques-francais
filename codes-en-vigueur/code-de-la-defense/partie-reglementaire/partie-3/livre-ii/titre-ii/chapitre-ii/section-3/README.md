@@ -2,4 +2,3 @@
 
 - [Article R3222-5](article-r3222-5.md)
 - [Article R3222-6](article-r3222-6.md)
-- [Article R3222-7](article-r3222-7.md)

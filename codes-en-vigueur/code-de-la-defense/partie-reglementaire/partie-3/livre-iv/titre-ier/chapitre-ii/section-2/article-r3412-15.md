@@ -1,6 +1,6 @@
 # Article R3412-15
 
-I. ― Au sein de chaque armée et de la gendarmerie, il est constitué des fonds d'entraide des cercles et foyers.
+I. ― Au sein des forces armées  et de la gendarmerie, il est constitué des fonds d'entraide des cercles et foyers.
 
 II. ― Ces fonds d'entraide sont alimentés par :
 
@@ -20,4 +20,4 @@ III. ― Les fonds d'entraide sont destinés à :
 
 IV. ― Les règles relatives à la constitution et au fonctionnement des fonds d'entraide sont fixées par instructions ministérielles.
 
-V. ― Un cercle peut être désigné par l'autorité de tutelle pour recevoir et gérer les fonds d'entraide pour l'ensemble des cercles et des foyers d'une armée ou de la gendarmerie.
+V. ― Un cercle peut être désigné par l'autorité de tutelle pour recevoir et gérer les fonds d'entraide pour l'ensemble des cercles et des foyers d'une armée, des cercles et foyers interarmées ou des cercles et foyers de la gendarmerie.

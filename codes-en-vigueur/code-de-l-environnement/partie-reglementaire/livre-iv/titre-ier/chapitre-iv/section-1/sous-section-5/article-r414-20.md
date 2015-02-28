@@ -6,6 +6,6 @@ I.-Les listes locales mentionnées au 2° du III et au IV de l'article L. 414-4 
 
 2° Par le préfet maritime, après avoir pris en compte les avis exprimés lors d'une ou plusieurs réunions de concertation auxquelles il invite les représentants des acteurs concernés, et notamment les représentants des catégories mentionnées au V de l'article L. 414-4, ainsi que des représentants des activités sportives concernées et des représentants d'associations agréées de protection de l'environnement.
 
-II.-Lorsque les listes visées au 2° du III et au IV de l'article L. 414-4 peuvent concerner des activités militaires, l'accord préalable du commandant de région terre ou du commandant de zone maritime, selon leurs domaines de compétences respectifs, est requis.
+II.-Lorsque les listes visées au 2° du III et au IV de l'article L. 414-4 peuvent concerner des activités militaires, l'accord préalable du commandant de zone terre ou du commandant de zone maritime, selon leurs domaines de compétences respectifs, est requis.
 
 III.-Les listes locales visées au présent article sont publiées au recueil des actes administratifs du ou des départements concernés et portées à la connaissance du public par tout moyen adapté, et au moins par une insertion dans un journal diffusé dans la zone géographique concernée.

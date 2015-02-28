@@ -8,7 +8,7 @@ Lorsque la commission départementale d'évaluation est chargée d'examiner des 
 
 3° Abrogé ;
 
-4° Un commissaire de l'armée de terre ou son suppléant, désignés par l'officier général commandant la région terre ;
+4° Un officier désigné par le directeur central du service du commissariat des armées ;
 
 5° Un fonctionnaire choisi pour chaque catégorie d'affaires en raison de sa compétence technique et désigné par le préfet ;
 

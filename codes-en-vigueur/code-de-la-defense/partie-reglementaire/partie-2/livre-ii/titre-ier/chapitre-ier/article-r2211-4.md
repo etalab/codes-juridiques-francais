@@ -6,4 +6,4 @@ Le droit de réquisition appartient également aux autorités suivantes, pour la
 
 2° Les officiers généraux exerçant un commandement territorial ;
 
-3° Les hauts fonctionnaires de zones de défense, mentionnés à l'article L. 1311-1.
+3° Les hauts fonctionnaires de  zones de défense et de sécurité, mentionnés à l'article L. 1311-1.

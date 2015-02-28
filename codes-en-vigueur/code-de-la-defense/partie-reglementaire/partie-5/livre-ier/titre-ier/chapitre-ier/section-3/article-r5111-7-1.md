@@ -6,7 +6,7 @@ Les autorisations prévues à l'article L. 5111-6 sont délivrées, pour leur zo
 
 2° L'inspecteur de l'armement pour les poudres et explosifs ;
 
-3° Les commandants de région terre ;
+3° Les commandants de zone terre ;
 
 4° Les commandants d'arrondissement maritime ;
 
