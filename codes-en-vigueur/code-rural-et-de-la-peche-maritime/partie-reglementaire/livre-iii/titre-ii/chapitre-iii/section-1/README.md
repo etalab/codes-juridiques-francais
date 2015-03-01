@@ -1,22 +1,12 @@
-# Section 1 : Reconnaissance des groupements.
+# Section 1 : L'agrément des groupements.
 
-- [Article R323-1](article-r323-1.md)
-- [Article R323-2](article-r323-2.md)
-- [Article R323-3](article-r323-3.md)
-- [Article R323-4](article-r323-4.md)
-- [Article R323-5](article-r323-5.md)
-- [Article R323-6](article-r323-6.md)
-- [Article R323-7](article-r323-7.md)
 - [Article R323-8](article-r323-8.md)
 - [Article R323-9](article-r323-9.md)
 - [Article R323-10](article-r323-10.md)
-- [Article R323-11](article-r323-11.md)
-- [Article R323-12](article-r323-12.md)
 - [Article R323-13](article-r323-13.md)
 - [Article R323-14](article-r323-14.md)
 - [Article R323-15](article-r323-15.md)
 - [Article R323-16](article-r323-16.md)
-- [Article R323-17](article-r323-17.md)
 - [Article R323-18](article-r323-18.md)
 - [Article R323-19](article-r323-19.md)
 - [Article R323-20](article-r323-20.md)

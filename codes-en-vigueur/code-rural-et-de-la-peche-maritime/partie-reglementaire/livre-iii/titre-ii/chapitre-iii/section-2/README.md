@@ -9,6 +9,7 @@
 - [Article R323-29](article-r323-29.md)
 - [Article R323-30](article-r323-30.md)
 - [Article R323-31](article-r323-31.md)
+- [Article R323-31-2](article-r323-31-2.md)
 - [Article R323-32](article-r323-32.md)
 - [Article R323-33](article-r323-33.md)
 - [Article R323-34](article-r323-34.md)

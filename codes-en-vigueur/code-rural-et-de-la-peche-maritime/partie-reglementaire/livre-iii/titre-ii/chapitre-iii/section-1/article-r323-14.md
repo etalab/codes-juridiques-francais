@@ -2,7 +2,7 @@
 
 L'avis de constitution prévu par l'article 22 du décret n° 78-704 du 3 juillet 1978 contient, lorsqu'il s'agit des groupements agricoles d'exploitation en commun, les indications suivantes :
 
-1° La dénomination sociale du groupement et s'il y a lieu son sigle, précédés ou suivis des mots et de la date de la décision de reconnaissance ;
+1° La dénomination sociale du groupement et s'il y a lieu son sigle, précédés ou suivis des mots et de la date de la décision d'agrément ;
 
 2° L'adresse du siège social ;
 
