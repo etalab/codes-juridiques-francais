@@ -10,17 +10,25 @@ a) Chaudières à condensation utilisées comme mode de chauffage ou de producti
 
 b) Acquisition de matériaux d'isolation thermique :
 
-1° Matériaux d'isolation thermique des parois opaques, dans la limite d'un plafond de dépenses fixé respectivement à 150 € et 100 €, toutes taxes comprises, par mètre carré de parois isolées par l'extérieur et par mètre carré de parois isolées par l'intérieur :
+1° Pour les logements situés en métropole, matériaux d'isolation thermique des parois opaques, dans la limite d'un plafond de dépenses fixé respectivement à 150 € et 100 €, toutes taxes comprises, par mètre carré de parois isolées par l'extérieur et par mètre carré de parois isolées par l'intérieur :
 
-Planchers bas sur sous-sol, sur vide sanitaire ou sur passage ouvert, possédant une résistance supérieure ou égale à 3 mètres carrés Kelvin par watt (m2.K/W) ;
+Planchers bas sur sous-sol, sur vide sanitaire ou sur passage ouvert, possédant une résistance thermique supérieure ou égale à 3 mètres carrés Kelvin par watt (m2.K/W) ;
 
-Murs en façade ou en pignon, possédant une résistance supérieure ou égale à 3,7 mètres carrés Kelvin par watt (m2.K/W) ;
+Murs en façade ou en pignon, possédant une résistance thermique supérieure ou égale à 3,7 mètres carrés Kelvin par watt (m2.K/W) ;
 
-Toitures-terrasses possédant une résistance supérieure ou égale à 4,5 m2.K/W ;
+Toitures-terrasses possédant une résistance thermique supérieure ou égale à 4,5 m2.K/W ;
 
 Planchers de combles perdus possédant une résistance thermique supérieure ou égale à 7 m2.K/W ;
 
 Rampants de toiture et plafonds de combles possédant une résistance thermique supérieure ou égale à 6 m2.K/W ;
+
+1° bis Pour les logements situés en Guadeloupe, en Guyane, en Martinique, à Mayotte et à La Réunion, matériaux d'isolation thermique des parois opaques, dans la limite d'un plafond de dépenses fixé respectivement à 150 € et 100 €, toutes taxes comprises, par mètre carré de parois isolées par l'extérieur et par mètre carré de parois isolées par l'intérieur :
+
+Planchers bas sur sous-sol, sur vide sanitaire ou sur passage ouvert, possédant une résistance thermique supérieure ou égale à 3 mètres carrés Kelvin par watt (m2. K/W) ;
+
+Murs en façade ou en pignon, possédant une résistance thermique supérieure ou égale à 0,5 mètre carré Kelvin par watt (m2. K/W) ;
+
+Toitures-terrasses, planchers de combles perdus, rampants de toiture et plafonds de combles possédant une résistance thermique supérieure ou égale à 1,5 mètre carré Kelvin par watt (m2. K/W).
 
 2° Matériaux d'isolation thermique des parois vitrées :
 
@@ -42,7 +50,7 @@ c) Acquisition d'appareils de régulation de chauffage permettant le réglage ma
 
 1° Appareils installés dans une maison individuelle : systèmes permettant la régulation centrale des installations de chauffage par thermostat d'ambiance ou par sonde extérieure, avec horloge de programmation ou programmateur mono ou multizone, systèmes permettant les régulations individuelles terminales des émetteurs de chaleur, systèmes de limitation de la puissance électrique du chauffage électrique en fonction de la température extérieure ; systèmes gestionnaires d'énergie ou de délestage de puissance du chauffage électrique ;
 
-2° Appareils installés dans un immeuble collectif : outre les systèmes énumérés au 1°, matériels nécessaires à l'équilibrage des installations de chauffage permettant une répartition correcte de la chaleur délivrée à chaque logement, matériels permettant la mise en cascade de chaudières, à l'exclusion de l'installation de nouvelles chaudières, systèmes de télégestion de chaufferie assurant les fonctions de régulation et de programmation du chauffage, systèmes permettant la régulation centrale des équipements de production d'eau chaude sanitaire dans le cas de production combinée d'eau chaude sanitaire et d'eau destinée au chauffage, compteurs individuels d'énergie thermique et répartiteurs de frais de chauffage ;
+2° Appareils installés dans un immeuble collectif : outre les systèmes énumérés au 1°, matériels nécessaires à l'équilibrage des installations de chauffage permettant une répartition correcte de la chaleur délivrée à chaque logement, matériels permettant la mise en cascade de chaudières, à l'exclusion de l'installation de nouvelles chaudières, systèmes de télégestion de chaufferie assurant les fonctions de régulation et de programmation du chauffage, systèmes permettant la régulation centrale des équipements de production d'eau chaude sanitaire dans le cas de production combinée d'eau chaude sanitaire et d'eau destinée au chauffage ;
 
 3. Acquisition :
 
@@ -165,4 +173,50 @@ Poste de livraison ou sous-station qui constitue l'échangeur entre le réseau d
 
 Matériels nécessaires à l'équilibrage et à la mesure de la chaleur qui visent à opérer une répartition correcte de celle-ci. Ces matériels peuvent être installés, selon le cas, avec le poste de livraison, dans les parties communes de l'immeuble collectif ou dans le logement ;
 
-d) (Abrogé).
+d) (Abrogé) ;
+
+e) D'appareils installés dans un immeuble collectif permettant d'individualiser les frais de chauffage ou d'eau chaude sanitaire dans un bâtiment équipé d'une installation centrale ou alimenté par un réseau de chaleur : répartiteurs électroniques placés sur chaque radiateur ou compteurs d'énergie thermique placés à l'entrée du logement conformes à la réglementation résultant du décret n° 2001-387 du 3 mai 2001 relatif au contrôle des instruments de mesure ;
+
+f) De systèmes de charge pour véhicule électrique qui s'entendent des bornes de recharge pour véhicules électriques et dont les types de prise respectent la norme IEC 62196-2 ainsi que la directive 2014/94/ UE du Parlement européen et du Conseil du 22 octobre 2014 sur le déploiement d'une infrastructure pour carburants alternatifs ;
+
+4. Pour les logements situés en Guadeloupe, en Guyane, en Martinique, à Mayotte et à La Réunion, acquisition :
+
+a) D'équipements de raccordement à un réseau de froid, alimenté majoritairement par du froid d'origine renouvelable ou de récupération, qui s'entendent des éléments suivants :
+
+Branchement privatif composé de tuyaux et de vannes qui permet de raccorder le réseau de froid au poste de livraison de l'immeuble ;
+
+Poste de livraison ou sous-station, qui constitue l'échangeur entre le réseau de froid et l'immeuble ;
+
+Matériels nécessaires à l'équilibrage et à la mesure de la quantité de froid qui visent à opérer une répartition correcte de celle-ci. Ces matériels peuvent être installés, selon le cas, avec le poste de livraison, dans les parties communes de l'immeuble collectif ou dans le logement ;
+
+b) D'équipements ou de matériaux de protection des parois opaques ou vitrées contre les rayonnements solaires :
+
+1° Systèmes de protection des parois opaques pour ce qui concerne la toiture :
+
+a. Sur-toiture ventilée définie au deuxième alinéa de l'article 3 de l'arrêté du 25 mai 2011 relatif à l'application en outre-mer de dispositions concernant les avances remboursables sans intérêts destinées au financement de travaux de rénovation afin d'améliorer la performance énergétique des logements anciens ;
+
+b. Systèmes de protection de la toiture définis aux quatrième et cinquième alinéas de l'article 3 de l'arrêté du 25 mai 2011 précité ;
+
+2° Systèmes de protection des parois opaques pour ce qui concerne les murs donnant sur l'extérieur :
+
+a. Bardage ventilé ;
+
+b. Pare-soleil horizontaux,
+
+définis respectivement aux deuxième et troisième alinéas de l'article 4 de l'arrêté du 25 mai 2011 précité ;
+
+3° Systèmes de protection des parois vitrées pour ce qui concerne les baies donnant sur l'extérieur :
+
+a. Pare-soleil horizontaux ;
+
+b. Brise-soleil verticaux ;
+
+c. Protections solaires mobiles extérieures dans le plan de la baie ;
+
+d. Lames orientables opaques ;
+
+e. Films réfléchissants sur lames transparentes,
+
+définis respectivement aux deuxième à sixième alinéas de l'article 5 de l'arrêté du 25 mai 2011 précité ;
+
+c) D'équipements ou de matériaux visant à l'optimisation de la ventilation naturelle, notamment les brasseurs d'air fixes : ventilateurs de plafond.

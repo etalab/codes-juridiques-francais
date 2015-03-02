@@ -28,7 +28,7 @@ c) En Nouvelle-Calédonie, en Polynésie française, à Saint-Martin, à Saint-B
 
 a) Pour les bâtiments d'habitation construits à La Réunion à une altitude supérieure à 800 mètres, respectant les exigences de l'article 5 (2°) de l'arrêté du 17 avril 2009 définissant les caractéristiques thermiques minimales des bâtiments d'habitation neufs dans les départements de la Guadeloupe, de la Martinique, de la Guyane et de La Réunion ;
 
-b) A Saint-Pierre-et-Miquelon, visés au b du 2 de l'article 18 bis ;
+b) A Saint-Pierre-et-Miquelon, visés aux 1° et 2° à 5° du b du 2 de l'article 18 bis ;
 
 3. D'appareils de régulation de chauffage, visés au c du 2 de l'article 18 bis ;
 
