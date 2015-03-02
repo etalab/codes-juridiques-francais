@@ -6,4 +6,5 @@
 - [Section 5 : Dispositions applicables aux lycées professionnels maritimes.](section-5)
 - [Section 6 : Dispositions applicables aux lycées d'enseignement général,  technologique et professionnel agricoles.](section-6)
 - [Section 7 : Dispositions diverses.](section-7)
+- [Section 8 : Dispositions particulières à l'Ecole européenne de Strasbourg](section-8)
 - [Article R421-1](article-r421-1.md)
