@@ -2,3 +2,4 @@
 
 - [Section 1 : Dispositions générales](section-1)
 - [Section 2 : Dispositions relatives à la dotation spéciale de construction et d'équipement des établissements scolaires](section-2)
+- [Section 3 : Défense extérieure contre l'incendie](section-3)
