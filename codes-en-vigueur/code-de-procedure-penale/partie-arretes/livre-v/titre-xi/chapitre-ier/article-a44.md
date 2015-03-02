@@ -1558,8 +1558,9 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <p align="left">Antenne de Béthune. </p>
 </td>
 <td valign="top">
-<p align="left">Circonscription judiciaire de Béthune. </p>
-<p align="left">Maison d'arrêt de Béthune. </p>
+<p align="left">Circonscription judiciaire de Béthune. <br/>
+<br/>Maison d'arrêt de Béthune. <br/>
+<br/>Centre pénitentiaire de Vendin-le-Vieil. </p>
 </td>
 </tr>
 <tr>
@@ -1675,7 +1676,6 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 </tr>
 <tr>
 <td valign="top">
-<br/>
 <br/>
 </td>
 <td valign="top">
