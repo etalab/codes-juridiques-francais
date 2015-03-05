@@ -6,3 +6,5 @@
 - [Article D732-162](article-d732-162.md)
 - [Article D732-163](article-d732-163.md)
 - [Article D732-164](article-d732-164.md)
+- [Article R732-164-1](article-r732-164-1.md)
+- [Article R732-164-2](article-r732-164-2.md)

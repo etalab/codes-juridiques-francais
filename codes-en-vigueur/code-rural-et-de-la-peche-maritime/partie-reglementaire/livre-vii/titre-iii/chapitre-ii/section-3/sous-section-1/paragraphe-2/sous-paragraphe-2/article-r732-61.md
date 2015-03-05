@@ -4,7 +4,7 @@ Le montant de la pension de retraite forfaitaire mentionné au 1° de l'article 
 
 Lorsque l'assuré justifie dans le régime d'assurance vieillesse des personnes non salariées des professions agricoles ou dans ce régime et dans un ou plusieurs autres régimes de base obligatoires, de périodes d'assurance ou de périodes reconnues équivalentes, telles que définies à l'article R. 732-43, d'une durée au moins égale à la durée minimale d'assurance ou de périodes reconnues équivalentes mentionnée à l'article L. 732-25, le montant de sa pension de retraite forfaitaire est, avant application de la majoration prévue à l'article L. 732-25-1 :
 
-1° Egal à celui de l'allocation aux vieux travailleurs salariés à condition qu'il ait exercé une activité agricole non salariée d'une durée au moins égale à la durée minimale mentionnée au 1° de l'article L. 732-24.
+1° Egal à celui de l'allocation aux vieux travailleurs salariés au 1er janvier 2014 revalorisé dans les conditions prévues à l'article L. 161-23-1 du code de la sécurité sociale à condition qu'il ait exercé une activité agricole non salariée d'une durée au moins égale à la durée minimale mentionnée au 1° de l'article L. 732-24.
 
 Cette durée est fixée :
 
