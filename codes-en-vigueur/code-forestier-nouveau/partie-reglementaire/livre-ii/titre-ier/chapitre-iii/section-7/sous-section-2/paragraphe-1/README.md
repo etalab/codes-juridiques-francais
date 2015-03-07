@@ -1,4 +1,4 @@
-# Paragraphe 1 : Procédure et dispositions communes
+# Paragraphe 1 : Dispositions communes
 
 - [Article R213-45](article-r213-45.md)
 - [Article R213-46](article-r213-46.md)
