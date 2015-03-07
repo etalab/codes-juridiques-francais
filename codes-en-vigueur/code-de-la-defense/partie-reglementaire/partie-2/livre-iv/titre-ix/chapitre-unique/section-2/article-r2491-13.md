@@ -1,6 +1,6 @@
 # Article R2491-13
 
-Le droit de requérir peut être délégué, par les autorités militaires énumérées à l'article R. 2211-5, aux officiers du commissariat et aux officiers commandant les détachements.
+Le droit de requérir peut être délégué, par les autorités militaires énumérées à l'article R. 2211-5, aux  commissaires des armées et aux officiers commandant les détachements.
 
 Dans les cas limitativement rappelés ci-après, le droit de réquisition peut être également délégué :
 

@@ -1,4 +1,4 @@
-# Chapitre II : Les services du commissariat
+# Chapitre II : Le service du commissariat des armées
 
 - [Article R3232-1](article-r3232-1.md)
 - [Article R3232-2](article-r3232-2.md)
