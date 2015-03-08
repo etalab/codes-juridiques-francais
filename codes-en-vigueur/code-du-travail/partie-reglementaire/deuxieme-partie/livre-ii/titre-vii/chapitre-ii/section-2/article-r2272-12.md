@@ -1,6 +1,6 @@
 # Article R2272-12
 
-Sous réserve des dispositions de l'article R. 2272-14, siègent dans l'une et l'autre des deux sous-commissions :
+Sous réserve des dispositions de l'article R. 2272-14, siègent dans chacune des trois sous-commissions :
 
 1° Le ministre chargé du travail ou son représentant, président ;
 
