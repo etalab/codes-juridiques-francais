@@ -20,4 +20,6 @@ L'assemblée des magistrats du siège du tribunal de grande instance émet un av
 
 9° Le projet d'ordonnance préparé par le président du tribunal désignant le magistrat coordonnateur en matière de droit de la famille et des personnes qui exercera les attributions mentionnées à l'article R. 213-9-1 ;
 
-10° Le projet d'ordonnance préparé par le président du tribunal désignant le magistrat chargé de contrôler l'exécution des mesures d'instruction conformément à l'article 155-1 du code de procédure civile.
+10° Le projet d'ordonnance préparé par le président du tribunal désignant le magistrat chargé de contrôler l'exécution des mesures d'instruction conformément à l'article 155-1 du code de procédure civile ;
+
+11° La désignation du président du tribunal maritime et de ses deux assesseurs magistrats par le président du tribunal auprès duquel est institué un tribunal maritime.
