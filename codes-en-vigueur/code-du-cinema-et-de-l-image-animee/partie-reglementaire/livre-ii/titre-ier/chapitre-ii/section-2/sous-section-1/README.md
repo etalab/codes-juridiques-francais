@@ -2,4 +2,3 @@
 
 - [Paragraphe 1 : Commission départementale d'aménagement cinématographique](paragraphe-1)
 - [Paragraphe 2 : Commission nationale d'aménagement cinématographique](paragraphe-2)
-- [Article R212-6](article-r212-6.md)
