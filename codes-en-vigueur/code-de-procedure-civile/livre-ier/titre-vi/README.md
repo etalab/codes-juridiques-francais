@@ -1,5 +1,5 @@
-# Titre VI : La conciliation.
+# Titre VI : La conciliation et la médiation
 
-- [Chapitre Ier : Dispositions générales](chapitre-ier)
-- [Chapitre II : La conciliation déléguée à un conciliateur de justice](chapitre-ii)
+- [Chapitre Ier : La conciliation](chapitre-ier)
+- [Chapitre II : La médiation.](chapitre-ii)
 - [Chapitre III : L'acte de conciliation](chapitre-iii)

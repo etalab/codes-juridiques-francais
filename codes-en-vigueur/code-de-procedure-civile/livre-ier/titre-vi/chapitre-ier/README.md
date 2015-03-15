@@ -1,5 +1,5 @@
-# Chapitre Ier : Dispositions générales
+# Chapitre Ier : La conciliation
 
-- [Article 127](article-127.md)
-- [Article 128](article-128.md)
-- [Article 129](article-129.md)
+- [Section I : Dispositions générales](section-i)
+- [Section II : La conciliation déléguée à un conciliateur de justice](section-ii)
+- [Section III : L'acte de conciliation](section-iii)

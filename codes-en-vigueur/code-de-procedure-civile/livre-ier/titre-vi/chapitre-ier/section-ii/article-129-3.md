@@ -1,4 +1,4 @@
-# Article 129-2
+# Article 129-3
 
 Pour procéder à la tentative de conciliation, le conciliateur de justice convoque en tant que de besoin les parties aux lieu, jour et heure qu'il détermine.
 

@@ -1,4 +1,4 @@
-# Article 129-3
+# Article 129-4
 
 Le conciliateur de justice peut, avec l'accord des parties, se rendre sur les lieux et entendre toute personne dont l'audition lui paraît utile, sous réserve de l'acceptation de celle-ci.
 

@@ -1,4 +1,4 @@
-# Article 129-4
+# Article 129-5
 
 Le conciliateur de justice tient le juge informé des difficultés qu'il rencontre dans l'accomplissement de sa mission, ainsi que de la réussite ou de l'échec de la conciliation.
 

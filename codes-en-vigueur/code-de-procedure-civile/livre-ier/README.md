@@ -6,7 +6,7 @@
 - [Titre IV : La demande en justice.](titre-iv)
 - [Titre V : Les moyens de défense.](titre-v)
 - [Titre V bis : La question prioritaire de constitutionnalité](titre-v-bis)
-- [Titre VI : La conciliation.](titre-vi)
+- [Titre VI : La conciliation et la médiation](titre-vi)
 - [Titre VI bis : La médiation.](titre-vi-bis)
 - [Titre VII : L'administration judiciaire de la preuve.](titre-vii)
 - [Titre VIII : La pluralité des parties.](titre-viii)
