@@ -1,7 +1,13 @@
 # Article R242-72
 
-Communication télématique.
+Sites internet.
 
-Toutes informations destinées au public doivent être impersonnelles, à l'exception des éléments d'identité (photographie de l'auteur, nom et prénoms) communément admis pour les communications dans la presse écrite.
+Tout site internet destiné à présenter l'activité professionnelle d'un vétérinaire fait l'objet d'une déclaration au conseil régional de l'ordre du lieu d'implantation du domicile professionnel administratif.
 
-L'accès aux informations d'un site personnel à caractère professionnel relatif à l'exercice vétérinaire doit être privé et déclaré au conseil régional de l'ordre par le vétérinaire concerné. L'attribution de codes d'accès personnalisés relève de l'entière responsabilité du vétérinaire. Elle doit être réservée aux clients du vétérinaire et réalisée au cours d'une consultation.
+Le site internet ne peut remplacer la relation entre le praticien et son client. Il préserve la confidentialité des informations personnelles soumises par les visiteurs du site.
+
+Le webmestre est identifié, et une adresse électronique ou un formulaire de contact est facilement accessible sur le site.
+
+Lorsque le site comporte des informations de nature médicale, celles-ci sont datées et la source des informations publiées est citée. Dans ce cas, l'identité du ou des rédacteurs est précisée.
+
+Toute affirmation sur les bienfaits ou les inconvénients de traitements est justifiée.
