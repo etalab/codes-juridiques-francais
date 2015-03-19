@@ -10,6 +10,10 @@ I. - Lorsqu'ils quittent la réserve, sont admis de droit, sur leur demande, à 
 
 4° Avoir été décoré de la médaille de la défense nationale ;
 
-5° Etre âgé de plus de trente-cinq ans et justifier de deux cents jours au moins d'activité dans la réserve opérationnelle.
+5° Etre âgé de plus de trente-cinq ans et justifier de deux cents jours au moins d'activité dans la réserve opérationnelle ;
+
+6° Avoir été décoré de la médaille des services militaires volontaires.
 
 II. - Lorsqu'ils remplissent au moins l'une des conditions mentionnées au I, les réservistes de la gendarmerie nationale sont admis de droit, sur leur demande, à l'honorariat de leur grade, par décision du ministre de l'intérieur.
+
+III. - Dès souscription d'un contrat d'engagement à servir dans la réserve opérationnelle ou dès délivrance d'un agrément dans la réserve citoyenne, l'honorariat est suspendu pour la durée de l'engagement à servir dans la réserve opérationnelle ou de l'agrément dans la réserve citoyenne.

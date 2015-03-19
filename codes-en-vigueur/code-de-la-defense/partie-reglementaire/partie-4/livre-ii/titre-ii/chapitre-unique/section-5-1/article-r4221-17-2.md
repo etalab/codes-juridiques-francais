@@ -8,7 +8,7 @@ La convention mentionnée à l'article R. 4221-17-1 précise notamment :
 
 3° Les modalités de leur admission et leurs conditions d'emploi ;
 
-4° Les conditions et modalités selon lesquelles la solde versée ainsi que tout frais exposé au titre des fonctions exercées par les réservistes intéressés sont remboursés au ministère de la défense ;
+4° Les conditions et modalités selon lesquelles la solde versée ainsi que tout frais exposé au titre des fonctions exercées par les réservistes intéressés sont remboursés au ministère de la défense, ou au ministre de l'intérieur pour les réservistes de la gendarmerie nationale ;
 
 5° Les modalités du contrôle et de l'évaluation desdites activités ;
 
