@@ -3,4 +3,5 @@
 - [Titre préliminaire : Politique d'aide au logement.](titre-preliminaire)
 - [Titre VII : Dispositions diverses ou particulières à la Guadeloupe, à la Guyane, à la Martinique, à La Réunion et à Mayotte.](titre-vii)
 - [Titre VIII : Dispositions particulières à la région Ile-de-France](titre-viii)
+- [Titre VIII bis : Dispositions relatives au tiers-financement](titre-viii-bis)
 - [Titre IX : Dispositions relatives aux prêts locatifs intermédiaires.](titre-ix)
