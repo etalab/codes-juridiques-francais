@@ -1,4 +1,3 @@
-# Sous-paragraphe 1 Appréciation en fonction du temps de travail prévue au deuxième alinéa de l'article L. 722-5.
+# Sous-paragraphe 1 : Affiliation dérogatoire  prévue au second alinéa de l'article L. 722-6.
 
-- [Article D722-5](article-d722-5.md)
-- [Article D722-6](article-d722-6.md)
+- [Article D722-9](article-d722-9.md)
