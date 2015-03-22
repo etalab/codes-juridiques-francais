@@ -1,6 +1,6 @@
 # Article L214-17
 
-I.-Après avis des conseils généraux intéressés, des établissements publics territoriaux de bassin concernés, des comités de bassins et, en Corse, de l'Assemblée de Corse, l'autorité administrative établit, pour chaque bassin ou sous-bassin :
+I.-Après avis des conseils départementaux intéressés, des établissements publics territoriaux de bassin concernés, des comités de bassins et, en Corse, de l'Assemblée de Corse, l'autorité administrative établit, pour chaque bassin ou sous-bassin :
 
 1° Une liste de cours d'eau, parties de cours d'eau ou canaux parmi ceux qui sont en très bon état écologique ou identifiés par les schémas directeurs d'aménagement et de gestion des eaux comme jouant le rôle de réservoir biologique nécessaire au maintien ou à l'atteinte du bon état écologique des cours d'eau d'un bassin versant ou dans lesquels une protection complète des poissons migrateurs vivant alternativement en eau douce et en eau salée est nécessaire, sur lesquels aucune autorisation ou concession ne peut être accordée pour la construction de nouveaux ouvrages s'ils constituent un obstacle à la continuité écologique.
 

@@ -1,5 +1,6 @@
 # Chapitre V bis : Financement et plafonnement des dépenses électorales
 
+- [Article L52-3-1](article-l52-3-1.md)
 - [Article L52-4](article-l52-4.md)
 - [Article L52-5](article-l52-5.md)
 - [Article L52-6](article-l52-6.md)

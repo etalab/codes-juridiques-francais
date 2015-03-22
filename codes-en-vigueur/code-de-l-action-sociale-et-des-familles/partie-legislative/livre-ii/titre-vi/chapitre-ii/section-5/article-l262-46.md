@@ -14,9 +14,9 @@ Les retenues mentionnées aux troisième et quatrième alinéas du présent arti
 
 L'article L. 161-1-5 du même code est applicable pour le recouvrement des sommes indûment versées au titre du revenu de solidarité active.
 
-Après la mise en œuvre de la procédure de recouvrement sur prestations à échoir, l'organisme chargé du service du revenu de solidarité active transmet, dans des conditions définies par la convention mentionnée au I de l'article L. 262-25 du présent code, les créances du département au président du conseil général. La liste des indus fait apparaître le nom de l'allocataire, l'objet de la prestation, le montant initial de l'indu, le solde restant à recouvrer, ainsi que le motif du caractère indu du paiement. Le président du conseil général constate la créance du département et transmet au payeur départemental le titre de recettes correspondant pour le recouvrement.
+Après la mise en œuvre de la procédure de recouvrement sur prestations à échoir, l'organisme chargé du service du revenu de solidarité active transmet, dans des conditions définies par la convention mentionnée au I de l'article L. 262-25 du présent code, les créances du département au président du conseil départemental. La liste des indus fait apparaître le nom de l'allocataire, l'objet de la prestation, le montant initial de l'indu, le solde restant à recouvrer, ainsi que le motif du caractère indu du paiement. Le président du conseil départemental constate la créance du département et transmet au payeur départemental le titre de recettes correspondant pour le recouvrement.
 
-La créance peut être remise ou réduite par le président du conseil général ou l'organisme chargé du service du revenu de solidarité active pour le compte de l'Etat, en cas de bonne foi ou de précarité de la situation du débiteur, sauf si cette créance résulte d'une manœuvre frauduleuse ou d'une fausse déclaration.
+La créance peut être remise ou réduite par le président du conseil départemental ou l'organisme chargé du service du revenu de solidarité active pour le compte de l'Etat, en cas de bonne foi ou de précarité de la situation du débiteur, sauf si cette créance résulte d'une manœuvre frauduleuse ou d'une fausse déclaration.
 
 Un décret en Conseil d'Etat détermine le montant au-dessous duquel le revenu de solidarité active indûment versé ne donne pas lieu à répétition.
 

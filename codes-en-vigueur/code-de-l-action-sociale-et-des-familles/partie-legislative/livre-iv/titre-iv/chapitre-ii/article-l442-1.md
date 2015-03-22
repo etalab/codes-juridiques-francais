@@ -2,7 +2,7 @@
 
 Toute personne accueillie au domicile d'un accueillant familial ou, s'il y a lieu, son représentant légal passe avec ledit accueillant un contrat écrit.
 
-Ce contrat est conforme aux stipulations d'un contrat type établi par voie réglementaire après avis des représentants des présidents de conseil général. Ce contrat type précise la durée de la période d'essai et, passé cette période, les conditions dans lesquelles les parties peuvent modifier ou dénoncer ledit contrat, le délai de prévenance qui ne peut être inférieur à deux mois ainsi que les indemnités éventuellement dues.
+Ce contrat est conforme aux stipulations d'un contrat type établi par voie réglementaire après avis des représentants des présidents de conseil départemental. Ce contrat type précise la durée de la période d'essai et, passé cette période, les conditions dans lesquelles les parties peuvent modifier ou dénoncer ledit contrat, le délai de prévenance qui ne peut être inférieur à deux mois ainsi que les indemnités éventuellement dues.
 
 Ce contrat précise la nature ainsi que les conditions matérielles et financières de l'accueil. Il prévoit notamment :
 

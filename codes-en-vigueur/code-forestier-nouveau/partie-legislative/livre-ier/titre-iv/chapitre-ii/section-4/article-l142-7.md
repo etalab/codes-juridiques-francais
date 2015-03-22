@@ -8,6 +8,6 @@ Ce décret, qui fixe le périmètre des terrains sur lesquels les travaux doiven
 
 2° Une délibération des conseils municipaux de ces communes ;
 
-3° L'avis du conseil général ;
+3° L'avis du conseil départemental  ;
 
-4° L'avis d'une commission spéciale, dont la composition, fixée par décret, comprend à part égale des représentants de l'Etat et des représentants des collectivités territoriales intéressées. Le conseiller général représentant le canton où se trouvent les terrains compris dans le périmètre d'exécution des travaux, ainsi que les propriétaires de ces terrains, ne peuvent siéger au sein de cette commission.
+4° L'avis d'une commission spéciale, dont la composition, fixée par décret, comprend à part égale des représentants de l'Etat et des représentants des collectivités territoriales intéressées. Le conseiller départemental représentant le canton où se trouvent les terrains compris dans le périmètre d'exécution des travaux, ainsi que les propriétaires de ces terrains, ne peuvent siéger au sein de cette commission.

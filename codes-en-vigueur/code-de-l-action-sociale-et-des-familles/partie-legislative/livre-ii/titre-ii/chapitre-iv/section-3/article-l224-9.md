@@ -4,7 +4,7 @@ Les deniers des pupilles de l'Etat sont confiés au directeur départemental des
 
 Le tuteur peut autoriser, au profit du pupille, le retrait de tout ou partie des fonds lui appartenant.
 
-Les revenus des biens et capitaux appartenant aux pupilles sont perçus au profit du département jusqu'à leur majorité, à titre d'indemnité d'entretien et dans la limite des prestations qui leur ont été allouées. Lors de la reddition des comptes, le tuteur, à son initiative ou à la demande du conseil de famille, peut proposer, avec l'accord de ce dernier, au président du conseil général toute remise jugée équitable à cet égard.
+Les revenus des biens et capitaux appartenant aux pupilles sont perçus au profit du département jusqu'à leur majorité, à titre d'indemnité d'entretien et dans la limite des prestations qui leur ont été allouées. Lors de la reddition des comptes, le tuteur, à son initiative ou à la demande du conseil de famille, peut proposer, avec l'accord de ce dernier, au président du conseil départemental toute remise jugée équitable à cet égard.
 
 Les héritiers, autres que les frères et soeurs élevés eux-mêmes par le service, qui se présentent pour recueillir la succession d'un pupille, doivent rembourser au département les frais d'entretien du pupille, déduction faite des revenus que le département avait perçus.
 

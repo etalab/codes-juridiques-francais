@@ -4,4 +4,4 @@ Un plan de dégagement détermine, pour chaque parcelle, les terrains sur lesque
 
 Ce plan est soumis à une enquête publique ouverte par l'autorité exécutive de la collectivité territoriale ou de l'établissement public de coopération intercommunale, propriétaire de la voie, et organisée conformément aux dispositions du code de l'expropriation pour cause d'utilité publique.
 
-Il est approuvé par le représentant de l'Etat dans le département, le conseil général ou le conseil municipal, selon qu'il s'agit d'une route nationale, d'une route départementale ou d'une voie communale.
+Il est approuvé par le représentant de l'Etat dans le département, le conseil départemental  ou le conseil municipal, selon qu'il s'agit d'une route nationale, d'une route départementale ou d'une voie communale.

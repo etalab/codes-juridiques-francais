@@ -8,4 +8,4 @@ Les dispositions suivantes sont applicables aux consultations régies par le pr�
 
 3° Livre VI : L. 451, L. 477, L. 504 et L. 531.
 
-Pour l'application de ces dispositions, il y a lieu de lire : " parti ou groupement habilité à participer à la campagne " au lieu de : " candidat " ou " liste de candidats ".
+Pour l'application de ces dispositions, il y a lieu de lire : " parti ou groupement habilité à participer à la campagne " au lieu de : " candidat ", " binôme de candidats " ou " liste de candidats ".

@@ -4,9 +4,9 @@ La commission départementale d'aménagement foncier est ainsi composée :
 
 1° Un commissaire enquêteur désigné par le président du tribunal de grande instance dans le ressort duquel la commission a son siège, dans les conditions fixées par décret en Conseil d'Etat, président ;
 
-2° Quatre conseillers généraux et deux maires de communes rurales ;
+2° Quatre conseillers départementaux et deux maires de communes rurales ;
 
-3° Six personnes qualifiées désignées par le président du conseil général ;
+3° Six personnes qualifiées désignées par le président du conseil départemental ;
 
 4° Le président de la chambre d'agriculture ou son représentant désigné parmi les membres de la chambre d'agriculture ;
 
@@ -16,13 +16,13 @@ La commission départementale d'aménagement foncier est ainsi composée :
 
 7° Le président de la chambre départementale des notaires ou son représentant ;
 
-8° Deux propriétaires bailleurs, deux propriétaires exploitants, deux exploitants preneurs, désignés par le président du conseil général, sur trois listes comprenant chacune six noms, établies par la chambre d'agriculture ;
+8° Deux propriétaires bailleurs, deux propriétaires exploitants, deux exploitants preneurs, désignés par le président du conseil départemental , sur trois listes comprenant chacune six noms, établies par la chambre d'agriculture ;
 
-9° Deux représentants d'associations agréées en matière de faune, de flore et de protection de la nature et des paysages désignés par le président du conseil général.
+9° Deux représentants d'associations agréées en matière de faune, de flore et de protection de la nature et des paysages désignés par le président du conseil départemental.
 
-Le président du conseil général choisit, en outre, sur ces listes, six suppléants, à raison d'un par membre titulaire, appelés à siéger, soit en cas d'absence du titulaire, soit lorsque la commission départementale est appelée à délibérer sur des réclamations concernant une opération dans le périmètre de laquelle l'un des membres titulaires est propriétaire.
+Le président du conseil départemental choisit, en outre, sur ces listes, six suppléants, à raison d'un par membre titulaire, appelés à siéger, soit en cas d'absence du titulaire, soit lorsque la commission départementale est appelée à délibérer sur des réclamations concernant une opération dans le périmètre de laquelle l'un des membres titulaires est propriétaire.
 
-La désignation des conseillers généraux et des représentants des maires a lieu à chaque renouvellement du conseil général et des conseils municipaux.
+La désignation des conseillers départementaux et des représentants des maires a lieu à chaque renouvellement du conseil départemental et des conseils municipaux.
 
 La désignation des représentants de la profession agricole a lieu après chaque renouvellement partiel de la chambre d'agriculture.
 

@@ -1,6 +1,6 @@
 # Article L121-2
 
-Le conseil général peut instituer une commission communale ou intercommunale d'aménagement foncier :
+Le conseil départemental  peut instituer une commission communale ou intercommunale d'aménagement foncier :
 
 1° A la demande du ou des conseils municipaux des communes intéressées lorsqu'il est envisagé un aménagement foncier agricole et forestier ou une opération d'échanges et cessions de parcelles dans le cadre d'un périmètre d'aménagement foncier ;
 

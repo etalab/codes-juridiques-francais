@@ -12,7 +12,7 @@ Pour les services de transport ferroviaire, la commission est destinataire des s
 
 La commission communale pour l'accessibilité tient à jour, par voie électronique, la liste des établissements recevant du public situés sur le territoire communal qui ont élaboré un agenda d'accessibilité programmée et la liste des établissements accessibles aux personnes handicapées.
 
-Le rapport présenté au conseil municipal est transmis au représentant de l'Etat dans le département, au président du conseil général, au conseil départemental consultatif des personnes handicapées, au comité départemental des retraités et des personnes âgées, ainsi qu'à tous les responsables des bâtiments, installations et lieux de travail concernés par le rapport.
+Le rapport présenté au conseil municipal est transmis au représentant de l'Etat dans le département, au président du conseil départemental , au conseil départemental consultatif des personnes handicapées, au comité départemental des retraités et des personnes âgées, ainsi qu'à tous les responsables des bâtiments, installations et lieux de travail concernés par le rapport.
 
 Le maire préside la commission et arrête la liste de ses membres.
 

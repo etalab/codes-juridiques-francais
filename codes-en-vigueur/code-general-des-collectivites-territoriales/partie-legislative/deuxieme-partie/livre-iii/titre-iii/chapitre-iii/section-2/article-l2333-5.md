@@ -10,7 +10,7 @@ La taxe est contrôlée et sanctionnée par les agents habilités par le maire d
 
 Le droit de reprise de la commune, les réclamations relatives à l'assiette et au recouvrement de la taxe ainsi que les contestations relatives aux poursuites s'effectuent dans les mêmes conditions que celles prévues à l'article L. 3333-3-3.
 
-Le maire informe le président du conseil général des contrôles effectués, des rectifications du montant de la taxe ou de la taxation d'office opérées. Sur la base des informations transmises, le président du conseil général procède au recouvrement de la taxe affectée au département en application de l'article L. 3333-2.
+Le maire informe le président du conseil départemental  des contrôles effectués, des rectifications du montant de la taxe ou de la taxation d'office opérées. Sur la base des informations transmises, le président du conseil départemental  procède au recouvrement de la taxe affectée au département en application de l'article L. 3333-2.
 
 Une personne qui a fait l'objet d'une vérification de la taxe exigible au titre de ses livraisons ou de sa consommation dans les conditions prévues au présent article par les agents habilités par le maire et qui a acquitté la taxe due ne peut, pour les mêmes opérations, faire l'objet d'une nouvelle vérification de la part d'agents habilités par une autorité locale en application des articles L. 3333-3-2 ou L. 5212-24-2.
 

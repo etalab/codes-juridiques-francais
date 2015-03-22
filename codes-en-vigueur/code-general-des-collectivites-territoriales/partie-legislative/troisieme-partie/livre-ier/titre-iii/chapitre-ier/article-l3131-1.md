@@ -4,6 +4,6 @@ Les actes pris par les autorités départementales sont exécutoires de plein dr
 
 Cette transmission peut s'effectuer par voie électronique, selon des modalités fixées par décret en Conseil d'Etat.
 
-Le président du conseil général certifie, sous sa responsabilité, le caractère exécutoire de ces actes.
+Le président du conseil départemental  certifie, sous sa responsabilité, le caractère exécutoire de ces actes.
 
 La preuve de la réception des actes par le représentant de l'Etat dans le département peut être apportée par tout moyen. L'accusé de réception, qui est immédiatement délivré, peut être utilisé à cet effet mais n'est pas une condition du caractère exécutoire des actes.

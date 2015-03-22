@@ -4,7 +4,7 @@ Les dossiers sont d'abord examinés par un comité départemental composé de do
 
 Le préfet ou son représentant, président ;
 
-Trois conseillers généraux désignés par l'assemblée départementale ;
+Trois conseillers départementaux désignés par l'assemblée départementale ;
 
 Trois maires désignés par le préfet ;
 

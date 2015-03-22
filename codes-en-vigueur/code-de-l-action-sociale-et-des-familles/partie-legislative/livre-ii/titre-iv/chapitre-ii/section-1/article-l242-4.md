@@ -8,7 +8,7 @@ Cette décision s'impose à l'organisme ou à la collectivité compétente pour 
 
 La contribution de la personne handicapée à ces frais ne peut être fixée à un niveau supérieur à celui qui aurait été atteint si elle avait été effectivement placée dans l'établissement désigné par la commission mentionnée à l'article L. 146-9. De même, les prestations en espèces qui lui sont allouées ne peuvent être réduites que dans la proportion où elles l'auraient été dans ce cas.
 
-Tous les deux ans, le représentant de l'Etat dans le département adresse au président du conseil général et au conseil départemental consultatif des personnes handicapées un rapport sur l'application du présent article. Ce rapport est également transmis, avec les observations et les préconisations du conseil départemental consultatif des personnes handicapées, au conseil national mentionné à l'article L. 146-1.
+Tous les deux ans, le représentant de l'Etat dans le département adresse au président du conseil départemental et au conseil départemental consultatif des personnes handicapées un rapport sur l'application du présent article. Ce rapport est également transmis, avec les observations et les préconisations du conseil départemental consultatif des personnes handicapées, au conseil national mentionné à l'article L. 146-1.
 
 Toute personne handicapée ou son représentant légal a droit à une information sur les garanties que lui reconnaît le présent article. Cette information lui est délivrée par la commission mentionnée à l'article L. 146-9 au moins six mois avant la limite d'âge mentionnée au deuxième alinéa.
 

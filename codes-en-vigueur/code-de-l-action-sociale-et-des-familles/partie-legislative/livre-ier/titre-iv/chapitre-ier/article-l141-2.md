@@ -6,8 +6,8 @@ Cet accompagnement parental consiste en un suivi individualisé au travers d'act
 
 L'accompagnement parental peut aussi être mis en place à l'initiative des parents ou du représentant légal du mineur.
 
-Lorsqu'un accompagnement parental est mis en place, le maire sollicite l'avis du président du conseil général. Il en informe l'autorité de l'Etat compétente en matière d'éducation, le chef d'établissement d'enseignement, le directeur de l'organisme débiteur des prestations familiales et le préfet.
+Lorsqu'un accompagnement parental est mis en place, le maire sollicite l'avis du président du conseil départemental. Il en informe l'autorité de l'Etat compétente en matière d'éducation, le chef d'établissement d'enseignement, le directeur de l'organisme débiteur des prestations familiales et le préfet.
 
 Au terme de l'accompagnement, il est délivré aux parents ou au représentant légal du mineur une attestation comportant leur engagement solennel à se conformer aux obligations liées à l'exercice de l'autorité parentale.
 
-Lorsque les parents ou le représentant légal du mineur refusent sans motif légitime l'accompagnement parental ou l'accomplissent de manière partielle, le maire saisit le président du conseil général en vue de la conclusion éventuelle du contrat de responsabilité parentale mentionné à l'article L. 222-4-1.
+Lorsque les parents ou le représentant légal du mineur refusent sans motif légitime l'accompagnement parental ou l'accomplissent de manière partielle, le maire saisit le président du conseil départemental en vue de la conclusion éventuelle du contrat de responsabilité parentale mentionné à l'article L. 222-4-1.

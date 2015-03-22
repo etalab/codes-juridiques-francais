@@ -8,4 +8,4 @@ L'aide en nature est accordée sous forme de services ménagers.
 
 Le taux de l'allocation simple, les modalités d'attribution de l'aide en nature et de l'allocation représentative des services ménagers ainsi que les conditions dans lesquelles est assurée la coordination entre le présent texte et les dispositions relevant des régimes de sécurité sociale sont fixés par voie réglementaire.
 
-La participation qui peut être demandée aux bénéficiaires des services ménagers accordés au titre de l'aide en nature est fixée par arrêté du président du conseil général.
+La participation qui peut être demandée aux bénéficiaires des services ménagers accordés au titre de l'aide en nature est fixée par arrêté du président du conseil départemental.

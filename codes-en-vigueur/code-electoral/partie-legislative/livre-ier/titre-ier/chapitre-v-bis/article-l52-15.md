@@ -10,4 +10,4 @@ Dans le cas où la commission a relevé des irrégularités de nature à contrev
 
 Le remboursement total ou partiel des dépenses retracées dans le compte de campagne, quand la loi le prévoit, n'est possible qu'après l'approbation du compte de campagne par la commission.
 
-Dans tous les cas où un dépassement du plafond des dépenses électorales a été constaté par une décision définitive, la commission fixe alors une somme égale au montant du dépassement que le candidat est tenu de verser au Trésor public. Cette somme est recouvrée comme les créances de l'Etat étrangères à l'impôt et au domaine.
+Dans tous les cas où un dépassement du plafond des dépenses électorales a été constaté par une décision définitive, la commission fixe alors une somme égale au montant du dépassement que le candidat est tenu de verser au Trésor public. Cette somme est recouvrée comme les créances de l'Etat étrangères à l'impôt et au domaine. En cas de scrutin binominal, les deux candidats présentés au sein d'un même binôme sont tenus solidairement au règlement de la créance.

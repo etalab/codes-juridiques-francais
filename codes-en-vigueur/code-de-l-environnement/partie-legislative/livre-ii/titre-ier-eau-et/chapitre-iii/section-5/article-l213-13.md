@@ -28,9 +28,9 @@ Les membres nommés au titre du 1° constituent au moins 50 % du conseil d'admin
 
 Un représentant du personnel siège au conseil d'administration avec voix consultative.
 
-La présidence de l'office est assurée par le président du conseil général.
+La présidence de l'office est assurée par le président du conseil départemental.
 
-Le directeur de l'office est nommé, après avis du préfet, par arrêté du président du conseil général.
+Le directeur de l'office est nommé, après avis du préfet, par arrêté du président du conseil départemental.
 
 Le préfet exerce les fonctions de commissaire du Gouvernement auprès de l'office.
 
@@ -38,7 +38,7 @@ III.-Le personnel de l'office est recruté et géré dans le cadre des dispositi
 
 IV.-Les ressources de l'office se composent :
 
-1° De redevances visées à l'article L. 213-14 (1) ;
+1° De redevances visées à l'article L. 213-14 ;
 
 2° De redevances pour services rendus ;
 

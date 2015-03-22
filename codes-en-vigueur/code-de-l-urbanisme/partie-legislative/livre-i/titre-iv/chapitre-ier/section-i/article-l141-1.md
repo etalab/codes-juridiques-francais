@@ -10,11 +10,11 @@ Le schéma directeur de la région d'Ile-de-France doit respecter les règles g�
 
 Ce schéma détermine notamment la destination générale de différentes parties du territoire, les moyens de protection et de mise en valeur de l'environnement, la localisation des grandes infrastructures de transport et des grands équipements. Il détermine également la localisation préférentielle des extensions urbaines, ainsi que des activités industrielles, artisanales, agricoles, forestières et touristiques.
 
-Pour l'élaboration de ce schéma, le conseil régional recueille les propositions des conseils généraux des départementaux intéressés, du conseil économique, social et environnemental régional et des chambres consulaires.A l'issue de cette élaboration, le projet leur est soumis pour avis.
+Pour l'élaboration de ce schéma, le conseil régional recueille les propositions des conseils départementaux des départementaux intéressés, du conseil économique, social et environnemental régional et des chambres consulaires. A l'issue de cette élaboration, le projet leur est soumis pour avis.
 
-Avant son adoption par le conseil régional, le projet de schéma directeur, assorti de l'avis des conseils généraux intéressés, du conseil économique, social et environnemental régional et des chambres consulaires, est soumis à enquête publique réalisée conformément au chapitre III du titre II du livre Ier du code de l'environnement.
+Avant son adoption par le conseil régional, le projet de schéma directeur, assorti de l'avis des conseils départementaux intéressés, du conseil économique, social et environnemental régional et des chambres consulaires, est soumis à enquête publique réalisée conformément au chapitre III du titre II du livre Ier du code de l'environnement.
 
-Le schéma directeur est approuvé par décret en Conseil d'Etat.L'initiative de l'élaboration du schéma directeur appartient soit à la région, soit à l'Etat.
+Le schéma directeur est approuvé par décret en Conseil d'Etat. L'initiative de l'élaboration du schéma directeur appartient soit à la région, soit à l'Etat.
 
 La procédure de révision du schéma directeur est ouverte par un décret en Conseil d'Etat, qui détermine l'objet de la révision. Cette dernière est effectuée par la région d'Ile-de-France, en association avec l'Etat, selon les règles fixées aux sixième et septième alinéas du présent article. Elle est approuvée par décret en Conseil d'Etat.
 

@@ -1,4 +1,4 @@
-# CHAPITRE Ier : Le conseil général
+# CHAPITRE Ier : Le conseil départemental
 
 - [Section 1 : Dispositions générales](section-1)
 - [Section 2 : Composition](section-2)

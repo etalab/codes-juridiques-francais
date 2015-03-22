@@ -10,4 +10,4 @@ Il préside le conseil d'administration et exécute ses délibérations.
 
 En cas de difficultés graves dans le fonctionnement d'un établissement, le chef d'établissement peut prendre toutes dispositions nécessaires pour assurer le bon fonctionnement du service public.
 
-Le chef d'établissement expose, dans les meilleurs délais, au conseil d'administration les décisions prises et en rend compte à l'autorité académique, au maire, au président du conseil général ou du conseil régional.
+Le chef d'établissement expose, dans les meilleurs délais, au conseil d'administration les décisions prises et en rend compte à l'autorité académique, au maire, au président du conseil départemental  ou du conseil régional.

@@ -4,4 +4,4 @@ Saisi d'une contestation formée contre l'élection, le juge de l'élection peut
 
 L'inéligibilité déclarée sur le fondement du premier alinéa s'applique à toutes les élections. Toutefois, elle n'a pas d'effet sur les mandats acquis antérieurement à la date de la décision.
 
-Si le juge de l'élection a déclaré inéligible un candidat proclamé élu, il annule son élection.
+Si le juge de l'élection a déclaré inéligible un candidat proclamé élu, il annule son élection. En cas de scrutin binominal, il annule l'élection du binôme auquel ce candidat appartient.

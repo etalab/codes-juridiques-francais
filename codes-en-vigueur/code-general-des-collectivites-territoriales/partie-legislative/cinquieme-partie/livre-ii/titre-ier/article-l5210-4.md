@@ -2,7 +2,7 @@
 
 Lorsqu'il y est expressément autorisé par ses statuts, un établissement public de coopération intercommunale peut demander à exercer, au nom et pour le compte du département ou de la région, tout ou partie des compétences dévolues à l'une ou l'autre de ces collectivités.
 
-Le président du conseil régional ou du conseil général est tenu d'inscrire à l'ordre du jour de l'assemblée délibérante dans un délai de six mois l'examen d'une demande en ce sens.
+Le président du conseil régional ou du conseil départemental  est tenu d'inscrire à l'ordre du jour de l'assemblée délibérante dans un délai de six mois l'examen d'une demande en ce sens.
 
 L'assemblée délibérante se prononce sur cette demande par délibération motivée.
 

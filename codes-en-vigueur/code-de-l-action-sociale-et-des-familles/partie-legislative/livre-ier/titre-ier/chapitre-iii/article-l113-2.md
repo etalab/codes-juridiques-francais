@@ -8,6 +8,6 @@ Le département veille à la cohérence des actions respectives des centres loca
 
 Le département peut signer des conventions avec l'Etat, les organismes de sécurité sociale ou tout autre intervenant en faveur des personnes âgées pour assurer la coordination de l'action gérontologique.
 
-Les conventions relatives à la coordination des prestations servies aux personnes agées dépendantes conclues avec les organismes de sécurité sociale doivent être conformes à un cahier des charges arrêté par le ministre chargé des personnes âgées après avis des représentants des présidents de conseils généraux et des organismes nationaux de sécurité sociale.
+Les conventions relatives à la coordination des prestations servies aux personnes agées dépendantes conclues avec les organismes de sécurité sociale doivent être conformes à un cahier des charges arrêté par le ministre chargé des personnes âgées après avis des représentants des présidents de conseils départementaux et des organismes nationaux de sécurité sociale.
 
 Pour favoriser l'évaluation des prestations servies aux personnes âgées par les collectivités publiques et institutions concernées, des conventions organisant des dispositifs d'observation partagée peuvent être passées entre l'Etat, le département, les organismes de protection sociale et toute commune souhaitant y participer.

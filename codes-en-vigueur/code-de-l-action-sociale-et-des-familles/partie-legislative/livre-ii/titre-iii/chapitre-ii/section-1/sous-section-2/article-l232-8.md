@@ -8,6 +8,6 @@ De même, ne sont pas pris en compte, pour le calcul des ressources de l'intére
 
 II.-Le forfait global mentionné au 2° de l'article L. 314-2 n'inclut pas la participation des résidents prévue au I du présent article.
 
-Les tarifs afférents à la dépendance pour les résidents bénéficiaires de l'allocation personnalisée d'autonomie en établissement relevant d'autres départements que celui du président du conseil général qui a le pouvoir de tarification sont calculés conformément aux articles L. 314-2 et L. 314-9 et versés directement à l'établissement, le cas échéant, sous forme de dotation globale. Ces versements sont pris en compte pour le calcul du forfait global afférent à la dépendance.
+Les tarifs afférents à la dépendance pour les résidents bénéficiaires de l'allocation personnalisée d'autonomie en établissement relevant d'autres départements que celui du président du conseil départemental qui a le pouvoir de tarification sont calculés conformément aux articles L. 314-2 et L. 314-9 et versés directement à l'établissement, le cas échéant, sous forme de dotation globale. Ces versements sont pris en compte pour le calcul du forfait global afférent à la dépendance.
 
 Les modalités d'application du présent article sont fixées par voie réglementaire.

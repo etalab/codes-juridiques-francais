@@ -10,7 +10,7 @@ Le bulletin n° 2 du casier judiciaire est délivré :
 
 4° Aux présidents des tribunaux de commerce pour être joint aux procédures de faillite et de règlement judiciaire, ainsi qu'aux juges commis à la surveillance du registre du commerce à l'occasion des demandes d'inscription audit registre ;
 
-5° Aux présidents de conseils généraux saisis d'une demande d'agrément en vue d'adoption prévu à l'article L. 225-2 du code de l'action sociale et des familles ;
+5° Aux présidents de conseils départementaux saisis d'une demande d'agrément en vue d'adoption prévu à l'article L. 225-2 du code de l'action sociale et des familles ;
 
 6° Aux autorités compétentes désignées par arrêté du ministre de la justice, lorsque celles-ci reçoivent, en application d'une convention internationale ou d'un acte pris sur le fondement du traité sur le fonctionnement de l'Union européenne, une demande de communication des sanctions pénales ou disciplinaires prononcées à l'encontre d'un professionnel, de la part d'une autorité compétente d'un autre Etat partie à ladite convention, d'un Etat membre de l'Union européenne ou d'un Etat partie à l'accord sur l'Espace économique européen chargée d'appliquer des mesures restreignant l'exercice d'une activité, fondées, dans cet Etat, sur l'existence de sanctions pénales ou disciplinaires prononcées à l'encontre de ce professionnel.
 

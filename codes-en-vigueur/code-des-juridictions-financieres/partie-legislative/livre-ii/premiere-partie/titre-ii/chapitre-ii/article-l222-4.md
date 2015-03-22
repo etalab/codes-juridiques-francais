@@ -6,7 +6,7 @@ a) S'il a exercé, depuis moins de trois ans, dans le ressort de cette chambre, 
 
 b) S'il est marié, a conclu un pacte civil de solidarité ou vit en concubinage notoire avec un député d'une circonscription ou un sénateur d'un département situé dans le ressort de cette chambre ;
 
-c) S'il est marié, a conclu un pacte civil de solidarité ou vit en concubinage notoire avec le président du conseil régional, un président du conseil général, un maire d'une commune, chef-lieu de département de ce même ressort ou un président d'un établissement public de coopération intercommunale à fiscalité propre qui comprend cette même commune ;
+c) S'il est marié, a conclu un pacte civil de solidarité ou vit en concubinage notoire avec le président du conseil régional, un président du conseil départemental , un maire d'une commune, chef-lieu de département de ce même ressort ou un président d'un établissement public de coopération intercommunale à fiscalité propre qui comprend cette même commune ;
 
 d) S'il a exercé depuis moins de trois ans dans ce ressort les fonctions de représentant de l'Etat dans un département ou dans un arrondissement, ou de directeur départemental ou régional d'une administration publique de l'Etat ;
 

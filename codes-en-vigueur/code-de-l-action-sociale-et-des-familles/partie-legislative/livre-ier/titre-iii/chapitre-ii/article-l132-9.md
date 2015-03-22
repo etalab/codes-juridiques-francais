@@ -1,6 +1,6 @@
 # Article L132-9
 
-Pour la garantie des recours prévus à l'article L. 132-8, les immeubles appartenant aux bénéficiaires de l'aide sociale sont grevés d'une hypothèque légale, dont l'inscription est requise par le représentant de l'Etat ou le président du conseil général dans les conditions prévues à l'article 2428 du code civil.
+Pour la garantie des recours prévus à l'article L. 132-8, les immeubles appartenant aux bénéficiaires de l'aide sociale sont grevés d'une hypothèque légale, dont l'inscription est requise par le représentant de l'Etat ou le président du conseil départemental dans les conditions prévues à l'article 2428 du code civil.
 
 Les bordereaux d'inscription doivent mentionner le montant des prestations allouées au bénéficiaire de l'aide sociale.
 

@@ -12,7 +12,7 @@ a) Soit sur la demande motivée de la majorité de ces conseils municipaux par a
 
 b) Soit d'office par un décret rendu sur l'avis conforme du Conseil d'Etat.
 
-Une copie de l'arrêté ou du décret de dissolution est adressée au conseil général pour information.
+Une copie de l'arrêté ou du décret de dissolution est adressée au conseil départemental  pour information.
 
 L'arrêté ou le décret de dissolution détermine, dans le respect des dispositions des articles L. 5211-25-1 et L. 5211-26 et sous la réserve des droits des tiers, les conditions dans lesquelles le syndicat est liquidé.
 

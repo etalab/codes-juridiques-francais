@@ -2,7 +2,7 @@
 
 L'agrément a une durée limitée.
 
-Il est attribué à tout organisme qui s'engage à respecter un cahier des charges arrêté par le représentant de l'Etat dans le département, après avis du président du conseil général, dans des conditions définies par décret, précisant notamment la durée d'existence de l'organisme et son objet.
+Il est attribué à tout organisme qui s'engage à respecter un cahier des charges arrêté par le représentant de l'Etat dans le département, après avis du président du conseil départemental, dans des conditions définies par décret, précisant notamment la durée d'existence de l'organisme et son objet.
 
 Ce cahier des charges détermine notamment les obligations d'information, d'évaluation et de contrôle auxquelles est tenu l'organisme, en particulier à l'égard de l'Etat, du département et des organismes chargés du versement des prestations sociales.
 

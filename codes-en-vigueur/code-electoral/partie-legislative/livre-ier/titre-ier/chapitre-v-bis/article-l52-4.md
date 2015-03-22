@@ -4,8 +4,8 @@ Tout candidat à une élection déclare un mandataire conformément aux articles
 
 Le mandataire recueille, pendant l'année précédant le premier jour du mois de l'élection et jusqu'à la date du dépôt du compte de campagne du candidat, les fonds destinés au financement de la campagne.
 
-Il règle les dépenses engagées en vue de l'élection et antérieures à la date du tour de scrutin où elle a été acquise, à l'exception des dépenses prises en charge par un parti ou groupement politique. Les dépenses antérieures à sa désignation payées directement par le candidat ou à son profit font l'objet d'un remboursement par le mandataire et figurent dans son compte bancaire ou postal.
+Il règle les dépenses engagées en vue de l'élection et antérieures à la date du tour de scrutin où elle a été acquise, à l'exception des dépenses prises en charge par un parti ou groupement politique. Les dépenses antérieures à sa désignation payées directement par le candidat ou à son profit, ou par l'un des membres d'un binôme de candidats ou au profit de ce membre, font l'objet d'un remboursement par le mandataire et figurent dans son compte bancaire ou postal.
 
 En cas d'élection anticipée ou partielle, ces dispositions ne sont applicables qu'à compter de l'événement qui rend cette élection nécessaire.
 
-Les dispositions du présent article ne sont pas applicables à l'élection des conseillers généraux dans les cantons de moins de 9 000 habitants et à l'élection des conseillers municipaux dans les communes de moins de 9 000 habitants.
+Les dispositions du présent article ne sont pas applicables à l'élection des conseillers municipaux dans les communes de moins de 9 000 habitants.

@@ -8,12 +8,10 @@ Le montant du plafond est déterminé en fonction du nombre d'habitants de la ci
 <tbody>
 <tr>
 <td rowspan="3" width="123">
-<br/>
-<p align="center">FRACTION DE LA<br/>population de la circonscription : </p>
+<p align="center">Fraction de la population de la circonscription : </p>
 </td>
 <td colspan="4" width="491">
-<br/>
-<p align="center">PLAFOND PAR HABITANT DES DEPENSES ELECTORALES (EN EUROS) : </p>
+<p align="center">Plafond par habitant des dépenses électorales (en euros) : </p>
 <br/>
 </td>
 </tr>
@@ -22,7 +20,7 @@ Le montant du plafond est déterminé en fonction du nombre d'habitants de la ci
 <p align="center">Election des conseillers municipaux : </p>
 </td>
 <td rowspan="2" width="123">
-<p align="center">Election des conseillers généraux </p>
+<p align="center">Election des conseillers départementaux </p>
 </td>
 <td rowspan="2" width="123">
 <p align="center">Election des conseillers régionaux </p>

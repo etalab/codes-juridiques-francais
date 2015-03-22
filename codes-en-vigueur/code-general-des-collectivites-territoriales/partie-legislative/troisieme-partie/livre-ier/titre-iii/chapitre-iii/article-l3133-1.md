@@ -4,6 +4,6 @@ Tout contribuable inscrit au rôle du département a le droit d'exercer, tant en
 
 Le contribuable adresse au tribunal administratif un mémoire.
 
-Le président du conseil général soumet ce mémoire au conseil général lors de la plus proche réunion tenue en application des articles L. 3121-9 et L. 3121-10.
+Le président du conseil départemental  soumet ce mémoire au conseil départemental  lors de la plus proche réunion tenue en application des articles L. 3121-9 et L. 3121-10.
 
 Lorsqu'un jugement est intervenu, le contribuable ne peut se pourvoir en appel ou en cassation qu'en vertu d'une nouvelle autorisation.

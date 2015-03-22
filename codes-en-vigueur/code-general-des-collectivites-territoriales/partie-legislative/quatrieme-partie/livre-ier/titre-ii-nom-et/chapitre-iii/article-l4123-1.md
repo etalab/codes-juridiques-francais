@@ -4,7 +4,7 @@ I. ― Plusieurs régions formant un territoire d'un seul tenant et sans enclave
 
 Par dérogation aux articles L. 4132-8 et L. 4132-9, la demande de regroupement des régions prévue au premier alinéa est inscrite à l'ordre du jour du conseil régional à l'initiative d'au moins 10 % de ses membres.
 
-Ce projet de regroupement est soumis pour avis aux conseils généraux concernés. L'avis de tout conseil général qui, à l'expiration d'un délai de trois mois suivant sa saisine par le président du conseil régional, ne s'est pas prononcé est réputé favorable.
+Ce projet de regroupement est soumis pour avis aux conseils départementaux concernés. L'avis de tout conseil départemental  qui, à l'expiration d'un délai de trois mois suivant sa saisine par le président du conseil régional, ne s'est pas prononcé est réputé favorable.
 
 II. ― Le Gouvernement ne peut donner suite à la demande que si ce projet de regroupement recueille, dans chacune des régions concernées, l'accord de la majorité absolue des suffrages exprimés, correspondant à un nombre de voix au moins égal au quart des électeurs inscrits.
 

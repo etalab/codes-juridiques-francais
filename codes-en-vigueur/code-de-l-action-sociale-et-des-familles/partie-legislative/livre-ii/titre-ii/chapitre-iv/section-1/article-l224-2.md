@@ -2,7 +2,7 @@
 
 Chaque conseil de famille comprend :
 
--des représentants du conseil général désignés par cette assemblée, sur proposition de son président ;
+-des représentants du conseil départemental désignés par cette assemblée, sur proposition de son président ;
 
 -des membres d'associations à caractère familial, notamment issus de l'union départementale des associations familiales, d'associations d'assistants maternels et d'associations de pupilles et anciens pupilles de l'Etat choisis par le représentant de l'Etat dans le département sur des listes de présentation établies par lesdites associations ;
 

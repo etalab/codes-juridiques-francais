@@ -22,7 +22,7 @@ I.-Les autorités ou organismes que le procureur de la République ou le juge d'
 
 10° Le chef de l'inspection de la défense et de la sécurité civiles du ministère de l'intérieur, pour la réalisation d'enquêtes techniques destinées à prévenir des accidents mettant en cause des sapeurs-pompiers civils ou militaires ;
 
-11° Le directeur général de l'Agence nationale de sécurité du médicament et des produits de santé ainsi que les directeurs généraux des agences régionales de santé, pour la réalisation de recherches ou enquêtes scientifiques ou techniques, permettant d'adopter, à des fins de protection de la santé publique, toute mesure utile, notamment les mesures de police sanitaires nécessaires, destinée à prévenir des accidents ou incidents mettant en cause un produit ou une activité relevant de leur compétence ;
+11° Le directeur général de l'Agence nationale de sécurité du médicament et des produits de santé, pour la réalisation de recherches ou enquêtes scientifiques ou techniques, permettant d'adopter, à des fins de protection de la santé publique, toute mesure utile, notamment les mesures de police sanitaires nécessaires, destinée à prévenir des accidents ou incidents mettant en cause un produit ou une activité relevant de sa compétence ;
 
 12° Le délégué à la sécurité et à la circulation routières pour la préparation, la mise en œuvre et l'évaluation de la politique de sécurité routière, en application de l'article 3 du décret n° 75-360 du 15 mai 1975 relatif au comité interministériel de la sécurité routière ;
 
@@ -32,7 +32,7 @@ I.-Les autorités ou organismes que le procureur de la République ou le juge d'
 
 15° Les préfets de région pour l'exercice des missions des observatoires régionaux de la sécurité routière ;
 
-16° Les présidents des conseils généraux pour la réalisation des diagnostics de sécurité de leurs réseaux, en application de l'article L. 131-3 du code de la voirie routière et de l'article L. 3221-4 du code général des collectivités territoriales ;
+16° Les présidents des conseils départementaux pour la réalisation des diagnostics de sécurité de leurs réseaux, en application de l'article L. 131-3 du code de la voirie routière et de l'article L. 3221-4 du code général des collectivités territoriales ;
 
 17° Les maires des communes soumises à l'obligation d'élaborer des plans de déplacements urbains et les présidents des autorités organisatrices des transports urbains compétents pour l'exercice des missions des observatoires de l'accidentalité prévus au titre de ces plans, en application de l'article L. 1214-3 du code des transports et de l'article 28 de la loi n° 82-1153 du 30 décembre 1982 d'orientation des transports intérieurs.
 

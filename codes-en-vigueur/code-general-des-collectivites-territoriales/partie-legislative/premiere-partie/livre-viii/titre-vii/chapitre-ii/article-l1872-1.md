@@ -8,4 +8,4 @@ III.-Pour l'application de l'article L. 1612-5, les mots : " aux articles L. 213
 
 IV.-Pour l'application de l'article L. 1612-7, les mots : " à compter de l'exercice 1997 " sont supprimés.
 
-V.-Pour l'application de l'article L. 1612-16, les mots : ", le président du conseil général ou le président du conseil régional suivant le cas, " sont supprimés.
+V.-Pour l'application de l'article L. 1612-16, les mots : ", le président du conseil départemental  ou le président du conseil régional suivant le cas, " sont supprimés.

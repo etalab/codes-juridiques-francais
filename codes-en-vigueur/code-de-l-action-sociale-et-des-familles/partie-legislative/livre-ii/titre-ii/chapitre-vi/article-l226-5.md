@@ -1,6 +1,6 @@
 # Article L226-5
 
-Le président du conseil général informe les personnes qui lui ont communiqué des informations dont elles ont eu connaissance à l'occasion de l'exercice de leur activité professionnelle ou d'un mandat électif des suites qui leur ont été données.
+Le président du conseil départemental informe les personnes qui lui ont communiqué des informations dont elles ont eu connaissance à l'occasion de l'exercice de leur activité professionnelle ou d'un mandat électif des suites qui leur ont été données.
 
 Sur leur demande, il fait savoir aux autres personnes l'ayant informé si une suite a été donnée.
 

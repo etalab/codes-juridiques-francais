@@ -1,12 +1,12 @@
 # Article L14-10-3
 
-I. ― La Caisse nationale de solidarité pour l'autonomie est dotée d'un conseil et d'un directeur. Un conseil scientifique assiste le conseil et le directeur dans la définition des orientations et la conduite des actions de la caisse.
+I.-La Caisse nationale de solidarité pour l'autonomie est dotée d'un conseil et d'un directeur. Un conseil scientifique assiste le conseil et le directeur dans la définition des orientations et la conduite des actions de la caisse.
 
-II. ― Le conseil est composé :
+II.-Le conseil est composé :
 
 1° De représentants des associations oeuvrant au niveau national en faveur des personnes handicapées et des personnes âgées ;
 
-2° De représentants des conseils généraux ;
+2° De représentants des conseils départementaux ;
 
 3° De représentants des organisations syndicales nationales de salariés représentatives au sens de l'article L. 133-2 du code du travail et de représentants désignés par les organisations professionnelles nationales d'employeurs représentatives ;
 
@@ -22,7 +22,7 @@ Le directeur assiste aux séances du conseil avec voix consultative.
 
 Un décret en Conseil d'Etat précise la composition du conseil, le mode de désignation de ses membres et ses modalités de fonctionnement.
 
-III. ― Le conseil de la Caisse nationale de solidarité pour l'autonomie détermine, par ses délibérations :
+III.-Le conseil de la Caisse nationale de solidarité pour l'autonomie détermine, par ses délibérations :
 
 1° La mise en oeuvre des orientations de la convention d'objectifs et de gestion mentionnée au II de l'article L. 14-10-1 et des orientations des conventions mentionnées au III du même article ;
 
@@ -40,7 +40,7 @@ Le conseil délibère également, sur proposition du directeur :
 
 2° Sur le rapport mentionné au VI du présent article.
 
-IV. ― Le directeur de la Caisse nationale de solidarité pour l'autonomie est nommé par décret.
+IV.-Le directeur de la Caisse nationale de solidarité pour l'autonomie est nommé par décret.
 
 Il est responsable du bon fonctionnement de la caisse, prépare les délibérations du conseil et met en oeuvre leur exécution. A ces titres, il prend toutes décisions nécessaires et exerce toutes les compétences qui ne sont pas attribuées à une autre autorité.
 
@@ -52,8 +52,8 @@ Dans le cadre d'une procédure contradictoire écrite, et pour assurer le respec
 
 Le directeur représente la caisse en justice et dans tous les actes de la vie civile. Il signe les marchés, conventions et transactions au sens de l'article 2044 du code civil, est l'ordonnateur des dépenses et des recettes de la caisse et vise le compte financier. Il recrute le personnel et a autorité sur lui. Il peut déléguer sa signature.
 
-V. ― Le conseil scientifique peut être saisi par le conseil ou par le directeur de toute question d'ordre technique ou scientifique qui entre dans le champ de compétence de la caisse, notamment dans le cadre des missions mentionnées aux 3°, 4° et 5° du I de l'article L. 14-10-1.
+V.-Le conseil scientifique peut être saisi par le conseil ou par le directeur de toute question d'ordre technique ou scientifique qui entre dans le champ de compétence de la caisse, notamment dans le cadre des missions mentionnées aux 3°, 4° et 5° du I de l'article L. 14-10-1.
 
 La composition de ce conseil ainsi que les conditions de la désignation de ses membres et les modalités de son fonctionnement sont fixées par décret en Conseil d'Etat.
 
-VI. ― La Caisse nationale de solidarité pour l'autonomie transmet, chaque année, au Parlement et au Gouvernement, au plus tard le 15 octobre, un rapport présentant les comptes prévisionnels de la caisse pour l'année en cours et l'année suivante ainsi que l'utilisation des ressources affectées à chacune des sections mentionnées à l'article L. 14-10-5. Ce rapport détaille notamment la répartition des concours versés aux départements en application du même article. Il dresse un diagnostic d'ensemble des conditions de la prise en charge de la perte d'autonomie sur le territoire national et comporte, le cas échéant, toute recommandation que la caisse estime nécessaire.
+VI.-La Caisse nationale de solidarité pour l'autonomie transmet, chaque année, au Parlement et au Gouvernement, au plus tard le 15 octobre, un rapport présentant les comptes prévisionnels de la caisse pour l'année en cours et l'année suivante ainsi que l'utilisation des ressources affectées à chacune des sections mentionnées à l'article L. 14-10-5. Ce rapport détaille notamment la répartition des concours versés aux départements en application du même article. Il dresse un diagnostic d'ensemble des conditions de la prise en charge de la perte d'autonomie sur le territoire national et comporte, le cas échéant, toute recommandation que la caisse estime nécessaire.

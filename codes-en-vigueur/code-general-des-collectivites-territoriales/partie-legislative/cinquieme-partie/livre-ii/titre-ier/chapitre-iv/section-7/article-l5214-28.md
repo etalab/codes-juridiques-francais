@@ -14,7 +14,7 @@ b) Soit, lorsque la communauté de communes a opté pour le régime fiscal défi
 
 c) Soit d'office par un décret rendu sur l'avis conforme du Conseil d'Etat.
 
-Une copie de l'arrêté ou du décret de dissolution est adressée au conseil général pour information.
+Une copie de l'arrêté ou du décret de dissolution est adressée au conseil départemental  pour information.
 
 L'arrêté ou le décret de dissolution détermine, dans le respect des dispositions de l'article L. 5211-25-1 et sous la réserve des droits des tiers, les conditions dans lesquelles la communauté de communes est liquidée.
 

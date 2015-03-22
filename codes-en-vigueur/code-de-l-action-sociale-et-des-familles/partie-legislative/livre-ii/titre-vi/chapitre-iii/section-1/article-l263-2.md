@@ -8,4 +8,4 @@ Il définit notamment les modalités de coordination des actions entreprises par
 
 Le pacte prévoit, en particulier, au titre de la formation professionnelle, le concours de la région aux politiques territoriales d'insertion.
 
-Le pacte pour l'insertion peut faire l'objet de déclinaisons locales dont le président du conseil général détermine le nombre et le ressort.
+Le pacte pour l'insertion peut faire l'objet de déclinaisons locales dont le président du conseil départemental détermine le nombre et le ressort.

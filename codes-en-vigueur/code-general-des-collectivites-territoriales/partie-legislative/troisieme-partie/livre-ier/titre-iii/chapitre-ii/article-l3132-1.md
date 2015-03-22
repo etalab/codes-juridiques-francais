@@ -4,7 +4,7 @@ Le représentant de l'Etat dans le département défère au tribunal administrat
 
 Lorsque le représentant de l'Etat dans le département défère un acte au tribunal administratif, il en informe sans délai l'autorité départementale et lui communique toutes précisions sur les illégalités invoquées à l'encontre de l'acte concerné.
 
-Sur demande du président du conseil général, le représentant de l'Etat dans le département l'informe de son intention de ne pas déférer au tribunal administratif un acte des autorités départementales qui lui a été transmis en application des articles L. 3131-1 à L. 3131-6.
+Sur demande du président du conseil départemental, le représentant de l'Etat dans le département l'informe de son intention de ne pas déférer au tribunal administratif un acte des autorités départementales qui lui a été transmis en application des articles L. 3131-1 à L. 3131-6.
 
 Le représentant de l'Etat peut assortir son recours d'une demande de suspension. Il est fait droit à cette demande si l'un des moyens invoqués paraît, en l'état de l'instruction, propre à créer un doute sérieux quant à la légalité de l'acte attaqué. Il est statué dans un délai d'un mois.
 
