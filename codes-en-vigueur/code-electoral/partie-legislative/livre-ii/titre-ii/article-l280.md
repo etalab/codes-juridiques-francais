@@ -10,6 +10,6 @@ Ce collège électoral est composé :
 
 2° bis Des conseillers à l'assemblée de Guyane et des conseillers à l'assemblée de Martinique ;
 
-3° Des conseillers généraux ;
+3° Des conseillers départementaux ;
 
 4° Des délégués des conseils municipaux ou des suppléants de ces délégués.
