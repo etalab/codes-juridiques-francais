@@ -6,7 +6,7 @@ La section de la commission régionale du patrimoine et des sites prévue à l'a
 
 2° Pour chacun des départements de la région, trois titulaires d'un mandat électif qui ne siègent qu'à l'occasion de l'examen des affaires concernant le département dans le ressort duquel ils sont élus :
 
-a) Deux membres élus par le conseil général en son sein ;
+a) Deux membres élus par le conseil départemental en son sein ;
 
 b) Un maire désigné par le président de l'Association départementale des maires ;
 
