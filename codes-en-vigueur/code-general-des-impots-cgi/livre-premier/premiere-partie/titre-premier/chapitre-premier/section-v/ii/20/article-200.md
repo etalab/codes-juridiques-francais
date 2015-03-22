@@ -46,7 +46,7 @@ Le donateur ou l'un des membres de son foyer fiscal ne doit pas avoir conclu de 
 
 Les dons versés à d'autres fondations ou associations reconnues d'utilité publique agréées par le ministre chargé du budget dont l'objet est culturel, en vue de subventionner la réalisation de travaux de conservation, de restauration ou d'accessibilité de monuments historiques classés ou inscrits, ouvrent droit à la réduction d'impôt dans les mêmes conditions.
 
-3. Ouvrent également droit à la réduction d'impôt les dons, prévus à l'article L. 52-8 du code électoral versés à une association de financement électorale ou à un mandataire financier visé à l'article L. 52-4 du même code qui sont consentis à titre définitif et sans contrepartie, soit par chèque, soit par virement, prélèvement automatique ou carte bancaire, et dont il est justifié à l'appui du compte de campagne présenté par un candidat ou une liste. Il en va de même des dons mentionnés à l'article 11-4 de la loi n° 88-227 du 11 mars 1988 relative à la transparence financière de la vie politique ainsi que des cotisations versées aux partis et groupements politiques par l'intermédiaire de leur mandataire.
+3. Ouvrent également droit à la réduction d'impôt les dons, prévus à l'article L. 52-8 du code électoral versés à une association de financement électorale ou à un mandataire financier visé à l'article L. 52-4 du même code qui sont consentis à titre définitif et sans contrepartie, soit par chèque, soit par virement, prélèvement automatique ou carte bancaire, et dont il est justifié à l'appui du compte de campagne présenté par un candidat , un binôme de candidats ou une liste. Il en va de même des dons mentionnés à l'article 11-4 de la loi n° 88-227 du 11 mars 1988 modifiée relative à la transparence financière de la vie politique ainsi que des cotisations versées aux partis et groupements politiques par l'intermédiaire de leur mandataire.
 
 Les dons et cotisations mentionnés à la seconde phrase du premier alinéa du présent 3 sont retenus dans la limite de 15 000 €.
 
@@ -62,6 +62,6 @@ Un décret fixe les conditions d'application du présent 4 bis et notamment la d
 
 Toutefois, pour l'application du 3, les reçus délivrés pour les dons et les cotisations d'un montant égal ou inférieur à 3 000 € ne mentionnent pas la dénomination du bénéficiaire. Un décret en Conseil d'Etat détermine les modalités d'application de cette disposition.
 
-6. (Abrogé).
+6. Abrogé
 
-7. (Abrogé).
+7. Abrogé
