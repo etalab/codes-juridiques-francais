@@ -12,7 +12,7 @@ La région a pour mission, dans le respect des attributions des départements et
 
 5° Toute participation à des dépenses de fonctionnement liées à des opérations d'intérêt régional direct ;
 
-6° Toutes interventions dans le domaine économique, dans les mêmes conditions et limites que celles prévues pour les départements par les articles L. 3231-1 à L. 3231-3, L. 3231-6 et L. 3232-4 sans préjudice des dispositions des 7° et 8° du présent article. Ces mesures doivent faire l'objet d'une consultation préalable des conseils municipaux et des conseils généraux concernés ;
+6° Toutes interventions dans le domaine économique, dans les mêmes conditions et limites que celles prévues pour les départements par les articles L. 3231-1 à L. 3231-3, L. 3231-6 et L. 3232-4 sans préjudice des dispositions des 7° et 8° du présent article. Ces mesures doivent faire l'objet d'une consultation préalable des conseils municipaux et des conseils départementaux concernés ;
 
 7° L'attribution pour le compte de l'Etat d'aides financières que celui-ci accorde aux investissements des entreprises concourant au développement régional et à l'emploi dans des conditions prévues par décret ;
 

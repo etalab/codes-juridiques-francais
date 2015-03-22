@@ -1,6 +1,6 @@
 # Article L5215-20
 
-I.-La communauté urbaine exerce de plein droit, au lieu et place des communes membres, les compétences suivantes :
+I. - La communauté urbaine exerce de plein droit, au lieu et place des communes membres, les compétences suivantes :
 
 1° En matière de développement et d'aménagement économique, social et culturel de l'espace communautaire :
 
@@ -64,14 +64,14 @@ d) Soutien aux actions de maîtrise de la demande d'énergie.
 
 Lorsque l'exercice des compétences mentionnées au présent paragraphe est subordonné à la reconnaissance de leur intérêt communautaire, cet intérêt est déterminé à la majorité des deux tiers du conseil de la communauté urbaine. Il est défini au plus tard deux ans après l'entrée en vigueur de l'arrêté prononçant le transfert de compétence. A défaut, la communauté urbaine exerce l'intégralité de la compétence transférée.
 
-II.-(Abrogé).
+II. - (Abrogé).
 
-III.-Par convention passée avec le département, une communauté urbaine peut exercer pour le département tout ou partie des compétences qui, dans le domaine de l'action sociale, sont attribuées au département en vertu des articles L. 121-1 et L. 121-2 du code de l'action sociale et des familles.
+III. - Par convention passée avec le département, une communauté urbaine peut exercer pour le département tout ou partie des compétences qui, dans le domaine de l'action sociale, sont attribuées au département en vertu des articles L. 121-1 et L. 121-2 du code de l'action sociale et des familles.
 
 La convention précise l'étendue et les conditions financières de la délégation ainsi que les conditions dans lesquelles les services départementaux correspondants sont mis à la disposition de la communauté urbaine.
 
-IV. ― Par convention passée avec le département, une communauté urbaine dont le plan de déplacements urbains comprend la réalisation d'un service de transport collectif en site propre empruntant des voiries départementales ou prévoit sa réalisation peut, dans le périmètre de transports urbains, exercer en lieu et place du département tout ou partie des compétences qui, dans le domaine de la voirie, sont attribuées au département en vertu des articles L. 131-1 à L. 131-8 du code de la voirie routière. Le refus du conseil général de déléguer tout ou partie de ces compétences doit être motivé par délibération. La convention précise l'étendue et les conditions financières de la délégation de compétence ainsi que les conditions dans lesquelles les services départementaux correspondants sont mis à la disposition de la communauté urbaine.
+IV. - Par convention passée avec le département, une communauté urbaine dont le plan de déplacements urbains comprend la réalisation d'un service de transport collectif en site propre empruntant des voiries départementales ou prévoit sa réalisation peut, dans le périmètre de transports urbains, exercer en lieu et place du département tout ou partie des compétences qui, dans le domaine de la voirie, sont attribuées au département en vertu des articles L. 131-1 à L. 131-8 du code de la voirie routière. Le refus du conseil départemental de déléguer tout ou partie de ces compétences doit être motivé par délibération. La convention précise l'étendue et les conditions financières de la délégation de compétence ainsi que les conditions dans lesquelles les services départementaux correspondants sont mis à la disposition de la communauté urbaine.
 
-V.-Le conseil de la communauté urbaine est consulté lors de l'élaboration, de la révision et de la modification des schémas et documents de planification en matière d'aménagement, de développement économique et d'innovation, d'enseignement supérieur et de recherche, de transports et d'environnement, dont la liste est fixée par décret en Conseil d'Etat et qui relèvent de la compétence de l'Etat, d'une collectivité territoriale ou de leurs établissements publics, lorsque ces schémas et documents ont une incidence ou un impact sur le territoire de la communauté urbaine.
+V. - Le conseil de la communauté urbaine est consulté lors de l'élaboration, de la révision et de la modification des schémas et documents de planification en matière d'aménagement, de développement économique et d'innovation, d'enseignement supérieur et de recherche, de transports et d'environnement, dont la liste est fixée par décret en Conseil d'Etat et qui relèvent de la compétence de l'Etat, d'une collectivité territoriale ou de leurs établissements publics, lorsque ces schémas et documents ont une incidence ou un impact sur le territoire de la communauté urbaine.
 
 Le conseil de la communauté urbaine est consulté par le conseil régional lors de l'élaboration du contrat de plan conclu entre l'Etat et la région en application du chapitre III du titre Ier de la loi n° 82-653 du 29 juillet 1982 portant réforme de la planification, afin de tenir compte des spécificités de son territoire.

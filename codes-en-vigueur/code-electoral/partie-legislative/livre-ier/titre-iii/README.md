@@ -1,4 +1,4 @@
-# Titre III : Dispositions spéciales à l'élection des conseillers généraux
+# Titre III : Dispositions spéciales à l'élection des conseillers départementaux
 
 - [Chapitre Ier : Composition des conseils généraux et durée du mandat des conseillers](chapitre-ier)
 - [Chapitre II : Mode de scrutin](chapitre-ii)
