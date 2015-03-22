@@ -1,6 +1,6 @@
 # Article R322-6
 
-Sauf cas de force majeure, doivent être déclarés au préfet ou au président du conseil général, deux mois au moins avant qu'ils interviennent, les changements concernant :
+Sauf cas de force majeure, doivent être déclarés au préfet ou au président du conseil départemental, deux mois au moins avant qu'ils interviennent, les changements concernant :
 
 1° Les personnes qui assurent la direction ou l'exploitation de l'établissement ;
 
@@ -12,4 +12,4 @@ Sauf cas de force majeure, doivent être déclarés au préfet ou au président 
 
 5° Les conditions financières de fonctionnement.
 
-A défaut d'opposition motivée du préfet ou du président du conseil général dans les deux mois de la déclaration, les modifications annoncées peuvent être exécutées.
+A défaut d'opposition motivée du préfet ou du président du conseil départemental dans les deux mois de la déclaration, les modifications annoncées peuvent être exécutées.

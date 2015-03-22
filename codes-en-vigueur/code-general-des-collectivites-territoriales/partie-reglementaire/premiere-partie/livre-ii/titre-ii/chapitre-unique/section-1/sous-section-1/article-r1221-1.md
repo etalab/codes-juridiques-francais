@@ -2,7 +2,7 @@
 
 Le Conseil national de la formation des élus locaux se compose de vingt-quatre membres.
 
-Les membres sont nommés   par arrêté du ministre de l'intérieur, selon la répartition suivante :
+Les membres sont nommés par arrêté du ministre de l'intérieur, selon la répartition suivante :
 
 1° Douze élus locaux, à savoir :
 
@@ -18,7 +18,7 @@ e) Un élu représentant les communes de dix mille habitants à quatre-vingt-dix
 
 f) Un élu représentant les communes de cent mille habitants au moins ;
 
-g) Deux élus représentant les conseils généraux ;
+g) Deux élus représentant les conseils départementaux ;
 
 h) Un élu représentant les conseils régionaux et l'assemblée de Corse.
 
@@ -28,7 +28,7 @@ a) Un membre du Conseil d'Etat ;
 
 b) Un magistrat de la Cour des comptes ;
 
-c) Quatre professeurs de l'enseignement supérieur ou maîtres de  conférences  ou directeurs de recherche du Centre national de la recherche scientifique ou d'organismes publics similaires ;
+c) Quatre professeurs de l'enseignement supérieur ou maîtres de conférences ou directeurs de recherche du Centre national de la recherche scientifique ou d'organismes publics similaires ;
 
 d) Six personnalités qualifiées.
 

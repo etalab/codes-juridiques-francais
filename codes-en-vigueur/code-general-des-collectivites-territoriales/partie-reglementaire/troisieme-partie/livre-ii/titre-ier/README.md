@@ -1,3 +1,3 @@
-# TITRE Ier : COMPÉTENCES DU CONSEIL GÉNÉRAL
+# TITRE Ier : COMPÉTENCES DU CONSEIL DEPARTEMENTAL
 
 - [CHAPITRE III : Gestion du patrimoine](chapitre-iii)

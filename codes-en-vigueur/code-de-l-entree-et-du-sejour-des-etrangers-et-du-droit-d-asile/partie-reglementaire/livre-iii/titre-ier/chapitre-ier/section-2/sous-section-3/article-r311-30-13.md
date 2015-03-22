@@ -4,4 +4,4 @@ Le contrat d'accueil et d'intégration pour la famille est établi par l'Office 
 
 L'office organise et finance les formations et les prestations dispensées dans le cadre du contrat d'accueil et d'intégration pour la famille.
 
-L'office informe le président du conseil général du département du lieu de résidence du ou des parents de la conclusion de ce contrat.
+L'office informe le président du conseil départemental du département du lieu de résidence du ou des parents de la conclusion de ce contrat.

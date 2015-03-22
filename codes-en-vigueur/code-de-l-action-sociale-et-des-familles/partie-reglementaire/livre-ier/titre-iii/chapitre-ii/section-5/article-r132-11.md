@@ -6,6 +6,6 @@ En cas de donation, le recours est exercé jusqu'à concurrence de la valeur des
 
 En cas de legs, le recours est exercé jusqu'à concurrence de la valeur des biens légués au jour de l'ouverture de la succession.
 
-Le président du conseil général ou le préfet fixe le montant des sommes à récupérer. Il peut décider de reporter la récupération en tout ou partie.
+Le président du conseil départemental ou le préfet fixe le montant des sommes à récupérer. Il peut décider de reporter la récupération en tout ou partie.
 
-Les dispositions du premier alinéa de l'article R. 131-1 sont applicables aux actions en récupération introduites par le président du conseil général ou le préfet à l'encontre des personnes mentionnées aux 1° à 3° de l'article L. 132-8.
+Les dispositions du premier alinéa de l'article R. 131-1 sont applicables aux actions en récupération introduites par le président du conseil départemental ou le préfet à l'encontre des personnes mentionnées aux 1° à 3° de l'article L. 132-8.

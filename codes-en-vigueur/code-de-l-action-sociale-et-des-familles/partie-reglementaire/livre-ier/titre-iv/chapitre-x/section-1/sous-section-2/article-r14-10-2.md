@@ -6,7 +6,7 @@ Le conseil de la Caisse nationale de solidarité pour l'autonomie est composé d
 
 2° Six représentants des associations oeuvrant au niveau national pour les personnes âgées désignés, ainsi que leurs six suppléants, dans les conditions fixées par l'article R. 14-10-5 ;
 
-3° Six représentants des conseils généraux désignés, ainsi que leurs six suppléants, par l'Assemblée des départements de France ;
+3° Six représentants des conseils départementaux désignés, ainsi que leurs six suppléants, par l'Assemblée des départements de France ;
 
 4° Cinq représentants des organisations syndicales de salariés interprofessionnelles représentatives au plan national et leurs cinq suppléants, respectivement désignés par :
 
@@ -40,7 +40,7 @@ Le conseil de la Caisse nationale de solidarité pour l'autonomie est composé d
 
 -le délégué général à l'emploi et à la formation professionnelle, ou son représentant ;
 
--le           directeur général de l'offre de soins , ou son représentant ;
+-le directeur général de l'offre de soins, ou son représentant ;
 
 -le directeur général de la santé, ou son représentant ;
 

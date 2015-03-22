@@ -4,7 +4,7 @@ Le Conseil national de l'enseignement supérieur et de la recherche agricole, ag
 
 I.-Un représentant du ministre chargé de l'enseignement supérieur, nommé sur proposition de celui-ci ;
 
-II.-Un conseiller régional et un conseiller général, désignés respectivement par la conférence des présidents de conseils régionaux et par l'assemblée des présidents des conseils généraux de France.
+II.-Un conseiller régional et un conseiller départemental, désignés respectivement par la conférence des présidents de conseils régionaux et par l'assemblée des présidents des conseils départementaux de France.
 
 III.-Deux directeurs d'établissements publics d'enseignement supérieur mentionnés à l'article R. 812-2, dont celui siégeant à ce titre au Conseil national de l'enseignement agricole, nommés par arrêté du ministre de l'agriculture.
 

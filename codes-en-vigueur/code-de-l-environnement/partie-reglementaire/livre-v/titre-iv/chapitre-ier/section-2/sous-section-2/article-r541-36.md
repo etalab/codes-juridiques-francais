@@ -6,7 +6,7 @@ I.-L'autorité compétente, après avoir recueilli l'avis de la commission consu
 
 2° A la commission départementale compétente en matière d'environnement, de risques sanitaires et technologiques de chaque département de la zone du plan ;
 
-3° Dans chacun des départements de la zone du plan, à la commission consultative d'élaboration et de suivi créée conformément à l'article R. 541-18 et au conseil général ;
+3° Dans chacun des départements de la zone du plan, à la commission consultative d'élaboration et de suivi créée conformément à l'article R. 541-18 et au conseil départemental ;
 
 4° Au préfet de région lorsque le plan n'est pas élaboré sous son autorité.
 

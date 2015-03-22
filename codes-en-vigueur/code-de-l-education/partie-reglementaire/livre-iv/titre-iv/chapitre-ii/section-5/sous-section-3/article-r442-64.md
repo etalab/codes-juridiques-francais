@@ -14,7 +14,7 @@ c) Quatre représentants des services académiques et trois personnalités quali
 
 a) Trois conseillers régionaux désignés par le conseil régional ;
 
-b) Trois conseillers généraux désignés par accord des présidents des conseils généraux des départements intéressés ou, à défaut, élus par le collège des conseillers généraux de ces départements ;
+b) Trois conseillers départementaux désignés par accord des présidents des conseils départementaux des départements intéressés ou, à défaut, élus par le collège des conseillers départementaux de ces départements ;
 
 c) Trois maires désignés par accord entre les associations départementales des maires ou, à défaut, élus par le collège des maires de l'ensemble des départements intéressés ;
 

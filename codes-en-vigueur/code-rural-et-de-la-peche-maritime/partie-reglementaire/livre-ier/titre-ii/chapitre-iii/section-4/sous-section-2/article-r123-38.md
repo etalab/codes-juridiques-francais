@@ -4,4 +4,4 @@ Dans les cas où, en application de l'article L. 123-24, le maître de l'ouvrage
 
 1° Les dépenses relatives aux opérations d'aménagement foncier exécutées dans le périmètre d'aménagement foncier perturbé par la réalisation du grand ouvrage ;
 
-2° Les dépenses relatives aux seuls travaux connexes à l'aménagement foncier rendus nécessaires par le projet de grand ouvrage et qui auront été approuvés par le conseil général, sur proposition de la commission départementale d'aménagement foncier ainsi que les travaux résultant de l'application des dispositions du III de l'article L. 121-14.
+2° Les dépenses relatives aux seuls travaux connexes à l'aménagement foncier rendus nécessaires par le projet de grand ouvrage et qui auront été approuvés par le conseil départemental, sur proposition de la commission départementale d'aménagement foncier ainsi que les travaux résultant de l'application des dispositions du III de l'article L. 121-14.

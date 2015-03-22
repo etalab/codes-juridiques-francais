@@ -6,7 +6,7 @@ Les ressources de l'établissement doivent lui permettre de faire face à l'ense
 
 2° Les sommes versées en rémunération de toutes activités auxquelles l'établissement se livre et de tous services rendus par lui ;
 
-3° Les participations et subventions de l'Etat (en particulier celles reçues du ministère de l'agriculture au titre des grands aménagements régionaux), des collectivités territoriales, d'organismes publics ou des instances communautaires. Il peut en particulier recevoir des subventions du Fonds national pour le développement des adductions d'eau conformément aux programmes établis par les conseils généraux de Corse, en application de l'article L. 371-7 du code des communes ;
+3° Les participations et subventions de l'Etat (en particulier celles reçues du ministère de l'agriculture au titre des grands aménagements régionaux), des collectivités territoriales, d'organismes publics ou des instances communautaires. Il peut en particulier recevoir des subventions du Fonds national pour le développement des adductions d'eau conformément aux programmes établis par les conseils départementaux de Corse, en application de l'article L. 371-7 du code des communes ;
 
 4° Les droits et redevances que l'établissement peut être autorisé à percevoir ;
 

@@ -4,7 +4,7 @@ Le conseil d'administration des établissements publics sociaux et médico-socia
 
 Sous réserve des dispositions de l'article L. 315-11, ce conseil d'administration est composé de :
 
-1° Trois représentants de la collectivité territoriale de rattachement, dont le maire ou le président du conseil général ou leur représentant respectif, élu dans les conditions fixées au dernier alinéa du I de l'article L. 315-10, qui assure la présidence du conseil d'administration ;
+1° Trois représentants de la collectivité territoriale de rattachement, dont le maire ou le président du conseil départemental ou leur représentant respectif, élu dans les conditions fixées au dernier alinéa du I de l'article L. 315-10, qui assure la présidence du conseil d'administration ;
 
 2° Un représentant de la commune d'implantation si elle n'est pas représentée au titre du 1° ;
 

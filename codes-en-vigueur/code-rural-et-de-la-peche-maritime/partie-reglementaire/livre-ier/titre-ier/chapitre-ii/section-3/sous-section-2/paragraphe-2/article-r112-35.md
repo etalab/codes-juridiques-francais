@@ -4,7 +4,7 @@ Le conseil d'administration de l'office d'équipement hydraulique de Corse compr
 
 1° Dix-sept membres désignés par l'assemblée de Corse ;
 
-2° Un représentant de chacun des deux départements de Corse, désigné par les conseils généraux de ces départements ;
+2° Un représentant de chacun des deux départements de Corse, désigné par les conseils départementaux de ces départements ;
 
 3° Sept représentants des organisations professionnelles agricoles dont :
 

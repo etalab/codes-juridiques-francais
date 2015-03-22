@@ -6,4 +6,4 @@ Est autorisée la création, par Pôle emploi, d'un traitement de données à ca
 
 2° Faciliter et améliorer l'orientation et l'accompagnement des bénéficiaires du revenu de solidarité active en coordonnant les actions d'insertion dont ils bénéficient, notamment dans le cadre des dispositions du cinquième alinéa de l'article L. 262-40 ;
 
-3° Informer les présidents des conseils généraux des mesures d'accompagnement prises à l'égard des bénéficiaires du revenu de solidarité active orientés vers Pôle emploi en application de l'article L. 262-29.
+3° Informer les présidents des conseils départementaux des mesures d'accompagnement prises à l'égard des bénéficiaires du revenu de solidarité active orientés vers Pôle emploi en application de l'article L. 262-29.

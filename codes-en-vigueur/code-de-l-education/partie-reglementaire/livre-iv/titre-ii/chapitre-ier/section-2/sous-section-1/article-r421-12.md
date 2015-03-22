@@ -8,4 +8,4 @@ S'il y a urgence, et notamment en cas de menace ou d'action contre l'ordre dans 
 
 2° Suspendre des enseignements ou autres activités au sein de l'établissement.
 
-Le chef d'établissement informe le conseil d'administration des décisions prises et en rend compte à l'autorité académique, au maire, au président du conseil général ou du conseil régional et au représentant de l'Etat dans le département.
+Le chef d'établissement informe le conseil d'administration des décisions prises et en rend compte à l'autorité académique, au maire, au président du conseil départemental ou du conseil régional et au représentant de l'Etat dans le département.

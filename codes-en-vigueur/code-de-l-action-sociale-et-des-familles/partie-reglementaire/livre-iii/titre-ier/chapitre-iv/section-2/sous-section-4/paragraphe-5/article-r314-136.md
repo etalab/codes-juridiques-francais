@@ -1,6 +1,6 @@
 # Article R314-136
 
-Pour l'application de l'article R. 314-51, le président du conseil général détermine le résultat d'un service mentionné à l'article R. 314-130 :
+Pour l'application de l'article R. 314-51, le président du conseil départemental détermine le résultat d'un service mentionné à l'article R. 314-130 :
 
 1° En considérant la totalité des charges d'exploitation, sous réserve de l'application des dispositions de l'article R. 314-52 ;
 

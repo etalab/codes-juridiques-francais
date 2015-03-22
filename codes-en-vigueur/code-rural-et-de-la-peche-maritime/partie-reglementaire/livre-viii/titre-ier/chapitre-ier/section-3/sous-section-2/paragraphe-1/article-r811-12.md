@@ -8,7 +8,7 @@ a) Le directeur départemental de l'agriculture et de la forêt ou son représen
 
 b) Le directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi ou son représentant ;
 
-c) Le            directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie ou son représentant ;
+c) Le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie ou son représentant ;
 
 d) Le directeur du centre d'information et d'orientation ou son représentant ;
 
@@ -18,7 +18,7 @@ f) Un représentant d'un établissement public compétent dans les domaines des 
 
 g) Deux conseillers régionaux ;
 
-h) Un conseiller général ;
+h) Un conseiller départemental ;
 
 i) Un représentant de la commune ou, le cas échéant, du groupement de communes ;
 

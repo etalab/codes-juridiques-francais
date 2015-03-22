@@ -1,6 +1,6 @@
 # Article R262-40
 
-Le président du conseil général met fin au droit au revenu de solidarité active et procède à la radiation de la liste des bénéficiaires du revenu de solidarité active, selon les cas :
+Le président du conseil départemental met fin au droit au revenu de solidarité active et procède à la radiation de la liste des bénéficiaires du revenu de solidarité active, selon les cas :
 
 1° Dans les délais fixés à l'article R. 262-35 lorsque les conditions d'ouverture du droit cessent d'être réunies ;
 

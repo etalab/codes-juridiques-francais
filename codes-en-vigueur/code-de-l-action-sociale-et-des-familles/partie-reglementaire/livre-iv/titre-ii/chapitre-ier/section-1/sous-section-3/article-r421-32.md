@@ -4,4 +4,4 @@ Il est attribué à chaque liste un nombre de sièges de représentants suppléa
 
 Les élus sont désignés dans l'ordre de présentation de la liste.
 
-Le président du conseil général rend publics les résultats des élections.
+Le président du conseil départemental rend publics les résultats des élections.

@@ -2,7 +2,7 @@
 
 Les membres du conseil départemental de l'habitat et de l'hébergement institué dans les départements d'outre-mer, mentionnés au 1° de l'article R. 371-3, sont désignés, dans la limite de douze dans les conditions suivantes :
 
-a) Quatre conseillers généraux élus par le conseil général ;
+a) Quatre conseillers départementaux élus par le conseil départemental ;
 
 b) Deux conseillers régionaux élus par le conseil régional ;
 

@@ -6,7 +6,7 @@ a) Membres de droit :
 
 10 à 20 % de représentants de l'Etat, dont au moins un représentant du ministre chargé de l'agriculture et un représentant du ministre chargé de l'enseignement supérieur ;
 
-20 % au plus de représentants des collectivités territoriales sur le territoire desquelles est situé l'établissement, désignés respectivement par le conseil régional, le conseil général et le conseil municipal de la commune d'implantation, ou l'assemblée délibérante de l'établissement public de coopération intercommunale compétent.
+20 % au plus de représentants des collectivités territoriales sur le territoire desquelles est situé l'établissement, désignés respectivement par le conseil régional, le conseil départemental et le conseil municipal de la commune d'implantation, ou l'assemblée délibérante de l'établissement public de coopération intercommunale compétent.
 
 b) 20 à 40 % de personnalités représentatives des professions éducatives, économiques et de recherche présentant un lien avec les missions de l'établissement.
 

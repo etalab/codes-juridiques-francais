@@ -1,6 +1,6 @@
 # Article R3333-4
 
-La redevance due chaque année à un département pour l'occupation du domaine public départemental par les ouvrages des réseaux publics de transport et de distribution d'énergie électrique est fixée par le conseil général dans la limite du plafond annuel suivant :
+La redevance due chaque année à un département pour l'occupation du domaine public départemental par les ouvrages des réseaux publics de transport et de distribution d'énergie électrique est fixée par le conseil départemental dans la limite du plafond annuel suivant :
 
 PR = (0,045 7 P + 15 245) euros,
 

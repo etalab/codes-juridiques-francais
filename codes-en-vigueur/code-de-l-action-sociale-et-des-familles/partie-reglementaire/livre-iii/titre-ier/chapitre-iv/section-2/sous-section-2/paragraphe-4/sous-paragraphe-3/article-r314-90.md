@@ -6,7 +6,7 @@ Ce financement global est calculé en additionnant, pour le dernier exercice clo
 
 Si plus de la moitié de cette somme relève d'un financement par le budget de l'Etat ou les fonds de l'assurance maladie, l'autorité compétente est déterminée conformément aux dispositions du II ci-dessous.
 
-Sinon, l'autorité compétente est le président du conseil général déterminé conformément aux dispositions du III ci-dessous.
+Sinon, l'autorité compétente est le président du conseil départemental déterminé conformément aux dispositions du III ci-dessous.
 
 II.-L'autorité administrative compétente est le préfet de région ou le directeur général de l'agence régionale de santé dans le ressort duquel sont implantés les établissements qui perçoivent, ensemble, la part la plus importante du financement global mentionné au I, sous réserve que cette part représente au moins 40 % du financement global.
 
@@ -16,6 +16,6 @@ Dans les deux cas, le directeur général de l'agence régionale de santé est l
 
 Par dérogation aux dispositions qui précèdent, quand les établissements et services mentionnés au 4° du I de l'article L. 312-1 placés sous la gestion de l'organisme concerné perçoivent plus de la moitié du financement global mentionné au I, l'autorité compétente est le préfet du département où sont implantés les établissements qui perçoivent, ensemble, la part la plus importante de ce financement global.
 
-III.-Le président du conseil général compétent est celui du département qui contribue pour la part la plus importante au financement global mentionné au I, sous réserve que cette part représente au moins 40 % du financement global.
+III.-Le président du conseil départemental compétent est celui du département qui contribue pour la part la plus importante au financement global mentionné au I, sous réserve que cette part représente au moins 40 % du financement global.
 
-A défaut, le président du conseil général compétent est celui du département du siège de l'organisme gestionnaire.
+A défaut, le président du conseil départemental compétent est celui du département du siège de l'organisme gestionnaire.

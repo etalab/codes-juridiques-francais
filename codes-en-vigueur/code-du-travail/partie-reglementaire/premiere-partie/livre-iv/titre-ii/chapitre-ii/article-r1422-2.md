@@ -4,7 +4,7 @@ Les décrets d'institution du conseil de prud'hommes prévus à l'article L. 142
 
 Ils sont pris après consultation ou avis :
 
-1° Du conseil général et du conseil municipal ;
+1° Du conseil départemental et du conseil municipal ;
 
 2° Du ou des conseils de prud'hommes intéressés ;
 

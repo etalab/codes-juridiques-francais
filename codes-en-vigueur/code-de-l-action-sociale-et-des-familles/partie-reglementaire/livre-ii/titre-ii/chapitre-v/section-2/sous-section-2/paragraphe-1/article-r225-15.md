@@ -1,6 +1,6 @@
 # Article R225-15
 
-Toute personne morale de droit privé qui souhaite obtenir l'autorisation prévue à l'article L. 225-11 doit en faire la demande au président du conseil général du département de son siège social et lui fournir :
+Toute personne morale de droit privé qui souhaite obtenir l'autorisation prévue à l'article L. 225-11 doit en faire la demande au président du conseil départemental du département de son siège social et lui fournir :
 
 1° Les statuts et la liste des membres des organes dirigeants ;
 

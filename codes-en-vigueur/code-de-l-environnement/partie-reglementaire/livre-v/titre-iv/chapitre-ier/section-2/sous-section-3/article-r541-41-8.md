@@ -2,15 +2,18 @@
 
 I. ― Dans le cas où le plan est interdépartemental, il est établi une seule commission consultative d'élaboration et de suivi. Elle comprend :
 
-1° Les présidents des conseils généraux ou leur représentant ;
+1° Les présidents des conseils départementaux ou leur représentant ;
 
 2° Les préfets ou leur représentant ;
 
 3° Les présidents des conseils régionaux de la zone du plan ou leur représentant ;
 
-4° Des représentants des conseils généraux désignés par eux ;
+4° Des représentants des conseils départementaux désignés par eux ;
 
-5° Des représentants des communes désignés par les associations départementales des maires ou, à défaut, par le collège des maires de la zone du plan, dont deux au moins au titre des groupements mentionnés aux articles L. 5212-1, L. 5214-1, L. 5215-1, L. 5216-1, L. 5332-1, L. 5711-1 et L. 5721-1 du code général des collectivités territoriales, lorsque ces organismes exercent des compétences en matière de collecte ou de traitement des déchets ;
+5° Des représentants des communes désignés par les associations départementales des maires ou, à défaut, par le collège des maires de la zone du plan, dont deux au moins au titre des groupements mentionnés aux articles L. 5212-1, L. 5214-1,
+L. 5215-1,
+L. 5216-1,
+L. 5332-1, L. 5711-1 et L. 5721-1 du code général des collectivités territoriales, lorsque ces organismes exercent des compétences en matière de collecte ou de traitement des déchets ;
 
 6° Les chefs des services déconcentrés de l'Etat intéressés ou leurs représentants, désignés par les préfets ;
 
@@ -26,7 +29,7 @@ I. ― Dans le cas où le plan est interdépartemental, il est établi une seule
 
 12° Des représentants d'associations agréées de consommateurs.
 
-II. ― Les présidents des conseils généraux fixent la composition de la commission, nomment ceux de ses membres prévus au 5° du I et aux 8° à 10° du I et organisent son secrétariat.
+II. ― Les présidents des conseils départementaux fixent la composition de la commission, nomment ceux de ses membres prévus au 5° du I et aux 8° à 10° du I et organisent son secrétariat.
 
 III. ― La commission définit son programme de travail et les modalités de son fonctionnement.
 

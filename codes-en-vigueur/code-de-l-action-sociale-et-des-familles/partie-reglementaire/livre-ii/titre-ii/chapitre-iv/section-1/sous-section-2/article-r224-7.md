@@ -1,6 +1,6 @@
 # Article R224-7
 
-Le conseil de famille est réuni à la diligence et en présence du préfet ou de son représentant, qui fixe son ordre du jour et en informe le président du conseil général.
+Le conseil de famille est réuni à la diligence et en présence du préfet ou de son représentant, qui fixe son ordre du jour et en informe le président du conseil départemental.
 
 Il désigne en son sein, pour une durée de trois ans renouvelable, un président, dont la voix est prépondérante en cas de partage des voix. Un vice-président est désigné dans les mêmes conditions et pour la même durée ; il supplée le président en cas d'empêchement ou de démission de celui-ci. Dans le cas de démission du président, un nouveau vice-président est désigné pour la durée du mandat restant à accomplir.
 

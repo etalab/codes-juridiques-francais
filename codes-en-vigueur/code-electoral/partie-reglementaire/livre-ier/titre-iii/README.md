@@ -1,4 +1,4 @@
-# Titre III : Dispositions spéciales à l'élection des conseillers généraux
+# Titre III : Dispositions spéciales à l'élection des conseillers départementaux
 
 - [Chapitre IV bis : Déclarations de candidatures](chapitre-iv-bis)
 - [Chapitre V : Propagande](chapitre-v)

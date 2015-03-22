@@ -1,6 +1,6 @@
 # Article R321-7
 
-Lorsque la majorité calculée selon les modalités définies à l'article R. 321-6 est acquise, le conseil général peut instituer par délibération un droit départemental de passage.
+Lorsque la majorité calculée selon les modalités définies à l'article R. 321-6 est acquise, le conseil départemental peut instituer par délibération un droit départemental de passage.
 
 Cette délibération précise, s'il y a lieu, les différences de tarifs visées au quatrième alinéa de l'article L. 321-11 et peut limiter la perception de ce droit de passage aux seules périodes d'afflux touristique. Dans ce cas, la délibération fait mention des dates de début et de fin de ces périodes.
 

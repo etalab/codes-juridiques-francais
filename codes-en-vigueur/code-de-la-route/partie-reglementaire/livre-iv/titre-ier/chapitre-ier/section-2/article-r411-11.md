@@ -4,7 +4,7 @@ La commission départementale de la sécurité routière est présidée par le p
 
 1° Des représentants des services de l'Etat ;
 
-2° Des élus départementaux désignés par le conseil général ;
+2° Des élus départementaux désignés par le conseil départemental ;
 
 3° Des élus communaux désignés par l'association des maires du département ou, à défaut, par le préfet ;
 

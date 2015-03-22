@@ -4,7 +4,7 @@ Le magistrat de l'ordre judiciaire est nommé sur proposition du premier présid
 
 Le membre de la juridiction administrative est nommé sur proposition du vice-président du Conseil d'Etat.
 
-Le représentant des conseils généraux est nommé sur proposition de l'Assemblée des départements de France.
+Le représentant des conseils départementaux est nommé sur proposition de l'Assemblée des départements de France.
 
 Les représentants des ministres concernés sont :
 

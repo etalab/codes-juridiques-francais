@@ -28,11 +28,11 @@ d) Le parcours de retour à l'emploi mis en œuvre par Pôle emploi.
 
 B. ― Les données détenues par les départements pouvant être importées dans le système de traitement de données à caractère personnel de Pôle emploi à des fins de mise en cohérence des parcours d'accompagnement :
 
-1° La date et la nature de la décision d'orientation prise par le président du conseil général en application de l'article L. 262-29 ;
+1° La date et la nature de la décision d'orientation prise par le président du conseil départemental en application de l'article L. 262-29 ;
 
 2° L'organisme au sein duquel le référent unique a été désigné en application de l'article L. 262-30 ;
 
-3° Le nom et les coordonnées du correspondant désigné par le président du conseil général en application de l'article L. 262-30.
+3° Le nom et les coordonnées du correspondant désigné par le président du conseil départemental en application de l'article L. 262-30.
 
 C. ― Les données permettant le rapprochement des traitements automatisés des données à caractère personnel mis en œuvre par Pôle emploi et les départements :
 

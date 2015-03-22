@@ -8,4 +8,4 @@ La commission consultative de retrait instituée par l'article L. 441-2 comprend
 
 3° Des personnes qualifiées dans le domaine de la prise en charge sanitaire et sociale des personnes âgées et des personnes handicapées.
 
-Le président du conseil général fixe le nombre des membres de la commission dans la limite de neuf personnes. Il procède à leur désignation.
+Le président du conseil départemental fixe le nombre des membres de la commission dans la limite de neuf personnes. Il procède à leur désignation.

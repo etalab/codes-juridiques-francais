@@ -6,7 +6,7 @@ La commission consultative sur l'évaluation des charges est composée des trois
 
 1° Une section des régions composée des deux présidents de conseil régional mentionnés au 2° de l'article R. 1212-1 et de deux représentants de l'Etat ;
 
-2° Une section des départements composée des quatre présidents de conseil général mentionnés au 3° de l'article R. 1212-1 et de quatre représentants de l'Etat ;
+2° Une section des départements composée des quatre présidents de conseil départemental mentionnés au 3° de l'article R. 1212-1 et de quatre représentants de l'Etat ;
 
 3° Une section des communes composée des cinq élus mentionnés au 4° de l'article R. 1212-1 et de cinq représentants de l'Etat.
 

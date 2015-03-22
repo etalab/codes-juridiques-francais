@@ -3,7 +3,7 @@
 Les dispositions de la section 2 du chapitre III du titre II du livre premier et des articles R. 512-11, R. 512-12, R. 512-14, R. 512-19 à R. 512-22,
 R. 512-24, R. 512-25 et du premier alinéa de l'article R. 512-26 sont applicables aux demandes concernant les installations mentionnées à l'article R. 512-40.
 
-Dans le cas prévu au troisième alinéa de l'article R. 512-40, le préfet du département dans lequel l'installation doit être implantée saisit, avant l'ouverture de l'enquête, le ministre chargé des installations classées. Dans un délai de deux mois à compter de l'ouverture de l'enquête publique, le ministre avise le ou les préfets de région ou le ou les préfets des départements autres que ceux où l'installation doit être implantée d'avoir à saisir, dans un délai d'un mois, respectivement, le ou les conseils régionaux et le ou les conseils généraux intéressés.
+Dans le cas prévu au troisième alinéa de l'article R. 512-40, le préfet du département dans lequel l'installation doit être implantée saisit, avant l'ouverture de l'enquête, le ministre chargé des installations classées. Dans un délai de deux mois à compter de l'ouverture de l'enquête publique, le ministre avise le ou les préfets de région ou le ou les préfets des départements autres que ceux où l'installation doit être implantée d'avoir à saisir, dans un délai d'un mois, respectivement, le ou les conseils régionaux et le ou les conseils départementaux intéressés.
 
 Ne peuvent être pris en compte que les avis émis dans un délai de quatre mois.
 

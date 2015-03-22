@@ -14,7 +14,7 @@ e) Un représentant du garde des sceaux, ministre de la justice ;
 
 f) Un représentant du ministre chargé des collectivités territoriales ;
 
-g) Trois présidents de conseil général désignés par l'Assemblée des départements de France ou leurs représentants ;
+g) Trois présidents de conseil départemental désignés par l'Assemblée des départements de France ou leurs représentants ;
 
 Elle comprend également, à titre consultatif :
 

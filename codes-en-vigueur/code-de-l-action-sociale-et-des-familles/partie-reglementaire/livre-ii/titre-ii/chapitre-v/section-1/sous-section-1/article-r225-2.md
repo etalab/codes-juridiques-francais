@@ -1,6 +1,6 @@
 # Article R225-2
 
-Les personnes doivent être informées, dans un délai de deux mois après s'être adressées au président du conseil général :
+Les personnes doivent être informées, dans un délai de deux mois après s'être adressées au président du conseil départemental :
 
 1° Des dimensions psychologiques, éducatives et culturelles de l'adoption pour l'enfant et les parents adoptifs ;
 
@@ -26,4 +26,4 @@ Un document récapitulant ces informations doit être remis aux personnes ;
 
 Lors du premier entretien, il est remis aux intéressés un questionnaire établi selon un modèle type fixé par arrêté du ministre chargé de la famille.
 
-Au reçu de ces informations, l'intéressé fait parvenir au président du conseil général la confirmation de sa demande par lettre recommandée avec demande d'avis de réception. Il peut y préciser ses souhaits, notamment en ce qui concerne le nombre et l'âge de pupilles de l'Etat ou d'enfants étrangers qu'il désire accueillir.
+Au reçu de ces informations, l'intéressé fait parvenir au président du conseil départemental la confirmation de sa demande par lettre recommandée avec demande d'avis de réception. Il peut y préciser ses souhaits, notamment en ce qui concerne le nombre et l'âge de pupilles de l'Etat ou d'enfants étrangers qu'il désire accueillir.

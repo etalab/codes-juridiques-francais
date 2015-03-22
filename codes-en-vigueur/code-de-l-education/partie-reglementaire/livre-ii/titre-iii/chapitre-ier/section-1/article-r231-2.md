@@ -8,7 +8,7 @@ Il se compose de quatre-vingt-dix-sept membres répartis de la manière suivante
 
 a) Vingt membres représentant les personnels enseignants titulaires et auxiliaires de l'enseignement public des premier et second degrés ;
 
-b) Trois membres représentant les directeurs de centre d'information et d'orientation, les conseillers d'orientation-psychologues, les conseillers principaux d'éducation, les maîtres d'internat     , les surveillants d'externat et les assistants d'éducation ;
+b) Trois membres représentant les directeurs de centre d'information et d'orientation, les conseillers d'orientation-psychologues, les conseillers principaux d'éducation, les maîtres d'internat, les surveillants d'externat et les assistants d'éducation ;
 
 c) Cinq membres représentant les enseignants-chercheurs élus par les représentants des mêmes catégories au Conseil national de l'enseignement supérieur et de la recherche ;
 
@@ -40,7 +40,7 @@ c) Trois membres représentant les étudiants, proposés par les associations d'
 
 d) Un membre représentant les associations familiales, proposé par lesdites associations choisies par le ministre chargé de l'éducation parmi les plus représentatives ;
 
-e) Trois membres représentant les élèves des lycées et les élèves des établissements régionaux d'enseignement adapté fréquentant les classes des niveaux correspondant à ceux des lycées, élus en leur sein par les représentants des délégués des élèves des lycées et des établissements régionaux d'enseignement adapté siégeant dans les conseils académiques de la vie lycéenne.L'élection a lieu par correspondance ; la répartition des sièges s'effectue selon les systèmes du scrutin majoritaire plurinominal à un tour.
+e) Trois membres représentant les élèves des lycées et les élèves des établissements régionaux d'enseignement adapté fréquentant les classes des niveaux correspondant à ceux des lycées, élus en leur sein par les représentants des délégués des élèves des lycées et des établissements régionaux d'enseignement adapté siégeant dans les conseils académiques de la vie lycéenne. L'élection a lieu par correspondance ; la répartition des sièges s'effectue selon les systèmes du scrutin majoritaire plurinominal à un tour.
 
 3° Trente membres représentant les collectivités territoriales, les associations périscolaires et les grands intérêts culturels, éducatifs, sociaux et économiques, à savoir :
 
@@ -48,7 +48,7 @@ a) Douze membres représentant les élus des collectivités territoriales, à sa
 
 aa) Quatre conseillers régionaux, désignés par les présidents de conseils régionaux ;
 
-ab) Quatre conseillers généraux, désignés par l'assemblée des présidents de conseils généraux ;
+ab) Quatre conseillers départementaux, désignés par l'assemblée des présidents de conseils départementaux ;
 
 ac) Quatre maires, désignés par l'Association des maires de France ;
 

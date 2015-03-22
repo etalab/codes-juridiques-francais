@@ -6,7 +6,7 @@ La commission consultative sur l'évaluation des charges, prévue à l'article L
 
 2° Les deux présidents de conseil régional ;
 
-3° Les quatre présidents de conseil général ;
+3° Les quatre présidents de conseil départemental ;
 
 4° Cinq maires, dont au moins deux présidents d'établissements publics de coopération intercommunale, élus au scrutin secret par les membres du comité des finances locales mentionnés aux sixième et septième alinéas de l'article L. 1211-2.
 

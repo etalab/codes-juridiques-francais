@@ -2,7 +2,7 @@
 
 Le mandat des délégués des communes et des sections de communes d'un groupement syndical forestier expire deux mois après celui des membres du conseil municipal. En cas de suspension ou de dissolution d'un ou de plusieurs conseils municipaux, ou de démission de tous les membres en exercice, le mandat des délégués est prorogé jusqu'à ce qu'il ait été pourvu à leur remplacement.
 
-Le mandat des délégués des départements expire deux mois après le renouvellement triennal du conseil général.
+Le mandat des délégués des départements expire deux mois après le renouvellement triennal du conseil départemental.
 
 Les autres délégués sont élus pour quatre ans.
 

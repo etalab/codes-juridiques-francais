@@ -1,3 +1,3 @@
-# CHAPITRE Ier : Le conseil général
+# CHAPITRE Ier : Le conseil départemental
 
 - [Section 3 : Démission et dissolution](section-3)

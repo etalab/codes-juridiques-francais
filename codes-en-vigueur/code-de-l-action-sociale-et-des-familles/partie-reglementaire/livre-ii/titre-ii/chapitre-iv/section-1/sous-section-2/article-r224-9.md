@@ -1,8 +1,8 @@
 # Article R224-9
 
-La personne à laquelle le pupille est confié et le président du conseil général ou son représentant sont entendus par le conseil de famille à leur demande, ou à la demande du tuteur, ou d'un membre du conseil de famille.
+La personne à laquelle le pupille est confié et le président du conseil départemental ou son représentant sont entendus par le conseil de famille à leur demande, ou à la demande du tuteur, ou d'un membre du conseil de famille.
 
-Le président du conseil général ou son représentant peut demander à ce que la personne à laquelle le pupille est confié soit entendue par le conseil de famille, qui peut également demander l'audition du président du conseil général ou de son représentant.
+Le président du conseil départemental ou son représentant peut demander à ce que la personne à laquelle le pupille est confié soit entendue par le conseil de famille, qui peut également demander l'audition du président du conseil départemental ou de son représentant.
 
 Le conseil de famille entend, au moins une fois par an, la personne à laquelle le pupille est confié.
 

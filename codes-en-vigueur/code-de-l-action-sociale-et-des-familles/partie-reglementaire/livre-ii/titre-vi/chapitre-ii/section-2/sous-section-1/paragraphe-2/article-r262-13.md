@@ -4,4 +4,4 @@ Il n'est tenu compte ni des ressources ayant le caractère de revenus profession
 
 Les autres ressources ne sont pas prises en compte, dans la limite mensuelle du montant forfaitaire mentionné au 2° de l'article L. 262-2 fixé pour un foyer composé d'une seule personne, lorsqu'il est justifié que leur perception est interrompue de manière certaine et que l'intéressé ne peut prétendre à un revenu de substitution.
 
-Sur décision individuelle du président du conseil général au vu de la situation exceptionnelle du demandeur au regard de son insertion sociale et professionnelle, il n'est pas fait application des dispositions du premier alinéa lorsque l'interruption de la perception de ressources résulte d'une démission.
+Sur décision individuelle du président du conseil départemental au vu de la situation exceptionnelle du demandeur au regard de son insertion sociale et professionnelle, il n'est pas fait application des dispositions du premier alinéa lorsque l'interruption de la perception de ressources résulte d'une démission.

@@ -12,4 +12,4 @@ Elle délibère à la majorité des membres présents. En cas de partage égal d
 
 Il est tenu procès-verbal des séances sur un registre coté et paraphé avec indication des membres présents. Les procès-verbaux sont signés par le président et par le secrétaire.
 
-Le secrétariat de la commission est assuré par un agent des services du conseil général.
+Le secrétariat de la commission est assuré par un agent des services du conseil départemental.

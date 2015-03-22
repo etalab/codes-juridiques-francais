@@ -12,7 +12,7 @@ I.-Dans le cas où le plan est interrégional, il est établi une seule commissi
 
 5° Des directeurs des agences régionales de santé de la zone du plan ou leurs représentants ;
 
-6° Des présidents des conseils généraux de la zone du plan ou leurs représentants ;
+6° Des présidents des conseils départementaux de la zone du plan ou leurs représentants ;
 
 7° De représentants des établissements publics de l'Etat, notamment de l'Agence de l'environnement et de la maîtrise de l'énergie, et des agences de l'eau territorialement compétentes ;
 

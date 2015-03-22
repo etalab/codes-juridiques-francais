@@ -8,4 +8,4 @@ La décision prononçant la mise en défens en application de l'article L. 142-1
 
 3° L'avis de la commission spéciale prévue à l'article R. 142-6 ;
 
-4° L'avis du conseil général.
+4° L'avis du conseil départemental.

@@ -1,4 +1,4 @@
-# Sous-section 4 : Transmission au président du conseil général des inscriptions, cessations d'inscription et radiations sur la liste des demandeurs d'emploi
+# Sous-section 4 : Transmission au président du conseil départemental des inscriptions, cessations d'inscription et radiations sur la liste des demandeurs d'emploi
 
 - [Article R262-111](article-r262-111.md)
 - [Article R262-112](article-r262-112.md)

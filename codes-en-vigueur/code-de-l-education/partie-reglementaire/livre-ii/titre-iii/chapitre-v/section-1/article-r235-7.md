@@ -4,6 +4,6 @@ L'ordre du jour des séances du conseil départemental de l'éducation nationale
 
 Le conseil départemental de l'éducation nationale se réunit sur convocation conjointe de ses deux présidents sur un ordre du jour portant sur des questions qui relèvent de la compétence de l'Etat et de la compétence de la collectivité territoriale ou sur convocation de l'un de ses présidents sur un ordre du jour portant sur des questions relevant de sa compétence.
 
-Sur la demande des deux tiers des membres du conseil et sur un ordre du jour déterminé, le préfet du département et le président du conseil général convoquent le conseil de l'éducation nationale.
+Sur la demande des deux tiers des membres du conseil et sur un ordre du jour déterminé, le préfet du département et le président du conseil départemental convoquent le conseil de l'éducation nationale.
 
 Toute question proposée à la majorité des membres du conseil figure de droit à l'ordre du jour.

@@ -2,11 +2,11 @@
 
 Les règles relatives au droit départemental de passage prévu à l'article L. 173-3 sont fixées par les articles R. 321-5 à R. 321-10 du code de l'environnement, ci-après reproduits :
 
-" Art.R. 321-5-Peuvent faire l'objet de la perception du droit départemental de passage prévu par l'article L. 321-11 les véhicules terrestres à moteur qui empruntent un ouvrage d'art reliant une île maritime au continent en direction de cette île.
+" Art. R. 321-5-Peuvent faire l'objet de la perception du droit départemental de passage prévu par l'article L. 321-11 les véhicules terrestres à moteur qui empruntent un ouvrage d'art reliant une île maritime au continent en direction de cette île.
 
-" Art.R. 321-6-Pour le calcul de la majorité mentionnée au premier alinéa de l'article L. 321-11, il est attribué une voix par commune n'appartenant pas à un groupement compétent en matière d'aménagement, d'urbanisme ou d'environnement et autant de voix pour chaque groupement de communes compétent en matière d'aménagement, d'urbanisme ou d'environnement que celui-ci comporte de communes membres. Lorsqu'un tel groupement comprend également des communes non situées sur l'île maritime concernée, celles-ci n'entrent pas dans le décompte des voix.
+" Art. R. 321-6-Pour le calcul de la majorité mentionnée au premier alinéa de l'article L. 321-11, il est attribué une voix par commune n'appartenant pas à un groupement compétent en matière d'aménagement, d'urbanisme ou d'environnement et autant de voix pour chaque groupement de communes compétent en matière d'aménagement, d'urbanisme ou d'environnement que celui-ci comporte de communes membres. Lorsqu'un tel groupement comprend également des communes non situées sur l'île maritime concernée, celles-ci n'entrent pas dans le décompte des voix.
 
-" Art.R. 321-7-Lorsque la majorité calculée selon les modalités définies à l'article R. 321-6 est acquise, le conseil général peut instituer par délibération un droit départemental de passage.
+" Art. R. 321-7-Lorsque la majorité calculée selon les modalités définies à l'article R. 321-6 est acquise, le conseil départemental peut instituer par délibération un droit départemental de passage.
 
 " Cette délibération précise, s'il y a lieu, les différences de tarifs visées au quatrième alinéa de l'article L. 321-11 et peut limiter la perception de ce droit de passage aux seules périodes d'afflux touristique. Dans ce cas, la délibération fait mention des dates de début et de fin de ces périodes.
 
@@ -14,7 +14,7 @@ Les règles relatives au droit départemental de passage prévu à l'article L. 
 
 " Cette délibération est soumise pour accord à toutes les communes ainsi qu'à tous les groupements de communes compétents en matière d'aménagement, d'urbanisme ou d'environnement situés sur l'île. Si, dans le délai de deux mois à compter de sa saisine, une commune ou un groupement de communes ne s'est pas prononcé, il est réputé avoir donné son accord. La majorité des communes et groupements de communes est déterminée dans les mêmes conditions de calcul que celles définies à l'article R. 321-6.
 
-" Art.R. 321-8-I.-La convention, d'une durée de cinq ans renouvelable, prévue au cinquième alinéa de l'article L. 321-11, comprend :
+" Art. R. 321-8-I.-La convention, d'une durée de cinq ans renouvelable, prévue au cinquième alinéa de l'article L. 321-11, comprend :
 
 " 1° Un programme technique de protection et de gestion des espaces naturels de l'île soumis préalablement pour avis à la commission départementale de la nature, des paysages et des sites ;
 
@@ -26,13 +26,13 @@ Les règles relatives au droit départemental de passage prévu à l'article L. 
 
 " II.-Un exemplaire de la convention peut être consulté dans chacune des communes et au siège des groupements concernés.
 
-" Art.R. 321-9.-Le droit départemental de passage est recouvré :
+" Art. R. 321-9.-Le droit départemental de passage est recouvré :
 
 " 1° Soit directement par le comptable du département ou par un régisseur agissant pour son compte ; dans ce cas, le droit est perçu seul, ou ajouté à la redevance déjà perçue pour l'usage de l'ouvrage d'art ;
 
 " 2° Soit par le concessionnaire de l'ouvrage dans des conditions définies par convention avec le département.
 
-" Art.R. 321-10.-Le produit du droit départemental de passage est imputé par le département sur un compte budgétaire spécifique. Les sommes reversées par le département aux communes et aux groupements de communes désignés comme maîtres d'ouvrage dans la convention prévue à l'article R. 321-8 sont également imputées par ces collectivités et établissements publics locaux sur un compte budgétaire spécifique.
+" Art. R. 321-10.-Le produit du droit départemental de passage est imputé par le département sur un compte budgétaire spécifique. Les sommes reversées par le département aux communes et aux groupements de communes désignés comme maîtres d'ouvrage dans la convention prévue à l'article R. 321-8 sont également imputées par ces collectivités et établissements publics locaux sur un compte budgétaire spécifique.
 
 " Le produit de ce droit est, après prélèvement des sommes liées à sa perception, exclusivement affecté à la préservation des espaces mentionnés dans la convention et pour les actions qu'elle définit. Les dépenses afférentes à la gestion de ces espaces, qui concernent aussi bien des opérations de fonctionnement que des opérations d'investissement, sont suivies au moyen de l'état des recettes ordinaires affectées, joint aux documents budgétaires de la collectivité ou de l'établissement public.
 

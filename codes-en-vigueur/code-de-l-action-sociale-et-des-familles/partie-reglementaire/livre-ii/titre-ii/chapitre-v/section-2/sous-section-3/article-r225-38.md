@@ -1,6 +1,6 @@
 # Article R225-38
 
-Le ministre des affaires étrangères modifie ou retire l'habilitation accordée à l'organisme si l'évolution de la situation du pays pour lequel elle a été accordée ne permet plus de mener à bien des procédures d'adoption d'enfants originaires de celui-ci par des ressortissants français ou par des personnes résidant en France, si l'organisme ne présente plus les garanties suffisantes pour les enfants, leurs parents ou les futurs adoptants ou en cas de décision de retrait d'autorisation ou d'interdiction de fonctionnement prise par le président du conseil général.
+Le ministre des affaires étrangères modifie ou retire l'habilitation accordée à l'organisme si l'évolution de la situation du pays pour lequel elle a été accordée ne permet plus de mener à bien des procédures d'adoption d'enfants originaires de celui-ci par des ressortissants français ou par des personnes résidant en France, si l'organisme ne présente plus les garanties suffisantes pour les enfants, leurs parents ou les futurs adoptants ou en cas de décision de retrait d'autorisation ou d'interdiction de fonctionnement prise par le président du conseil départemental.
 
 L'habilitation est retirée par le ministre des affaires étrangères :
 

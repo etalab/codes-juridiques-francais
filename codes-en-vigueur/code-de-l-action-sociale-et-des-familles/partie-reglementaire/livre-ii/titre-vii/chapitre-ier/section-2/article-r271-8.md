@@ -1,6 +1,6 @@
 # Article R271-8
 
-Le juge d'instance est saisi par requête du président du conseil général, faite, remise ou adressée au greffe.
+Le juge d'instance est saisi par requête du président du conseil départemental, faite, remise ou adressée au greffe.
 
 A peine de nullité, la requête doit contenir :
 
@@ -14,4 +14,4 @@ A peine de nullité, la requête doit contenir :
 
 Sous la même sanction, elle est datée et signée.
 
-Le président du conseil général doit joindre les pièces invoquées à l'appui de la requête.
+Le président du conseil départemental doit joindre les pièces invoquées à l'appui de la requête.

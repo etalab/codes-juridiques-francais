@@ -1,10 +1,10 @@
 # Article R225-31
 
-Le président du conseil général met fin aux activités de l'organisme par retrait d'autorisation ou décision d'interdiction de fonctionner :
+Le président du conseil départemental met fin aux activités de l'organisme par retrait d'autorisation ou décision d'interdiction de fonctionner :
 
 1° Dans les cas prévus aux 1° et 2° de l'article R. 225-20 ;
 
-2° Lorsque l'organisme fait obstacle au contrôle de son fonctionnement par le président du conseil général ou à la protection et à la surveillance des enfants ;
+2° Lorsque l'organisme fait obstacle au contrôle de son fonctionnement par le président du conseil départemental ou à la protection et à la surveillance des enfants ;
 
 3° Si l'organisme ne respecte pas les dispositions de l'article R. 225-41 ;
 

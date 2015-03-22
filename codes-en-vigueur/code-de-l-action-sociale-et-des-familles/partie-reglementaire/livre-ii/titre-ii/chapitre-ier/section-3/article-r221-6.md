@@ -1,6 +1,6 @@
 # Article R221-6
 
-I. ― Le président du conseil général du département d'origine transmet la copie des documents suivants au président du conseil général du département d'accueil, sous réserve des dispositions de l'article R. 221-7 :
+I. ― Le président du conseil départemental du département d'origine transmet la copie des documents suivants au président du conseil départemental du département d'accueil, sous réserve des dispositions de l'article R. 221-7 :
 
 1° Les informations recueillies par le département dans le cadre d'une information préoccupante ;
 
@@ -14,9 +14,9 @@ I. ― Le président du conseil général du département d'origine transmet la 
 
 6° Le projet pour l'enfant prévu au cinquième alinéa de l'article L. 223-1.
 
-Le président du conseil général d'origine peut, le cas échéant, transmettre tout autre document susceptible d'éclairer les spécificités de la situation du mineur.
+Le président du conseil départemental d'origine peut, le cas échéant, transmettre tout autre document susceptible d'éclairer les spécificités de la situation du mineur.
 
-II. ― Toutefois, dans le cas prévu au troisième alinéa de l'article L. 228-4 et si le juge des enfants du département d'accueil maintient l'exercice de la mesure d'assistance éducative sous la responsabilité du président du conseil général du département d'origine, seule une copie des documents suivants est transmise au président du conseil général du département d'accueil :
+II. ― Toutefois, dans le cas prévu au troisième alinéa de l'article L. 228-4 et si le juge des enfants du département d'accueil maintient l'exercice de la mesure d'assistance éducative sous la responsabilité du président du conseil départemental du département d'origine, seule une copie des documents suivants est transmise au président du conseil départemental du département d'accueil :
 
 1° La décision d'assistance éducative en cours d'exécution ;
 

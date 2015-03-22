@@ -4,7 +4,7 @@ La commission départementale d'orientation de l'agriculture est placée sous la
 
 1° Le président du conseil régional ou son représentant ;
 
-2° Le président du conseil général ou son représentant ;
+2° Le président du conseil départemental ou son représentant ;
 
 3° Un président d'établissement public de coopération inter-communale ayant son siège dans le département ou son représentant ou, le cas échéant, le représentant d'un syndicat mixte de gestion d'un parc naturel régional ou de pays ;
 

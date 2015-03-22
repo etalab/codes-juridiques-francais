@@ -10,11 +10,11 @@ Les tarifs forfaitaires par mesure sont calculés sur la même base que les prix
 
 Lorsque l'établissement ou le service est ouvert depuis moins de trois ans, ou en cas de circonstances particulières, le nombre de mesures qui sert de diviseur est égal au nombre prévisionnel de l'exercice.
 
-III.-La décision d'autorisation budgétaire et de tarification, arrêtée conjointement par le président du conseil général et le préfet du département, est prise par ce dernier sur le rapport du directeur interrégional de la protection judiciaire de la jeunesse.
+III.-La décision d'autorisation budgétaire et de tarification, arrêtée conjointement par le président du conseil départemental et le préfet du département, est prise par ce dernier sur le rapport du directeur interrégional de la protection judiciaire de la jeunesse.
 
 IV.-Les prix de journée et les tarifs forfaitaires par mesure sont versés mensuellement à terme échu.
 
-V.-Pour les prestations qui font l'objet d'un prix de journée, le préfet du département ou le président du conseil général peuvent, chacun en ce qui le concerne, par convention avec l'établissement ou le service, procéder au versement d'une dotation globalisée correspondant au prix de journée multiplié par le nombre prévisionnel de journées à leur charge.
+V.-Pour les prestations qui font l'objet d'un prix de journée, le préfet du département ou le président du conseil départemental peuvent, chacun en ce qui le concerne, par convention avec l'établissement ou le service, procéder au versement d'une dotation globalisée correspondant au prix de journée multiplié par le nombre prévisionnel de journées à leur charge.
 
 Le versement de ces dotations globalisées est effectué dans les conditions fixées aux articles R. 314-115 et R. 314-116.
 

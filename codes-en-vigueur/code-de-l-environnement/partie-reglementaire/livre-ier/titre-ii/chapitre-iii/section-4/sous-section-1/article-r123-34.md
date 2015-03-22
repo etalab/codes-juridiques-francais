@@ -8,7 +8,7 @@ II.-Elle comprend en outre :
 
 2° Un maire d'une commune du département, désigné par l'association départementale des maires ou, à défaut d'association ou lorsqu'il en existe plusieurs, élu par le collège des maires du département convoqué à cet effet par le préfet ; le vote peut avoir lieu par correspondance ;
 
-3° Un conseiller général du département désigné par le conseil général ;
+3° Un conseiller départemental du département désigné par le conseil départemental ;
 
 4° Deux personnalités qualifiées en matière de protection de l'environnement désignées par le préfet du département après avis du directeur régional chargé de l'environnement ;
 

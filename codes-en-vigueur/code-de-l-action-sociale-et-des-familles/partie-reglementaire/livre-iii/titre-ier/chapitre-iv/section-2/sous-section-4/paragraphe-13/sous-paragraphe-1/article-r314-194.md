@@ -2,7 +2,7 @@
 
 I.-L'accueil temporaire est régi par les dispositions des articles D. 312-8 à D. 312-10.
 
-II.-Les charges nettes de l'accueil temporaire relevant du 5° de l'article R. 314-119 et du 4° de l'article R. 314-147 font l'objet d'un forfait global annuel versé pour les établissements financés par l'assurance maladie selon les modalités prévues au 3° de l'article R. 314-111 et pour les établissements dont le tarif est fixé par le président du conseil général selon les modalités prévues aux articles R. 314-106 à R. 314-108.
+II.-Les charges nettes de l'accueil temporaire relevant du 5° de l'article R. 314-119 et du 4° de l'article R. 314-147 font l'objet d'un forfait global annuel versé pour les établissements financés par l'assurance maladie selon les modalités prévues au 3° de l'article R. 314-111 et pour les établissements dont le tarif est fixé par le président du conseil départemental selon les modalités prévues aux articles R. 314-106 à R. 314-108.
 
 Ce forfait global annuel est pris en compte dans les produits de la tarification de l'établissement de rattachement et entre dans le calcul du résultat de ce dernier.
 

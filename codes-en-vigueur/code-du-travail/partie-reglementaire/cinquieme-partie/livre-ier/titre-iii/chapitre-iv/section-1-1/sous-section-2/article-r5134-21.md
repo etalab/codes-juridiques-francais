@@ -8,4 +8,4 @@ A l'exception du numéro d'inscription au répertoire national d'identification 
 
 3° Les organismes mentionnés à l'article D. 5134-14, pour les aides attribuées au nom de l'Etat ;
 
-4° Le cas échéant, le département, lorsque le président du conseil général le demande, pour les aides qu'il a attribuées.
+4° Le cas échéant, le département, lorsque le président du conseil départemental le demande, pour les aides qu'il a attribuées.

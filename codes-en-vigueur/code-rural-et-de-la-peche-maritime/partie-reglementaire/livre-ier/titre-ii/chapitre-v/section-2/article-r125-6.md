@@ -12,4 +12,4 @@ La consultation, d'une durée d'un mois, est organisée selon les modalités et 
 
 A l'issue de la consultation, la commission prend connaissance des réclamations et observations, entend les intéressés s'ils l'ont demandé par lettre adressée à son président et arrête l'état définitif.
 
-Ce dernier est affiché en mairie et transmis au préfet et au conseil général avec l'ensemble du dossier.
+Ce dernier est affiché en mairie et transmis au préfet et au conseil départemental avec l'ensemble du dossier.

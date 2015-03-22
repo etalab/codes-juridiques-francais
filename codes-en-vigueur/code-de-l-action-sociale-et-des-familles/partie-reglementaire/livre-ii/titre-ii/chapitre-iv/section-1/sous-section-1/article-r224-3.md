@@ -2,7 +2,7 @@
 
 Chaque conseil de famille des pupilles de l'Etat est composé de :
 
-1° Deux représentants du conseil général désignés par cette assemblée, sur proposition de son président ;
+1° Deux représentants du conseil départemental désignés par cette assemblée, sur proposition de son président ;
 
 2° Deux membres d'associations familiales, dont une association de familles adoptives ;
 

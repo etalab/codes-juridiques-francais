@@ -1,6 +1,6 @@
 # Article R421-91
 
-Le    directeur interrégional de la mer, l'agent comptable de l'établissement ainsi qu'un représentant du département désigné en son sein par le conseil général peuvent assister aux réunions du conseil d'administration. Le président du conseil d'administration peut inviter aux séances du conseil, à titre consultatif, toute personne dont la présence paraîtrait utile.
+Le directeur interrégional de la mer, l'agent comptable de l'établissement ainsi qu'un représentant du département désigné en son sein par le conseil départemental peuvent assister aux réunions du conseil d'administration. Le président du conseil d'administration peut inviter aux séances du conseil, à titre consultatif, toute personne dont la présence paraîtrait utile.
 
 Les séances du conseil d'administration ne sont pas publiques.
 

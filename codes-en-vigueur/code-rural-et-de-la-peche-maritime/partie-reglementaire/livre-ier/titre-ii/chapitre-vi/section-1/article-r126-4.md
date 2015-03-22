@@ -4,7 +4,7 @@ Le projet de réglementation des boisements est soumis à enquête publique selo
 
 Le dossier d'enquête publique comprend les pièces suivantes :
 
-1° La délibération du conseil général prévue à l'article R. 126-1 ;
+1° La délibération du conseil départemental prévue à l'article R. 126-1 ;
 
 2° Un plan comportant le tracé du ou des périmètres délimités en application du deuxième alinéa de l'article R. 126-3 ;
 

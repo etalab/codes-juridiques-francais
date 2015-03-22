@@ -1,6 +1,6 @@
 # Article R147-14
 
-Le président du conseil général transmet au conseil national, dans le mois de leur réception, les demandes d'accès aux origines dont il est saisi :
+Le président du conseil départemental transmet au conseil national, dans le mois de leur réception, les demandes d'accès aux origines dont il est saisi :
 
 1° Lorsque le dossier révèle une demande expresse de secret sans que celui-ci soit levé ;
 

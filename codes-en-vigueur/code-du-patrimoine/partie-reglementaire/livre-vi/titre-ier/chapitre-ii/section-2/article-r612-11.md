@@ -30,7 +30,7 @@ a) Un conservateur de musée ou son suppléant désignés par le préfet ;
 
 b) Un conservateur de bibliothèque ou son suppléant désignés par le préfet ;
 
-c) Deux conseillers généraux ou leurs suppléants désignés par le conseil général ;
+c) Deux conseillers départementaux ou leurs suppléants désignés par le conseil départemental ;
 
 d) Trois maires ou leurs suppléants désignés par le préfet ;
 

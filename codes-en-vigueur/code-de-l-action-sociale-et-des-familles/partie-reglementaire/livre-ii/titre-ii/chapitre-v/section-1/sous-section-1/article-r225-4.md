@@ -1,6 +1,6 @@
 # Article R225-4
 
-Avant de délivrer l'agrément, le président du conseil général doit s'assurer que les conditions d'accueil offertes par le demandeur sur les plans familial, éducatif et psychologique correspondent aux besoins et à l'intérêt d'un enfant adopté.
+Avant de délivrer l'agrément, le président du conseil départemental doit s'assurer que les conditions d'accueil offertes par le demandeur sur les plans familial, éducatif et psychologique correspondent aux besoins et à l'intérêt d'un enfant adopté.
 
 A cet effet, il fait procéder, auprès du demandeur, à des investigations comportant notamment :
 

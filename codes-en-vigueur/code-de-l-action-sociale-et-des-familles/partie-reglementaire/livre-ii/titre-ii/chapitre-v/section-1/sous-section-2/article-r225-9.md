@@ -8,6 +8,6 @@ La commission d'agrément prévue par l'article L. 225-2 comprend :
 
 3° Une personnalité qualifiée dans le domaine de la protection sociale et sanitaire de l'enfance.
 
-Les membres de la commission, dont le président et le vice-président, sont nommés pour six ans par le président du conseil général.
+Les membres de la commission, dont le président et le vice-président, sont nommés pour six ans par le président du conseil départemental.
 
-Le président du conseil général fixe le nombre et le ressort géographique des commissions d'agrément dans le département.
+Le président du conseil départemental fixe le nombre et le ressort géographique des commissions d'agrément dans le département.

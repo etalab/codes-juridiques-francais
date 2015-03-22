@@ -12,7 +12,7 @@ a) Le préfet ou son délégué, président ;
 
 b) Trois maires désignés par le préfet, sur proposition de l'association départementale des maires ;
 
-c) Un conseiller général désigné par le préfet, sur proposition du président du conseil général ;
+c) Un conseiller départemental désigné par le préfet, sur proposition du président du conseil départemental ;
 
 d) Un conseiller régional désigné par le préfet, sur proposition du président du conseil régional.
 

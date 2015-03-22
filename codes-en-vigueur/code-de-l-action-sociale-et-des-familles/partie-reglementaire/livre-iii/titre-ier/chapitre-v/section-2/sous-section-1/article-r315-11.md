@@ -1,6 +1,6 @@
 # Article R315-11
 
-I.-Les représentants dans les conseils d'administration mentionnés aux articles R. 315-6 et R. 315-8 des collectivités territoriales et des établissements publics de coopération intercommunale, autres que le maire, le président du conseil général ou le président de l'organe délibérant de l'établissement public de coopération intercommunale, sont élus par leur assemblée délibérante au scrutin secret, à la majorité absolue au premier tour, à la majorité relative au second.
+I.-Les représentants dans les conseils d'administration mentionnés aux articles R. 315-6 et R. 315-8 des collectivités territoriales et des établissements publics de coopération intercommunale, autres que le maire, le président du conseil départemental ou le président de l'organe délibérant de l'établissement public de coopération intercommunale, sont élus par leur assemblée délibérante au scrutin secret, à la majorité absolue au premier tour, à la majorité relative au second.
 
 En cas d'égalité des voix, le plus âgé des candidats est proclamé élu.
 
