@@ -8,9 +8,9 @@ II.-Sont membres de la commission avec voix délibérative :
 
 1° Pour les projets autorisés en application du a de l'article L. 313-3 :
 
-a) Le président du conseil général ou son représentant, président, et trois représentants du département désignés par le président du conseil général ;
+a) Le président du conseil départemental ou son représentant, président, et trois représentants du département désignés par le président du conseil départemental ;
 
-b) Quatre représentants d'usagers, dont un représentant d'associations de retraités et de personnes âgées, un représentant d'associations de personnes handicapées, un représentant d'associations du secteur de la protection de l'enfance et un représentant d'associations de personnes ou familles en difficultés sociales, désignés par le président du conseil général sur proposition du comité départemental des retraités et personnes âgées en ce qui concerne la première catégorie, du conseil départemental consultatif des personnes handicapées en ce qui concerne la deuxième catégorie et à l'issue d'un appel à candidature organisé dans des conditions fixées par le président du conseil général en ce qui concerne chacune des deux dernières catégories ;
+b) Quatre représentants d'usagers, dont un représentant d'associations de retraités et de personnes âgées, un représentant d'associations de personnes handicapées, un représentant d'associations du secteur de la protection de l'enfance et un représentant d'associations de personnes ou familles en difficultés sociales, désignés par le président du conseil départemental sur proposition du comité départemental des retraités et personnes âgées en ce qui concerne la première catégorie, du conseil départemental consultatif des personnes handicapées en ce qui concerne la deuxième catégorie et à l'issue d'un appel à candidature organisé dans des conditions fixées par le président du conseil départemental en ce qui concerne chacune des deux dernières catégories ;
 
 2° Pour les projets autorisés en application du b de l'article L. 313-3 :
 
@@ -26,15 +26,15 @@ b) Quatre représentants d'usagers, dont au moins un représentant d'association
 
 4° Pour les projets autorisés en application du d de l'article L. 313-3 :
 
-a) Le président du conseil général ou son représentant et le directeur général de l'agence régionale de santé ou son représentant, coprésidents, deux représentants du département désignés par le président du conseil général et deux représentants de l'agence désignés par son directeur général ;
+a) Le président du conseil départemental ou son représentant et le directeur général de l'agence régionale de santé ou son représentant, coprésidents, deux représentants du département désignés par le président du conseil départemental et deux représentants de l'agence désignés par son directeur général ;
 
-b) Six représentants d'usagers, dont trois représentants d'associations de retraités et de personnes âgées et trois représentants d'associations de personnes handicapées, désignés conjointement par le président du conseil général et le directeur général de l'agence régionale de santé sur proposition respectivement du comité départemental des retraités et personnes âgées et du conseil départemental consultatif des personnes handicapées ;
+b) Six représentants d'usagers, dont trois représentants d'associations de retraités et de personnes âgées et trois représentants d'associations de personnes handicapées, désignés conjointement par le président du conseil départemental et le directeur général de l'agence régionale de santé sur proposition respectivement du comité départemental des retraités et personnes âgées et du conseil départemental consultatif des personnes handicapées ;
 
 5° Pour les projets autorisés en application du e de l'article L. 313-3 :
 
-a) Le préfet du département ou son représentant et le président du conseil général ou son représentant, coprésidents, deux personnels des services de l'Etat désignés par le préfet, dont l'un sur proposition du garde des sceaux, et deux représentants du département désignés par le président du conseil général ;
+a) Le préfet du département ou son représentant et le président du conseil départemental ou son représentant, coprésidents, deux personnels des services de l'Etat désignés par le préfet, dont l'un sur proposition du garde des sceaux, et deux représentants du département désignés par le président du conseil départemental ;
 
-b) Six représentants d'usagers, dont trois représentants d'associations participant à l'élaboration du plan mentionné au I de l'article L. 312-5-3 et trois représentants d'associations ou personnalités œuvrant dans le secteur de la protection administrative ou judiciaire de l'enfance, désignés conjointement par le préfet et le président du conseil général à l'issue d'un appel à candidature qu'ils organisent ou sur proposition du garde des sceaux pour le secteur de la protection judiciaire de l'enfance ;
+b) Six représentants d'usagers, dont trois représentants d'associations participant à l'élaboration du plan mentionné au I de l'article L. 312-5-3 et trois représentants d'associations ou personnalités œuvrant dans le secteur de la protection administrative ou judiciaire de l'enfance, désignés conjointement par le préfet et le président du conseil départemental à l'issue d'un appel à candidature qu'ils organisent ou sur proposition du garde des sceaux pour le secteur de la protection judiciaire de l'enfance ;
 
 6° Pour les projets autorisés en application du f de l'article L. 313-3 :
 
