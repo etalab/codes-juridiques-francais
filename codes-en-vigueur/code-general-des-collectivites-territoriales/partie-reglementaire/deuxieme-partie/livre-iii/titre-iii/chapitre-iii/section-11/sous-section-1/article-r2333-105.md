@@ -14,4 +14,4 @@ PR = (0,686 P - 19 498) euros pour les communes dont la population est supérieu
 
 où P représente la population sans double compte de la commune telle qu'elle résulte du dernier recensement publié par l'Institut national de la statistique et des études économiques (INSEE).
 
-Les plafonds de redevances mentionnés au présent article évoluent au 1er janvier de chaque année, proportionnellement à l'évolution de l'index ingénierie, défini au Journal officiel du 1er mars 1974 et publié au Bulletin officiel du ministère de l'équipement, des transports et du logement, mesurée au cours des douze mois précédant la publication de l'index connu au 1er janvier.
+Les plafonds de redevances mentionnés au présent article évoluent au 1er janvier de chaque année, proportionnellement à l'évolution de l'index ingénierie, défini au Journal officiel du 1er mars 1974, mesurée au cours des douze mois précédant la publication de l'index connu au 1er janvier.
