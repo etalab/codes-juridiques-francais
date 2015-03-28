@@ -1,6 +1,5 @@
 # Chapitre 3 : Dispositions relatives à Mayotte.
 
-- [Article L163-1](article-l163-1.md)
 - [Article L163-2](article-l163-2.md)
 - [Article L163-3](article-l163-3.md)
 - [Article L163-4](article-l163-4.md)
@@ -9,4 +8,3 @@
 - [Article L163-7](article-l163-7.md)
 - [Article L163-8](article-l163-8.md)
 - [Article L163-9](article-l163-9.md)
-- [Article L163-10](article-l163-10.md)

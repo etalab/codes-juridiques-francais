@@ -10,11 +10,11 @@ L'agence poursuit un triple objectif de promotion du tourisme en France, de réa
 
 ― observer les phénomènes touristiques, mettre en place des données chiffrées fiables et utilisables par ses membres, produire des études, notamment prospectives, sur l'offre et la demande dans les filières et les territoires touristiques, diffuser le résultat de ses travaux par tous moyens qu'elle juge appropriés ;
 
-― concevoir et tenir à jour les tableaux de classement des offices de tourisme, des hôtels, des résidences de tourisme, des meublés de tourisme, des villages résidentiels de tourisme, des villages de vacances, des terrains de camping et caravanage et des parcs résidentiels de loisirs, et diffuser librement et gratuitement la liste des hébergements classés, à l'exception des meublés de tourisme.
+― concevoir et tenir à jour les tableaux de classement     des hôtels, des résidences de tourisme, des meublés de tourisme, des villages résidentiels de tourisme, des villages de vacances, des terrains de camping et caravanage et des parcs résidentiels de loisirs, et diffuser librement et gratuitement la liste des hébergements classés, à l'exception des meublés de tourisme.
 
 L'Etat, les collectivités territoriales ainsi que leurs établissements publics peuvent par convention confier à l'agence d'autres missions d'intérêt général compatibles avec son objet.
 
-L'agence comprend une commission chargée d'immatriculer les personnes physiques ou morales mentionnées à  l'article L. 211-1.
+L'agence comprend une commission chargée d'immatriculer les personnes physiques ou morales mentionnées à l'article L. 211-1.
 
 Elle comprend également une commission de l'hébergement touristique marchand. Les missions, les conditions de fonctionnement et les modalités de participation des organismes représentatifs du secteur de l'hébergement touristique aux travaux de cette commission sont déterminées par décret.
 
