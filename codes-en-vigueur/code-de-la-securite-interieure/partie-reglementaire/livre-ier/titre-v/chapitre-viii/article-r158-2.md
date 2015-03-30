@@ -23,9 +23,25 @@ Sont applicables dans les Terres australes et antarctiques françaises, sous ré
 </td>
 </tr>
 <tr>
-<td align="center">R. 113-1 à R. 113-2, R. 114-1, R. 114-2 sauf le k du 1° et les n et o du 4° et R. 114-3 à R. 114-5 <br/>
+<td align="center">
+<br/>R. 113-1 à R. 113-2, R. 114-1 <br/>
 </td>
-<td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) <br/>
+<td align="center">Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </td>
+</tr>
+<tr>
+<td>
+<p align="center"> R. 114-2, sauf le k du 1° et les n et o du 4° </p>
+</td>
+<td>
+<p align="center"> Résultant du décret n° 2015-349 du 27 mars 2015 relatif à l'habilitation et à l'assermentation des agents de l'autorité nationale de sécurité des systèmes d'information et pris pour l'application de l'article L. 2321-3 du code de la défense </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center"> R. 114-3 à R. 114-5 </p>
+</td>
+<td>
+<p align="center"> Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) </p>
 </td>
 </tr>
 <tr>
