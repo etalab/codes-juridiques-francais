@@ -7,4 +7,5 @@
 - [Section 5 : Mesures de protection](section-5)
 - [Section 6 : Zone d'importance vitale](section-6)
 - [Section 7 : Zones civiles sensibles](section-7)
+- [Section 7 bis : Dispositions spécifiques à la sécurité des systèmes d'information](section-7-bis)
 - [Section 8 : Dispositions pénales](section-8)

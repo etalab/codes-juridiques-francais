@@ -16,6 +16,8 @@ Cette commission comprend :
 
 6° Le haut fonctionnaire de défense et de sécurité auprès du ministre chargé de l'économie ou son représentant ;
 
-7° En fonction des questions traitées et sur convocation du président, les hauts fonctionnaires mentionnés à l'article R. 1143-1 et les directeurs d'administration centrale intéressés, ou leurs représentants, ainsi que les présidents des commissions mentionnées à l'article R. 1332-13.
+7° Le directeur général de l'Agence nationale de la sécurité des systèmes d'information ou son représentant ;
+
+8° En fonction des questions traitées et sur convocation du président, les hauts fonctionnaires mentionnés à l'article R. 1143-1 et les directeurs d'administration centrale intéressés, ou leurs représentants, ainsi que les présidents des commissions mentionnées à l'article R. 1332-13.
 
 Sur décision de son président, la commission peut entendre toute personnalité qualifiée.
