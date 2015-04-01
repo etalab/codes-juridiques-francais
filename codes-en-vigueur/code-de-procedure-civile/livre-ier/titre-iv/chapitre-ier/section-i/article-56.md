@@ -12,4 +12,6 @@ L'assignation contient à peine de nullité, outre les mentions prescrites pour 
 
 Elle comprend en outre l'indication des pièces sur lesquelles la demande est fondée. Ces pièces sont énumérées sur un bordereau qui lui est annexé.
 
+Sauf justification d'un motif légitime tenant à l'urgence ou à la matière considérée, en particulier lorsqu'elle intéresse l'ordre public, l'assignation précise également les diligences entreprises en vue de parvenir à une résolution amiable du litige.
+
 Elle vaut conclusions.
