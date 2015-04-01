@@ -2860,6 +2860,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 </td>
 <td>
 <br/>
+<br clear="none"/>
 </td>
 </tr>
 <tr>
@@ -2871,6 +2872,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 </td>
 <td>
 <br/>
+<br clear="none"/>
 </td>
 </tr>
 <tr>
@@ -2882,6 +2884,7 @@ C.-Diplômes délivrés par le ministère chargé des sports
 </td>
 <td>
 <br/>
+<br clear="none"/>
 </td>
 </tr>
 <tr>
@@ -2969,6 +2972,12 @@ C.-Diplômes délivrés par le ministère chargé des sports
 <p align="left">Encadrement, enseignement et animation d'activités de découverte, de loisir et d'initiation. Conduite de cycles d'apprentissage jusqu'aux premiers niveaux de compétition en rugby à XV.</p>
 </td>
 <td align="left" valign="top"/>
+</tr>
+<tr>
+<td>BP JEPS, spécialité "volley-ball et volley-ball de plage (beach-volley)".  </td>
+<td>Encadrement et animation d'activités d'éveil, de découverte et d'initiation en volley-ball et volley-ball de plage (beach volley) pour tous les publics. <p>Conduite de cycles d'apprentissage, d'enseignement et d'entraînement, jusqu'aux premiers niveaux de compétition.</p>
+</td>
+<td/>
 </tr>
 <tr>
 <td colspan="3">
@@ -3576,6 +3585,8 @@ D-3. Titres à finalité professionnelle délivrés par la Fédération françai
 </td>
 <td width="265">
 <br/>
+<br/>
+<br clear="none"/>
 </td>
 </tr>
 <tr>
@@ -3587,6 +3598,8 @@ D-3. Titres à finalité professionnelle délivrés par la Fédération françai
 </td>
 <td width="265">
 <br/>
+<br/>
+<br clear="none"/>
 </td>
 </tr>
 <tr>
@@ -3598,6 +3611,8 @@ D-3. Titres à finalité professionnelle délivrés par la Fédération françai
 </td>
 <td width="265">
 <br/>
+<br/>
+<br clear="none"/>
 </td>
 </tr>
 <tr>
@@ -3609,6 +3624,8 @@ D-3. Titres à finalité professionnelle délivrés par la Fédération françai
 </td>
 <td width="265">
 <br/>
+<br/>
+<br clear="none"/>
 </td>
 </tr>
 </tbody>
@@ -3685,15 +3702,21 @@ E-2. Certificats de qualification délivrés par la Commission paritaire nationa
 </thead>
 <tbody>
 <tr>
-<td align="left" valign="top">
-<br clear="none"/>CQP "guide de véhicules terrestres motorisés à guidon" (guide de VTM à guidon), option "quad" ou option "moto verte". <br clear="none"/>
-</td>
-<td align="left" valign="top">
-<br clear="none"/>Encadrement en autonomie de randonnées en véhicules terrestres motorisés à guidon (VTM) pour des publics titulaires d'un permis ou d'un brevet délivré par l'Etat permettant la conduite des VTM à guidon utilisés, conformément à l'article R. 221-1 du code de la route. </td>
-<td align="left" valign="top">
-<br clear="none"/>A l'exclusion de toute activité d'enseignement ou d'entraînement. <p>Dans la limite de six véhicules accompagnés. </p>
-<p>Sur des parcours connus et reconnus. </p>
+<td align="left" valign="top">CQP "guide de véhicules terrestres motorisés à guidon" (guide de VTM à guidon), option "quad".<br clear="none"/>
 <br clear="none"/>
+</td>
+<td align="left" valign="top">Encadrement en autonomie de randonnées en véhicules terrestres motorisés à guidon (VTM) pour des publics titulaires d'un permis ou d'un brevet délivré par l'Etat permettant la conduite des VTM à guidon utilisés conformément à l'article R. 221-1 du code de la route.<br clear="none"/>
+</td>
+<td align="left" valign="top">A l'exclusion de toute activité d'enseignement ou d'entraînement.<p>Dans la limite de six véhicules accompagnés.</p>
+<p>Sur des parcours connus et reconnus.</p>
+<br clear="none"/>
+</td>
+</tr>
+<tr>
+<td>CQP "guide de véhicules terrestres motorisés à guidon" (guide de VTM à guidon), option "moto verte". </td>
+<td>Encadrement en autonomie de randonnées en véhicules terrestres motorisés à guidon (VTM) pour des publics titulaires d'un permis ou d'un brevet délivré par l'Etat permettant la conduite des VTM à guidon utilisés, conformément à l'article R. 221-1 du code de la route. </td>
+<td>A l'exclusion de toute activité d'enseignement ou d'entraînement.<p>Dans la limite de six véhicules accompagnés.</p>
+<p>Sur des parcours connus et reconnus.</p>
 </td>
 </tr>
 <tr>
@@ -4018,6 +4041,7 @@ E-2. Certificats de qualification délivrés par la Commission paritaire nationa
 </td>
 <td align="left" valign="top">
 <br/>
+<br clear="none"/>
 </td>
 </tr>
 <tr>
@@ -4042,6 +4066,7 @@ E-2. Certificats de qualification délivrés par la Commission paritaire nationa
 </td>
 <td>
 <br/>
+<br clear="none"/>
 </td>
 </tr>
 <tr>
@@ -4053,6 +4078,7 @@ E-2. Certificats de qualification délivrés par la Commission paritaire nationa
 </td>
 <td>
 <br/>
+<br clear="none"/>
 </td>
 </tr>
 <tr>
@@ -4079,6 +4105,7 @@ E-2. Certificats de qualification délivrés par la Commission paritaire nationa
 </td>
 <td>
 <br/>
+<br clear="none"/>
 </td>
 </tr>
 <tr>
@@ -4103,6 +4130,7 @@ E-2. Certificats de qualification délivrés par la Commission paritaire nationa
 </td>
 <td>
 <br/>
+<br clear="none"/>
 </td>
 </tr>
 <tr>
@@ -4144,6 +4172,7 @@ E-2. Certificats de qualification délivrés par la Commission paritaire nationa
 </td>
 <td>
 <br/>
+<br clear="none"/>
 </td>
 </tr>
 <tr>
@@ -4157,6 +4186,7 @@ E-2. Certificats de qualification délivrés par la Commission paritaire nationa
 </td>
 <td align="left" valign="top">
 <br/>
+<br clear="none"/>
 </td>
 </tr>
 <tr>
@@ -4192,8 +4222,8 @@ E-2. Certificats de qualification délivrés par la Commission paritaire nationa
 <p align="left">Encadrement en autonomie de séances collectives et individuelles d'activités d'apprentissage, d'entraînement et de perfectionnement jusqu'au niveau national, dans les spécialités de l'option : 50 m, 60 m, 100 m, 200 m, 400 m, 60 m haies, 100 m haies, 110 m haies et 400 m haies. </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Pour des publics de plus de 14 ans. <br clear="none"/>
-<br clear="none"/>Dans la limite de 12 pratiquants. </p>
+<p align="left">Pour des publics de plus de 14 ans. </p>
+<p>Dans la limite de 12 pratiquants. </p>
 </td>
 </tr>
 <tr>
@@ -4204,8 +4234,8 @@ E-2. Certificats de qualification délivrés par la Commission paritaire nationa
 <p align="left">Encadrement en autonomie de séances collectives et individuelles d'activités d'apprentissage, d'entraînement et de perfectionnement jusqu'au niveau national, dans les spécialités de l'option : longueur, hauteur, triple saut et perche. </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Pour des publics de plus de 14 ans. <br clear="none"/>
-<br clear="none"/>Dans la limite de 12 pratiquants. </p>
+<p align="left">Pour des publics de plus de 14 ans. </p>
+<p>Dans la limite de 12 pratiquants. </p>
 </td>
 </tr>
 <tr>
@@ -4216,8 +4246,8 @@ E-2. Certificats de qualification délivrés par la Commission paritaire nationa
 <p align="left">Encadrement en autonomie de séances collectives et individuelles d'activités d'apprentissage, d'entraînement et de perfectionnement jusqu'au niveau national dans les spécialités de l'option : "disque, poids, marteau et javelot". </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Pour des publics de plus de 14 ans. <br clear="none"/>
-<br clear="none"/>Dans la limite de 12 pratiquants. </p>
+<p align="left">Pour des publics de plus de 14 ans. </p>
+<p>Dans la limite de 12 pratiquants. </p>
 </td>
 </tr>
 <tr>
@@ -4228,8 +4258,20 @@ E-2. Certificats de qualification délivrés par la Commission paritaire nationa
 <p align="left">Encadrement en autonomie de séances collectives et individuelles d'activités d'apprentissage, d'entraînement et de perfectionnement jusqu'au niveau national, dans les spécialités de l'option : 800 m, 1 000 m, 1 500 m, 3 000 m, 3 000 m steeple, 5 000 m, 10 000 m, 5 000 m marche, 20 km marche et 50 km marche. </p>
 </td>
 <td align="left" valign="top">
-<p align="left">Pour des publics de plus de 14 ans. <br clear="none"/>
-<br clear="none"/>Dans la limite de 12 pratiquants.</p>
+<p align="left">Pour des publics de plus de 14 ans. </p>
+<p>Dans la limite de 12 pratiquants.</p>
+</td>
+</tr>
+<tr>
+<td>CQP "technicien sportif d'athlétisme", option "fond/hors stade". </td>
+<td>Encadrement en autonomie de séances collectives et individuelles d'activités d'apprentissage, d'entraînement et de perfectionnement jusqu'au niveau national, dans les spécialités de l'option : courses supérieures au 10 000 m piste et disciplines hors stade (courses sur route, cross-country, courses à pied en nature). </td>
+<td>Pour des publics de plus de 14 ans.<p>Dans la limite de 12 pratiquants.</p>
+</td>
+</tr>
+<tr>
+<td>CQP "technicien sportif d'athlétisme", option "épreuves combinées". </td>
+<td>Encadrement en autonomie de séances collectives et individuelles d'activités d'apprentissage, d'entraînement et de perfectionnement jusqu'au niveau national, dans les spécialités de l'option : pentathlon, octathlon, heptathlon, décathlon. </td>
+<td>Pour des publics de plus de 14 ans.<p>Dans la limite de 12 pratiquants.</p>
 </td>
 </tr>
 </tbody>
