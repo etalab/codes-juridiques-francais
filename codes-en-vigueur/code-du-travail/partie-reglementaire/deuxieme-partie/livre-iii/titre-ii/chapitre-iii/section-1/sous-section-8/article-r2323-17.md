@@ -20,7 +20,10 @@ La liste des informations prévues à l'article L. 2323-71 est établie conform�
 </td>
 <td align="center">1. 2. Travailleurs extérieurs. <br/>
 </td>
-<td align="center">Travailleurs extérieurs. <br/>Nombre de salariés appartenant à une entreprise extérieure (6). <br/>Nombre de stagiaires (écoles, universités...) (7). <br/>Nombre moyen mensuel de salariés temporaires (8). <br/>Durée moyenne des contrats de travail temporaire. <br/>
+<td align="center">
+<p>Travailleurs extérieurs. <br/>Nombre de salariés appartenant à une entreprise extérieure (6). <br/>Nombre de stagiaires (écoles, universités...) (7). <br/>Nombre moyen mensuel de salariés temporaires (8). <br/>Durée moyenne des contrats de travail temporaire. </p>
+<p>Nombre de salariés de l'entreprise détachés<br/> Nombre de salariés détachés accueillis<br/>
+</p>
 </td>
 </tr>
 <tr>

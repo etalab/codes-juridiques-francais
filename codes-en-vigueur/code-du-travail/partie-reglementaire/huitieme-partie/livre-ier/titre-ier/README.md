@@ -4,3 +4,4 @@
 - [Chapitre II : Compétences des agents](chapitre-ii)
 - [Chapitre III : Prérogatives et moyens d'intervention](chapitre-iii)
 - [Chapitre IV : Dispositions pénales](chapitre-iv)
+- [Chapitre V : Sanctions administratives](chapitre-v)

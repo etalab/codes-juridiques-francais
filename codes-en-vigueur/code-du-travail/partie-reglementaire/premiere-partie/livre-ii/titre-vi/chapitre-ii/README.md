@@ -6,3 +6,4 @@
 - [Section 4 : Salaire](section-4)
 - [Section 5 : Santé au travail](section-5)
 - [Section 6 : Travail temporaire](section-6)
+- [Section 8 : Dispositions diverses](section-8)
