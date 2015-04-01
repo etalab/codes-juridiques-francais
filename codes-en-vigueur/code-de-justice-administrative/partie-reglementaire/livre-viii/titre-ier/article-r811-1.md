@@ -25,3 +25,5 @@ Les ordonnances prises sur le fondement du titre IV du livre V sont également r
 Il en est de même des ordonnances prises sur le fondement du 6° de l'article R. 222-1.
 
 Par dérogation aux dispositions qui précèdent, en cas de connexité avec un litige susceptible d'appel, les décisions portant sur les actions mentionnées au 8° peuvent elles-mêmes faire l'objet d'un appel. Il en va de même pour les décisions statuant sur les recours en matière de taxe foncière lorsqu'elles statuent également sur des conclusions relatives à cotisation foncière des entreprises, à la demande du même contribuable, et que les deux impositions reposent, en tout ou partie, sur la valeur des mêmes biens appréciée la même année.
+
+Le tribunal administratif statue également en premier et dernier ressort sur les recours sur renvoi de l'autorité judiciaire et sur les saisines de l'autorité judiciaire en application de l'article 49 du code de procédure civile.

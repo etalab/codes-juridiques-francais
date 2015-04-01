@@ -1,6 +1,6 @@
 # Titre VII : Dispositions spéciales
 
-- [Chapitre Ier : La saisine du Tribunal des conflits](chapitre-ier)
+- [Chapitre Ier : Les questions de répartition de compétence entre juridictions administratives et judiciaires](chapitre-ier)
 - [Chapitre Ier bis : La question prioritaire de constitutionnalité](chapitre-ier-bis)
 - [Chapitre II : Le contentieux des impôts directs, des taxes sur le chiffre d'affaires et des taxes assimilées](chapitre-ii)
 - [Chapitre II bis : Les contentieux sociaux](chapitre-ii-bis)
