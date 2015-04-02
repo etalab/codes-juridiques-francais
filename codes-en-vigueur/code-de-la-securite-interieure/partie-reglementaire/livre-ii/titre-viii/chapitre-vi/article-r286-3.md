@@ -14,14 +14,12 @@ Pour l'application des dispositions énumérées aux articles R. 286-1 et D. 286
 
 6° La référence à la commission départementale de vidéoprotection est remplacée par la référence à la commission locale de vidéoprotection ;
 
-7° La référence à l'article R. 311-2 est remplacée par la référence au décret n° 2009-451 du 21 avril 2009 et à son article 2 ;
+7° A l'article R. 211-24, les mots : " notamment quand il s'agit des manifestations sportives mentionnées à l'article D. 331-1 du code du sport, " sont supprimés ;
 
-8° A l'article R. 211-24, les mots : " notamment quand il s'agit des manifestations sportives mentionnées à l'article D. 331-1 du code du sport, " sont supprimés ;
+8° A l'article R. 236-16, le mot : " départemental " est supprimé ;
 
-9° A l'article R. 236-16, le mot : " départemental " est supprimé ;
+9° A l'article R. 251-7, les mots : " Dans chaque département " sont remplacés par les mots : " En Nouvelle-Calédonie " ;
 
-10° A l'article R. 251-7, les mots : " Dans chaque département " sont remplacés par les mots : " En Nouvelle-Calédonie " ;
+10° Au 3° de l'article R. 251-8, les mots : " territorialement compétentes " sont remplacés par les mots : " ou l'organisme consulaire local territorialement compétents " ;
 
-11° Au 3° de l'article R. 251-8, les mots : " territorialement compétentes " sont remplacés par les mots : " ou l'organisme consulaire local territorialement compétents " ;
-
-12° A l'article R. 252-10, les mots : " recueil des actes administratifs de la préfecture " sont remplacés par les mots : " Journal officiel de la Nouvelle-Calédonie ".
+11° A l'article R. 252-10, les mots : " recueil des actes administratifs de la préfecture " sont remplacés par les mots : " Journal officiel de la Nouvelle-Calédonie ".

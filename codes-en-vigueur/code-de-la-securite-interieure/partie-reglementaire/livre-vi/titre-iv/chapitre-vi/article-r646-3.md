@@ -28,21 +28,11 @@ Pour l'application des dispositions des titres I et III du présent livre en Nou
 
 " 2° Soit pendant 1 607 heures durant une période de trente-six mois comprise entre le 1er janvier 2010 et le 1er septembre 2013. "   ;
 
-9°  A l'article R. 613-3, les mots : " armes de catégorie B, à l'exception du 6° et du 8°, et de catégorie C, à l'exception des 3°, 4° et 5°  "  sont remplacés par  les mots : "  armes de 1re et de 4e catégories définies, d'une part, par le décret n° 2009-451 du 21 avril 2009 fixant le régime des matériels de guerre, armes et munitions en Nouvelle-Calédonie et, d'autre part " ;
+9° (Abrogé)
 
-10°   A l'article R. 613-41 :
+10° (Abrogé)
 
-a) Les mots : "  une arme du 1° de la catégorie B de l'article R. 311-2, ainsi que les munitions correspondantes classées au 10° de la catégorie B "  sont remplacés par les mots : " une arme de 1e catégorie mentionnée au paragraphe 1 du A de l'article 2 du décret n° 2009-451 du 21 avril 2009 fixant le régime des matériels de guerre, armes et munitions en Nouvelle-Calédonie ou une arme de 4e catégorie mentionnée au paragraphe 1 du I du B de cet article " ;
-
-b) Les mots : " une arme complémentaire du f du 2° de la catégorie B de l'article R. 311-2, ainsi que des munitions correspondantes classées au 8° de la catégorie C " sont remplacés par les mots : " une arme complémentaire de la 4e catégorie mentionnée au paragraphe 8 du I du B de l'article 2 du décret n° 2009-451 du 21 avril 2009 fixant le régime des matériels de guerre, armes et munitions en Nouvelle-Calédonie " ;
-
-11° ux articles R. 614-1 et R. 614-6 :
-
-a) Les mots : " des armes classées au 8° de la catégorie B et au b du 2° de la catégorie D " sont remplacés par  les mots : " des armes classées au paragraphe 2 de la sixième catégorie du B de l'article 2 du décret n° 2009-451 du 21 avril 2009 fixant le régime des matériels de guerre, armes et munitions en Nouvelle-Calédonie " ;
-
-b) Les mots : " classés au a du 2° de la catégorie D" sont supprimés  ;
-
-c) Les mots : " mentionnés à l'article L. 271-1 " sont remplacés par les mots : " mentionnés au 10° de l'article L. 646-1 " ;
+11° (Abrogé)
 
 11° bis. - Il est ajouté à l'article R. 616-13 un alinéa ainsi rédigé :
 
