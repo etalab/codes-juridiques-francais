@@ -6,8 +6,8 @@ Le même droit est accordé, sur sa demande, dans la limite de dix jours ouvrabl
 
 1° Au Parlement européen ;
 
-2° Au conseil municipal dans une commune d'au moins 3 500 habitants ;
+2° Au conseil municipal dans une commune d'au moins 1 000 habitants ;
 
-3° Au conseil départemental  ou au conseil régional ;
+3° Au conseil départemental ou au conseil régional ;
 
 4° A l'Assemblée de Corse.

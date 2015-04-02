@@ -2,7 +2,7 @@
 
 I.-Les diplômes ou les titres à finalité professionnelle sont obtenus par les voies scolaire et universitaire, par l'apprentissage, par la formation professionnelle continue ou, en tout ou en partie, par la validation des acquis de l'expérience.
 
-II.-Toute personne justifiant d'une activité professionnelle salariée, non salariée, bénévole ou de volontariat ou ayant exercé des responsabilités syndicales ou occupé une fonction de conseiller municipal, de conseiller général ou de conseiller régional en rapport direct avec le contenu de la certification visée peut demander la validation des acquis de son expérience prévue à l'article L. 6411-1 du code du travail.
+II.-Toute personne justifiant d'une activité professionnelle salariée, non salariée, bénévole ou de volontariat ou ayant exercé des responsabilités syndicales, un mandat électoral local ou une fonction élective locale en rapport direct avec le contenu de la certification visée peut demander la validation des acquis de son expérience prévue à l'article L. 6411-1 du code du travail.
 
 La durée minimale d'activité requise pour que la demande de validation soit recevable est de trois ans, que l'activité ait été exercée de façon continue ou non. Pour apprécier cette durée, l'autorité ou l'organisme qui se prononce sur la recevabilité de la demande mentionnée à l'article L. 6412-2 du même code peut prendre en compte des activités mentionnées au premier alinéa du présent II, de nature différente, exercées sur une même période.
 
