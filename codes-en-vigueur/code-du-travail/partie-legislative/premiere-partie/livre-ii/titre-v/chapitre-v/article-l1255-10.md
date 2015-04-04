@@ -1,4 +1,4 @@
-# Article L1254-10
+# Article L1255-10
 
 Est puni d'une amende de 3 750 euros, le fait pour l'utilisateur de recourir à un salarié temporaire :
 

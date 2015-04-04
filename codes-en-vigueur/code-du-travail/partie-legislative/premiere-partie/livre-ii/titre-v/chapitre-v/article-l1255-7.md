@@ -1,4 +1,4 @@
-# Article L1254-7
+# Article L1255-7
 
 Le fait pour l'utilisateur de méconnaître les dispositions relatives à la durée de la mission, prévues à l'article L. 1251-12, est puni d'une amende de 3 750 euros.
 

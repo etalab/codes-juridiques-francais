@@ -6,4 +6,3 @@
 - [Section 4 : Contrat de mise à disposition et entreprise de travail temporaire](section-4)
 - [Section 5 : Actions en justice.](section-5)
 - [Section 6 : Dispositions applicables aux employeurs publics](section-6)
-- [Section 7 : Portage salarial.](section-7)
