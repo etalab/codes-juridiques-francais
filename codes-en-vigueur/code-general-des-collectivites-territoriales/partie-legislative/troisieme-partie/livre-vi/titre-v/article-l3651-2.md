@@ -1,6 +1,6 @@
 # Article L3651-2
 
-Les routes classées dans le domaine public routier de la communauté urbaine de Lyon et dans le domaine public routier du département du Rhône situées sur le territoire de la métropole de Lyon, ainsi que leurs dépendances et accessoires, sont transférées en pleine propriété à la métropole de Lyon au jour de sa création. Il en est de même des infrastructures routières en cours de réalisation par la communauté urbaine de Lyon et le département du Rhône à la date de ce transfert.
+Les routes classées dans le domaine public routier de la communauté urbaine de Lyon et dans le domaine public routier du département du Rhône situées sur le territoire de la métropole de Lyon, ainsi que leurs dépendances et accessoires, sont transférées en pleine propriété à la métropole de Lyon au jour de sa création. Il en est de même des infrastructures routières situées sur son territoire en cours de réalisation par la communauté urbaine de Lyon et le département du Rhône à la date de ce transfert.
 
 Ces transferts s'effectuent à titre gratuit et ne donnent lieu ni à versement de la contribution prévue à l'article 879 du code général des impôts ni à perception d'impôts, de droits ou de taxes de quelque nature que ce soit.
 
