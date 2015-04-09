@@ -1,6 +1,5 @@
 # TITRE V : De l'équipement commercial.
 
-- [Chapitre Ier   :  Des commissions d'équipement commercial et des observatoires départementaux d'équipement commercial](chapitre-ier)
 - [Chapitre II   :  De l'autorisation commerciale](chapitre-ii)
 - [Article A750-1](article-a750-1.md)
 - [Article A750-2](article-a750-2.md)
