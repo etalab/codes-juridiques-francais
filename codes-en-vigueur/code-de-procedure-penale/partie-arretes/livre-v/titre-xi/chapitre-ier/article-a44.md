@@ -1480,7 +1480,7 @@ Le siège des services pénitentiaires d'insertion et de probation et la liste d
 <p align="left">Antenne de Liancourt. </p>
 </td>
 <td valign="top">
-<p align="left">Centre pénitentiaire de Liancourt (quartier centre de détention et quartier maison d'arrêt du Chemin de Verderonne inclus).</p>
+<p align="left">Centre pénitentiaire de Liancourt. </p>
 </td>
 </tr>
 <tr>
