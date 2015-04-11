@@ -10,7 +10,7 @@ trois représentants des départements désignés par l'assemblée des départem
 
 un représentant des communes désigné par l'association des maires de France ;
 
-Un membre du   Conseil économique, social et environnemental désigné par son président ;
+Un membre du Conseil économique, social et environnemental désigné par son président ;
 
 un membre de l'inspection générale des affaires sociales désigné par le ministre ;
 
@@ -22,9 +22,9 @@ la fédération générale des retraités de la fonction publique ;
 
 la fédération nationale des associations de retraités ;
 
-la fédération nationale des clubs d'aînés ruraux ;
+Générations mouvement - fédération nationale ;
 
-l'union nationale des offices de personnes âgées ;
+l'Union nationale des instances de coordination, offices de retraités et de personnes âgées ;
 
 l'union nationale des retraités et personnes âgées ;
 
@@ -36,9 +36,9 @@ l'union confédérale des retraités C.F.D.T. ;
 
 l'union confédérale des retraités F.O. ;
 
-l'union nationale des associations de retraités et pensionnés C.F.T.C. ;
+l'Union nationale des retraités et pensionnés CFTC ;
 
-l'union nationale pour la prévoyance sociale de l'encadrement C.G.C. ;
+l'Union nationale interprofessionnelle des retraités CFE-CGC ;
 
 l'union nationale des indépendants retraités du commerce ;
 
