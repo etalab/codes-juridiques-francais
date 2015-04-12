@@ -12,3 +12,4 @@
 - [VII ter : Fonds communs de placement à risques](vii-ter)
 - [VIII : Réductions d'impôts pour l'achat de biens culturels](viii)
 - [IX : Crédit d'impôt au titre des avances remboursables ne portant pas intérêt pour financer l'acquisition ou la construction d'une résidence principale](ix)
+- [X : Déclaration des investissements réalisés outre-mer et mise en concurrence des intermédiaires en défiscalisation.](x)
