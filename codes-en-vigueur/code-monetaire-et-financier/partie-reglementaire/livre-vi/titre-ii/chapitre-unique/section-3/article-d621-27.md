@@ -8,7 +8,7 @@ Le droit fixe dû au titre du I de l'article L. 621-5-3 est fixé à :
 
 3° 1 000 euros pour tout dépôt d'un document de référence ou d'un document de base mentionné au 3° ;
 
-4° 2 000 euros pour toute autorisation d'un organisme de placements collectifs en valeurs mobilières ou d'un FIA relevant des paragraphes 1, 2 et 6 de la sous-section 2, du paragraphe 2 ou du sous-paragraphe 1 du paragraphe 1 de la sous-section 3, et de la sous-section 4 de la section 2 du chapitre IV du titre Ier du livre II, ou d'un compartiment d'un tel organisme ou d'un tel FIA, soumis à la législation d'un Etat étranger ;
+4° 2 000 euros pour toute notification ou autorisation de commercialisation en France d'un placement collectif de droit étranger ou d'un fonds d'investissement de droit étranger ou d'un compartiment d'un tel placement collectif ou fonds d'investissement ;
 
 5° 1 500 euros par dépôt d'un document d'information sur un programme d'émission de titres de créances soumis à un enregistrement préalable ou portant sur des contrats financiers à terme et mentionnés au 5° ;
 
