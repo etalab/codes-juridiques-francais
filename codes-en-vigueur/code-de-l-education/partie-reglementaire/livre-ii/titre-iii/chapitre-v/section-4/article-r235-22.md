@@ -1,0 +1,7 @@
+# Article R235-22
+
+Les maires sont désignés par l'association représentative des maires de la circonscription départementale du Rhône ou, à défaut, élus par le collège des maires de la circonscription départementale du Rhône à la représentation proportionnelle à la plus forte moyenne, sans adjonction ni suppression de noms et sans modification de l'ordre de présentation. Sur chaque liste, les sièges sont attribués aux candidats d'après l'ordre de présentation. Le vote peut avoir lieu par correspondance. Le collège des maires est convoqué par le préfet.
+
+Les représentants des personnels sont nommés par le préfet du Rhône. Le directeur académique des services de l'éducation nationale, agissant sur délégation du recteur d'académie, reçoit à cet effet les propositions des organisations syndicales représentatives dans la circonscription départementale et transmet les propositions au préfet.
+
+Les représentants des parents d'élèves sont nommés par le préfet du Rhône. Le directeur académique des services de l'éducation nationale, agissant sur délégation du recteur d'académie, reçoit à cet effet les propositions des associations de parents d'élèves représentatives dans la circonscription départementale et les transmet au préfet. La représentativité des associations de parents d'élèves est appréciée en fonction du nombre de voix obtenues dans la circonscription départementale lors des élections des parents d'élèves dans les instances représentatives des établissements d'enseignement scolaire.
