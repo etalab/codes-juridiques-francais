@@ -40,6 +40,7 @@
 - [29° bis : Réduction d'impôt au titre des cotisations versées aux associations syndicales chargées du défrichement forestier](29-bis)
 - [11° ter : Réduction d'impôt au titre 
 d'investissements ou de travaux forestiers](11-ter)
+- [15° ter : Réduction d'impôt accordée au titre des souscriptions en numéraire au capital d'entreprises de presse.](15-ter)
 - [11° quater : Réduction d'impôt accordée au titre des investissements dans des résidences hôtelières à vovation sociale](11-quater)
 - [19° quater : Réduction d'impôt au titre des intérêts du différé de paiement accordé lors de la transmission d'une exploitation agricole](19-quater)
 - [19° quinquies : Réduction d'impôt accordée au titre du financement en capital d'oeuvres cinématographiques ou audiovisuelles](19-quinquies)

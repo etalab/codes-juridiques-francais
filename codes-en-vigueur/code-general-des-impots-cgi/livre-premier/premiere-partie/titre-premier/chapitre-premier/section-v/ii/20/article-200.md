@@ -14,13 +14,17 @@ e) D'associations cultuelles et de bienfaisance, ainsi que des établissements p
 
 f) D'organismes publics ou privés dont la gestion est désintéressée et qui ont pour activité principale la présentation au public d'oeuvres dramatiques, lyriques, musicales, chorégraphiques, cinématographiques et de cirque ou l'organisation d'expositions d'art contemporain, à la condition que les versements soient affectés à cette activité. Cette disposition ne s'applique pas aux organismes qui présentent des oeuvres à caractère pornographique ou incitant à la violence ;
 
+f bis) D'associations d'intérêt général exerçant des actions concrètes en faveur du pluralisme de la presse, par la prise de participations minoritaires, l'octroi de subventions ou encore de prêts bonifiés à des entreprises de presse, au sens du 1 de l'article 39 bis A.
+
+Les donateurs peuvent affecter leurs dons au financement d'une entreprise de presse ou d'un service de presse en ligne en particulier, à condition qu'il n'existe aucun lien économique et financier, direct ou indirect, entre le donateur et le bénéficiaire.
+
 g) De fonds de dotation :
 
-1° Répondant aux caractéristiques mentionnées au b ;
+1° Répondant aux caractéristiques mentionnées au b ou au f bis ;
 
-2° Ou dont la gestion est désintéressée et qui reversent les revenus tirés des dons et versements mentionnés au premier alinéa du 1 à des organismes mentionnés aux a à f ou à la Fondation du patrimoine dans les conditions mentionnées aux quatre premiers alinéas du 2 bis, ou à une fondation ou association reconnue d'utilité publique agréée par le ministre chargé du budget dans les conditions mentionnées au dernier alinéa du même 2 bis. Ces organismes délivrent aux fonds de dotation une attestation justifiant le montant et l'affectation des versements effectués à leur profit.
+2° Ou dont la gestion est désintéressée et qui reversent les revenus tirés des dons et versements mentionnés au premier alinéa du 1 à des organismes mentionnés aux a à f bis ou à la Fondation du patrimoine dans les conditions mentionnées aux quatre premiers alinéas du 2 bis, ou à une fondation ou association reconnue d'utilité publique agréée par le ministre chargé du budget dans les conditions mentionnées au dernier alinéa du même 2 bis. Ces organismes délivrent aux fonds de dotation une attestation justifiant le montant et l'affectation des versements effectués à leur profit.
 
-Ouvrent également droit à la réduction d'impôt les frais engagés dans le cadre d'une activité bénévole et en vue strictement de la réalisation de l'objet social d'un organisme mentionné aux deuxième à huitième alinéas, lorsque ces frais, dûment justifiés, ont été constatés dans les comptes de l'organisme et que le contribuable a renoncé expressément à leur remboursement.
+Ouvrent également droit à la réduction d'impôt les frais engagés dans le cadre d'une activité bénévole et en vue strictement de la réalisation de l'objet social d'un organisme mentionné aux a à g, lorsque ces frais, dûment justifiés, ont été constatés dans les comptes de l'organisme et que le contribuable a renoncé expressément à leur remboursement.
 
 1 bis. Pour l'application des dispositions du 1, lorsque les dons et versements effectués au cours d'une année excèdent la limite de 20 %, l'excédent est reporté successivement sur les années suivantes jusqu'à la cinquième inclusivement et ouvre droit à la réduction d'impôt dans les mêmes conditions.
 
