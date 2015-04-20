@@ -1,5 +1,3 @@
 # Article D514-5
 
-Un fonds national de péréquation et d'action professionnelle des chambres d'agriculture peut soit consentir à celles-ci des subventions ou des avances remboursables, soit garantir tout ou partie de leurs emprunts.
-
-Ce fonds est destiné à permettre aux chambres d'agriculture de couvrir les dépenses entraînées par leur participation à la réalisation des programmes agricoles généraux arrêtés par le ministre de l'agriculture, après avis de l'assemblée permanente des chambres d'agriculture.
+Le Fonds national de solidarité et de péréquation prévu à l'article 1604 du code général des impôts a pour objet d'assurer un équilibre entre les situations financières des chambres d'agriculture et de leur fournir les ressources nécessaires au financement d'actions de mutualisation et de modernisation de leur réseau et à la réalisation d'actions d'intérêt commun conformes aux orientations d'un programme général pluriannuel adopté par l'Assemblée permanente des chambres d'agriculture et approuvé par le ministre chargé de l'agriculture.

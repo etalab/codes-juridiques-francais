@@ -1,4 +1,4 @@
-# Section 2 : Fonds national de péréquation et d'action professionnelle des chambres d'agriculture.
+# Section 2 : Fonds national de solidarité et de péréquation.
 
 - [Article D514-5](article-d514-5.md)
 - [Article D514-6](article-d514-6.md)

@@ -1,11 +1,15 @@
 # Article D514-8
 
-Le fonds national de péréquation et d'action professionnelle des chambres d'agriculture est géré par un comité de gestion de dix membres composé :
+Le Fonds national de solidarité et de péréquation est géré par un comité de gestion présidé par le président de l'Assemblée permanente des chambres d'agriculture.
 
-- du président de l'assemblée permanente des chambres d'agriculture, président ;
+Outre son président, le comité de gestion comprend quatorze membres élus par l'Assemblée permanente des chambres d'agriculture en son sein lors de chaque première session ordinaire suivant le renouvellement général des chambres départementales d'agriculture :
 
-- et de neuf membres élus en son sein par l'assemblée permanente des chambres d'agriculture, à l'ouverture de sa première session ordinaire suivant le renouvellement général ou partiel des chambres départementales d'agriculture. Ces neufs membres sont élus à la majorité absolue au premier tour de scrutin et à la majorité relative, au second tour. Ils demeurent en fonctions jusqu'à la première session ordinaire suivant de nouvelles élections générales ou partielles des chambres d'agriculture.
+- un membre élu parmi les représentants des chambres d'agriculture de la Guadeloupe, la Guyane, la Martinique, La Réunion et de Mayotte ;
 
-Le ministre de l'agriculture peut assister ou se faire représenter aux réunions du comité de gestion.
+- treize membres représentant chacun une région métropolitaine, élus parmi les représentants des chambres dont tout ou partie de la circonscription est comprise dans cette région.
 
-Le président de l'assemblée permanente des chambres d'agriculture peut se faire représenter par un membre de l'assemblée permanente pour convoquer et présider le comité de gestion.
+Ces membres sont élus à la majorité absolue au premier tour de scrutin et à la majorité relative au second tour.
+
+Le président de l'Assemblée permanente des chambres d'agriculture peut se faire représenter par un membre de l'assemblée.
+
+Le ministre chargé de l'agriculture participe aux réunions du comité de gestion. Il peut s'y faire représenter ou accompagner.

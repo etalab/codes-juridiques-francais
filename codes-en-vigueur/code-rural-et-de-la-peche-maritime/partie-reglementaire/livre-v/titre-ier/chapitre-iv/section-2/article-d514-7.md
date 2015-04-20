@@ -1,23 +1,9 @@
 # Article D514-7
 
-Ce compte qui est indépendant du budget de l'assemblée est crédité :
+Les ressources du Fonds national de solidarité et de péréquation peuvent être utilisées pour :
 
-1° D'un prélèvement sur les ressources ordinaires des chambres d'agriculture, arrêté par le ministre de l'agriculture, après avis de l'assemblée permanente des chambres d'agriculture ;
+1° Accorder des subventions aux établissements du réseau, spécialement à ceux disposant de ressources insuffisantes ou qui participent à la réalisation des programmes approuvés par le ministre chargé de l'agriculture ou qui sont engagés dans une démarche de mutualisation ;
 
-2° Du montant des remboursements en capital et des intérêts des prêts consentis par le fonds ;
+2° Octroyer des avances remboursables en vue de soutenir les chambres disposant de ressources financières insuffisantes ou de mener des actions de mutualisation et de modernisation du réseau des chambres d'agriculture ;
 
-3° Du produit de toutes ressources spéciales qui peuvent lui être affectées ;
-
-4° Des recettes diverses et accidentelles.
-
-Il est débité :
-
-1° Du montant des subventions ou prêts consentis aux chambres d'agriculture, spécialement à celles disposant de ressources insuffisantes, qui participent à la réalisation des programmes agricoles généraux arrêtés par le ministre de l'agriculture après avis de l'assemblée permanente des chambres d'agriculture ;
-
-2° Des bonifications d'intérêts octroyées aux emprunts réalisés pour le même objet par les chambres d'agriculture remplissant les conditions indiquées au 1° ci-dessus ;
-
-3° Des charges résultant de la mise en jeu de la garantie du fonds accordée à ces emprunts ;
-
-4° Des frais de fonctionnement du fonds ;
-
-5° Des dépenses accidentelles.
+3° Financer son fonctionnement.

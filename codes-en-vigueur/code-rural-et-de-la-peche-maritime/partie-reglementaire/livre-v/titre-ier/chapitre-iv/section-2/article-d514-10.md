@@ -1,5 +1,9 @@
 # Article D514-10
 
-Les décisions prises par le comité de gestion du fonds sont transmises dans un délai de huit jours au ministre de l'agriculture qui peut en demander des modifications. Elles sont exécutoires après approbation par ce dernier. Ces décisions approuvées sont exécutées par le président de ce comité.
+Les décisions du comité de gestion du fonds sont transmises au ministre chargé de l'agriculture dans un délai de huit jours.
 
-Les décisions du comité de gestion du fonds national de péréquation et d'action professionnelle des chambres d'agriculture sont exécutoires dans le délai de deux mois à compter de la date de leur réception par le ministre de l'agriculture, si dans ce délai elles n'ont fait l'objet ni d'une approbation expresse ni d'une demande de modification.
+Elles sont exécutoires après leur approbation par le ministre chargé de l'agriculture. Cette approbation est réputée acquise si elles n'ont fait l'objet ni d'une approbation expresse ni d'une demande de modification dans un délai d'un mois suivant leur réception.
+
+Les décisions approuvées sont exécutées par le président de l'Assemblée permanente des chambres d'agriculture.
+
+L'Assemblée permanente des chambres d'agriculture transmet au ministre chargé de l'agriculture un rapport annuel qui détaille les mesures mises en œuvre par chaque établissement du réseau ayant bénéficié d'une subvention du fonds en raison de sa situation financière pour remédier à ses difficultés de gestion.
