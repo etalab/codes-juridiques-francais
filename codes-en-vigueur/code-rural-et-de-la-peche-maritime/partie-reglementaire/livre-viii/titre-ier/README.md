@@ -6,4 +6,7 @@
 - [Chapitre IV : Conseils de l'enseignement agricole](chapitre-iv)
 - [Chapitre V : Dispositions particulières](chapitre-v)
 - [Article D810-2](article-d810-2.md)
+- [Article D810-3](article-d810-3.md)
+- [Article D810-4](article-d810-4.md)
+- [Article D810-5](article-d810-5.md)
 - [Article R810-1](article-r810-1.md)
