@@ -4,8 +4,14 @@ Il est institué une redevance perçue au profit des sociétés de courses, dest
 
 Le taux de la redevance est fixé par décret. Il ne peut être inférieur à 5 % ni supérieur à 6,5 %.
 
-Cette redevance est déclarée sur une déclaration mensuelle dont le modèle est fixé par l'administration et qui est déposée accompagnée du paiement dans les délais fixés en matière de taxes sur le chiffre d'affaires.
+L'exigibilité de cette redevance est constituée par l'encaissement des sommes engagées par les parieurs. Cette redevance est déclarée et liquidée selon les modalités suivantes :
 
-Elle est constatée, liquidée, recouvrée et contrôlée selon les mêmes procédures et sous les mêmes sanctions, garanties, sûretés et privilèges que la taxe sur la valeur ajoutée. Les réclamations sont présentées, instruites et jugées selon les règles applicables à cette même taxe.
+1° Pour les redevables de la taxe sur la valeur ajoutée soumis au régime réel normal d'imposition prévu au 2 de l'article 287, sur l'annexe à la déclaration mentionnée au 1 du même article 287 déposée au titre du mois ou du trimestre au cours duquel l'exigibilité est intervenue ;
+
+2° Pour les redevables de la taxe sur la valeur ajoutée soumis au régime simplifié d'imposition prévu à l'article 302 septies A, sur la déclaration annuelle mentionnée au 3 de l'article 287 déposée au titre de l'exercice au cours duquel l'exigibilité est intervenue ;
+
+3° Pour les personnes non redevables de la taxe sur la valeur ajoutée et les assujettis non établis en France se prévalant d'un des régimes particuliers mentionnés aux articles 359 et 369 ter de la directive 2006/112/ CE du Conseil du 28 novembre 2006 relative au système commun de la taxe sur la valeur ajoutée, sur l'annexe à la déclaration prévue au 1 de l'article 287 du présent code déposée auprès du service chargé du recouvrement dont relève le siège ou le principal établissement au plus tard le 25 du mois qui suit celui au cours duquel l'exigibilité est intervenue.
+
+Elle est recouvrée et contrôlée selon les mêmes procédures et sous les mêmes sanctions, garanties, sûretés et privilèges que la taxe sur la valeur ajoutée. Les réclamations sont présentées, instruites et jugées selon les règles applicables à cette même taxe.
 
 Elle est affectée au prorata des enjeux misés sur chaque spécialité, trot et galop, aux sociétés-mères de courses de chevaux. Ces dernières tiennent une comptabilité distincte à laquelle est rattaché le produit de la redevance.
