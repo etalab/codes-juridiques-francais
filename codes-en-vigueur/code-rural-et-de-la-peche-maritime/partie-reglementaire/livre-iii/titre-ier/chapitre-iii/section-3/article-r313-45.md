@@ -8,6 +8,8 @@ Elle est notamment chargée :
 
 -de veiller à la cohérence des actions menées en matière de recherche, d'expérimentation, de développement et de formation dans les secteurs agricoles et agro-industriels ;
 
+-de donner un avis au préfet de région au titre de la procédure de reconnaissance des groupements d'intérêt économique et environnemental mentionnés à l'article L. 315-1 ;
+
 -d'examiner toute question relative à l'agriculture raisonnée ainsi qu'à la qualité des produits agricoles et des denrées alimentaires ;
 
 -d'étudier, en liaison avec le service public de l'emploi, l'évolution de l'emploi dans les secteurs agricoles et agro-industriels et de proposer toutes mesures de nature à permettre son amélioration tant quantitative que qualitative, notamment en favorisant les actions de reconversion et de formation ;
