@@ -1,6 +1,6 @@
 # Article R6341-30
 
-Les indemnités journalières, à l'exclusion de celle servie par application combinée des articles L. 432-9 et L. 433-1 du code de la sécurité sociale, ainsi que les salaires sont déduits de la rémunération perçue au titre des stages de formation professionnelle.
+Les indemnités journalières, à l'exclusion de celle servie par application combinée des articles L. 432-9 et L. 433-1 du code de la sécurité sociale sont déduites de la rémunération perçue au titre des stages de formation professionnelle.
 
 A cet effet, le montant des indemnités journalières est notifié par les organismes concernés :
 

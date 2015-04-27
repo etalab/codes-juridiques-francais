@@ -1,6 +1,6 @@
 # Article R6341-51
 
-Les stagiaires ont droit au remboursement des trois quarts des frais de transport exposés pour se rendre dans leur famille, à condition que la distance à parcourir soit supérieure à 25 kilomètre, à raison :
+Les stagiaires ont droit au remboursement des trois quarts des frais de transport exposés pour se rendre  à leur domicile habituel, à condition que la distance à parcourir soit supérieure à 25 kilomètre, à raison :
 
 1° Pour les stagiaires âgés de moins de dix-huit ans, d'un voyage mensuel ;
 
