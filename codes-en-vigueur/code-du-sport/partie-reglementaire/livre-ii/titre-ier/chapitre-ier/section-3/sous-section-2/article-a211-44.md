@@ -1,5 +1,5 @@
 # Article A211-44
 
-Le contrôleur assiste avec voix consultative au conseil d'administration ainsi qu'à tout comité, commission ou organe consultatif existant en son sein. Il reçoit dans les mêmes conditions que leurs membres les convocations, ordres du jour et tous les documents qui doivent leur être adressés avant chaque séance. Les procès-verbaux lui sont adressés dès leur établissement.
+Le contrôleur budgétaire est destinataire, dans les mêmes conditions que les membres des instances auxquelles il peut assister en application de l'article 222 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique, des documents qui leur sont communiqués avant chaque séance, ainsi que des comptes rendus et des procès-verbaux.
 
-En accord avec l'établissement, le contrôleur peut également assister aux réunions des autres comités.
+En application du deuxième alinéa du même article, le document prévu à l'article A. 211-49-1 peut ouvrir la possibilité pour le contrôleur budgétaire de compléter la liste des instances concernées.

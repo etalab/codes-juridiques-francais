@@ -1,23 +1,27 @@
 # Article A411-4
 
-Le contrôleur suit l'exécution du budget de l'établissement et de ses décisions modificatives. A cette fin, et pour l'exercice de sa mission générale de surveillance de l'établissement, il a accès à tous les documents se rapportant à son activité et à sa gestion. A ce titre, il reçoit notamment, selon une périodicité et des modalités qu'il fixe après consultation de l'établissement, les documents suivants :
+Les comptes rendus de gestion mentionnés au second alinéa de l'article 223 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable sont transmis au contrôleur budgétaire, au moins deux fois par an, avant le 31 mai et avant le 30 septembre sauf dérogation accordée par celui-ci.
 
-1° La prévision de répartition des crédits ouverts au budget et son actualisation ;
+Ils comprennent :
 
-2° Les tableaux de bord relatifs à l'activité de l'établissement ;
+-l'actualisation de la répartition initiale détaillée ;
 
-3° La situation de l'exécution du budget, en recettes et en dépenses, précisant notamment la consommation des crédits limitativement ouverts ;
+-la situation détaillée de l'exécution du budget et la prévision d'exécution au 31 décembre ;
 
-4° La situation des engagements ;
+-la situation des engagements et, le cas échéant, l'actualisation de la programmation pluriannuelle ;
 
-5° La situation de trésorerie et l'état des placements ;
+-le plan de trésorerie ;
 
-6° Les comptes rendus d'exécution des contrats d'objectifs et de moyens et des contrats de performance ;
+-une note de synthèse analysant l'exécution des crédits et la prévision des crédits non consommés et identifiant les risques éventuels d'une exécution non soutenable ainsi que les mesures correctrices envisagées.
 
-7° La situation des effectifs ;
+En outre, sont transmis pour information :
 
-8° L'état des recettes propres ;
+-les accords-cadres ;
 
-9° Les informations relatives à la contribution de l'établissement à la performance du programme dont il est opérateur ;
+-les marchés à bons de commande ;
 
-10° Les documents relatifs à l'organisation, aux procédures, au fonctionnement et au contrôle interne de l'établissement, ainsi que tout document relevant d'une cartographie des risques.
+-un état récapitulatif des engagements juridiques résultant des conventions et décisions portant attributions de subvention prises par les délégués territoriaux accompagné d'un échéancier des besoins en crédits de paiement associés ;
+
+-la liste des agents mis à disposition contre remboursement ;
+
+-la liste des agents accueillis en position d'activité.

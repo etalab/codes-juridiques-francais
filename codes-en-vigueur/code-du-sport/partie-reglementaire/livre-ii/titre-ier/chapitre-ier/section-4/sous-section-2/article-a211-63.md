@@ -1,5 +1,5 @@
 # Article A211-63
 
-S'il apparaît au contrôleur que la gestion de l'établissement remet en cause la soutenabilité de l'exécution budgétaire ou la couverture des charges obligatoires ou inéluctables, il en informe l'ordonnateur par écrit. L'ordonnateur lui fait connaître dans la même forme les mesures qu'il envisage de prendre pour y remédier.
+S'il apparaît au contrôleur budgétaire que la gestion de l'ENSM remet en cause le caractère soutenable de l'exécution budgétaire au regard de l'autorisation budgétaire, la couverture de ses dépenses obligatoires ou inéluctables, la poursuite de son exploitation ou la qualité de la comptabilité budgétaire, il en informe l'ordonnateur par écrit. Celui-ci lui fait connaître dans les mêmes formes les mesures qu'il envisage de prendre pour rétablir la situation budgétaire.
 
-Le contrôleur peut, en concertation avec l'ordonnateur et, le cas échéant, sur sa proposition, mettre en place un renforcement des contrôles pour une durée limitée. Il en rend compte au ministre chargé du budget et en informe le ministre chargé des sports.
+Le contrôleur budgétaire rend compte de ces échanges au ministre chargé du budget et au ministre de tutelle.

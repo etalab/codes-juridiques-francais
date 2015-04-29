@@ -1,3 +1,5 @@
 # Article A411-3
 
-Le contrôleur suit la préparation du budget et de ses décisions modificatives. A cette fin, l'établissement lui communique les informations nécessaires en temps utile. Il reçoit à l'appui du projet de budget avec ses annexes le document de performance, un état retraçant les grandes composantes de la masse salariale et les perspectives la concernant, un échéancier prévisionnel des entrées et sorties de personnel permanent et non permanent. Il est informé des perspectives financières pluriannuelles et reçoit à ce titre une présentation détaillée des opérations d'investissement et de fonctionnement permettant de le renseigner sur la capacité d'engagement de l'établissement.
+Pour l'examen du budget initial, des budgets rectificatifs et du compte financier, le contrôleur budgétaire est destinataire des projets de documents prévus à l'article 175 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable préalablement à leur envoi aux membres du conseil d'administration.
+
+Le contrôleur budgétaire est destinataire, après le vote du budget, d'une répartition détaillée des crédits et des prévisions de recettes dans les conditions précisées dans le document prévu à l'article A. 411-10.

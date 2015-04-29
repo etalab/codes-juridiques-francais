@@ -1,21 +1,15 @@
 # Article A211-67
 
-Le contrôleur suit l'exécution du budget de l'établissement. A cette fin, et pour l'exercice de sa mission générale de surveillance de l'établissement, il a accès à tous les documents se rapportant à son activité et à sa gestion. A ce titre, il reçoit notamment, selon une périodicité et des modalités qu'il fixe après consultation de l'établissement, les documents suivants :
+En application des dispositions de l'article 223 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique, le contrôleur budgétaire est notamment destinataire des documents suivants :
 
-1° La prévision de répartition des crédits ouverts au budget et son actualisation ;
+- les informations relatives au suivi des objectifs fixés par le ministre chargé des sports au directeur du CREPS ;
 
-2° Les tableaux de bord relatifs à l'activité de l'établissement ;
+- les documents à caractère stratégique relatifs aux missions du CREPS, ses objectifs, ses moyens et ses engagements financiers ;
 
-3° La situation de l'exécution du budget, en recettes et en dépenses, précisant notamment la consommation des crédits limitativement ouverts. Cette situation est complétée (en tant que de besoin et à la demande du contrôleur) d'une actualisation des documents prévisionnels transmis à l'appui du projet de budget ;
+- les informations relatives au suivi du contrat de performance et à la contribution de l'établissement à la performance du programme budgétaire dont il est opérateur ;
 
-4° La situation des engagements ;
+- les documents relatifs à l'organisation, aux procédures internes et au fonctionnement du contrôle interne, notamment comptable et budgétaire du CREPS ainsi que tout document relevant d'une cartographie des risques ;
 
-5° La situation de trésorerie et l'état des placements ;
+- les documents relatifs aux politiques des achats, de l'immobilier, des ressources humaines et des systèmes d'information ;
 
-6° Les comptes rendus d'exécution des contrats d'objectifs et de moyens et des contrats de performance, et les informations relatives à la contribution de l'établissement à la performance du programme dont il est opérateur ;
-
-7° La situation des effectifs ;
-
-8° L'état des recettes propres ;
-
-9° Les documents relatifs à l'organisation, aux procédures, au fonctionnement et au contrôle interne de l'établissement.
+- les rapports d'inspection et d'audit des commissaires aux comptes et des auditeurs internes et externes, ainsi que les plans d'action du CREPS relatifs à la mise en œuvre de leurs recommandations.

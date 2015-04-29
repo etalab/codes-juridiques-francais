@@ -1,23 +1,17 @@
 # Article A211-60
 
-Le contrôleur suit l'exécution du budget de l'établissement. A cette fin, et pour l'exercice de sa mission générale de surveillance de l'établissement, il a accès à tous les documents se rapportant à son activité et à sa gestion. A ce titre, il reçoit notamment, selon une périodicité et des modalités qu'il fixe après consultation de l'établissement, les documents suivants :
+En application des dispositions de l'article 223 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique, le contrôleur budgétaire est notamment destinataire des documents suivants :
 
-1° La prévision de répartition des crédits ouverts au budget et son actualisation ;
+- les informations relatives au suivi des objectifs fixés par le ministre chargé des sports au dirigeant de l'ENSM ;
 
-2° Les tableaux de bord relatifs à l'activité de l'établissement ;
+- les documents à caractère stratégique relatifs aux missions de l'ENSM, ses objectifs, ses moyens et ses engagements financiers ;
 
-3° La situation de l'exécution du budget, en recettes et en dépenses, précisant notamment la consommation des crédits limitativement ouverts ;
+- les informations relatives au suivi du contrat de performance et à la contribution de l'ENSM à la performance du programme budgétaire concerné ;
 
-4° La situation des engagements ;
+- les documents relatifs à l'organisation, aux procédures internes et au fonctionnement du contrôle interne, notamment comptable et budgétaire de l'ENSM, ainsi que tout document relevant d'une cartographie des risques ;
 
-5° La situation de trésorerie et l'état des placements ;
+- les documents relatifs aux politiques des achats, de l'immobilier, des ressources humaines et des systèmes d'information ;
 
-6° Les comptes rendus d'exécution des contrats d'objectifs et de moyens et des contrats de performance ;
+- le cas échéant, les informations relatives à la création de filiales ;
 
-7° La situation des effectifs ;
-
-8° L'état des recettes propres ;
-
-9° Les informations relatives à la contribution de l'établissement à la performance du programme dont il est opérateur ;
-
-10° Les documents relatifs à l'organisation, aux procédures, au fonctionnement et au contrôle interne de l'établissement, ainsi que tout document relevant d'une cartographie des risques.
+- les rapports d'inspection et d'audit des auditeurs internes et externes ainsi que les plans d'action de l'ENSM relatifs à la mise en œuvre de leurs recommandations.

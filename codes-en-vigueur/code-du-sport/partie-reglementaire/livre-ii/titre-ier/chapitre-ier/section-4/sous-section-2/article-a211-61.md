@@ -1,23 +1,45 @@
 # Article A211-61
 
-I. - Sont soumis au visa préalable du contrôleur, selon des seuils et des modalités qu'il fixe après consultation de l'établissement :
+Dans les conditions et selon les seuils fixés par le document prévu à l'article A. 211-63-1, au regard de la qualité du contrôle interne budgétaire :
 
-1° Les décisions modificatives d'urgence ;
+Sont soumis au visa :
 
-2° Les actes relatifs au recrutement, à la rémunération et à l'avancement du personnel, qu'il s'agisse de mesures générales ou individuelles, de contrats à durée indéterminée ou déterminée, de détachements ou de mises à disposition ;
+-les mesures générales ou catégorielles, relatives notamment à la rémunération ou à la gestion du temps de travail et ayant un impact sur la masse salariale de l'organisme ;
 
-3° Les acquisitions et aliénations immobilières ;
+-les actes relatifs au recrutement, à la rémunération et à l'avancement des cadres dirigeants ;
 
-4° Les contrats, conventions, marchés ou commandes ;
+-les contrats de recrutement et leurs avenants ;
 
-5° Les prêts et subventions ;
+-les entrées par détachement sur contrat ;
 
-6° Les décisions d'attribution de garantie ;
+-les entrées par mise à disposition donnant lieu à remboursement ;
 
-8° Les transactions ;
+-les mesures relatives à l'avancement des personnels autres que les mesures liées à l'application des dispositions statutaires ;
 
-9° Les placements financiers.
+-les ruptures conventionnelles de contrat ;
 
-II. - Le contrôleur doit délivrer son visa dans un délai de quinze jours à compter de la réception des projets d'acte ou de décision, accompagnés des pièces justificatives. Ce délai peut être interrompu par toute demande écrite d'informations complémentaires, nécessaires à l'instruction du dossier, formulée par le contrôleur. En l'absence de réponse de sa part à l'expiration de ce délai, son visa est réputé délivré.
+-les indemnités de départ ;
 
-Si le contrôleur refuse son visa, il fait connaître par écrit les raisons de son refus et en informe le ministre chargé du budget. L'ordonnateur ne peut passer outre à un refus de visa que sur autorisation du ministre chargé du budget.
+-les conventions et contrats autres que les contrats de recrutement ;
+
+-les marchés autres que les marchés à bons de commande ;
+
+-les bons de commande ;
+
+-les prêts, secours et subventions ;
+
+-les acquisitions et aliénations immobilières ;
+
+-les baux autres que les baux domaniaux.
+
+Sont soumis à avis préalable :
+
+-les accords-cadres ;
+
+-les marchés à bons de commande ;
+
+-les projets de transactions avant transmission au tiers pour signature ;
+
+-les emprunts autorisés et les attributions de garanties ;
+
+-les participations et les apports à toute entité dans les cas où ils ne sont pas approuvés par les autorités de tutelle ainsi que les cessions de participations et les retraits d'apports.

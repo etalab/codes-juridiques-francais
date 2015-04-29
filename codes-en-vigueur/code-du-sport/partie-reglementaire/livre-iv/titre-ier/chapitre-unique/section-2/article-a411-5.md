@@ -1,23 +1,15 @@
 # Article A411-5
 
-I. ― Sont soumis au visa préalable du contrôleur, selon des seuils et des modalités qu'il fixe après consultation de l'établissement :
+En application des dispositions de l'article 223 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique, le contrôleur budgétaire est notamment destinataire des documents suivants :
 
-1° Les décisions modificatives d'urgence ;
+-les informations relatives au suivi des objectifs fixés par le ministre chargé des sports au directeur général du CNDS ;
 
-2° Les actes relatifs au recrutement, à la rémunération et à l'avancement du personnel, qu'il s'agisse de mesures générales ou individuelles, de contrats à durée indéterminée ou déterminée, de détachements, d'affectations ou de mises à disposition ;
+-les documents à caractère stratégique relatifs aux missions du CNDS, ses objectifs, ses moyens et ses engagements financiers ;
 
-3° Les acquisitions et aliénations immobilières ;
+-les informations relatives au suivi du contrat de performance et à la contribution du CNDS à la performance du programme budgétaire dont il est opérateur ;
 
-4° Les contrats, conventions, marchés ou commandes ;
+-les documents relatifs à l'organisation, aux procédures internes et au fonctionnement du contrôle interne, notamment comptable et budgétaire du CNDS ainsi que tout document relevant d'une cartographie des risques ;
 
-5° Les prêts et subventions ;
+-les documents relatifs aux politiques des achats, de l'immobilier, des ressources humaines et des systèmes d'information ;
 
-6° Les décisions d'attribution de garantie ;
-
-7° Les transactions ;
-
-8° Les placements financiers.
-
-II. - Le contrôleur doit délivrer son visa dans un délai de quinze jours à compter de la réception des projets d'acte ou de décision, accompagnés des pièces justificatives. Ce délai peut être interrompu par toute demande écrite d'informations complémentaires, nécessaires à l'instruction du dossier, formulée par le contrôleur. En l'absence de réponse de sa part à l'expiration de ce délai, son visa est réputé délivré.
-
-Si le contrôleur refuse son visa, il fait connaître par écrit les raisons de son refus et en informe le ministre chargé du budget. L'ordonnateur ne peut passer outre à un refus de visa que sur autorisation du ministre chargé du budget.
+-les rapports d'inspection et d'audit des commissaires aux comptes et des auditeurs internes et externes, ainsi que les plans d'action du CNDS relatifs à la mise en œuvre de leurs recommandations.
