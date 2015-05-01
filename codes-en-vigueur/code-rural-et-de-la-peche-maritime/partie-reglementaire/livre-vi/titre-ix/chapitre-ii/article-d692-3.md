@@ -6,7 +6,7 @@ Outre le président, ce comité de pilotage comprend :
 
 1° Six représentants de l'Etat :
 
--Le directeur général des politiques agricole, agroalimentaire et des territoires ou son représentant ;
+-Le directeur général de la performance économique et environnementale des entreprises ou son représentant ;
 
 -Le directeur des pêches maritimes et de l'aquaculture ou son représentant ;
 
@@ -18,7 +18,7 @@ Outre le président, ce comité de pilotage comprend :
 
 -Le directeur général de l'Institut national de la statistique et des études économiques ou son représentant ;
 
-2°  Vingt et un représentants des secteurs agricoles et agroalimentaires :
+2° Vingt et un représentants des secteurs agricoles et agroalimentaires :
 
 -un représentant de l'Assemblée permanente des chambres d'agriculture ;
 

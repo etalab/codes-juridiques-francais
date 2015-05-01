@@ -2,7 +2,7 @@
 
 Le Conseil national d'orientation de la politique sanitaire animale et végétale comprend, outre son président :
 
-I. ― Section spécialisée dans le domaine de la santé animale :
+I. - Section spécialisée dans le domaine de la santé animale :
 
 1° Le président de l'Assemblée permanente des chambres d'agriculture ;
 
@@ -30,7 +30,7 @@ I. ― Section spécialisée dans le domaine de la santé animale :
 
 13° Le président du Conseil national de la protection animale.
 
-II. ― Section spécialisée dans le domaine de la santé végétale :
+II. - Section spécialisée dans le domaine de la santé végétale :
 
 1° Le président de l'Assemblée permanente des chambres d'agriculture ;
 
@@ -56,7 +56,7 @@ II. ― Section spécialisée dans le domaine de la santé végétale :
 
 12° Le président de la Fédération nationale des producteurs de l'horticulture et des pépinières.
 
-III. ― Formation plénière :
+III. - Formation plénière :
 
 1° Le président de l'Assemblée permanente des chambres d'agriculture ;
 
@@ -76,28 +76,28 @@ III. ― Formation plénière :
 
 9° Un membre de la section spécialisée dans le domaine de la santé animale et un membre de la section spécialisée dans le domaine de la santé végétale, désignés par chaque section en fonction du sujet à traiter en formation plénière.
 
-IV. ― Participent aux travaux de chaque section spécialisée et de la formation plénière, avec voix consultative :
+IV. - Participent aux travaux de chaque section spécialisée et de la formation plénière, avec voix consultative :
 
-― le directeur général de l'alimentation ;
+- le directeur général de l'alimentation ;
 
-― le directeur général des politiques agricole, agroalimentaire et des territoires ;
+- le directeur général de la performance économique et environnementale des entreprises ;
 
-― le directeur général de la santé ;
+- le directeur général de la santé ;
 
-― le directeur général des douanes et des droits indirects ;
+- le directeur général des douanes et des droits indirects ;
 
-― le directeur du budget ;
+- le directeur du budget ;
 
-― le directeur de l'eau et de la biodiversité ;
+- le directeur de l'eau et de la biodiversité ;
 
-― le directeur général de l'Agence nationale de sécurité sanitaire des aliments, de l'environnement et du travail ;
+- le directeur général de l'Agence nationale de sécurité sanitaire des aliments, de l'environnement et du travail ;
 
-― le directeur général de l'Etablissement national des produits de l'agriculture et de la mer (FranceAgriMer) ;
+- le directeur général de l'Etablissement national des produits de l'agriculture et de la mer (FranceAgriMer) ;
 
-― un directeur départemental chargé de la protection des populations nommé par le ministre chargé de l'agriculture ;
+- un directeur départemental chargé de la protection des populations nommé par le ministre chargé de l'agriculture ;
 
-― un directeur régional de l'alimentation, de l'agriculture et de la forêt nommé par le ministre chargé de l'agriculture.
+- un directeur régional de l'alimentation, de l'agriculture et de la forêt nommé par le ministre chargé de l'agriculture.
 
-V. ― Le directeur général de l'Office national des forêts et le président-directeur général de l'Institut national de la recherche agronomique participent, avec voix consultative, aux travaux de la section spécialisée dans le domaine de la santé végétale.
+V. - Le directeur général de l'Office national des forêts et le président-directeur général de l'Institut national de la recherche agronomique participent, avec voix consultative, aux travaux de la section spécialisée dans le domaine de la santé végétale.
 
-VI. ― Le directeur général de l'Office national de la chasse et de la faune sauvage participe, avec voix consultative, aux travaux de la section spécialisée dans le domaine de la santé animale.
+VI. - Le directeur général de l'Office national de la chasse et de la faune sauvage participe, avec voix consultative, aux travaux de la section spécialisée dans le domaine de la santé animale.

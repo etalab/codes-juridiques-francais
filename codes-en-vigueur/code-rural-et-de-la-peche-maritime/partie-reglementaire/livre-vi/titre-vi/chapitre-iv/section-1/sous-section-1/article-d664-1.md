@@ -4,7 +4,7 @@ I.-La Commission nationale des fonds opérationnels peut, à la demande du minis
 
 II.-La commission comprend :
 
-1° Le directeur général des politiques agricole, agroalimentaire et des territoires ou son représentant ;
+1° Le directeur général de la performance économique et environnementale des entreprises ou son représentant ;
 
 2° Un représentant de l'assemblée permanente des chambres d'agriculture nommé sur proposition de cette assemblée ;
 
@@ -20,4 +20,4 @@ II.-La commission comprend :
 
 Les membres de la commission sont nommés par arrêté du ministre chargé de l'agriculture. A l'exception du représentant de l'Etat, nommé sans condition de durée, leur mandat est de cinq ans.
 
-III.-La commission est présidée par le directeur général des politiques agricole, agroalimentaire et des territoires ou son représentant. Le secrétariat de la commission est assuré par l'établissement créé en application de l'article L. 621-1, compétent en matière de fruits et légumes.
+III.-La commission est présidée par le directeur général de la performance économique et environnementale des entreprises ou son représentant. Le secrétariat de la commission est assuré par l'établissement créé en application de l'article L. 621-1, compétent en matière de fruits et légumes.

@@ -1,6 +1,6 @@
 # Article D611-5
 
-I.-La Commission nationale technique est présidée par le directeur général des politiques agricole, agroalimentaire et des territoires au ministère de l'agriculture et de la pêche ou par son représentant.
+I.-La Commission nationale technique est présidée par le directeur général de la performance économique et environnementale des entreprises au ministère de l'agriculture et de la pêche ou par son représentant.
 
 II.-La Commission nationale technique comprend :
 
@@ -14,7 +14,7 @@ c) Deux représentants de la transformation des produits agricoles parmi les mem
 
 2° Au titre des personnalités extérieures au Conseil supérieur d'orientation et de coordination de l'économie agricole et alimentaire :
 
-a) Trois représentants des établissements mentionnés à l'article    D. 621-1 ;
+a) Trois représentants des établissements mentionnés à l'article D. 621-1 ;
 
 b) Un représentant de la coopération agricole ;
 

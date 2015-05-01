@@ -1,10 +1,10 @@
 # Article D611-19
 
-I. ― La Commission nationale de la certification environnementale comprend, outre son président et son vice-président :
+I. - La Commission nationale de la certification environnementale comprend, outre son président et son vice-président :
 
 1° Au titre du Conseil supérieur d'orientation et de coordination de l'économie agricole et alimentaire mentionné à l'article R. 611-1 :
 
-a) Le directeur général des politiques agricole, agroalimentaire et des territoires, le directeur général de l'alimentation ;
+a) Le directeur général de la performance économique et environnementale des entreprises, le directeur général de l'alimentation ;
 
 b) Le directeur général de la concurrence, de la consommation et de la répression des fraudes ;
 
@@ -34,4 +34,4 @@ b) Quatre représentants d'organismes compétents en matière agricole et enviro
 
 c) Un représentant de l'Association des régions de France (ARF), sur sa proposition.
 
-II. ― Le président, le vice-président et les membres de la Commission nationale de la certification environnementale sont nommés pour une durée de trois ans, renouvelable, par arrêté du ministre chargé de l'agriculture.
+II. - Le président, le vice-président et les membres de la Commission nationale de la certification environnementale sont nommés pour une durée de trois ans, renouvelable, par arrêté du ministre chargé de l'agriculture.
