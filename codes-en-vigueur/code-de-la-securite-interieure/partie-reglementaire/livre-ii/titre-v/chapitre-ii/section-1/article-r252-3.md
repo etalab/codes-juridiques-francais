@@ -8,21 +8,25 @@ La demande d'autorisation est accompagnée d'un dossier administratif et techniq
 
 3° Si les opérations de vidéoprotection portent sur la voie publique ou si le système de vidéoprotection comporte au moins huit caméras, un plan de détail à une échelle suffisante montrant le nombre et l'implantation des caméras ainsi que les zones couvertes par celles-ci ;
 
-4° La description du dispositif prévu pour la transmission, l'enregistrement et le traitement des images ;
+4° Lorsque le système de vidéoprotection est mis en œuvre aux fins définies au dernier alinéa de l'article L. 251-2, le plan de détail prévu au 3° montre la zone couverte par la ou les caméras dont le champ de vision doit être limité aux abords immédiats des bâtiments et installations en cause ;
 
-5° La description des mesures de sécurité qui seront prises pour la sauvegarde et la protection des images éventuellement enregistrées ;
+Une attestation de l'installateur certifiant que la ou les caméras sont déconnectées des caméras intérieures et que les images qu'elles enregistrent ne peuvent être techniquement visionnées par le demandeur ou ses subordonnés est jointe à la demande. Est de même jointe une copie du courrier adressé par le demandeur au maire en application du dernier alinéa de l'article L. 251-2 ;
 
-6° Les modalités de l'information du public ;
+5° La description du dispositif prévu pour la transmission, l'enregistrement et le traitement des images ;
 
-7° Le délai de conservation des images, s'il y a lieu, avec les justifications nécessaires ;
+6° La description des mesures de sécurité qui seront prises pour la sauvegarde et la protection des images éventuellement enregistrées ;
 
-8° La désignation de la personne ou du service responsable du système et, s'il s'agit d'une personne ou d'un service différent, la désignation du responsable de sa maintenance, ainsi que toute indication sur la qualité des personnes chargées de l'exploitation du système et susceptibles de visionner les images, en particulier la copie des agréments et autorisations délivrés en application du titre Ier du livre VI, à l'exception des articles L. 613-1 à L. 613-5, L. 613-7 à L. 613-9 et L. 613-12 ;
+7° Les modalités de l'information du public ;
 
-9° Les consignes générales données aux personnels d'exploitation du système pour le fonctionnement de celui-ci et le traitement des images ;
+8° Le délai de conservation des images, s'il y a lieu, avec les justifications nécessaires ;
 
-10° Les modalités du droit d'accès des personnes intéressées ;
+9° La désignation de la personne ou du service responsable du système et, s'il s'agit d'une personne ou d'un service différent, la désignation du responsable de sa maintenance, ainsi que toute indication sur la qualité des personnes chargées de l'exploitation du système et susceptibles de visionner les images, en particulier la copie des agréments et autorisations délivrés en application du titre Ier du livre VI, à l'exception des articles L. 613-1 à L. 613-5, L. 613-7 à L. 613-9 et L. 613-12 ;
 
-11° La justification de la conformité du système de vidéoprotection aux normes techniques prévues par le deuxième alinéa de l'article L. 252-4. La certification de l'installateur du système, dans les conditions fixées par arrêté du ministre de l'intérieur, tient lieu, le cas échéant, de cette justification.
+10° Les consignes générales données aux personnels d'exploitation du système pour le fonctionnement de celui-ci et le traitement des images ;
+
+11° Les modalités du droit d'accès des personnes intéressées ;
+
+12° La justification de la conformité du système de vidéoprotection aux normes techniques prévues par le deuxième alinéa de l'article L. 252-4. La certification de l'installateur du système, dans les conditions fixées par arrêté du ministre de l'intérieur, tient lieu, le cas échéant, de cette justification.
 
 Lorsque la demande est relative à l'installation d'un système de vidéoprotection à l'intérieur d'un ensemble immobilier ou foncier complexe ou de grande dimension, le plan de masse et le plan de détail prévus aux 2° et 3° peuvent être remplacés par un plan du périmètre d'installation du système, montrant l'espace susceptible d'être situé dans le champ de vision d'une ou plusieurs caméras.
 
