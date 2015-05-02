@@ -1,6 +1,6 @@
 # Article R715-2
 
-Pour l'application du cinquième alinéa du I de l'article L. 211-1 du code du travail, les dispositions du présent article se substituent à celles des décrets prévus au sixième alinéa du I de l'article L. 211-1 susmentionné.
+Les dispositions du présent article se substituent à celles des décrets prévus à l'article L. 4153-3 du code du travail pour son application.
 
 L'emploi des jeunes âgés de plus de quatorze ans encore soumis à l'obligation scolaire est autorisé pendant les périodes de vacances scolaires comportant au moins sept jours, ouvrables ou non, sous réserve que les intéressés jouissent d'un repos continu d'une durée qui ne peut pas être inférieure à la moitié de la durée totale desdites vacances.
 
@@ -12,7 +12,7 @@ Les jeunes concernés ne peuvent être employés qu'à des travaux légers, c'es
 
 2° A des travaux d'entretien, de réparation ou de conduite de tracteurs ou de machines mobiles ;
 
-3° A des travaux nécessitant la manipulation ou l'utilisation de produits dangereux au sens des articles L. 231-6 et L. 231-7 du code du travail, ainsi que dans les lieux affectés au stockage, à la manipulation ou à l'utilisation de ces produits ;
+3° A des travaux nécessitant la manipulation ou l'utilisation de produits dangereux au sens de l'article L. 4411-1 du code du travail, ainsi que dans les lieux affectés au stockage, à la manipulation ou à l'utilisation de ces produits ;
 
 4° Dans les lieux affectés à la traite ou à la contention des animaux, lors de la présence de ces derniers.
 

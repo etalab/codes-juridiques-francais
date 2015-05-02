@@ -1,6 +1,6 @@
 # Article R715-1
 
-Pour l'application des dispositions du 1° et du 2° du I de l'article L. 211-1 du code du travail, les élèves des établissements d'enseignement et de formation professionnelle agricoles publics ou privés mentionnés aux articles L. 811-1, L. 813-1 et L. 813-9 ne peuvent être admis ou employés dans les exploitations, entreprises, établissements ou chez les employeurs mentionnés à l'article L. 200-1 du code du travail et à l'article L. 713-1 du présent code que dans les cas suivants :
+Pour l'application des dispositions du 2° et du 3° de l'article L. 4153-1 du code du travail, les élèves des établissements d'enseignement et de formation professionnelle agricoles publics ou privés mentionnés aux articles L. 811-1, L. 813-1 et L. 813-9 ne peuvent être admis ou employés dans les exploitations, entreprises, établissements ou chez les employeurs mentionnés à l'article L. 3111-1 de ce code et à l'article L. 713-1 du présent code que dans les cas suivants :
 
 1° Les élèves qui suivent un enseignement général peuvent faire les visites d'information prévues à l'article R. 715-1-1 et, à partir des deux dernières années de leur scolarité obligatoire, participer à des séquences d'observation dans les conditions prévues à l'article R. 715-1-2 ;
 

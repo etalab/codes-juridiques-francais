@@ -4,4 +4,4 @@ Les stages d'application en milieu professionnel sont des stages ou des séquenc
 
 Ces stages d'application sont organisés dans les conditions prévues par les programmes et les référentiels nationaux mentionnés au deuxième alinéa des articles L. 811-2 et L. 813-2.
 
-Au cours de ces stages d'application, les élèves peuvent procéder à des manoeuvres ou manipulations de machines, produits ou appareils lorsqu'elles sont nécessaires à leur formation. Ils ne peuvent pas accéder aux machines, appareils ou produits dont l'usage est interdit aux mineurs par les articles R. 234-11 à R. 234-21 du code du travail.
+Au cours de ces stages d'application, les élèves peuvent procéder à des manoeuvres ou manipulations de machines, produits ou appareils lorsqu'elles sont nécessaires à leur formation. Ils ne peuvent pas accéder aux machines, appareils ou produits dont l'usage est interdit aux mineurs par la section 2 du chapitre III du titre V du livre Ier de la quatrième partie du code du travail.

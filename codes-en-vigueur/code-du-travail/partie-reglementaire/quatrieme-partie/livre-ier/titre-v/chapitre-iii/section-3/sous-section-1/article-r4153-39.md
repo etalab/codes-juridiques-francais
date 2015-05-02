@@ -10,9 +10,9 @@ Les dispositions de la présente section s'appliquent aux jeunes âgés d'au moi
 
 4° Les jeunes accueillis dans les établissements suivants :
 
-a) Les établissements ou services d'enseignement qui assurent, à titre principal, une éducation adaptée et un accompagnement social ou médico-social aux mineurs ou jeunes adultes handicapés ou présentant des difficultés d'adaptation prévus au 2° de l'article L. 312-1 du code de l'action sociale et des familles ;
+a) Les établissements ou services d'enseignement qui assurent, à titre principal, une éducation adaptée et un accompagnement social ou médico-social aux mineurs ou jeunes adultes handicapés ou présentant des difficultés d'adaptation prévus au 2° du I de l'article L. 312-1 du code de l'action sociale et des familles ;
 
-b) Les établissements et services d'aide par le travail mentionnés au V de l'article L. 312-1 du code de l'action sociale et des familles ;
+b) Les établissements et services d'aide par le travail mentionnés au 5° du I de cet article ;
 
 c) Les centres de préorientation mentionnés à l'article R. 5213-2 du code du travail ;
 

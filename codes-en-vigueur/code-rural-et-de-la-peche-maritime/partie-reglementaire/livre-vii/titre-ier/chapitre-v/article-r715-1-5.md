@@ -4,4 +4,4 @@ Les périodes de formation en milieu professionnel sont des périodes de formati
 
 Ces périodes de formation en milieu professionnel sont organisées dans les conditions prévues par les programmes et les référentiels nationaux mentionnés au deuxième alinéa des articles L. 811-2 et L. 813-2.
 
-Au cours de ces périodes de formation, les élèves remplissant les conditions d'âge requises peuvent être autorisés, dans les conditions prévues à l'article R. 234-22 du code du travail, à utiliser des machines ou produits dont l'usage est interdit aux mineurs par les articles R. 234-11 à R. 234-21 du même code.
+Au cours de ces périodes de formation, les élèves remplissant les conditions d'âge requises peuvent être autorisés, dans les conditions prévues à la section 3 du chapitre III du titre V du livre Ier de la quatrième partie du code du travail, à utiliser des machines ou produits dont l'usage est interdit aux mineurs par la section 2 du chapitre III du titre V du livre Ier de la quatrième partie du code du travail.
