@@ -4,9 +4,9 @@ I. ― Les activités de services à la personne soumises à agrément, en appli
 
 1° Garde d'enfants à domicile, en dessous d'un âge fixé par arrêté conjoint du ministre chargé des services et du ministre chargé de la famille ;
 
-2° Assistance aux personnes âgées ou aux personnes qui ont besoin d'une aide personnelle à leur domicile, à l'exclusion d'actes de soins relevant d'actes médicaux ;
+2° Assistance aux personnes âgées ou aux personnes qui ont besoin d'une aide personnelle à leur domicile, à l'exclusion d'actes de soins relevant d'actes médicaux à moins qu'ils ne soient exécutés dans les conditions prévues par l'article L. 1111-6-1 du code de la santé publique et du décret n° 99-426 du 27 mai 1999 habilitant certaines catégories de personnes à effectuer des aspirations endo-trachéales ;
 
-3° Garde-malade à l'exclusion des soins ;
+3° Garde-malade à l'exclusion des soins à moins qu'ils ne soient exécutés dans les conditions prévues par l'article L. 1111-6-1 du code de la santé publique et du décret n° 99-426 du 27 mai 1999 habilitant certaines catégories de personnes à effectuer des aspirations endo-trachéales ;
 
 4° Assistance aux personnes handicapées, y compris les activités d'interprète en langue des signes, de technicien de l'écrit et de codeur en langage parlé complété ;
 
@@ -50,4 +50,4 @@ II. ― Les activités de services à la personne soumises à titre facultatif �
 
 16° Activités qui concourent directement et exclusivement à coordonner et délivrer les services mentionnés au présent article.
 
-III. ― Les activités mentionnées aux 5°, 6°, 7° du I et aux 8°, 9°, 10° et 15° du II du présent article n'ouvrent droit au bénéfice du  1° de l'article L. 7233-2 du code du travail et de l'article L. 241-10 du code de la sécurité sociale qu'à la condition que la prestation soit comprise dans une offre de services incluant un ensemble d'activités réalisées à domicile.
+III. ― Les activités mentionnées aux 5°, 6°, 7° du I et aux 8°, 9°, 10° et 15° du II du présent article n'ouvrent droit au bénéfice du 1° de l'article L. 7233-2 du code du travail et de l'article L. 241-10 du code de la sécurité sociale qu'à la condition que la prestation soit comprise dans une offre de services incluant un ensemble d'activités réalisées à domicile.

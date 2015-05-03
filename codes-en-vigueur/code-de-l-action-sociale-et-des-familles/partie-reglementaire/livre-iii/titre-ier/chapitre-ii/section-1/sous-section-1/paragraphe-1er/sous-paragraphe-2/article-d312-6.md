@@ -8,7 +8,7 @@ Conformément aux dispositions des 6° et 7° du I de l'article L. 312-1, les se
 
 3° Au maintien et au développement des activités sociales et des liens avec l'entourage.
 
-Ils assurent au domicile des personnes ou à partir de leur domicile des prestations de services ménagers et des prestations d'aide à la personne pour les activités ordinaires de la vie et les actes essentiels lorsque ceux-ci sont assimilés à des actes de la vie quotidienne, hors ceux réalisés, sur prescription médicale, par les services mentionnés à l'article D. 312-1.
+Ils assurent au domicile des personnes ou à partir de leur domicile des prestations de services ménagers et des prestations d'aide à la personne pour les activités ordinaires de la vie et les actes essentiels lorsque ceux-ci sont assimilés à des actes de la vie quotidienne, hors ceux réalisés, sur prescription médicale, par les services mentionnés à l'article D. 312-1 à moins que ces actes ne soient exécutés dans les conditions prévues par l'article L. 1111-6-1 du code de la santé publique et du décret n° 99-426 du 27 mai 1999 habilitant certaines catégories de personnes à effectuer des aspirations endo-trachéales.
 
 Ces prestations s'inscrivent dans un projet individualisé d'aide et d'accompagnement élaboré à partir d'une évaluation globale des besoins de la personne. Elles sont réalisées par des aides à domicile, notamment des auxiliaires de vie sociale.
 
