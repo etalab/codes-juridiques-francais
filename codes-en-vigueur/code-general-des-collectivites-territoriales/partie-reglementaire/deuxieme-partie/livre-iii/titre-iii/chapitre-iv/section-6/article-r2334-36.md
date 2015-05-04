@@ -1,6 +1,6 @@
 # Article R2334-36
 
-I.-Pour l'application du deuxième alinéa de l'article L. 2334-40, le classement des communes potentiellement bénéficiaires de la dotation de développement urbain s'applique aux communes de métropole qui remplissent les trois conditions suivantes :
+I.-Pour l'application du deuxième alinéa de l'article L. 2334-40, le classement des communes potentiellement bénéficiaires de la dotation  politique de la ville s'applique aux communes de métropole qui remplissent les trois conditions suivantes :
 
 1° La commune est éligible à la dotation de solidarité urbaine et de cohésion sociale au titre de l'exercice précédent ;
 
@@ -20,7 +20,7 @@ Les dispositions prévues aux 1°, 2° et 3° s'appliquent à deux groupes démo
 
 Les aides au logement retenues pour l'application du 2° sont les prestations prévues aux articles L. 351-1 du code de la construction et de l'habitation et L. 542-1 et L. 831-1 du code de la sécurité sociale.
 
-Le revenu pris en considération pour l'application du 3° est le dernier revenu imposable connu. Le revenu pris en considération et le nombre total de bénéficiaires d'aides au logement, y compris leur conjoint et les personnes à charge vivant habituellement à leur foyer, sont ceux utilisés pour la répartition de la dotation prévue à l'article L. 3334-6-1 l'année précédant celle au titre de laquelle est versée la dotation de développement urbain.
+Le revenu pris en considération pour l'application du 3° est le dernier revenu imposable connu. Le revenu pris en considération et le nombre total de bénéficiaires d'aides au logement, y compris leur conjoint et les personnes à charge vivant habituellement à leur foyer, sont ceux utilisés pour la répartition de la dotation prévue à l'article L. 3334-6-1 l'année précédant celle au titre de laquelle est versée la dotation politique de la ville.
 
 L'indice synthétique de ressources et de charges est obtenu par addition des rapports définis aux 1°, 2° et 3°, en pondérant le premier et le deuxième par 45 % et le troisième par 10 %.
 

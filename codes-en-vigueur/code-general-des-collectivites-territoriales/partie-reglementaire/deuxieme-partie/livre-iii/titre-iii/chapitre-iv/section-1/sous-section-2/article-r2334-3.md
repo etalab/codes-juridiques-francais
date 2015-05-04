@@ -1,6 +1,6 @@
 # Article R2334-3
 
-La dotation de base mentionnée au 1° de l'article L. 2334-7 est, pour chaque commune, le produit de sa population, déterminée en application de l'article L. 2334-2, par une somme de 60 euros pour l'année 2005 et par un coefficient a, dont la valeur varie en fonction de la population dans les conditions suivantes :
+Le montant de la minoration ou de la majoration mentionné au premier alinéa du III de l'article L. 2334-7 est égal pour chaque commune au produit de la différence entre sa population constatée au titre de l'année de répartition et celle constatée au titre de l'année précédant la répartition par un montant de 64,46 € et par un coefficient a, dont la valeur varie en fonction de la population dans les conditions suivantes :
 
 1° Si la population est inférieure ou égale à 500 habitants, a = 1 ;
 
@@ -8,6 +8,6 @@ La dotation de base mentionnée au 1° de l'article L. 2334-7 est, pour chaque c
 
 3° Si la population est égale ou supérieure à 200 000 habitants, a = 2.
 
-Pour le calcul de la dotation proportionnelle à la superficie prévue au 2° de l'article L. 2334-7, la superficie prise en compte est la superficie cadastrée et non cadastrée "hors eaux" et le classement des communes en zone de montagne s'apprécie au 1er janvier de l'année au titre de laquelle la dotation forfaitaire est versée.
+La population prise en compte est déterminée en application de l'article L. 2334-2.
 
 Ces dispositions sont applicables aux communes de la Nouvelle-Calédonie, de la Polynésie française, de Mayotte, de Saint-Pierre-et-Miquelon et aux circonscriptions territoriales des îles Wallis et Futuna.
