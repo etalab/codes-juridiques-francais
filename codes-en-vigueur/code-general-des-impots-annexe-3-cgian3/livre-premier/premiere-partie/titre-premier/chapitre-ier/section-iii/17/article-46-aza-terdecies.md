@@ -1,6 +1,14 @@
 # Article 46 AZA terdecies
 
-I.-1. Lorsque l'immeuble appartient à une société autre qu'une société civile de placement immobilier, les obligations prévues aux articles 46 AZA undecies et 46 AZA duodecies incombent à cette société. Les documents à produire, qui comportent l'engagement de la société de louer l'immeuble pendant une durée de neuf ans à des personnes autres que les associés, un membre de leur foyer fiscal ou un de leurs ascendants ou descendants, sont joints à sa déclaration de résultat de l'année, selon le cas, d'achèvement de l'immeuble ou des travaux, ou de l'acquisition de l'immeuble si elle est postérieure.
+I. - 1. Lorsque l'immeuble appartient à une société autre qu'une société civile de placement immobilier, les obligations prévues aux articles 46 AZA undecies et 46 AZA duodecies incombent à cette société. Les documents à produire comportent l'engagement de la société de louer l'immeuble pendant une durée minimale de :
+
+1° Neuf ans, à une personne autre que les associés, un membre de leur foyer fiscal ou un de leurs ascendants ou descendants, pour les investissements réalisés avant le 1er septembre 2014 ;
+
+2° Six ou neuf ans, selon l'option choisie, à une personne autre que les associés, un membre de leur foyer fiscal ou un de leurs ascendants ou descendants, pour les investissements réalisés du 1er septembre au 31 décembre 2014 ;
+
+3° Six ou neuf ans, selon l'option choisie, à une personne autre que les associés ou un membre de leur foyer fiscal, pour les investissements réalisés à compter du 1er janvier 2015.
+
+Ces documents sont joints à la déclaration de résultat de la société au titre de l'année, selon le cas, d'achèvement de l'immeuble ou des travaux, ou de l'acquisition de l'immeuble si elle est postérieure.
 
 2. La société fait parvenir, au plus tard le deuxième jour ouvré suivant le 1er mai de chaque année, à chacun de ses associés, un document établi en double exemplaire conformément au modèle fixé par l'administration et comportant, pour l'année précédente, les renseignements suivants :
 
@@ -22,7 +30,7 @@ I.-1. Lorsque l'immeuble appartient à une société autre qu'une société civi
 
 Un exemplaire de ce document est joint par la société à sa déclaration de résultat.
 
-II.-1. L'engagement de conservation des titres prévu au second alinéa du A du I de l'article 199 novovicies du code général des impôts est constaté lors du dépôt de la déclaration des revenus de l'année au titre de laquelle les parts ont été souscrites ou, si elle est postérieure, de l'année de l'acquisition ou de l'achèvement de l'immeuble ou des travaux. L'engagement de conservation des titres formulé par le conjoint survivant est joint à la déclaration des revenus souscrite par celui-ci au titre de l'année du décès de son conjoint pour la période postérieure à cet événement.
+II. - 1. L'engagement de conservation des titres prévu au second alinéa du A du I de l'article 199 novovicies du code général des impôts est constaté lors du dépôt de la déclaration des revenus de l'année au titre de laquelle les parts ont été souscrites ou, si elle est postérieure, de l'année de l'acquisition ou de l'achèvement de l'immeuble ou des travaux. L'engagement de conservation des titres formulé par le conjoint survivant est joint à la déclaration des revenus souscrite par celui-ci au titre de l'année du décès de son conjoint pour la période postérieure à cet événement.
 
 2. Les parts détenues par les associés qui entendent bénéficier de la réduction d'impôt sur le revenu prévue à l'article 199 novovicies du code général des impôts sont inscrites, dans les trente jours suivant la date limite de dépôt de la déclaration des revenus mentionnée au 1, sur un compte ouvert au nom de l'associé dans la comptabilité de la société ou sur un registre spécial. Les documents relatifs aux opérations ayant affecté ce compte sont conservés jusqu'à la fin de la troisième année suivant celle de l'expiration de l'engagement mentionné au 1.
 

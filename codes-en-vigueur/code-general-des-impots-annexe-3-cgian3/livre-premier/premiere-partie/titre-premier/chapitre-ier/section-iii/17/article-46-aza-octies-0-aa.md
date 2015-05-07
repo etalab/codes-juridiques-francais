@@ -16,6 +16,6 @@ b. Une exigence énergétique qui s'entend de l'intégration au logement d'un au
 
 5° Pour les logements situés à Saint-Pierre-et-Miquelon, de ceux qui respectent cumulativement :
 
-a) Une exigence thermique qui s'entend de l'intégration au logement de matériaux d'isolation thermique mentionnés au b du 2 de l'article 18 bis de l'annexe IV au code général des impôts ou d'appareils de régulation de chauffage mentionnés au c du même 2 de l'article précité ;
+a) Une exigence thermique qui s'entend de l'intégration au logement de matériaux d'isolation thermique mentionnés aux 1° et 2° à 5° du b du 2 de l'article 18 bis de l'annexe IV au code général des impôts ou d'appareils de régulation de chauffage mentionnés au c du même 2 de l'article précité ;
 
 b) Une exigence énergétique qui s'entend de l'intégration au logement d'un au moins des équipements mentionnés aux 4, 5 et 6 du I de l'article 18 quater de l'annexe IV au code général des impôts et selon les mêmes conditions.
