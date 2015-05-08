@@ -2,7 +2,7 @@
 
 Sous réserve des adaptations prévues par l'article R. 811-3 ci-après, sont applicables dans les îles Wallis et Futuna, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises :
 
-1° Les dispositions du livre Ier à l'exception des articles R. 133-1 et R. 133-2 (4°) ;
+1° Les dispositions du livre Ier à l'exception des articles R. 133-1         , R. 133-2 (4°) et R. 135-1 à R. 135-4 ;
 
 2° Les dispositions du livre II ;
 
@@ -18,7 +18,7 @@ Sous réserve des adaptations prévues par l'article R. 811-3 ci-après, sont ap
 
 Toutefois, l'article R. 613-63 est ainsi rédigé :
 
-Art.R. 613-63.-La demande de réduction des redevances prévue à l'article L. 612-20, dans sa rédaction antérieure à la loi n° 2005-842 du 26 juillet 2005, est présentée par écrit au directeur général de l'Institut national de la propriété industrielle.
+Art. R. 613-63.-La demande de réduction des redevances prévue à l'article L. 612-20, dans sa rédaction antérieure à la loi n° 2005-842 du 26 juillet 2005, est présentée par écrit au directeur général de l'Institut national de la propriété industrielle.
 
 Elle est accompagnée d'un avis de non-imposition ou d'une justification équivalente. Il est statué par décision motivée. La décision est notifiée au requérant.
 

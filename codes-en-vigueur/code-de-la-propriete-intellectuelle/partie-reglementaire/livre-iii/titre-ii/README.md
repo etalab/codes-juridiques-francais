@@ -7,3 +7,4 @@
 - [Chapitre V : Commission permanente de contrôle des sociétés de perception et de répartition des droits](chapitre-v)
 - [Chapitre VI : Sociétés agréées pour la gestion collective de la rémunération au titre du prêt en bibliothèque](chapitre-vi)
 - [Chapitre VII : Sociétés agréées pour la gestion collective du droit d'autoriser l'exploitation numérique des livres indisponibles du xxe siècle](chapitre-vii)
+- [Chapitre VIII : Sociétés agréées pour la gestion collective de la rémunération annuelle supplémentaire due aux artistes-interprètes](chapitre-viii)
