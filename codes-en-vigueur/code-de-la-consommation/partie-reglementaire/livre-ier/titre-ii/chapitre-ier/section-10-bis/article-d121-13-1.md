@@ -1,35 +1,29 @@
 # Article D121-13-1
 
-I.-Un produit brut, au sens du deuxième alinéa de l'article L. 121-82-1, est un produit alimentaire n'ayant subi aucune modification importante, y compris par chauffage, marinage, assemblage ou une combinaison de ces procédés.
+I. - Un produit brut, au sens du deuxième alinéa de l'article L. 121-82-1, est un produit alimentaire cru ne contenant, notamment à l'occasion de son conditionnement ou du procédé utilisé pour sa conservation, aucun assemblage avec d'autre produit alimentaire excepté le sel.
 
-II.-Peuvent entrer dans la composition d'un plat " fait maison " les produits qui ont été réceptionnés par le professionnel :
+II. - Peuvent entrer dans la composition des plats "faits maison" les produits suivants :
 
--épluchés, à l'exception des pommes de terre, pelés, tranchés, coupés, découpés, hachés, nettoyés, désossés, dépouillés, décortiqués, taillés, moulus ou broyés ;
+Les produits que le consommateur ne s'attend pas à voir réaliser par le restaurateur lui-même :
 
--fumés, salés ;
+- les salaisons, saurisseries et charcuteries, à l'exception des terrines et des pâtés ;
 
--réfrigérés, congelés, surgelés, conditionnés sous vide.
+- les fromages, les matières grasses alimentaires, la crème fraîche et le lait ;
 
-III.-Peuvent également entrer dans la composition des plats " faits maison " les produits suivants :
+- le pain, les farines et les biscuits secs ;
 
--les salaisons, saurisseries et charcuteries, à l'exception des terrines et des pâtés ;
+- les légumes et fruits secs et confits ;
 
--les fromages, les matières grasses alimentaires, la crème fraîche et le lait ;
+- les pâtes et les céréales ;
 
--le pain, les farines et les biscuits secs ;
+- la levure, le sucre et la gélatine ;
 
--les légumes et fruits secs et confits ;
+- les condiments, épices, aromates, concentrés, le chocolat, le café, les tisanes, thés et infusions ;
 
--les pâtes et les céréales ;
+- les sirops, vins, alcools et liqueurs.
 
--la choucroute crue et les abats blanchis ;
+Pour des raisons de sécurité sanitaire, les produits suivants :
 
--la levure, le sucre et la gélatine ;
+- la choucroute crue et les abats blanchis ;
 
--les condiments, épices, aromates, concentrés, le chocolat, le café, les tisanes, thés et infusions ;
-
--les sirops, vins, alcools et liqueurs ;
-
--la pâte feuilletée crue ; et
-
--sous réserve d'en informer par écrit le consommateur, les fonds blancs, bruns et fumets.
+- sous réserve d'en informer par écrit le consommateur, les fonds blancs, bruns et fumets et la demi-glace.
