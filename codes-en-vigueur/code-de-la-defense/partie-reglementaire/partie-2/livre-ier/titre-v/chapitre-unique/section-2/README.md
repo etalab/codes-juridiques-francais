@@ -4,4 +4,3 @@
 - [Article R2151-4](article-r2151-4.md)
 - [Article R2151-5](article-r2151-5.md)
 - [Article R2151-6](article-r2151-6.md)
-- [Article R*2151-7](article-r-2151-7.md)
