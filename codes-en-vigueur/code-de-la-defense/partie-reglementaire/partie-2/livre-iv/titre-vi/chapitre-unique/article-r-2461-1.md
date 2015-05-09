@@ -1,7 +1,7 @@
 # Article R*2461-1
 
-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues au titre IX :
+Sont applicables en Nouvelle-Calédonie, sous réserve des  adaptations prévues au titre IX :
 
-1° Au livre Ier, l'article R. * 2151-7 ;
+1° Supprimé
 
 2° Au livre II, les articles R. * 2211-2, R. * 2213-16 à R. * 2213-19 et R. * 2234-95.

@@ -2,7 +2,7 @@
 
 Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues au titre IX :
 
-1° Au livre Ier, les articles R. 2141-1, R. 2151-1 à R. 2161-10 ;
+1° Au livre Ier, les articles R. 2141-1, R. 2151-1 à R. 2171-4 ;
 
 2° Au livre II, les articles R. 2211-1 à R. 2234-96, R. 2234-101 à R. 2236-3 ;
 

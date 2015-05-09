@@ -1,3 +1,3 @@
 # Article R2151-6
 
-Le décret par lequel le service de défense est décidé, en application de l'article L. 2151-1, peut limiter la mise en œuvre du service de défense à une partie du territoire ou à certaines catégories d'activités.
+Les ministres coordonnateurs compétents informent les employeurs concernés de la fin de la mise en œuvre du service de sécurité nationale. Les employeurs en informent les personnels placés sous le régime du service de sécurité nationale.
