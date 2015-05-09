@@ -11,6 +11,8 @@
 - [Article R512-8](article-r512-8.md)
 - [Article R512-9](article-r512-9.md)
 - [Article R512-9-1](article-r512-9-1.md)
+- [Article R512-9-2](article-r512-9-2.md)
+- [Article R*512-9-3](article-r-512-9-3.md)
 - [Article R512-10](article-r512-10.md)
 - [Article R512-11](article-r512-11.md)
 - [Article R512-12](article-r512-12.md)
