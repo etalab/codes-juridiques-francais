@@ -1,0 +1,5 @@
+# Article R3121-2
+
+Le rapport spécial de l'activité des services de l'Etat dans le département comprend également le bilan de l'action des établissements publics de l'Etat qui y concourent.
+
+Ce rapport porte notamment sur les actions de simplification de l'action des services déconcentrés de l'Etat et sur la modernisation de leur organisation en considération des spécificités locales et dans un souci de qualité de service rendu aux usagers.
