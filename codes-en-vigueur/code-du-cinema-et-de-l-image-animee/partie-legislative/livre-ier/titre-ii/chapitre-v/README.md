@@ -1,4 +1,3 @@
-# Chapitre V : Attributions et rémunération du conservateur
+# Chapitre V : Obligations et responsabilité du Centre national du cinéma et de l'image animée
 
 - [Article L125-1](article-l125-1.md)
-- [Article L125-2](article-l125-2.md)

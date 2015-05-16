@@ -5,5 +5,5 @@
 - [Chapitre III : Inscription et publication des actes, 
 conventions et jugements](chapitre-iii)
 - [Chapitre IV : Privilège et réalisation du nantissement](chapitre-iv)
-- [Chapitre V : Attributions et rémunération du conservateur](chapitre-v)
+- [Chapitre V : Obligations et responsabilité du Centre national du cinéma et de l'image animée](chapitre-v)
 - [Chapitre VI : Communication de renseignements relatifs aux recettes](chapitre-vi)
