@@ -1,6 +1,6 @@
 # Article L225-102-2
 
-Pour les sociétés exploitant au moins une installation figurant sur la liste prévue au IV de l'article L. 515-8 du code de l'environnement, le rapport mentionné à l'article L. 225-102 du présent code :
+Pour les sociétés exploitant au moins une installation figurant sur la liste prévue à l'article L. 515-36 du code de l'environnement, le rapport mentionné à l'article L. 225-102 du présent code :
 
 -informe de la politique de prévention du risque d'accident technologique menée par la société ;
 

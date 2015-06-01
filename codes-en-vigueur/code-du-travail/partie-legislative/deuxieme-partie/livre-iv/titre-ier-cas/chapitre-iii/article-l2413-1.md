@@ -20,7 +20,7 @@ L'interruption ou la notification du non-renouvellement de la mission d'un salar
 
 7° Représentant ou ancien représentant du personnel au comité d'hygiène et de sécurité des conditions de travail ;
 
-8° Représentant du personnel d'une entreprise extérieure, désigné au comité d'hygiène, de sécurité et des conditions de travail d'un établissement comprenant au moins une installation classée figurant sur la liste prévue au IV de l'article L. 515-8 du code de l'environnement ou mentionnée à l'article L. 211-2 du code minier ;
+8° Représentant du personnel d'une entreprise extérieure, désigné au comité d'hygiène, de sécurité et des conditions de travail d'un établissement comprenant au moins une installation classée figurant sur la liste prévue à l'article L. 515-36 du code de l'environnement ou mentionnée à l'article L. 211-2 du code minier ;
 
 9° Membre d'une commission paritaire d'hygiène, de sécurité et des conditions de travail en agriculture prévue à l'article L. 717-7 du code rural et de la pêche maritime ;
 
@@ -30,6 +30,4 @@ L'interruption ou la notification du non-renouvellement de la mission d'un salar
 
 12° Représentant des salariés dans une chambre d'agriculture, mentionné à l'article L. 515-1 du code rural et de la pêche maritime ;
 
-13° Conseiller prud'homme ;
-
-14° Assesseur maritime mentionné à l'article 7 de la loi du 17 décembre 1926 relative à la répression en matière maritime, ou ancien assesseur maritime ou candidat à ces fonctions.
+13° Conseiller prud'homme.

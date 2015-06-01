@@ -12,4 +12,4 @@ La procédure prévue à la présente sous-section s'applique également au sala
 
 3° Membre d'une commission paritaire d'hygiène, de sécurité et des conditions de travail en agriculture prévue à l'article L. 717-7 du code rural et de la pêche maritime ;
 
-4° Représentant du personnel d'une entreprise extérieure, désigné au comité d'hygiène, de sécurité et des conditions de travail d'un établissement comprenant au moins une installation classée figurant sur la liste prévue au IV de l'article L. 515-8 du code de l'environnement ou mentionnée à l'article L. 211-2 du code minier.
+4° Représentant du personnel d'une entreprise extérieure, désigné au comité d'hygiène, de sécurité et des conditions de travail d'un établissement comprenant au moins une installation classée figurant sur la liste prévue à l'article L. 515-36 du code de l'environnement ou mentionnée à l'article L. 211-2 du code minier.

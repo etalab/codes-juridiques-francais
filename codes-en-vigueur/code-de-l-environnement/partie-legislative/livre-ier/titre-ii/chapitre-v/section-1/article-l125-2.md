@@ -8,4 +8,4 @@ Un décret en Conseil d'Etat définit les conditions d'exercice de ce droit. Il 
 
 L'exploitant est tenu de participer à l'information générale du public sur les mesures prises aux abords des ouvrages ou installations faisant l'objet d'un plan particulier d'intervention.
 
-Le préfet crée la commission mentionnée à l'article L. 125-2-1 pour tout bassin industriel comprenant une ou plusieurs installations figurant sur la liste prévue au IV de l'article L. 515-8. Elle est dotée par l'Etat des moyens de remplir sa mission. Les conditions d'application du présent alinéa sont fixées par décret.
+Le préfet crée la commission mentionnée à l'article L. 125-2-1 pour tout bassin industriel comprenant une ou plusieurs installations figurant sur la liste prévue à l'article L. 515-36. Elle est dotée par l'Etat des moyens de remplir sa mission. Les conditions d'application du présent alinéa sont fixées par décret.
