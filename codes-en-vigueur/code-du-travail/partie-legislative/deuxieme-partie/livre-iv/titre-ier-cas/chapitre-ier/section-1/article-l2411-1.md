@@ -20,7 +20,7 @@ Bénéficie de la protection contre le licenciement prévue par le présent chap
 
 7° Représentant du personnel au comité d'hygiène, de sécurité et des conditions de travail ;
 
-8° Représentant du personnel d'une entreprise extérieure, désigné au comité d'hygiène, de sécurité et des conditions de travail d'un établissement comprenant au moins une installation classée figurant sur la liste prévue au IV de l'article L. 515-8 du code de l'environnement ou mentionnée à l'article L. 211-2 du code minier ;
+8° Représentant du personnel d'une entreprise extérieure, désigné au comité d'hygiène, de sécurité et des conditions de travail d'un établissement comprenant au moins une installation classée figurant sur la liste prévue à l'article L. 515-36 du code de l'environnement ou mentionnée à l'article L. 211-2 du code minier ;
 
 9° Membre d'une commission paritaire d'hygiène, de sécurité et des conditions de travail en agriculture prévue à l'article L. 717-7 du code rural et de la pêche maritime ;
 
