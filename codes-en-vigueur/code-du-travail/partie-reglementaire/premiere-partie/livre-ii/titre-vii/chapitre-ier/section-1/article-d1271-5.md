@@ -26,4 +26,6 @@ c) Salaires horaire et total nets versés ;
 
 d) Date de versement du salaire si elle est différente de celle mentionnée au 4° ;
 
+e) Dans le cas où l'établissement du volet social se fait par voie dématérialisée et où le nombre d'heures de travail inscrites au contrat excède pour un employeur donné trente-deux heures par mois, option annuelle retenue pour la période conventionnelle de congés payés : indemnité égale à un dixième de la rémunération brute versée mensuellement ou indemnité déterminée dans les conditions prévues par l'article L. 3141-22 ;
+
 4° Date et signature de l'employeur.
