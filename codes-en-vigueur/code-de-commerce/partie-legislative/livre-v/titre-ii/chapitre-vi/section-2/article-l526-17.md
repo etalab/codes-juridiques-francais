@@ -2,7 +2,7 @@
 
 I. ― L'entrepreneur individuel à responsabilité limitée peut céder à titre onéreux, transmettre à titre gratuit entre vifs ou apporter en société l'intégralité de son patrimoine affecté et en transférer la propriété dans les conditions prévues aux II et III du présent article sans procéder à sa liquidation.
 
-II. ― La cession à titre onéreux ou la transmission à titre gratuit entre vifs du patrimoine affecté à une personne physique entraîne sa reprise avec maintien de l'affectation dans le patrimoine du cessionnaire ou du donataire. Elle donne lieu au dépôt par le cédant ou le donateur d'une déclaration de transfert au registre auquel a été effectué le dépôt de la déclaration visée à l'article L. 526-7 et fait l'objet d'une publicité. La reprise n'est opposable aux tiers qu'après l'accomplissement de ces formalités.
+II. ― La cession à titre onéreux ou la transmission à titre gratuit entre vifs du patrimoine affecté à une personne physique entraîne sa reprise avec maintien de l'affectation dans le patrimoine du cessionnaire ou du donataire. Elle donne lieu au dépôt par le cédant ou le donateur d'une déclaration de transfert au registre      où est déposée la déclaration visée à l'article L. 526-7 et fait l'objet d'une publicité. La reprise n'est opposable aux tiers qu'après l'accomplissement de ces formalités.
 
 La cession du patrimoine affecté à une personne morale ou son apport en société entraîne transfert de propriété dans le patrimoine du cessionnaire ou de la société, sans maintien de l'affectation. Elle donne lieu à publication d'un avis. Le transfert de propriété n'est opposable aux tiers qu'après l'accomplissement de cette formalité.
 
