@@ -1,3 +1,7 @@
 # Article R112-7
 
-Toute denrée alimentaire présentée non préemballée sur les lieux de vente au consommateur final est munie sur elle-même ou à proximité immédiate, sans risque de confusion, d'une affiche, d'un écriteau ou de tout autre moyen approprié comportant sa dénomination au sens de l'article 17 du règlement (UE) n° 2011/1169 et, le cas échéant, les autres mentions obligatoires qui l'accompagnent.
+Lorsque l'indication de la quantité est prévue par la réglementation du droit de l'Union ou nationale, elle est exprimée sous forme de quantité nette.
+
+Pour les escargots préparés en coquille et les huîtres, l'indication de la quantité peut être exprimée en nombre d'unités, accompagnée de l'indication du calibre. Pour les moules en coquille, préparées ou non, l'indication de la quantité peut être exprimée en unité de volume.
+
+Ces dispositions s'appliquent aux produits préemballés ou non préemballés.
