@@ -9,6 +9,7 @@
 - [Article R123-226](article-r123-226.md)
 - [Article R123-227](article-r123-227.md)
 - [Article R123-228](article-r123-228.md)
+- [Article R123-228-1](article-r123-228-1.md)
 - [Article R123-229](article-r123-229.md)
 - [Article R123-230](article-r123-230.md)
 - [Article R123-231](article-r123-231.md)
