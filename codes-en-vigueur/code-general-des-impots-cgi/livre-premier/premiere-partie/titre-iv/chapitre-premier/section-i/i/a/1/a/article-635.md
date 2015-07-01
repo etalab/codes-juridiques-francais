@@ -12,7 +12,7 @@ Doivent être enregistrés dans le délai d'un mois à compter de leur date :
 
 4° Les actes portant mutation de jouissance à vie ou à durée illimitée de biens immeubles de fonds de commerce ou de clientèles ;
 
-5° Les actes constatant la formation, la prorogation, la transformation ou la dissolution d'une société, l'augmentation, l'amortissement ou la réduction de son capital ;
+5° Les actes constatant la prorogation, la transformation ou la dissolution d'une société, l'augmentation, l'amortissement ou la réduction de son capital ;
 
 6° Les actes constatant la formation de groupement d'intérêt économique ;
 
