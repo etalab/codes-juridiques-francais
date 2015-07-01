@@ -6,8 +6,8 @@ La liste nationale de référence des documents de planification, programmes ou 
 <tbody>
 <tr>
 <th>
-<br/>DOCUMENTS DE PLANIFICATION, <br/>
-<br/>programmes ou projets, manifestations et interventions <br/>
+<br/>DOCUMENTS DE PLANIFICATION, <p>programmes ou projets, manifestations et interventions <br/>
+</p>
 </th>
 <th>
 <br/>SEUILS ET RESTRICTIONS <br/>
@@ -58,8 +58,8 @@ La liste nationale de référence des documents de planification, programmes ou 
 <br/>6) Premiers boisements. <br/>
 </td>
 <td align="center">
-<br/>Lorsque la réalisation est prévue en tout ou partie à l'intérieur d'un site Natura 2000, au-dessus d'une superficie de boisement ou de plantation et dans les zones que détermine l'arrêté fixant la liste locale mentionnée au IV de l'article L. 414-4.<br/>
-<br/>. <br/>
+<br/>Lorsque la réalisation est prévue en tout ou partie à l'intérieur d'un site Natura 2000, au-dessus d'une superficie de boisement ou de plantation et dans les zones que détermine l'arrêté fixant la liste locale mentionnée au IV de l'article L. 414-4. <p>. <br/>
+</p>
 </td>
 </tr>
 <tr>
@@ -74,15 +74,12 @@ La liste nationale de référence des documents de planification, programmes ou 
 <td align="center">
 <br/>Installations, ouvrages, travaux et activités au-dessous des seuils fixés pour l'obligation de déclaration par le tableau annexé à l'article R. 214-1 pour les rubriques suivantes (du 8 au 24) : <br/>
 </td>
-<td align="center">
-<br/>
-<br/>
-</td>
+<td align="center"/>
 </tr>
 <tr>
 <td align="center">
-<br/>8) Prélèvements : 1.1.2.0. <br/>
-<br/>Prélèvements permanents ou temporaires issus d'un forage, puits ou ouvrage souterrain dans un système aquifère, à l'exclusion de nappes d'accompagnement de cours d'eau, par pompage, drainage, dérivation ou tout autre procédé. <br/>
+<br/>8) Prélèvements : 1.1.2.0. <p>Prélèvements permanents ou temporaires issus d'un forage, puits ou ouvrage souterrain dans un système aquifère, à l'exclusion de nappes d'accompagnement de cours d'eau, par pompage, drainage, dérivation ou tout autre procédé. <br/>
+</p>
 </td>
 <td align="center">
 <br/>Volume total prélevé supérieur à 6 000 m ³ par an. <br/>
@@ -90,8 +87,8 @@ La liste nationale de référence des documents de planification, programmes ou 
 </tr>
 <tr>
 <td align="center">
-<br/>9) Prélèvements : 1.2.1.0. <br/>
-<br/>A l'exception des prélèvements faisant l'objet d'une convention avec l'attributaire du débit affecté prévu par l'article L. 214-9 du code de l'environnement, prélèvements et installations et ouvrages permettant le prélèvement, y compris par dérivation, dans un cours d'eau, dans sa nappe d'accompagnement ou dans un plan d'eau ou canal alimenté par ce cours d'eau ou cette nappe. <br/>
+<br/>9) Prélèvements : 1.2.1.0. <p>A l'exception des prélèvements faisant l'objet d'une convention avec l'attributaire du débit affecté prévu par l'article L. 214-9 du code de l'environnement, prélèvements et installations et ouvrages permettant le prélèvement, y compris par dérivation, dans un cours d'eau, dans sa nappe d'accompagnement ou dans un plan d'eau ou canal alimenté par ce cours d'eau ou cette nappe. <br/>
+</p>
 </td>
 <td align="center">
 <br/>Capacité maximale supérieure à 200 m ³/ heure ou à 1 % du débit global d'alimentation du canal ou du plan d'eau. <br/>
@@ -99,8 +96,8 @@ La liste nationale de référence des documents de planification, programmes ou 
 </tr>
 <tr>
 <td align="center">
-<br/>10) Rejets : 2.1.1.0. <br/>
-<br/>Stations d'épuration des agglomérations ou dispositifs d'assainissement non collectif devant traiter une charge brute de pollution organique au sens de l'article R. 2224-6 du code général des collectivités territoriales. <br/>
+<br/>10) Rejets : 2.1.1.0. <p>Stations d'épuration des agglomérations ou dispositifs d'assainissement non collectif devant traiter une charge brute de pollution organique au sens de l'article R. 2224-6 du code général des collectivités territoriales. <br/>
+</p>
 </td>
 <td align="center">
 <br/>Charge brute de pollution organique supérieure à 6 kg/ j de DBO5 par unité de traitement. <br/>
@@ -108,8 +105,8 @@ La liste nationale de référence des documents de planification, programmes ou 
 </tr>
 <tr>
 <td align="center">
-<br/>11) Rejets : 2.1.3.0. <br/>
-<br/>Epandage de boues issues du traitement des eaux usées. <br/>
+<br/>11) Rejets : 2.1.3.0. <p>Epandage de boues issues du traitement des eaux usées. <br/>
+</p>
 </td>
 <td align="center">
 <br/>Quantité de boues épandues dans l'année présentant les caractéristiques suivantes : quantité de matière sèche supérieure à 1,5 tonne ou azote total supérieur à 0,075 tonne. <br/>
@@ -117,8 +114,8 @@ La liste nationale de référence des documents de planification, programmes ou 
 </tr>
 <tr>
 <td align="center">
-<br/>12) Rejets : 2.1.4.0. <br/>
-<br/>Epandage d'effluents ou de boues, à l'exception de celles visées au 11. <br/>
+<br/>12) Rejets : 2.1.4.0. <p>Epandage d'effluents ou de boues, à l'exception de celles visées au 11. <br/>
+</p>
 </td>
 <td align="center">
 <br/>Quantité d'effluents ou de boues épandues présentant les caractéristiques suivantes : azote total supérieur à 0,5 tonne/ an ou volume annuel supérieur à 25 000 m ³/ an ou DBO5 supérieure à 250 kg/ an. <br/>
@@ -126,8 +123,8 @@ La liste nationale de référence des documents de planification, programmes ou 
 </tr>
 <tr>
 <td align="center">
-<br/>13) Rejets : 2.2.1.0. <br/>
-<br/>Rejet dans les eaux douces superficielles susceptible de modifier lerégime des eaux, à l'exclusion des rejets des ouvrages visés au 10. <br/>
+<br/>13) Rejets : 2.2.1.0. <p>Rejet dans les eaux douces superficielles susceptible de modifier lerégime des eaux, à l'exclusion des rejets des ouvrages visés au 10. <br/>
+</p>
 </td>
 <td align="center">
 <br/>Capacité totale de rejet de l'ouvrage étant supérieure à 1 000 m ³/ jour ou à 2,5 % du débit moyen interannuel du cours d'eau. <br/>
@@ -135,8 +132,8 @@ La liste nationale de référence des documents de planification, programmes ou 
 </tr>
 <tr>
 <td align="center">
-<br/>14) Rejets : 2.2.2.0. <br/>
-<br/>Rejets en mer. <br/>
+<br/>14) Rejets : 2.2.2.0. <p>Rejets en mer. <br/>
+</p>
 </td>
 <td align="center">
 <br/>Capacité totale de rejet supérieur à 10 000 m ³/ jour. <br/>
@@ -144,8 +141,8 @@ La liste nationale de référence des documents de planification, programmes ou 
 </tr>
 <tr>
 <td align="center">
-<br/>15) Impacts sur le milieu aquatique ou la sécurité publique : 3.1.1.0. <br/>
-<br/>Installations, ouvrages, remblais et épis, dans le lit mineur d'un cours d'eau, constituant un obstacle à la continuité écologique. <br/>
+<br/>15) Impacts sur le milieu aquatique ou la sécurité publique : 3.1.1.0. <p>Installations, ouvrages, remblais et épis, dans le lit mineur d'un cours d'eau, constituant un obstacle à la continuité écologique. <br/>
+</p>
 </td>
 <td align="center">
 <br/>Impact entraînant une différence de niveau supérieure à 10 cm lorsque la réalisation est prévue en tout ou partie à l'intérieur d'un site Natura 2000.<br/>
@@ -153,8 +150,8 @@ La liste nationale de référence des documents de planification, programmes ou 
 </tr>
 <tr>
 <td align="center">
-<br/>16) Impacts sur le milieu aquatique ou la sécurité publique : 3.1.4.0. <br/>
-<br/>Consolidation ou protection des berges, à l'exclusion des canaux artificiels, par des techniques autres que végétales vivantes. <br/>
+<br/>16) Impacts sur le milieu aquatique ou la sécurité publique : 3.1.4.0. <p>Consolidation ou protection des berges, à l'exclusion des canaux artificiels, par des techniques autres que végétales vivantes. <br/>
+</p>
 </td>
 <td align="center">
 <br/>Consolidation ou protection sur une longueur supérieure à 10 mètres lorsque la réalisation est prévue en tout ou partie à l'intérieur d'un site Natura 2000.<br/>
@@ -162,8 +159,8 @@ La liste nationale de référence des documents de planification, programmes ou 
 </tr>
 <tr>
 <td align="center">
-<br/>17) Impacts sur le milieu aquatique ou la sécurité publique : 3.2.2.0. <br/>
-<br/>Installations, ouvrages, remblais dans le lit majeur d'un cours d'eau. <br/>
+<br/>17) Impacts sur le milieu aquatique ou la sécurité publique : 3.2.2.0. <p>Installations, ouvrages, remblais dans le lit majeur d'un cours d'eau. <br/>
+</p>
 </td>
 <td align="center">
 <br/>Surface soustraite supérieure à 0,02 ha lorsque la réalisation est prévue en tout ou partie à l'intérieur d'un site Natura 2000.<br/>
@@ -171,8 +168,8 @@ La liste nationale de référence des documents de planification, programmes ou 
 </tr>
 <tr>
 <td align="center">
-<br/>18) Impacts sur le milieu aquatique ou la sécurité publique : 3.2.3.0. <br/>
-<br/>Création de plans d'eau, permanents ou non. <br/>
+<br/>18) Impacts sur le milieu aquatique ou la sécurité publique : 3.2.3.0. <p>Création de plans d'eau, permanents ou non. <br/>
+</p>
 </td>
 <td align="center">
 <br/>Superficie du plan d'eau étant supérieure à 0,05 ha. <br/>
@@ -180,8 +177,8 @@ La liste nationale de référence des documents de planification, programmes ou 
 </tr>
 <tr>
 <td align="center">
-<br/>19) Impacts sur le milieu aquatique ou la sécurité publique : 3.2.4.0. <br/>
-<br/>Vidanges de plans d'eau hors opération de chômage des voies navigables, hors piscicultures mentionnées à l'article L. 431-6 du code de l'environnement, hors plans d'eau mentionnés à l'article L. 431-7 du même code. <br/>
+<br/>19) Impacts sur le milieu aquatique ou la sécurité publique : 3.2.4.0. <p>Vidanges de plans d'eau hors opération de chômage des voies navigables, hors piscicultures mentionnées à l'article L. 431-6 du code de l'environnement, hors plans d'eau mentionnés à l'article L. 431-7 du même code. <br/>
+</p>
 </td>
 <td align="center">
 <br/>Vidange de plans d'eau d'une superficie supérieure à 0,01 ha. <br/>
@@ -189,8 +186,8 @@ La liste nationale de référence des documents de planification, programmes ou 
 </tr>
 <tr>
 <td align="center">
-<br/>20) Impacts sur le milieu aquatique ou la sécurité publique : 3.2.5.0. <br/>
-<br/>Création d'un barrage de retenue. <br/>
+<br/>20) Impacts sur le milieu aquatique ou la sécurité publique : 3.2.5.0. <p>Création d'un barrage de retenue. <br/>
+</p>
 </td>
 <td align="center">
 <br/>Barrage de retenue d'une hauteur supérieure à 1 mètre. <br/>
@@ -198,8 +195,8 @@ La liste nationale de référence des documents de planification, programmes ou 
 </tr>
 <tr>
 <td align="center">
-<br/>21) Impacts sur le milieu aquatique ou la sécurité publique : 3.3.1.0. <br/>
-<br/>Assèchement, mise en eau, imperméabilisation, remblais de zones humides ou de marais. <br/>
+<br/>21) Impacts sur le milieu aquatique ou la sécurité publique : 3.3.1.0. <p>Assèchement, mise en eau, imperméabilisation, remblais de zones humides ou de marais. <br/>
+</p>
 </td>
 <td align="center">
 <br/>Zone asséchée ou mise en eau d'une surface supérieure à 0,01 ha pour la partie de la réalisation prévue à l'intérieur d'un site Natura 2000.<br/>
@@ -207,8 +204,8 @@ La liste nationale de référence des documents de planification, programmes ou 
 </tr>
 <tr>
 <td align="center">
-<br/>22) Impacts sur le milieu aquatique ou la sécurité publique : 3.3.2.0. <br/>
-<br/>Réalisation de réseaux de drainage. <br/>
+<br/>22) Impacts sur le milieu aquatique ou la sécurité publique : 3.3.2.0. <p>Réalisation de réseaux de drainage. <br/>
+</p>
 </td>
 <td align="center">
 <br/>Drainages d'une superficie supérieure à 1 ha pour la partie de la réalisation prévue à l'intérieur d'un site Natura 2000 ou lorsque le point de rejet se situe en site Natura 2000.<br/>
@@ -216,8 +213,8 @@ La liste nationale de référence des documents de planification, programmes ou 
 </tr>
 <tr>
 <td align="center">
-<br/>23) Impacts sur le milieu marin : 4.1.2.0. <br/>
-<br/>Travaux d'aménagement portuaires et autres ouvrages réalisés en contact avec le milieu marin et ayant une incidence directe sur ce milieu. <br/>
+<br/>23) Impacts sur le milieu marin : 4.1.2.0. <p>Travaux d'aménagement portuaires et autres ouvrages réalisés en contact avec le milieu marin et ayant une incidence directe sur ce milieu. <br/>
+</p>
 </td>
 <td align="center">
 <br/>Coût des travaux ou ouvrages supérieur à 80 000 €. <br/>
@@ -225,8 +222,8 @@ La liste nationale de référence des documents de planification, programmes ou 
 </tr>
 <tr>
 <td align="center">
-<br/>24) Régimes d'autorisation valant autorisation au titre des articles L. 214-1 et suivants du code de l'environnement : 5.1.1.0. <br/>
-<br/>Réinjection dans une même nappe des eaux prélevées pour la géothermie, l'exhaure des mines et carrières ou lors des travaux de génie civil. <br/>
+<br/>24) Régimes d'autorisation valant autorisation au titre des articles L. 214-1 et suivants du code de l'environnement : 5.1.1.0 à l'exclusion des activités géothermiques de minime importance. <p>Réinjection dans une même nappe des eaux prélevées pour la géothermie, l'exhaure des mines et carrières ou lors des travaux de génie civil. <br/>
+</p>
 </td>
 <td align="center">
 <br/>Capacité totale de réinjection supérieure à 4m ³/ heure. <br/>

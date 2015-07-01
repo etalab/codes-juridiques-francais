@@ -345,7 +345,7 @@
 </tr>
 <tr>
 <td align="left" valign="top">
-<br clear="none"/>14° Dispositifs de captage ou de recharge artificielle des eaux souterraines. <br clear="none"/>
+<br clear="none"/>14° Dispositifs de captage ou de recharge artificielle des eaux souterraines, à l'exception des ouvrages de géothermie de minime importance.  <br clear="none"/>
 </td>
 <td align="left" valign="top">
 <br clear="none"/>a) Prélèvements permanents issus d'un forage, puits ou ouvrage souterrain dans un système aquifère, à l'exclusion des nappes d'accompagnement de cours d'eau, dans sa nappe, par pompage, drainage, dérivation ou tout autre procédé soumis à autorisation au titre de l'article R. 214-1 du code de l'environnement. <br clear="none"/>
