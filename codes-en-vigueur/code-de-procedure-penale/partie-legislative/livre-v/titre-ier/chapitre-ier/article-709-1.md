@@ -1,7 +1,5 @@
 # Article 709-1
 
-Dans chaque tribunal de grande instance, un ou plusieurs magistrats du siège sont chargés des fonctions de juge de l'application des peines.
+Dans chaque tribunal de grande instance et dans chaque cour d'appel, il est institué un bureau de l'exécution des peines, dont la composition, les missions et les modalités de fonctionnement sont précisées par décret.
 
-Ces magistrats sont désignés par décret pris après avis du Conseil supérieur de la magistrature. Il peut être mis fin à leurs fonctions dans les mêmes formes.
-
-Si un juge de l'application des peines est temporairement empêché d'exercer ses fonctions, le tribunal de grande instance désigne un autre magistrat pour le remplacer.
+Ce bureau est notamment chargé de remettre à toute personne condamnée présente à l'issue de l'audience du tribunal correctionnel un relevé de condamnation pénale mentionnant les peines qui ont été prononcées.
