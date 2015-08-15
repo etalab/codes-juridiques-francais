@@ -1,6 +1,8 @@
 # Article D48-2
 
-Lorsque la condamnation est rendue en présence du prévenu et que celui-ci n'est pas incarcéré, un greffier peut être chargé de recevoir ce dernier à l'issue de l'audience, le cas échéant en présence de son avocat, pour lui expliquer la condamnation dont il a fait l'objet. Il peut également à cette occasion :
+Le bureau d'exécution des peines prévu par l'article 709-1 est animé par un ou plusieurs greffiers ou agents du greffe du tribunal de grande instance ou de la cour d'appel.
+
+Il a pour mission, lorsque la condamnation est rendue en présence du prévenu et que celui-ci n'est pas incarcéré, de recevoir ce dernier à l'issue de l'audience ou dans les jours suivant celle-ci, le cas échéant en présence de son avocat, pour lui expliquer la décision dont il fait l'objet et lui remettre un relevé de condamnation. Il est notamment chargé de :
 
 1° Lui délivrer une convocation devant le juge de l'application des peines et le cas échéant devant le service pénitentiaire d'insertion et de probation, en cas de condamnation à une peine d'emprisonnement ferme pour laquelle la détention restant à subir est inférieure ou égale à deux ans ou à un an si le condamné est en état de récidive légale, conformément aux dispositions du premier alinéa de l'article 474 ;
 
@@ -10,7 +12,7 @@ Lorsque la condamnation est rendue en présence du prévenu et que celui-ci n'es
 
 4° Lui délivrer une convocation devant le service chargé de mettre en oeuvre cette sanction en cas de condamnation à la peine de stage de sensibilisation à la sécurité routière ou la peine de stage de citoyenneté.
 
-Pour la mise en oeuvre des dispositions du présent article, le juge de l'application des peines ou son greffier ainsi que le directeur du service pénitentiaire d'insertion et de probation communiquent préalablement au greffier de l'exécution des peines les dates auxquelles les condamnés peuvent être convoqués devant ce magistrat ou ce service.
+Pour la mise en oeuvre des dispositions du présent article, le juge de l'application des peines ou son greffier ainsi que le directeur du service pénitentiaire d'insertion et de probation communiquent préalablement au bureau de l'exécution des peines les dates auxquelles les condamnés peuvent être convoqués devant ce magistrat ou ce service.
 
 Si le condamné réside dans un autre ressort que celui de la juridiction ayant prononcé la condamnation, les convocations prévues au présent article sont délivrées par le juge de l'application des peines territorialement compétent conformément aux dispositions de l'article D. 147-10.
 
