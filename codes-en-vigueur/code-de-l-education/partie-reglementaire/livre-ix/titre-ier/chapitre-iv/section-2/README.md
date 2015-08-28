@@ -4,4 +4,5 @@
 - [Sous-section 2 : La commission consultative mixte académique.](sous-section-2)
 - [Sous-section 3 : Dispositions communes.](sous-section-3)
 - [Sous-section 4 : Comité consultatif ministériel des maîtres de l'enseignement privé sous contrat](sous-section-4)
+- [Sous-section 5 : Autorisations d'absence et crédit de temps syndical accordés aux organisations syndicales représentatives](sous-section-5)
 - [Article R914-3-1](article-r914-3-1.md)
