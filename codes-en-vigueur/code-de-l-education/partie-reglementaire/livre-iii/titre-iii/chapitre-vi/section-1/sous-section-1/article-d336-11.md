@@ -1,6 +1,6 @@
 # Article D336-11
 
-Les diplômes délivrés aux candidats admis à l'issue des épreuves du baccalauréat technologique portent, sous réserve des dispositions du sixième alinéa de l'article D. 336-8 et de l'article D. 336-13, les mentions :
+Les diplômes délivrés aux candidats admis à l'issue des épreuves du baccalauréat technologique portent, sous réserve des dispositions de l'article D. 336-7, du sixième alinéa de l'article D. 336-8 et de l'article D. 336-13, les mentions :
 
 1° Assez bien, quand le candidat a obtenu une note moyenne au moins égale à 12 et inférieure à 14 ;
 

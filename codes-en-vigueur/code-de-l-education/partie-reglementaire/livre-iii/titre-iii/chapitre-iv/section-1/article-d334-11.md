@@ -1,6 +1,6 @@
 # Article D334-11
 
-Les diplômes délivrés aux candidats admis à l'issue des épreuves, sous réserve des dispositions du sixième alinéa de l'article D. 334-8 et de l'article D. 334-14, portent les mentions :
+Les diplômes délivrés aux candidats admis à l'issue des épreuves, sous réserve des dispositions de l'article D. 334-7, du sixième alinéa de l'article D. 334-8 et de l'article D. 334-14, portent les mentions :
 
 1° Assez bien, quand le candidat a obtenu une note moyenne au moins égale à 12 et inférieure à 14 ;
 
