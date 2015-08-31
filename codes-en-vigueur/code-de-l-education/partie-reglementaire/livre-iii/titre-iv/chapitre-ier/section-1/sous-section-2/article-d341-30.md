@@ -1,6 +1,6 @@
 # Article D341-30
 
-Le conseil de classe réuni sous la présidence du chef d'établissement formule des propositions d'orientation dans le cadre des voies d'orientation et des parcours définis conformément à l'arrêté prévu à l'article D. 341-14, ou de redoublement.
+Le conseil de classe réuni sous la présidence du chef d'établissement formule des propositions d'orientation dans le cadre des voies d'orientation et des parcours définis conformément à l'arrêté prévu à l'article D. 341-14.
 
 Lorsque ces propositions ne sont pas conformes aux demandes, le conseil de classe peut recommander que l'élève suive un dispositif de remise à niveau.
 

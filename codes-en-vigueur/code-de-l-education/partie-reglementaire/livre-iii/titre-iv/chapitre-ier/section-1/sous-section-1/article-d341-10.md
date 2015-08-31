@@ -1,6 +1,6 @@
 # Article D341-10
 
-Les demandes d'orientation sont examinées par le conseil de classe qui prend en compte l'ensemble des informations réunies par ses membres sur chaque élève ainsi que les éléments fournis par l'équipe pédagogique dans les conditions précisées par les dispositions réglementaires du livre VIII du code rural relatives aux établissements publics locaux d'enseignement et de formation professionnelle agricoles. Le conseil de classe émet des propositions d'orientation dans le cadre des voies d'orientation définies par l'arrêté mentionné à l'article D. 341-14, ou de redoublement.
+Les demandes d'orientation sont examinées par le conseil de classe qui prend en compte l'ensemble des informations réunies par ses membres sur chaque élève ainsi que les éléments fournis par l'équipe pédagogique dans les conditions précisées par les dispositions réglementaires du livre VIII du code rural relatives aux établissements publics locaux d'enseignement et de formation professionnelle agricoles. Le conseil de classe émet des propositions d'orientation dans le cadre des voies d'orientation définies par l'arrêté mentionné à l'article D. 341-14.
 
 Lorsque ces propositions ne sont pas conformes aux demandes, le conseil de classe peut recommander que l'élève suive un dispositif de remise à niveau.
 

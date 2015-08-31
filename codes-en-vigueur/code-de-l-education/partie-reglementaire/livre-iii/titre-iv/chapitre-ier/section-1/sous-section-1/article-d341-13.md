@@ -2,8 +2,10 @@
 
 En cas d'appel, le chef d'établissement transmet à la commission d'appel les décisions motivées ainsi que tous éléments susceptibles d'éclairer cette instance. Les parents de l'élève ou l'élève majeur qui le demandent sont entendus par la commission.L'élève mineur peut être entendu à sa demande, avec l'accord de ses parents.
 
-Les décisions prises par la commission d'appel valent décisions d'orientation ou de redoublement définitives.
+Les décisions prises par la commission d'appel valent décisions d'orientation définitives.
 
-La commission d'appel est présidée par le         directeur régional de l'alimentation, de l'agriculture et de la forêt  ou son représentant. Elle comprend des chefs d'établissement, des enseignants, des parents d'élèves, des délégués des élèves, des personnels d'éducation nommés par le         directeur régional de l'alimentation, de l'agriculture et de la forêt  et un représentant du service départemental de l'éducation nationale  sur proposition du recteur.
+Pour les élèves des classes de troisième et de seconde, lorsque la décision d'orientation définitive n'obtient pas l'assentiment des représentants légaux de l'élève ou de l'élève majeur, ceux-ci peuvent demander le maintien dans le niveau de classe d'origine, conformément aux dispositions de l'article D. 341-15
+
+La commission d'appel est présidée par le directeur régional de l'alimentation, de l'agriculture et de la forêt ou son représentant. Elle comprend des chefs d'établissement, des enseignants, des parents d'élèves, des délégués des élèves, des personnels d'éducation nommés par le directeur régional de l'alimentation, de l'agriculture et de la forêt et un représentant du service départemental de l'éducation nationale sur proposition du recteur.
 
 La composition et le fonctionnement de la commission d'appel sont précisés par arrêté du ministre chargé de l'agriculture et du ministre chargé de l'éducation.

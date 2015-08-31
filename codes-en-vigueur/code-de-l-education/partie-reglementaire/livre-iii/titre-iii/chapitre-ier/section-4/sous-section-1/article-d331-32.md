@@ -1,6 +1,6 @@
 # Article D331-32
 
-Les demandes d'orientation sont examinées par le conseil de classe qui prend en compte l'ensemble des informations réunies par ses membres sur chaque élève ainsi que les éléments fournis par l'équipe pédagogique dans les conditions précisées par le décret n° 85-924 du 30 août 1985 relatif aux établissements publics locaux d'enseignement. Le conseil de classe émet des propositions d'orientation, dans le cadre des voies d'orientation définies par l'arrêté mentionné à l'article D. 331-36, ou de redoublement.
+Les demandes d'orientation sont examinées par le conseil de classe qui prend en compte l'ensemble des informations réunies par ses membres sur chaque élève ainsi que les éléments fournis par l'équipe pédagogique dans les conditions précisées par le décret n° 85-924 du 30 août 1985 relatif aux établissements publics locaux d'enseignement. Le conseil de classe émet des propositions d'orientation, dans le cadre des voies d'orientation définies par l'arrêté mentionné à l'article D. 331-36    .
 
 Lorsque ces propositions ne sont pas conformes aux demandes, le conseil de classe peut recommander que l'élève suive un dispositif de remise à niveau.
 

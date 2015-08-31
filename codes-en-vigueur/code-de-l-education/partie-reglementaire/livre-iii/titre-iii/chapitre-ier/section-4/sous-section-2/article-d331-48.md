@@ -1,5 +1,5 @@
 # Article D331-48
 
-L'observation de l'élève est réalisée dans l'établissement scolaire privé par les personnels enseignants. L'équipe pédagogique établit la synthèse des observations. Elle propose à l'élève, sous la responsabilité du chef d'établissement, les objectifs pédagogiques et les moyens permettant la réalisation de son projet personnel.
+Le suivi de l'élève est réalisé dans l'établissement scolaire privé par les personnels enseignants. L'équipe pédagogique établit une synthèse du suivi, régulièrement transmise à l'élève et à ses représentants légaux. Elle leur propose à cette occasion, sous la responsabilité du chef d'établissement, les objectifs et modalités pédagogiques permettant l'élaboration puis la réalisation du projet personnel de l'élève.
 
-Le professeur principal, ou un membre de l'équipe pédagogique, facilite la synthèse des observations.
+Le professeur principal, ou un membre de l'équipe pédagogique, facilite la synthèse du suivi.
