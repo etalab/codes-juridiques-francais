@@ -1,6 +1,6 @@
 # Article L234-2
 
-Le conseil de l'éducation nationale, institué dans chaque académie par l'article L. 234-1, lorsqu'il exerce les compétences prévues par l'article L. 234-3, comprend, sous la présidence du recteur :
+Le conseil de l'éducation nationale, institué dans chaque académie par l'article L. 234-1, lorsqu'il exerce les compétences prévues par l'article L. 234-6, comprend, sous la présidence du recteur :
 
 1° Un président d'université nommé par le recteur ;
 

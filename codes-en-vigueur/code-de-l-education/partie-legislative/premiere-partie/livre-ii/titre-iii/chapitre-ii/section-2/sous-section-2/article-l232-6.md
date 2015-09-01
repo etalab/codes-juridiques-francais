@@ -1,3 +1,3 @@
 # Article L232-6
 
-Les dispositions des articles L. 231-11 et L. 231-12 sont applicables aux demandes en relèvement formées en vertu de l'article L. 232-4.
+Si l'intéressé peut établir qu'il a été sanctionné à raison de faits amnistiés ou de condamnations judiciaires annulées par suite d'un arrêt de révision, la nécessité d'un délai antérieur à sa première demande de relèvement est supprimée, mais non celle des délais nécessaires aux demandes subséquentes, si la demande est rejetée.

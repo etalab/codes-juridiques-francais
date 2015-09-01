@@ -2,5 +2,4 @@
 
 - [Article L441-10](article-l441-10.md)
 - [Article L441-11](article-l441-11.md)
-- [Article L441-12](article-l441-12.md)
 - [Article L441-13](article-l441-13.md)

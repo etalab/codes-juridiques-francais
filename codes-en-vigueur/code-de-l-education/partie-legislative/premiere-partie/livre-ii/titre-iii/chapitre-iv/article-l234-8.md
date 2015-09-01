@@ -1,6 +1,6 @@
 # Article L234-8
 
-La composition et les attributions du conseil de l'éducation nationale institué dans chaque académie par l'article L. 234-1 sont étendues à l'enseignement supérieur, sous réserve des dispositions des articles L. 234-2 à L. 234-6.
+La composition et les attributions du conseil de l'éducation nationale institué dans chaque académie par l'article L. 234-1 sont étendues à l'enseignement supérieur, sous réserve des dispositions des articles L. 234-2 et L. 234-6.
 
 Lorsque les questions soumises aux délibérations des conseils relèvent de l'enseignement supérieur, le recteur, chancelier des universités, est rapporteur.
 

@@ -1,6 +1,6 @@
 # Article L232-4
 
-Les membres de l'enseignement supérieur public bénéficient des dispositions de l'article L. 231-10 relatives au relèvement des déchéances ou incapacités.
+Les membres de l'enseignement supérieur public peuvent être relevés des déchéances ou incapacités résultant des décisions disciplinaires ayant prononcé à leur encontre l'interdiction du droit d'enseigner ou la suspension du droit de diriger un établissement d'enseignement privé.
 
 Le bénéfice de cette disposition est étendu :
 
