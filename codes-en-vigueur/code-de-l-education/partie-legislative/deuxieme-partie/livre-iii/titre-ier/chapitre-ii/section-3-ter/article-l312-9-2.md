@@ -1,9 +1,9 @@
 # Article L312-9-2
 
-Il est institué, dans chaque académie, une commission sur l'enseignement des langues, placée auprès du recteur.
+Tout élève bénéficie, dès le début de sa scolarité obligatoire, de l'enseignement d'une langue vivante étrangère.
 
-Celle-ci comprend des représentants de l'administration, des personnels et des usagers de l'éducation nationale, des représentants des collectivités territoriales concernées et des milieux économiques et professionnels.
+Dans chaque académie peut être favorisé l'apprentissage des langues  étrangères parlées dans les pays avec lesquels des accords de  coopération régionale sont en vigueur.
 
-Cette commission est chargée de veiller à la diversité de l'offre de langues, à la cohérence et à la continuité des parcours de langues proposés, de diffuser une information aux établissements, aux élus, aux parents et aux élèves sur l'offre linguistique, d'actualiser cette offre en fonction des besoins identifiés et de vérifier l'adéquation de l'offre de langues avec les spécificités locales.
+Une continuité des apprentissages de langues vivantes étrangères doit être assurée entre le primaire et le collège.
 
-Chaque année, la commission établit un bilan de l'enseignement et peut faire des propositions d'aménagement de la carte académique des langues.
+Outre les enseignements de langues qui leur sont dispensés, les élèves  peuvent bénéficier d'une initiation à la diversité linguistique. Les  langues parlées au sein des familles peuvent être utilisées à cette fin.

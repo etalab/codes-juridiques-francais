@@ -4,7 +4,7 @@
 - [Section 2 : Les enseignements artistiques.](section-2)
 - [Section 3 : La formation à l'utilisation des outils et des ressources numériques.](section-3)
 - [Section 3 bis : L'enseignement de la langue des signes.](section-3-bis)
-- [Section 3 ter : L'enseignement des langues vivantes étrangères.](section-3-ter)
+- [Section 3 ter : L'enseignement des langues vivantes étrangères .](section-3-ter)
 - [Section 4 : L'enseignement des langues et cultures régionales.](section-4)
 - [Section 5 : L'enseignement de la défense.](section-5)
 - [Section 6 : Les enseignements de la sécurité.](section-6)
