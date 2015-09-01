@@ -1,11 +1,7 @@
 # Article D321-20
 
-Chaque cycle prévu à l'article D. 321-19 comporte une équipe pédagogique mise en place sous la responsabilité du directeur ou des directeurs des écoles intéressées et composée comme suit :
+Chacun des trois premiers cycles prévus à l'article D. 311-10 comporte une équipe pédagogique mise en place sous la responsabilité du directeur de l'école et composée des enseignants de l'école exerçant dans le cycle considéré.
 
-Pour le cycle des apprentissages premiers et le cycle des approfondissements, l'équipe pédagogique du cycle est constituée par le directeur de l'école et les maîtres exerçant dans le cycle ;
+L'équipe pédagogique de cycle élabore le projet pédagogique, veille à sa mise en œuvre et assure son évaluation interne.
 
-Pour le cycle des apprentissages fondamentaux, l'équipe pédagogique est constituée par le directeur de l'école élémentaire et le directeur de l'école maternelle privée sous contrat ou les directeurs des écoles maternelles privées sous contrat et les maîtres exerçant dans le cycle.
-
-L'équipe pédagogique de cycle élabore le projet pédagogique de cycle, veille à sa mise en oeuvre et assure son évaluation interne.
-
-L'équipe pédagogique de chaque cycle peut consulter les personnes qualifiées et agréées intervenant durant le temps scolaire.
+Si elle le juge utile, l'équipe pédagogique de chaque cycle peut consulter toute personne intervenant durant le temps scolaire.

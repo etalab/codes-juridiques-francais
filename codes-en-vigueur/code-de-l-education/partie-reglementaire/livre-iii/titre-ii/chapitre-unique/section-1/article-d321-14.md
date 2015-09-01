@@ -1,17 +1,5 @@
 # Article D321-14
 
-L'équipe pédagogique de chaque cycle prévu à l'article D. 321-2 est composée comme suit :
+Le conseil de cycle comprend les membres du conseil des maîtres de l'école prévu à l'article D. 411-7 compétents pour le cycle considéré.
 
-Pour le cycle des apprentissages premiers et le cycle des approfondissements, l'équipe pédagogique du cycle est constituée par le directeur d'école, les maîtres de chaque classe intégrée dans le cycle et les maîtres remplaçants exerçant dans le cycle ainsi que les membres du réseau d'aides spécialisées intervenant dans l'école.
-
-Pour le cycle des apprentissages fondamentaux, l'équipe pédagogique est constituée par :
-
-1° Le directeur de l'école élémentaire et le directeur de l'école maternelle ou les directeurs des écoles maternelles situées dans le même ressort géographique ;
-
-2° Les maîtres concernés de cette école et les maîtres remplaçants exerçant dans le cycle ;
-
-3° Les maîtres concernés de cette école maternelle ou de ces écoles maternelles ;
-
-4° Les membres du réseau d'aides spécialisées intervenant dans l'école.
-
-L'équipe pédagogique de chaque cycle peut consulter les personnes qualifiées et agréées intervenant durant le temps scolaire.
+Sont en outre membres du conseil du cycle 3 les professeurs exerçant en classe de sixième dans le ou les collèges du secteur de recrutement dont relèvent les élèves de l'école et désignés dans les conditions prévues à l'article R. 421-41-3.
