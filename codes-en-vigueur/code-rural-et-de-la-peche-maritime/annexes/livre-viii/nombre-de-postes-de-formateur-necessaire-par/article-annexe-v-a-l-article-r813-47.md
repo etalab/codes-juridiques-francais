@@ -1,61 +1,302 @@
 # Article Annexe V à l'article R813-47
 
-Le nombre de postes de formateurs nécessaires par groupe de formation de dix-huit élèves est fixé à compter de l'année civile 2014 conformément au tableau ci-dessous :
+Le nombre de postes de formateurs nécessaires par groupe de formation de dix-huit élèves est fixé selon les tableaux ci-dessous :
+
+Pour l'année scolaire 2010-2011 :
 
 <table>
 <tbody>
 <tr>
-<td colspan="3">
-<p align="center">RYTHME APPROPRIE</p>
-</td>
+<th/>
+<th colspan="3">
+<br/>RYTHME APPROPRIÉ<br/>
+</th>
 </tr>
 <tr>
-<td>
+<th/>
+<th>
+<br/>Par alternance<br/>
+</th>
+<th colspan="2">
+<br/>Par une autre méthode <p>pédagogique<br/>
+</p>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Cycle court :<br/>
+</td>
+<td align="center">
+<br/>
 <br/>
 </td>
-<td>
-<p align="center">Par alternance</p>
-</td>
-<td>
-<p align="center">Par une autre méthode<br/>pédagogique</p>
+<td align="center">
+<br/>
+<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Cycle court : 4e, 3e</p>
+<td align="center">
+<br/>4e, 3e<br/>
 </td>
-<td>
-<p align="center">1,30</p>
+<td align="center">
+<br/>1,30<br/>
 </td>
-<td>
-<p align="center">1,77</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>CAPA, BEPA</p>
-</td>
-<td>
-<p align="center">1,95</p>
-</td>
-<td>
-<p align="center">1,95</p>
+<td align="center">
+<br/>1,77<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Cycle long :<br/>baccalauréat</p>
+<td align="center">
+<br/>CAPA, BEPA<br/>
 </td>
-<td colspan="2">
-<p align="center">2</p>
+<td align="center">
+<br/>1,86<br/>
+</td>
+<td align="center">
+<br/>1,86<br/>
 </td>
 </tr>
 <tr>
-<td>
-<p>Cycle supérieur court :<br/>BTSA</p>
+<td align="center">
+<br/>Cycle long :<br/>
 </td>
-<td colspan="2">
-<p align="center">2</p>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>baccalauréat<br/>
+</td>
+<td align="center">
+<br/>1,88<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Cycle supérieur court :<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>BTSA<br/>
+</td>
+<td align="center">
+<br/>1,88<br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+Pour l'année scolaire 2011-2012 :
+
+<table>
+<tbody>
+<tr>
+<th/>
+<th colspan="3">
+<br/>RYTHME APPROPRIÉ<br/>
+</th>
+</tr>
+<tr>
+<th/>
+<th>
+<br/>Par alternance<br/>
+</th>
+<th colspan="2">
+<br/>Par une autre méthode <p>pédagogique<br/>
+</p>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Cycle court :<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>4e, 3e<br/>
+</td>
+<td align="center">
+<br/>1,30<br/>
+</td>
+<td align="center">
+<br/>1,77<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>CAPA, BEPA<br/>
+</td>
+<td align="center">
+<br/>1,89<br/>
+</td>
+<td align="center">
+<br/>1,89<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Cycle long :<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>baccalauréat<br/>
+</td>
+<td align="center">
+<br/>1,92<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Cycle supérieur court :<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>BTSA<br/>
+</td>
+<td align="center">
+<br/>1,92<br/>
+</td>
+</tr>
+</tbody>
+</table>
+
+A partir de l'année scolaire 2012-2013 :
+
+<table>
+<tbody>
+<tr>
+<th/>
+<th colspan="3">
+<br/>RYTHME APPROPRIÉ<br/>
+</th>
+</tr>
+<tr>
+<th/>
+<th>
+<br/>Par alternance<br/>
+</th>
+<th colspan="2">
+<br/>Par une autre méthode <p>pédagogique<br/>
+</p>
+</th>
+</tr>
+<tr>
+<td align="center">
+<br/>Cycle court :<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>4e, 3e<br/>
+</td>
+<td align="center">
+<br/>1,30<br/>
+</td>
+<td align="center">
+<br/>1,77<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>CAPA, BEPA<br/>
+</td>
+<td align="center">
+<br/>1,95<br/>
+</td>
+<td align="center">
+<br/>1,95<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Cycle long :<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>baccalauréat<br/>
+</td>
+<td align="center">
+<br/>2,00<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>Cycle supérieur court :<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+<td align="center">
+<br/>
+<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<br/>BTSA<br/>
+</td>
+<td align="center">
+<br/>2,00<br/>
 </td>
 </tr>
 </tbody>
