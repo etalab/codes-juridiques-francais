@@ -1,9 +1,11 @@
 # Article D812-28
 
-L'accès à la première année de la formation conduisant au diplôme de paysagiste DPLG s'effectue par concours ouvert aux titulaires d'un diplôme national de l'enseignement supérieur sanctionnant une formation de deux ans et aux candidats ayant satisfait aux conditions requises à l'article 11 du décret n° 85-906 du 23 août 1985. Un cycle d'orientation et de formation de base, d'une durée de deux ans, peut être mis en place par les établissements préparant au diplôme de paysagiste DPLG.
+L'accès à la première année de la formation conduisant au diplôme d'Etat de paysagiste s'effectue par un concours commun qui comporte une voie externe et une voie interne.
 
-Peuvent être admis directement en deuxième année, à l'issue d'un concours, les titulaires d'une maîtrise ou d'un titre ou diplôme reconnus équivalents par un arrêté conjoint du ministre de l'agriculture et du ministre chargé de l'architecture.
+La voie externe est ouverte aux titulaires d'un diplôme national de l'enseignement supérieur sanctionnant une formation de deux ans et ayant validé 120 crédits européens ainsi qu'aux candidats ayant obtenu une dispense des titres requis pour faire acte de candidature en application de l'article D. 613-48 du code de l'éducation.
 
-Peuvent être admis directement en troisième année, à l'issue d'un concours, les titulaires du diplôme d'agronomie générale et du diplôme d'ingénieur des techniques de l'horticulture et du paysage. Le succès, à l'issue de cette année d'études, des titulaires du diplôme d'agronomie générale est sanctionné par le diplôme d'agronomie approfondie et par le diplôme d'ingénieur agronome, délivrés par leur école d'origine.
+La voie interne est ouverte aux étudiants ayant validé 120 crédits européens dans le cadre du cycle préparatoire d'études en paysage prévu au dernier alinéa du D. 812-27, mis en place par un établissement autorisé à délivrer le diplôme d'Etat de paysagiste.
 
-Les concours institués par le présent article sont communs à tous les établissements mentionnés à l'article D. 812-8. Leurs programmes et leurs modalités ainsi que le nombre et la répartition des places offertes sont fixés par des arrêtés conjoints des ministres chargés de l'agriculture et de l'architecture.
+Peuvent être admis directement en deuxième année de la formation conduisant au diplôme d'Etat de paysagiste, à l'issue d'une admission sur titre, les titulaires d'un titre ou d'un diplôme conférant 180 crédits européens, dans la limite des capacités d'accueil.
+
+Le concours institué par le présent article est commun à tous les établissements mentionnés à l'article D. 812-27. Il relève d'un jury commun national. Le programme et les modalités des différentes voies du concours, la composition et la présidence du jury commun national ainsi que le nombre et la répartition des places offertes sont fixés par arrêtés conjoints des ministres chargés de l'agriculture, de l'enseignement supérieur et de l'architecture.

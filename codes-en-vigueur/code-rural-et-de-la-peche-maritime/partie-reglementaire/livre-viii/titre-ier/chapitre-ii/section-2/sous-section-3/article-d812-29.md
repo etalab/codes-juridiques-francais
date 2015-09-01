@@ -1,3 +1,3 @@
 # Article D812-29
 
-Les candidats étrangers sont recrutés dans les conditions prévues par l'article 4 du décret n° 85-906 du 23 août 1985.
+Les candidats étrangers sont admis à la formation conduisant au diplôme d'Etat de paysagiste dans les conditions prévues par l'article D. 613-41 du code de l'éducation.
