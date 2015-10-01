@@ -4,4 +4,6 @@ Ont également vocation à l'attribution de la carte du combattant, dans les con
 
 Un arrêté conjoint des ministres concernés fixe notamment les bonifications et les périodes à prendre en considération pour chacun de ces conflits, opérations ou missions.
 
+Une durée d'au moins quatre mois de service effectuée au titre des conflits, opérations ou missions mentionnés au premier alinéa du présent article est reconnue équivalente à la participation aux actions de feu ou de combat prévue au cinquième alinéa de l'article L. 253 bis.
+
 Les conditions d'application du présent article sont déterminées par décret en Conseil d'Etat.
