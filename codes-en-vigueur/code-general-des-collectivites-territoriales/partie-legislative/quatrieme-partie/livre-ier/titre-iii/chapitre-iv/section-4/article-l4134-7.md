@@ -4,4 +4,4 @@ Les membres du conseil économique, social et environnemental régional perçoiv
 
 Un décret en Conseil d'Etat définit les modalités d'application de l'alinéa précédent.
 
-Ils ont, en outre, droit au remboursement des frais supplémentaires pouvant résulter de l'exercice des mandats spéciaux dont ils sont chargés par leur conseil, dans les conditions prévues au cinquième alinéa de l'article L. 4135-19.
+Ils ont, en outre, droit au remboursement des frais supplémentaires pouvant résulter de l'exercice des mandats spéciaux dont ils sont chargés par leur conseil, dans les conditions prévues au dernier alinéa de l'article L. 4135-19.
