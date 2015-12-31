@@ -1,6 +1,5 @@
 # Article Annexe I
 
-<div>
 <table>
 <tbody>
 <tr>
@@ -1251,24 +1250,20 @@
 </td>
 </tr>
 <tr>
-<td colspan="3" width="605">
-<p align="center">Cour d'appel de Cayenne </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="151">
-<p>Guyane.</p>
-</td>
-<td valign="top" width="169">
-<p>Cayenne.</p>
-</td>
-<td valign="top" width="285">
-<p>Le département</p>
-</td>
-</tr>
-<tr>
 <td colspan="3">
-<p>  Cour d'appel de Fort-de-France</p>
+<p align="center">  Cour d'appel de Cayenne</p>
+</td>
+</tr>
+<tr>
+<td>  Guyane.</td>
+<td>  Cayenne.</td>
+<td>
+<p>  Le département.</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" width="605">
+<p align="center">Cour d'appel de Fort-de-France</p>
 </td>
 </tr>
 <tr>
@@ -1289,15 +1284,22 @@
 </tr>
 <tr>
 <td valign="top" width="151">
-<p>Réunion.</p>
+<p>Mayotte </p>
 </td>
 <td valign="top" width="169">
-<p>Saint-Denis.</p>
+<p>Mamoudzou </p>
 </td>
 <td valign="top" width="285">
-<p>Le département.</p>
+<p>Le département </p>
+</td>
+</tr>
+<tr>
+<td>Réunion. <br/>
+</td>
+<td>Saint-Denis. <br/>
+</td>
+<td>Le département. <br/>
 </td>
 </tr>
 </tbody>
 </table>
-</div>

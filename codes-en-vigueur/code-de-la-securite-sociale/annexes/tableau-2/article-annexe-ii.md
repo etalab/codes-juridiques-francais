@@ -21,7 +21,7 @@
 <p>Ajaccio</p>
 </td>
 <td valign="top" width="378">
-<p>Corse-du-Sud, Haute-Corse.</p>
+<p>Corse-du-Sud, Haute-Corse, sauf pour le régime agricole.</p>
 </td>
 </tr>
 <tr>
@@ -142,7 +142,7 @@
 <p>Marseille</p>
 </td>
 <td valign="top" width="378">
-<p>Alpes-de-Haute-Provence, Alpes-Maritimes, Hautes-Alpes, Bouches-du-Rhône, Var, Vaucluse. </p>
+<p>Alpes-de-Haute-Provence, Alpes-Maritimes, Hautes-Alpes, Bouches-du-Rhône, Var, Vaucluse et, pour le régime agricole, Corse-du-Sud et Haute-Corse.</p>
 </td>
 </tr>
 <tr>
@@ -287,6 +287,12 @@
 <td valign="top" width="378">
 <p>Guadeloupe.</p>
 </td>
+</tr>
+<tr>
+<td>Saint-Denis de la Réunion </td>
+<td>Mamoudzou <br/>
+</td>
+<td>Mayotte </td>
 </tr>
 <tr>
 <td valign="top" width="113">
