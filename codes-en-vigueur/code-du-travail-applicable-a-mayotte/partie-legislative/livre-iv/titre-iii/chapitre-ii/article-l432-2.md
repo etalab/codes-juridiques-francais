@@ -4,6 +4,6 @@ Si un délégué du personnel constate, notamment par l'intermédiaire d'un sala
 
 L'employeur ou son représentant est tenu de procéder sans délai à une enquête avec le délégué et de prendre les dispositions nécessaires pour remédier à cette situation.
 
-En cas de carence de l'employeur ou de divergence sur la réalité de cette atteinte et à défaut de solution trouvée avec l'employeur, le salarié, ou le délégué si le salarié concerné averti par écrit ne s'y oppose pas, saisit le tribunal du travail qui statue selon les formes applicables au référé.
+En cas de carence de l'employeur ou de divergence sur la réalité de cette atteinte et à défaut de solution trouvée avec l'employeur, le salarié, ou le délégué si le salarié concerné averti par écrit ne s'y oppose pas, saisit le conseil de prud'hommes qui statue selon les formes applicables au référé.
 
 Le juge peut ordonner toutes mesures propres à faire cesser cette atteinte et assortir sa décision d'une astreinte qui sera liquidée au profit du Trésor.
