@@ -8,9 +8,11 @@ I.-La communauté d'agglomération exerce de plein droit au lieu et place des co
 
 3° En matière d'équilibre social de l'habitat : programme local de l'habitat ; politique du logement d'intérêt communautaire ; actions et aides financières en faveur du logement social d'intérêt communautaire ; réserves foncières pour la mise en oeuvre de la politique communautaire d'équilibre social de l'habitat ; action, par des opérations d'intérêt communautaire, en faveur du logement des personnes défavorisées ; amélioration du parc immobilier bâti d'intérêt communautaire ;
 
-4° En matière de politique de la ville : élaboration du diagnostic du territoire et définition des orientations du contrat de ville ; animation et coordination des dispositifs contractuels de développement urbain, de développement local et d'insertion économique et sociale ainsi que des dispositifs locaux de prévention de la délinquance ; programmes d'actions définis dans le contrat de ville.
+4° En matière de politique de la ville : élaboration du diagnostic du territoire et définition des orientations du contrat de ville ; animation et coordination des dispositifs contractuels de développement urbain, de développement local et d'insertion économique et sociale ainsi que des dispositifs locaux de prévention de la délinquance ; programmes d'actions définis dans le contrat de ville ;
 
 Dans les départements et collectivités d'outre-mer : dispositifs contractuels de développement urbain, de développement local et d'insertion économique et sociale d'intérêt communautaire ; dispositifs locaux, d'intérêt communautaire, de prévention de la délinquance.
+
+5° Gestion des milieux aquatiques et prévention des inondations, dans les conditions prévues à l'article L. 211-7 du code de l'environnement.
 
 II.-La communauté d'agglomération doit en outre exercer au lieu et place des communes au moins trois compétences parmi les six suivantes :
 
