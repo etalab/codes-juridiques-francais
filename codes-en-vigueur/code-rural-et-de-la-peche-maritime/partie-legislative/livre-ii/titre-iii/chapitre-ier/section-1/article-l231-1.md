@@ -15,3 +15,5 @@ II.-Dans l'intérêt de la protection de la santé publique, il doit être proc�
 5° Au contrôle officiel de la mise en oeuvre des bonnes pratiques d'hygiène et des systèmes d'analyse des dangers et des points critiques pour les maîtriser, en application de l'article 10 du règlement (CE) n° 882 / 2004 du Parlement européen et du Conseil du 29 avril 2004 ;
 
 6° Au contrôle officiel des conditions techniques du transport des denrées alimentaires sous température dirigée.
+
+Les résultats des contrôles effectués en application du plan national de contrôles officiels pluriannuel sont rendus publics selon des modalités fixées par voie réglementaire.
