@@ -1,4 +1,4 @@
-# Sous-section 2 : Budget et régime financier des établissements publics à caractère scientifique, culturel et professionnel bénéficiant des responsabilités et compétences élargies
+# Sous-section 2 : Budget et régime financier des établissements publics à caractère scientifique, culturel et professionnel
 
 - [Paragraphe 1 : Organisation budgétaire](paragraphe-1)
 - [Paragraphe 2 : Préparation, vote et modification du budget](paragraphe-2)

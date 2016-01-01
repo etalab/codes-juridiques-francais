@@ -6,7 +6,7 @@ a) Le tableau présentant l'équilibre financier, le compte de résultat prévis
 
 b) Les recettes et les dépenses ainsi que les produits et les charges sont évalués de façon sincère et soutenable ;
 
-c) Le montant des dépenses de personnel ne doit pas excéder la dotation annuelle de masse salariale de l'Etat majorée des recettes propres d'exploitation de l'établissement ;
+c) Le montant des dépenses de personnel ne doit pas excéder, pour les établissements publics bénéficiant des responsabilités et compétences élargies en matière budgétaire dans les conditions prévues à l'article L. 712-8, la dotation annuelle de masse salariale notifiée par l'Etat majorée des ressources propres d'exploitation de l'établissement ;
 
 d) Les ressources du tableau présentant l'équilibre financier, hors recettes de l'emprunt, permettent de couvrir le remboursement en capital des annuités d'emprunts à échoir au cours de l'exercice.
 
