@@ -14,6 +14,8 @@ I.-Ces informations, à l'exception de celles relatives aux gages constitués su
 
 5° Aux fonctionnaires habilités à constater des infractions au présent code, aux seules fins d'identifier les auteurs de ces infractions ;
 
+5°  bis Aux agents habilités de l'établissement public de l'Etat chargé de  participer aux opérations nécessaires à la délivrance par voie postale  de l'avis de paiement mentionné à l'article L. 2333-87 du code général des collectivités territoriales   ou à l'émission du titre exécutoire prévu au même article ;
+
 6° Aux préfets, pour l'exercice de leurs compétences en matière de circulation des véhicules ;
 
 7° Aux services du ministre de l'intérieur, du ministre de la défense, du ministre chargé de l'industrie et du ministre chargé des transports pour l'exercice de leurs compétences ;
@@ -34,8 +36,7 @@ I.-Ces informations, à l'exception de celles relatives aux gages constitués su
 
 14° Aux agents des exploitants d'une autoroute ou d'un ouvrage routier ouvert à la circulation publique et soumis à péage, assermentés dans les conditions prévues à l'article L. 130-7, aux seules fins d'identifier les auteurs des contraventions au présent code qu'ils sont habilités à constater conformément au 8° de l'article L. 130-4 ;
 
-15° Aux agents mentionnés aux articles L. 2132-21 et L. 2132-23 du code général de la propriété des personnes publiques ainsi qu'aux articles L. 2241-1, L. 4321-3, L. 4272-1,
-L. 5243-1 et L. 5337-2 du code des transports habilités à dresser procès-verbal de contravention de grande voirie en application de ces mêmes codes et aux personnels de Voies navigables de France mentionnés à l'article L. 4272-2 du code des transports habilités à constater les infractions définies par les règlements de police de la navigation intérieure, aux seules fins d'identifier le titulaire du certificat d'immatriculation.
+15° Aux agents mentionnés aux articles L. 2132-21 et L. 2132-23 du code général de la propriété des personnes publiques ainsi qu'aux articles L. 2241-1, L. 4321-3, L. 4272-1, L. 5243-1 et L. 5337-2 du code des transports habilités à dresser procès-verbal de contravention de grande voirie en application de ces mêmes codes et aux personnels de Voies navigables de France mentionnés à l'article L. 4272-2 du code des transports habilités à constater les infractions définies par les règlements de police de la navigation intérieure, aux seules fins d'identifier le titulaire du certificat d'immatriculation.
 
 II.-Les entreprises d'assurances doivent fournir à l'appui de leur demande tous éléments utiles permettant de vérifier la réalité du sinistre.
 
