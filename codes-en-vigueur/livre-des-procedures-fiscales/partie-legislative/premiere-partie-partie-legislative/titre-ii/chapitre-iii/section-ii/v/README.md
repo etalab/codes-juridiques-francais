@@ -4,3 +4,4 @@
 - [Article L149](article-l149.md)
 - [Article L150](article-l150.md)
 - [Article L151 A](article-l151-a.md)
+- [Article L151 B](article-l151-b.md)
