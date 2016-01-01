@@ -1,6 +1,6 @@
 # Article 1496
 
-I. La valeur locative des locaux affectés à l'habitation ou servant à l'exercice soit d'une activité salariée à domicile, soit d'une activité professionnelle non commerciale au sens du 1 de l'article 92 est déterminée par comparaison avec celle de locaux de référence choisis, dans la commune, pour chaque nature et catégorie de locaux.
+I. La valeur locative des locaux affectés à l'habitation ou servant à l'exercice d'une activité salariée à domicile  est déterminée par comparaison avec celle de locaux de référence choisis, dans la commune, pour chaque nature et catégorie de locaux.
 
 II. La valeur locative des locaux de référence est déterminée d'après un tarif fixé, par commune ou secteur de commune, pour chaque nature et catégorie de locaux, en fonction du loyer des locaux loués librement à des conditions de prix normales et de manière à assurer l'homogénéité des évaluations dans la commune et de commune à commune.
 
@@ -16,4 +16,4 @@ Les coefficients fixés pour les années 1979 à 1981 demeurent applicables jusq
 
 Toutefois, si ce loyer est notablement inférieur aux prix de location généralement constatés pour les locaux de l'espèce, la base de la taxe foncière est évaluée par comparaison avec celle afférente à ces locaux.
 
-2. Lorsqu'un local cesse d'être soumis à la réglementation des loyers établie par la loi précitée, la valeur locative est déterminée dans les conditions prévues au I, à compter du 1er janvier de l'année suivante.
+2.  Lorsqu'un local cesse d'être soumis à la réglementation des loyers établie par la loi précitée, la valeur locative est déterminée dans les conditions prévues au I, à compter du 1er janvier de l'année suivante.
