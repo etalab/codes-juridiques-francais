@@ -26,6 +26,8 @@ Les dispositions des articles R. 823-12 et R. 823-13 ne sont pas applicables aux
 
 12° Administrateurs et mandataires judiciaires ;
 
-13° Syndicats professionnels de salariés ou d'employeurs et leurs unions, et associations de salariés ou d'employeurs mentionnés à l'article L. 2135-1 du code du travail.
+13° Syndicats professionnels de salariés ou d'employeurs et leurs unions, et associations de salariés ou d'employeurs mentionnés à l'article L. 2135-1 du code du travail ;
+
+14° Comités d'entreprise et comités centraux d'entreprise régis par le titre II du livre III de la deuxième partie du code du travail.
 
 Le montant des honoraires est alors fixé d'un commun accord entre le commissaire aux comptes et la personne ou l'entité, eu égard à l'importance effective du travail nécessaire à l'accomplissement de la mission légale de contrôle.
