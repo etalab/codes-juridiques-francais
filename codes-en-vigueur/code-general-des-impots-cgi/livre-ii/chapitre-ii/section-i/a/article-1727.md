@@ -22,7 +22,7 @@ II.-L'intérêt de retard n'est pas dû :
 
 Sont assimilées à une insuffisance de déclaration lorsqu'elles ne sont pas justifiées :
 
-a. les dépenses de tenue de comptabilité et d'adhésion à un centre de gestion ou à une association agréés ouvrant droit à la réduction d'impôt prévue à l'article 199 quater B ;
+a. (Abrogé) ;
 
 b. les charges ouvrant droit aux réductions d'impôt prévues à l'article 199 septies ;
 

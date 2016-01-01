@@ -1,6 +1,6 @@
 # Article 212 bis
 
-I.-Les charges financières nettes afférentes aux sommes laissées ou mises à disposition d'une entreprise non membre d'un groupe, au sens de l'article 223 A ou de l'article 223 A bis, sont réintégrées au résultat pour une fraction égale à 25 % (1) de leur montant.
+I.-Les charges financières nettes afférentes aux sommes laissées ou mises à disposition d'une entreprise non membre d'un groupe, au sens de l'article 223 A ou de l'article 223 A bis, sont réintégrées au résultat pour une fraction égale à 25 % de leur montant.
 
 II.-Le I ne s'applique pas lorsque le montant total des charges financières nettes de l'entreprise est inférieur à trois millions d'euros.
 
@@ -26,4 +26,8 @@ V.-Le même I ne s'applique pas aux charges financières supportées par le dél
 
 Les charges financières mentionnées au premier alinéa du présent V s'entendent également de celles supportées par la société dont l'objet unique est la détention de titres de sociétés agissant exclusivement en tant que délégataire, concessionnaire ou partenaire privé dans le cadre de contrats mentionnés aux 1° à 5°.
 
-Le présent V s'applique aux charges financières supportées dans le cadre des contrats mentionnés aux 1° à 5° déjà signés à la date de promulgation de la loi n° du de finances pour 2013 (2).
+Le présent V s'applique aux charges financières supportées dans le cadre des contrats mentionnés aux 1° à 5° déjà signés à la date de promulgation de la loi n° du de finances pour 2013 (1).
+
+VI.-Le I du présent article ne s'applique pas aux charges financières supportées par les sociétés de capitaux agréées qui ont pour activité l'acquisition de contrats d'approvisionnement à long terme d'électricité, mentionnées à l'article 238 bis HV du présent code.
+
+Le présent VI s'applique aux exercices ouverts à compter du 1er janvier 2016. Il est applicable aux charges financières supportées dans le cadre des contrats de financement déjà signés ou à signer à compter de la date de promulgation de la loi n° 2014-1654 du 29 décembre 2014 de finances pour 2015.

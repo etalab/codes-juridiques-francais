@@ -6,7 +6,6 @@
 - [16° : Réduction d'impôt accordée au titre des dépenses afférentes à la dépendance](16)
 - [17° : Réduction ou crédit d'impôt accordé au titre des sommes versées pour l'emploi d'un salarié à domicile, à une association agréée ou à un organisme habilité ou conventionné ayant le même objet](17)
 - [19° : Réduction d'impôt accordée au titre des prestations compensatoires réglées en capital ou par attribution d'un bien ou d'un droit](19)
-- [2° : Réduction d'impôt accordée aux adhérents de centres de gestion ou d'associations agréés](2)
 - [20° : Réduction d'impôt accordée au titre des dons faits par les particuliers](20)
 - [21° : Imputation de la réduction d'impôt pour versement de dons aux oeuvres prévue à l'article 238 bis](21)
 - [23° : Crédit d'impôt pour la transition énergétique](23)

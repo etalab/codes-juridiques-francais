@@ -28,7 +28,7 @@ a) Le contribuable célibataire, veuf ou divorcé qui exerce une activité profe
 
 b) Les personnes mariées ou ayant conclu un pacte civil de solidarité, soumises à une imposition commune, qui toutes deux satisfont à l'une ou l'autre conditions posées au a.
 
-Le crédit d'impôt est imputé sur l'impôt sur le revenu après imputation des réductions d'impôt mentionnées aux articles 199 quater B à 200 bis, des crédits d'impôt et des prélèvements ou retenues non libératoires. S'il excède l'impôt dû, l'excédent est restitué.
+Le crédit d'impôt est imputé sur l'impôt sur le revenu après imputation des réductions d'impôt mentionnées aux articles 199 quater C à 200 bis, des crédits d'impôt et des prélèvements ou retenues non libératoires. S'il excède l'impôt dû, l'excédent est restitué.
 
 5. L'aide prend la forme d'une réduction d'impôt sur le revenu égale à 50 % des dépenses mentionnées au 3 supportées par :
 

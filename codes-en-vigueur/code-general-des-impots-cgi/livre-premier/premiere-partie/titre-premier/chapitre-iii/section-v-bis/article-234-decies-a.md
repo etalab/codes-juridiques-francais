@@ -4,7 +4,7 @@ I.-Les contribuables qui ont été soumis, pour les mêmes biens, à la contribu
 
 II.-Les contribuables mentionnés au I bénéficient d'un crédit d'impôt d'un montant égal à 2,5 % de la base des droits d'enregistrement mentionnés aux articles 736 à 741, déclarée dans les conditions prévues au I. Ce crédit d'impôt s'impute sur l'impôt sur le revenu dû au titre de l'année 1999 pour les personnes dont le total des recettes nettes définies au deuxième alinéa du I de l'article 234 ter n'excède pas 60 000 F pour l'année 1999 et sur l'impôt sur le revenu dû au titre de l'année 2000 pour les autres personnes.
 
-Ce crédit s'impute sur l'impôt sur le revenu dû, après imputation des réductions d'impôt mentionnées aux articles 199 quater B à 200, de l'avoir fiscal, des crédits d'impôt ou retenues non libératoires. S'il excède l'impôt dû, l'excédent est restitué.
+Ce crédit s'impute sur l'impôt sur le revenu dû, après imputation des réductions d'impôt mentionnées aux articles 199 quater C à 200, de l'avoir fiscal, des crédits d'impôt ou retenues non libératoires. S'il excède l'impôt dû, l'excédent est restitué.
 
 III.-1. Sur leur demande, les contribuables mentionnés au I bénéficient, en cas de cessation ou d'interruption, à compter du 1er janvier 1998, de la location d'un bien dont les revenus ont été soumis au droit d'enregistrement prévu à l'article 741 bis, d'un crédit d'impôt d'un montant égal à celui du droit d'enregistrement précité acquitté à raison de cette location au titre de la période courant du 1er janvier au 30 septembre 1998.
 

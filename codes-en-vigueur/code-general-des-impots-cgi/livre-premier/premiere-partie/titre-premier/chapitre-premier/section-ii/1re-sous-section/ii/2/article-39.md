@@ -44,17 +44,17 @@ La limite prévue au premier alinéa n'est pas applicable aux intérêts affére
 
 Les conditions d'application de l'alinéa précédent, notamment les obligations déclaratives des sociétés mentionnées, sont fixées par décret ;
 
-3° bis (Abrogé) ;
+3° bis (Abrogé)
 
-4° Sous réserve des dispositions de l'article 153, les impôts à la charge de l'entreprise, mis en recouvrement au cours de l'exercice, à l'exception des taxes prévues aux articles  231 ter, 235 ter X, 235 ter ZE, 235 ter ZE bis, 238 quater et 990 G et, pour les rappels de taxe sur la valeur ajoutée afférents à des opérations au titre desquelles la taxe due peut être totalement ou partiellement déduite par le redevable lui-même, du montant de la taxe déductible.
+4° Sous réserve des dispositions de l'article 153, les impôts à la charge de l'entreprise, mis en recouvrement au cours de l'exercice, à l'exception des taxes prévues aux articles 231 ter, 235 ter X, 235 ter ZE, 235 ter ZE bis, 238 quater et 990 G et, pour les rappels de taxe sur la valeur ajoutée afférents à des opérations au titre desquelles la taxe due peut être totalement ou partiellement déduite par le redevable lui-même, du montant de la taxe déductible.
 
 Par exception aux dispositions du premier alinéa, lorsque, en application du sixième alinéa de l'article 1679 quinquies, un redevable réduit le montant du solde de cotisation foncière des entreprises du montant du dégrèvement attendu du plafonnement de la contribution économique territoriale due au titre de la même année, le montant de la cotisation foncière des entreprises déductible du bénéfice net est réduit dans les mêmes proportions. Corrélativement, le montant du dégrèvement ainsi déduit ne constitue pas un produit imposable, lorsqu'il est accordé ultérieurement.
 
 4° bis-Le prélèvement opéré au titre de l'article 4 modifié de la loi n° 51-675 du 24 mai 1951, relative à la construction navale, et faisant l'objet d'un ordre de versement émis au cours de l'exercice ;
 
-4° ter (Abrogé) ;
+4° ter (Abrogé)
 
-4° quater (Abrogé) ;
+4° quater (Abrogé)
 
 5° Les provisions constituées en vue de faire face à des pertes ou charges nettement précisées et que des événements en cours rendent probables, à condition qu'elles aient été effectivement constatées dans les écritures de l'exercice. Toutefois, ne sont pas déductibles les provisions que constitue une entreprise en vue de faire face au versement d'allocations en raison du départ à la retraite ou préretraite des membres ou anciens membres de son personnel, ou de ses mandataires sociaux. Les provisions pour pertes afférentes à des opérations en cours à la clôture d'un exercice ne sont déductibles des résultats de cet exercice qu'à concurrence de la perte qui est égale à l'excédent du coût de revient des travaux exécutés à la clôture du même exercice sur le prix de vente de ces travaux compte tenu des révisions contractuelles certaines à cette date. S'agissant des produits en stock à la clôture d'un exercice, les dépenses non engagées à cette date en vue de leur commercialisation ultérieure ne peuvent, à la date de cette clôture, être retenues pour l'évaluation de ces produits en application des dispositions du 3 de l'article 38, ni faire l'objet d'une provision pour perte.
 
@@ -178,9 +178,9 @@ Lorsqu'elles augmentent dans une proportion supérieure à celle des bénéfices
 
 5 bis. Les rémunérations différées visées aux articles L. 225-42-1 et L. 225-90-1 du code de commerce sont admises en déduction du bénéfice net dans la limite de six fois le plafond annuel de la sécurité sociale par bénéficiaire.
 
-6. (périmé).
+6. (Périmé)
 
-7. Les dépenses exposées pour la tenue de la comptabilité et, éventuellement, pour l'adhésion à un centre de gestion agréé ne sont pas prises en compte pour la détermination du résultat imposable lorsqu'elles sont supportées par l'Etat du fait de la réduction d'impôt mentionnée à l'article 199 quater B.
+7. (Abrogé)
 
 8. Si un fonds de commerce, un fonds artisanal ou l'un de leurs éléments incorporels non amortissables ou des parts sociales ou des actions de sociétés commerciales non négociables sur un marché réglementé sont loués dans les conditions prévues au 3 ou au 4 de l'article L. 313-7 du code monétaire et financier, la quote-part de loyers prise en compte pour la fixation du prix de vente convenu pour l'acceptation de la promesse unilatérale de vente n'est pas déductible pour l'assiette de l'impôt sur les bénéfices dû par le locataire. Elle doit être indiquée distinctement dans le contrat de crédit-bail.
 
