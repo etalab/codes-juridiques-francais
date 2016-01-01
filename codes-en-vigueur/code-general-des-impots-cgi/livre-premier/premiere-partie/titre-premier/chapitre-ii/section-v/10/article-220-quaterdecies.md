@@ -18,7 +18,7 @@ a) Les œuvres cinématographiques ou audiovisuelles à caractère pornographiqu
 
 b) Les œuvres cinématographiques ou audiovisuelles utilisables à des fins de publicité.
 
-III. ― 1. Le crédit d'impôt, calculé au titre de chaque exercice, est égal à 20 % du montant total des dépenses suivantes correspondant à des opérations ou prestations effectuées en France :
+III. ― 1. Le crédit d'impôt, calculé au titre de chaque exercice, est égal à 30 % du montant total des dépenses suivantes correspondant à des opérations ou prestations effectuées en France :
 
 a) Les rémunérations versées aux auteurs énumérés à l'article L. 113-7 du code de la propriété intellectuelle sous forme d'avances à valoir sur les recettes d'exploitation des œuvres, ainsi que les charges sociales afférentes ;
 
@@ -38,7 +38,7 @@ IV. ― Les dépenses mentionnées au III ouvrent droit au crédit d'impôt à c
 
 V. ― Les subventions publiques reçues par les entreprises de production exécutive à raison des opérations ouvrant droit au crédit d'impôt sont déduites des bases de calcul de ce crédit, qu'elles soient définitivement acquises par elles ou remboursables.
 
-VI. ― La somme des crédits d'impôt calculés au titre d'une même œuvre ne peut excéder 20 millions d'euros.
+VI. ― La somme des crédits d'impôt calculés au titre d'une même œuvre ne peut excéder 30 millions d'euros.
 
 VII. ― Les crédits d'impôts obtenus pour la production d'une même œuvre cinématographique ou audiovisuelle ne peuvent avoir pour effet de porter à plus de 50 % du budget de production de l'œuvre le montant total des aides publiques accordées.
 
