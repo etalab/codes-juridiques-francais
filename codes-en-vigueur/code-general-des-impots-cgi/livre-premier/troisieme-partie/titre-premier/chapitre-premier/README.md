@@ -3,6 +3,7 @@
 - [I : Achat au détail de métaux ferreux et non ferreux](i)
 - [I bis : Déclaration des ventes autres que les ventes au détail](i-bis)
 - [I ter : Apposition de marques](i-ter)
+- [II.](ii)
 - [0I bis : Déclaration des avances remboursables ne portant pas intérêt](0i-bis)
 - [0I ter : Déclaration de l'établissement public Réseau ferré de France](0i-ter)
 - [0I ter A : Déclaration des propriétaires de transformateurs électriques](0i-ter-a)
