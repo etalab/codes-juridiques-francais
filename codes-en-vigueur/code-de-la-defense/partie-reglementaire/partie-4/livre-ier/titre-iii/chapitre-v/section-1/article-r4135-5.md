@@ -2,7 +2,7 @@
 
 Le militaire est noté au moins une fois par an lorsqu'il a accompli au moins cent vingt jours de présence effective en position d'activité durant la période de notation.
 
-Pour le réserviste servant dans la réserve opérationnelle, la durée de la présence effective minimum est de cinq jours.
+Par dérogation à l'alinéa précédent, le réserviste opérationnel est noté au moins une fois par an lorsqu'il a accompli au moins dix jours de présence effective durant la période de notation.
 
 La présence effective comprend les samedis, dimanches, jours fériés et les jours de permission, mais n'inclut pas les jours de congés pris par le militaire lorsqu'il est en position d'activité.
 
