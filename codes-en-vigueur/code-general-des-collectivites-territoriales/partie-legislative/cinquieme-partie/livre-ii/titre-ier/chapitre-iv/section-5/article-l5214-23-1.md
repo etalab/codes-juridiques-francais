@@ -1,10 +1,12 @@
 # Article L5214-23-1
 
-Les communautés de communes faisant application des dispositions de l'article 1609 nonies C du code général des impôts dont la population est comprise entre 3 500 habitants et 50 000 habitants au plus ou, lorsqu'elle est inférieure à 3 500 habitants, et qu'elles sont situées en zone de revitalisation rurale de montagne et comprennent au moins dix communes dont un chef-lieu de canton ou la totalité des communes d'un canton ou bien, lorsqu'elle est supérieure à 50 000 habitants, n'inclut pas de commune centre ou de commune chef-lieu de département de plus de 15 000 habitants, sont éligibles à la dotation prévue au quatrième alinéa du II de l'article L. 5211-29 lorsqu'elles exercent au moins quatre des huit groupes de compétences suivants :
+Les communautés de communes faisant application des dispositions de l'article 1609 nonies C du code général des impôts dont la population est comprise entre 3 500 habitants et 50 000 habitants au plus ou, lorsqu'elle est inférieure à 3 500 habitants, et qu'elles sont situées en zone de revitalisation rurale de montagne et comprennent au moins dix communes dont un chef-lieu de canton ou la totalité des communes d'un canton ou bien, lorsqu'elle est supérieure à 50 000 habitants, n'inclut pas de commune centre ou de commune chef-lieu de département de plus de 15 000 habitants, sont éligibles à la dotation prévue au quatrième alinéa du II de l'article L. 5211-29 lorsqu'elles exercent au moins quatre des neuf groupes de compétences suivants :
 
 1° En matière de développement économique : aménagement, entretien et gestion de zones d'activité industrielle, commerciale, tertiaire, artisanale ou touristique qui sont d'intérêt communautaire ; actions de développement économique d'intérêt communautaire ;
 
 2° En matière d'aménagement de l'espace communautaire : schéma de cohérence territoriale et schéma de secteur ; à compter du 1er janvier 2018, plan local d'urbanisme, document d'urbanisme en tenant lieu et carte communale ; zones d'aménagement concerté d'intérêt communautaire ;
+
+2° bis Gestion des milieux aquatiques et prévention des inondations dans les conditions prévues à l'article L. 211-7 du code de l'environnement ;
 
 3° Création ou aménagement et entretien de voirie d'intérêt communautaire ;
 
