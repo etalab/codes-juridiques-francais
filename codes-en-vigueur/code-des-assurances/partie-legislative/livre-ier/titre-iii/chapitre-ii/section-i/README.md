@@ -40,3 +40,4 @@
 - [Article L132-26](article-l132-26.md)
 - [Article L132-27](article-l132-27.md)
 - [Article L132-27-1](article-l132-27-1.md)
+- [Article L132-27-2](article-l132-27-2.md)
