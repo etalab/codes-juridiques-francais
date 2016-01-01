@@ -4,7 +4,7 @@ I.-Les contribuables peuvent sur option effectuer un versement libératoire de l
 
 1° Ils sont soumis aux régimes définis aux articles 50-0 ou 102 ter ;
 
-2° Le montant des revenus du foyer fiscal de l'avant-dernière année, tel que défini au IV de l'article 1417, est inférieur ou égal, pour une part de quotient familial, à la limite supérieure de la troisième tranche du barème de l'impôt sur le revenu de l'année précédant celle au titre de laquelle l'option est exercée. Cette limite est majorée respectivement de 50 % ou 25 % par demi-part ou quart de part supplémentaire ;
+2° Le montant des revenus du foyer fiscal de l'avant-dernière année, tel que défini au IV de l'article 1417, est inférieur ou égal, pour une part de quotient familial, à la limite supérieure de la deuxième tranche du barème de l'impôt sur le revenu de l'année précédant celle au titre de laquelle l'option est exercée. Cette limite est majorée respectivement de 50 % ou 25 % par demi-part ou quart de part supplémentaire ;
 
 3° Ils sont soumis au régime prévu à l'article L. 133-6-8 du code de la sécurité sociale.
 
