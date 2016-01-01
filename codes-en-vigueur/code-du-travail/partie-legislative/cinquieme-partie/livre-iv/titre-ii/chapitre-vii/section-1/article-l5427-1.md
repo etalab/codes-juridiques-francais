@@ -18,4 +18,4 @@ d) Par la caisse de prévoyance sociale prévue par l'ordonnance n° 77-1102 du 
 
 e) Par l'institution mentionnée à l'article L. 5312-1 du présent code, lorsqu'elles sont dues au titre des salariés engagés à titre temporaire qui relèvent des professions de la production cinématographique, de l'audiovisuel ou du spectacle et lorsque l'activité exercée bénéficie de l'aménagement des conditions d'indemnisation mentionné à l'article L. 5424-20 ;
 
-f) Par l'organisme mentionné à l'article L. 212-3 du code de la sécurité sociale, lorsqu'elles sont dues au titre des salariés affiliés au régime spécial de sécurité sociale des gens de mer.
+f) Par l'organisme gestionnaire du régime spécial de sécurité sociale des marins lorsqu'elles sont dues au titre des salariés affiliés audit régime.

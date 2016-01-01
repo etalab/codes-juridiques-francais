@@ -24,16 +24,18 @@ Sont exonérés de la taxe spéciale sur les conventions d'assurances :
 
 10° Les contrats souscrits par le Centre national de transfusion sanguine pour le compte des centres de transfusion sanguine auprès du groupement d'assureurs des risques de transfusion sanguine pour satisfaire aux conditions de l'assurance obligatoire des dommages causés aux donneurs et aux receveurs de sang humain et de produits sanguins d'origine humaine ;
 
-11° Les assurances contre les risques de toute nature relatifs aux véhicules terrestres à moteur utilitaires d'un poids total autorisé en charge supérieur à 3,5 tonnes ;
+11° Les assurances contre les risques de toute nature relatifs aux véhicules terrestres à moteur utilitaires d'un poids total autorisé en charge supérieur à 3,5 tonnes, à l'exception de la part se rapportant à l'obligation d'assurance en matière de circulation de véhicules terrestres à moteur prévue à l'article L. 211-1 du code des assurances ;
 
 12° Les contrats d'assurance couvrant les risques de toute nature afférents aux récoltes, cultures, cheptel vif, cheptel mort, bâtiments affectés aux exploitations agricoles et exclusivement nécessaires au fonctionnement de celles-ci.
 
-Cette exonération s'applique, dans les mêmes conditions, aux camions, camionnettes, fourgonnettes à utilisations exclusivement utilitaires ;
+Cette exonération s'applique, dans les mêmes conditions, aux camions, camionnettes, fourgonnettes à utilisations exclusivement utilitaires, à l'exception de la part se rapportant à l'obligation d'assurance en matière de circulation de véhicules terrestres à moteur prévue au même article L. 211-1 ;
 
-13° Les contrats d'assurance maladie complémentaire couvrant les personnes physiques ou morales qui exercent exclusivement ou principalement une des professions agricoles ou connexes à l'agriculture définies aux articles L. 722-4, L. 722-9, au 1° de l'article L. 722-10 et aux articles L. 722-21, L. 722-28, L. 722-29, L. 731-25 et L. 741-2 du code rural et de la pêche maritime ainsi que leurs salariés et les membres de la famille de ces personnes, lorsqu'ils vivent avec elles sur l'exploitation, si ces garanties respectent les conditions mentionnées à l'article L. 871-1 du code de la sécurité sociale.
+13° (Abrogé) ;
 
 14° Les contrats d'assurance dépendance ;
 
 15° et 16° Abrogés ;
 
-17° Les cotisations versées par les exploitants de remontées mécaniques dans le cadre du système mutualiste d'assurance contre les aléas climatiques.
+17° Les cotisations versées par les exploitants de remontées mécaniques dans le cadre du système mutualiste d'assurance contre les aléas climatiques ;
+
+18° Les contrats d'assurance maladie assujettis à la taxe mentionnée à l'article L. 862-4 du code de la sécurité sociale.
