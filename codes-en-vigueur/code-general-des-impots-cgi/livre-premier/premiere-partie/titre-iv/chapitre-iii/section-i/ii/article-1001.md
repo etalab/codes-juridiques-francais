@@ -16,19 +16,23 @@ Toutefois les taux de la taxe sont réduits à 7 % pour les assurances contre l'
 
 A 7 % ;
 
-2° bis à 7 % pour les contrats d'assurance maladie relatifs à des opérations individuelles et collectives à adhésion facultative à la condition que l'organisme ne recueille pas d'informations médicales auprès de l'assuré au titre de ce contrat ou des personnes souhaitant bénéficier de cette couverture, que les cotisations ou les primes ne soient pas fixées en fonction de l'état de santé de l'assuré et que ces garanties respectent les conditions mentionnées à l'article L. 871-1 du code de la sécurité sociale, ainsi que pour les contrats d'assurance maladie relatifs à des opérations collectives à adhésion obligatoire à la condition que les cotisations ou les primes ne soient pas fixées en fonction de l'état de santé de l'assuré et que ces garanties respectent les conditions mentionnées au même article L. 871-1 ;
+2° bis (Abrogé) ;
 
-2° ter A 14 % pour les contrats d'assurance maladie relatifs à des opérations individuelles et collectives à adhésion facultative et les contrats d'assurance maladie relatifs à des opérations collectives à adhésion obligatoire qui ne satisfont pas à l'ensemble des conditions prévues au 2° bis respectivement pour ces deux types de contrat ;
+2° ter (Abrogé) ;
 
-3° à 19 % pour les assurances contre les risques de toute nature de navigation maritime ou fluviale des bateaux de sport ou de plaisance ;
+3° A 19 % pour les assurances contre les risques de toute nature de navigation maritime ou fluviale des bateaux de sport ou de plaisance ;
 
 4° (Abrogé) ;
 
 5° (Abrogé) ;
 
-5° bis à 18 % pour les assurances contre les risques de toute nature relatifs aux véhicules terrestres à moteur ;
+5° bis A 18 % pour les assurances contre les risques de toute nature relatifs aux véhicules terrestres à moteur autres que les assurances relatives à l'obligation d'assurance en matière de véhicules terrestres à moteur prévue à l'article L. 211-1 du code des assurances ;
 
 5° ter A 11,6 % pour les assurances de protection juridique définies aux articles L. 127-1 du code des assurances et L. 224-1 du code de la mutualité, autres que celles ayant pour objet exclusif ou principal de prendre en charge la défense pénale et le recours de droit commun en vue d'obtenir la réparation d'un préjudice personnel de l'assuré, suite à un accident ;
+
+5° quater A 15 % pour les assurances relatives à l'obligation d'assurance en matière de véhicules terrestres à moteur prévue à l'article L. 211-1 du code des assurances et concernant les véhicules terrestres à moteur utilitaires d'un poids total autorisé en charge supérieur à 3,5 tonnes ainsi que les camions, camionnettes et fourgonnettes à utilisations exclusivement utilitaires des exploitations agricoles et exclusivement nécessaires au fonctionnement de celles-ci ;
+
+A 33 % pour les assurances relatives à l'obligation d'assurance en matière de véhicules terrestres à moteur instituée au même article L. 211-1 pour les véhicules autres que ceux mentionnés au premier alinéa du présent 5° quater ;
 
 6° Pour toutes autres assurances :
 
@@ -38,8 +42,6 @@ Les risques d'incendie couverts par des assurances ayant pour objet des risques 
 
 Le produit de la taxe est affecté aux départements et, dans les conditions prévues au 2° de l'article L. 3662-1 du code général des collectivités territoriales, à la métropole de Lyon, à l'exception :
 
-a) Du produit de la taxe afférente aux contrats mentionnés au 2° bis du présent article, qui est affecté, par parts égales, à la Caisse nationale des allocations familiales et à la Caisse nationale de l'assurance maladie des travailleurs salariés ;
+a) D'une fraction du produit de la taxe afférente aux contrats mentionnés au 5° ter, qui est affectée, pour la part correspondant à un taux de 2,6 % et dans la limite de 25 millions d'euros par an, au Conseil national des barreaux ;
 
-b) D'une fraction du produit de la taxe afférente aux contrats mentionnés au 2° ter, qui est affectée, pour la part correspondant à un taux de 5 %, à la Caisse nationale de l'assurance maladie des travailleurs salariés ;
-
-c) D'une fraction du produit de la taxe afférente aux contrats mentionnés au 5° ter, qui est affectée, pour la part correspondant à un taux de 2,6 % et dans la limite de 25 millions d'euros par an, au Conseil national des barreaux.
+b) D'une fraction correspondant à un taux de 13,3 % du produit de la taxe au taux de 33 % et du produit de la taxe au taux de 15 % mentionnés au 5° quater, qui sont affectés dans les conditions prévues à l'article L. 131-8 du code de la sécurité sociale.
