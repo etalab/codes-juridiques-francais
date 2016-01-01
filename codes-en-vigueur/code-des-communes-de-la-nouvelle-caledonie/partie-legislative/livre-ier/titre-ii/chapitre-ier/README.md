@@ -8,3 +8,4 @@
 - [Section 7 : Droit à la formation](section-7)
 - [Section 8 : Régime juridique des actes pris par les autorités communales](section-8)
 - [Article L121-1](article-l121-1.md)
+- [Article L121-1-1](article-l121-1-1.md)

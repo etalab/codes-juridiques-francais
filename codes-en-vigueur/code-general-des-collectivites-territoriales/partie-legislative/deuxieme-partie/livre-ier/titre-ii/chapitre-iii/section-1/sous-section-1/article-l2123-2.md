@@ -10,7 +10,9 @@ II.-Ce crédit d'heures, forfaitaire et trimestriel, est fixé par référence �
 
 3° A l'équivalent d'une fois et demie la durée hebdomadaire légale du travail pour les conseillers municipaux des communes de 100 000 habitants au moins et les adjoints au maire des communes de moins de 10 000 habitants ;
 
-4° A l'équivalent d'une fois la durée légale du travail pour les conseillers municipaux des communes de 30 000 à 99 999 habitants, de 60 % pour les conseillers municipaux des communes de 10 000 à 29 999 habitants et de 30 % pour les conseillers municipaux des communes de 3 500 à 9 999 habitants.
+4° A l'équivalent d'une fois la durée hebdomadaire légale du travail pour les conseillers municipaux des communes de 30 000 à 99 999 habitants, de 60 % pour les conseillers municipaux des communes de 10 000 à 29 999 habitants et de 30 % pour les conseillers municipaux des communes de 3 500 à 9 999 habitants ;
+
+5° A l'équivalent de 20 % de la durée hebdomadaire légale du travail pour les conseillers municipaux des communes de moins de 3 500 habitants.
 
 Les heures non utilisées pendant un trimestre ne sont pas reportables.
 

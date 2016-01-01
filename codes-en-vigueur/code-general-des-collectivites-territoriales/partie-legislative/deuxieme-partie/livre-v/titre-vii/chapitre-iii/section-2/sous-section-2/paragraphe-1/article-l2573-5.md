@@ -10,9 +10,11 @@ IV.-Pour l'application de l'article L. 2121-7 :
 
 1° Le premier alinéa est complété par les mots : " et au moins deux fois par an dans les communes comprenant des communes associées situées dans plusieurs îles " ;
 
-2° Le second alinéa est complété par la phrase :
+2° Le deuxième alinéa est complété par la phrase :
 
 Dans les communes comprenant des communes associées situées dans plusieurs îles, la première réunion se tient de plein droit au plus tôt le premier vendredi et au plus tard le troisième dimanche suivant le tour de scrutin à l'issue duquel le conseil a été élu au complet.
+
+3° A la fin de la seconde phrase du troisième alinéa, la référence : "du chapitre III du présent titre" est remplacée par les mots : "des dispositions rendues applicables aux communes de la Polynésie française par les articles L. 2573-7 à L. 2573-10".
 
 V.-Après le deuxième alinéa de l'article L. 2121-11 et après le troisième alinéa de l'article L. 2121-12 est inséré l'alinéa ainsi rédigé :
 

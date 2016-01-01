@@ -8,7 +8,7 @@ A l'occasion du renouvellement général des membres du conseil régional, tout 
 
 Le montant mensuel de l'allocation est au plus égal à 80 % de la différence entre le montant de l'indemnité brute mensuelle que l'intéressé percevait pour l'exercice de ses fonctions, dans la limite des taux maximaux fixés à l'article L. 4135-17, et l'ensemble des ressources qu'il perçoit à l'issue du mandat.
 
-L'allocation est versée pendant une période de six mois au plus. Elle n'est pas cumulable avec celles prévues par les articles L. 2123-11-2 et L. 3123-9-2.
+L'allocation est versée pendant une période d'un an au plus. Elle n'est pas cumulable avec celles prévues par les articles L. 2123-11-2 et L. 3123-9-2. A compter du septième mois suivant le début du versement de l'allocation, le taux mentionné au quatrième alinéa est au plus égal à 40 %.
 
 Le financement de cette allocation est assuré dans les conditions prévues par l'article L. 1621-2.
 

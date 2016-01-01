@@ -17,7 +17,7 @@ I.-Les indemnités votées par les conseils municipaux pour l'exercice effectif 
 <p>Moins de 500 </p>
 </td>
 <td valign="top" width="228">
-<p align="center">6, 6 </p>
+<p align="center">6,6 </p>
 </td>
 </tr>
 <tr>
@@ -25,7 +25,7 @@ I.-Les indemnités votées par les conseils municipaux pour l'exercice effectif 
 <p>De 500 à 999 </p>
 </td>
 <td valign="top" width="228">
-<p align="center">8, 25 </p>
+<p align="center">8,25 </p>
 </td>
 </tr>
 <tr>
@@ -33,7 +33,7 @@ I.-Les indemnités votées par les conseils municipaux pour l'exercice effectif 
 <p>De 1 000 à 3 499 </p>
 </td>
 <td valign="top" width="228">
-<p align="center">16, 5 </p>
+<p align="center">16,5 </p>
 </td>
 </tr>
 <tr>
@@ -49,7 +49,7 @@ I.-Les indemnités votées par les conseils municipaux pour l'exercice effectif 
 <p>De 10 000 à 19 999 </p>
 </td>
 <td valign="top" width="228">
-<p align="center">27, 5 </p>
+<p align="center">27,5 </p>
 </td>
 </tr>
 <tr>
@@ -81,7 +81,7 @@ I.-Les indemnités votées par les conseils municipaux pour l'exercice effectif 
 <p>Plus de 200 000 </p>
 </td>
 <td valign="top" width="228">
-<p align="center">72, 5 </p>
+<p align="center">72,5 </p>
 </td>
 </tr>
 </tbody>
@@ -91,6 +91,6 @@ II.-L'indemnité versée à un adjoint peut dépasser le maximum prévu au I, à
 
 III.-Lorsqu'un adjoint supplée le maire dans les conditions prévues par l'article L. 2122-17, il peut percevoir, pendant la durée de la suppléance et après délibération du conseil municipal, l'indemnité fixée pour le maire par l'article L. 2123-23, éventuellement majorée comme le prévoit l'article L. 2123-22. Cette indemnité peut être versée à compter de la date à laquelle la suppléance est effective.
 
-IV.-En aucun cas l'indemnité versée à un adjoint ne peut dépasser l'indemnité maximale susceptible d'être allouée au maire de la commune en application des articles L. 2123-22 et L. 2123-23.
+IV.-En aucun cas l'indemnité versée à un adjoint ne peut dépasser l'indemnité          fixée pour le maire en application des articles L. 2123-22 et L. 2123-23.
 
 V.-Par dérogation au I, dans les communes de 20 000 habitants au moins, lorsqu'un adjoint a interrompu toute activité professionnelle pour exercer son mandat et que le maire lui retire les délégations de fonctions qu'il lui avait accordées, la commune continue de lui verser, dans les cas où il ne retrouve pas d'activité professionnelle et pendant trois mois au maximum, l'indemnité de fonction qu'il percevait avant le retrait de la délégation.

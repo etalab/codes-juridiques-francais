@@ -55,6 +55,6 @@ Les indemnités maximales votées par les conseils départementaux pour l'exerci
 </tbody>
 </table>
 
-Le conseil départemental  peut, dans des conditions fixées par son règlement intérieur, réduire le montant des indemnités qu'il alloue à ses membres en fonction de leur participation aux séances plénières, aux réunions des commissions dont ils sont membres et aux réunions des organismes dans lesquels ils représentent le département, sans que cette réduction puisse dépasser, pour chacun d'entre eux, la moitié de l'indemnité maximale pouvant lui être allouée en application du présent article.
+Dans des conditions fixées par le règlement intérieur, le montant des indemnités que le conseil départemental alloue à ses membres est modulé en fonction de leur participation effective aux séances plénières et aux réunions des commissions dont ils sont membres. La réduction éventuelle de ce montant ne peut dépasser, pour chacun des membres, la moitié de l'indemnité pouvant lui être allouée en application du présent article.
 
-Les indemnités de fonction des conseillers de Paris fixées à l'article L. 2511-34 sont cumulables, dans la limite des dispositions du II de l'article L. 2123-20, avec celles fixées ci-dessus.
+Les indemnités de fonction des conseillers de Paris fixées à l'article L. 2511-34 sont cumulables, dans la limite des dispositions du II de l'article L. 2123-20 , avec celles fixées ci-dessus.

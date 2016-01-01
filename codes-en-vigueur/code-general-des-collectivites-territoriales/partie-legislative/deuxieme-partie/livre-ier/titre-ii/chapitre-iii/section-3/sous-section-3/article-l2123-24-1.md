@@ -8,4 +8,4 @@ III.-Les conseillers municipaux auxquels le maire délègue une partie de ses fo
 
 IV.-Lorsqu'un conseiller municipal supplée le maire dans les conditions prévues par l'article L. 2122-17, il peut percevoir, pendant la durée de la suppléance et après délibération du conseil municipal, l'indemnité fixée pour le maire par l'article L. 2123-23, éventuellement majorée comme le prévoit l'article L. 2123-22. Cette indemnité peut être versée à compter de la date à laquelle la suppléance est effective.
 
-V.-En aucun cas l'indemnité versée à un conseiller municipal ne peut dépasser l'indemnité maximale susceptible d'être allouée au maire de la commune en application des articles L. 2123-22 et L. 2123-23.
+V.-En aucun cas l'indemnité versée à un conseiller municipal ne peut dépasser l'indemnité      fixée pour le maire de la commune en application des articles L. 2123-22 et L. 2123-23.

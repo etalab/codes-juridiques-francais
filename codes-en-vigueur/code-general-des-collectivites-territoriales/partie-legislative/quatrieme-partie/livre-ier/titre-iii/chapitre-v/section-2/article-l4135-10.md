@@ -1,6 +1,6 @@
 # Article L4135-10
 
-Les membres du conseil régional ont droit à une formation adaptée à leurs fonctions.
+Les membres du conseil régional ont droit à une formation adaptée à leurs fonctions. Une formation est obligatoirement organisée au cours de la première année de mandat pour les élus ayant reçu une délégation.
 
 Dans les trois mois suivant son renouvellement, le conseil régional délibère sur l'exercice du droit à la formation de ses membres. Il détermine les orientations et les crédits ouverts à ce titre.
 
