@@ -6,9 +6,11 @@ I.-1. Sous réserve des dispositions propres aux bénéfices industriels et comm
 
 Le gain retiré de la cession ou de l'apport d'une créance qui trouve son origine dans une clause contractuelle de complément de prix visée au premier alinéa est imposé dans les mêmes conditions au titre de l'année de la cession ou de l'apport.
 
-3. Abrogé (1).
+3. Abrogé.
 
 4. Les sommes ou valeurs attribuées en contrepartie de titres pour lesquels l'option pour l'imputation des pertes a été exercée dans les conditions du deuxième alinéa du 12 de l'article 150-0 D sont imposables au titre de l'année au cours de laquelle elles sont reçues, à hauteur de la perte imputée ou reportée.
+
+5. La fraction ayant le caractère de gain net des sommes versées par la Caisse des dépôts et consignations en application du cinquième alinéa du I de l'article L. 312-20 du code monétaire et financier est soumise à l'impôt sur le revenu déterminé suivant les règles de taxation en vigueur l'année de ce versement. Le montant imposable du gain net est déterminé dans les conditions et selon les modalités applicables à la date de la liquidation des titres opérée en application du cinquième alinéa du I de l'article L. 312-20 du code monétaire et financier.
 
 I bis. (abrogé)
 
@@ -32,7 +34,7 @@ II.-Les dispositions du I sont applicables :
 
 6. Au gain net retiré par le bénéficiaire lors d'un rachat par une société émettrice de ses propres titres et défini au 8 ter de l'article 150-0 D ;
 
-7. Sous réserve de l'application de l'article 163 quinquies B et du 8, en cas de distribution d'une fraction des actifs d'un fonds commun de placement à risques , d'un fonds professionnel spécialisé relevant de l'article L. 214-37 du code monétaire et financier, dans sa rédaction antérieure à l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre juridique de la gestion d'actifs, d'un fonds professionnel de capital d'investissement ou d'une entité de même nature constituée sur le fondement d'un droit étranger, à l'excédent du montant des sommes ou valeurs distribuées sur le montant des apports, ou le prix d'acquisition des parts s'il est différent du montant des apports ;
+7. Sous réserve de l'application de l'article 163 quinquies B et du 8, en cas de distribution d'une fraction des actifs d'un fonds commun de placement à risques, d'un fonds professionnel spécialisé relevant de l'article L. 214-37 du code monétaire et financier, dans sa rédaction antérieure à l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre juridique de la gestion d'actifs, d'un fonds professionnel de capital d'investissement ou d'une entité de même nature constituée sur le fondement d'un droit étranger, à l'excédent du montant des sommes ou valeurs distribuées sur le montant des apports, ou le prix d'acquisition des parts s'il est différent du montant des apports ;
 
 7 bis. Sous réserve de l'application de l'article 163 quinquies B, du 8 du présent II et du 2 du III, en cas de distribution de plus-values par un organisme de placement collectif en valeurs mobilières ou par un placement collectif relevant des articles L. 214-24-24 à L. 214-32-1, L. 214-139 à L. 214-147 et L. 214-152 à L. 214-166 du code monétaire et financier, ou par une entité de même nature constituée sur le fondement d'un droit étranger ;
 
@@ -76,6 +78,6 @@ Les dispositions du premier alinéa ne s'appliquent pas aux actions de société
 
 6. Aux profits réalisés dans le cadre des placements en report par les contribuables qui effectuent de tels placements.
 
-7. Abrogé (1).
+7. Abrogé.
 
 IV.-Le I ne s'applique pas aux partages qui portent sur des valeurs mobilières, des droits sociaux et des titres assimilés, dépendant d'une succession ou d'une communauté conjugale et qui interviennent uniquement entre les membres originaires de l'indivision, leur conjoint, des ascendants, des descendants ou des ayants droit à titre universel de l'un ou de plusieurs d'entre eux. Il en est de même des partages portant sur des biens indivis issus d'une donation-partage et des partages portant sur des biens indivis acquis par des partenaires ayant conclu un pacte civil de solidarité ou par des époux, avant ou pendant le pacte ou le mariage. Ces partages ne sont pas considérés comme translatifs de propriété dans la mesure des soultes ou plus-values.

@@ -1,0 +1,15 @@
+# Article 990 I bis
+
+I.-1. Lorsqu'elles n'entrent pas dans le champ d'application du II ter de l'article 125-0 A ou du I ter de l'article 990 I, les sommes qui, au jour de leur dépôt à la Caisse des dépôts et consignations, étaient dues, directement ou indirectement, par un ou plusieurs organismes d'assurance et assimilés à raison du décès de l'assuré ou à raison de l'échéance d'un contrat d'assurance sur la vie ou d'un bon ou contrat de capitalisation, et qui sont versées par la Caisse des dépôts et consignations en application des articles L. 132-27-2 du code des assurances et L. 223-25-4 du code de la mutualité, sont soumises à un prélèvement à concurrence de la part revenant à chaque bénéficiaire de ces sommes, diminuée d'un abattement de 15 000 €. Le prélèvement s'élève à 20 % pour la fraction de la part taxable de chaque bénéficiaire inférieure ou égale à 700 000 € et à 31,25 % pour la fraction de la part taxable de chaque bénéficiaire excédant cette limite.
+
+Le bénéficiaire n'est pas assujetti au prélèvement mentionné au premier alinéa du présent 1 lorsqu'il a été exonéré de droits de mutation à titre gratuit à raison du décès de l'assuré mentionné au même alinéa en application des articles 795,796-0 bis ou 796-0 ter du présent code.
+
+Le bénéficiaire est assujetti au prélèvement prévu au premier alinéa du présent 1 dès lors qu'il a, au moment du décès de l'assuré mentionné à ce même alinéa, son domicile fiscal en France, au sens de l'article 4 B, et qu'il l'a eu pendant au moins six années au cours des dix années précédant le décès ou que le même assuré a, au moment de son décès, son domicile fiscal en France, au sens du même article 4 B.
+
+2. En cas de démembrement de la clause bénéficiaire au jour du dépôt des sommes à la Caisse des dépôts et consignations en application des articles L. 132-27-2 du code des assurances et L. 223-25-4 du code de la mutualité, le nu-propriétaire et l'usufruitier sont considérés, pour l'application du présent article, comme bénéficiaires au prorata de la part leur revenant dans les sommes versées par la Caisse des dépôts et consignations, déterminée selon le barème prévu à l'article 669 du présent code. L'abattement prévu au premier alinéa du 1 du présent I est réparti entre les personnes concernées, dans les mêmes proportions.
+
+II.-Le 1 du I est également applicable aux sommes versées, à raison du décès du titulaire du compte, par la Caisse des dépôts et consignations en application de l'article L. 312-20 du code monétaire et financier.
+
+III.-Le prélèvement prévu au I est dû par le bénéficiaire et versé au comptable public chargé de la formalité de l'enregistrement par la Caisse des dépôts et consignations dans les quinze jours qui suivent la fin du mois au cours duquel les sommes ont été versées au bénéficiaire.
+
+Il est recouvré et contrôlé suivant les mêmes procédures et sous les mêmes sanctions, garanties et privilèges que la taxe sur les conventions d'assurances prévue aux articles 991 et suivants. Les réclamations sont présentées, instruites et jugées selon les règles applicables à cette même taxe.
