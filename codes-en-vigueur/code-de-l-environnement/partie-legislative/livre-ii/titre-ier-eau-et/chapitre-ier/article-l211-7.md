@@ -1,6 +1,6 @@
 # Article L211-7
 
-I.-Les collectivités territoriales et leurs groupements ainsi que les syndicats mixtes créés en application de l'article L. 5721-2 du code général des collectivités territoriales sont habilités à utiliser les articles L. 151-36 à L. 151-40 du code rural et de la pêche maritime pour entreprendre l'étude, l'exécution et l'exploitation de tous travaux, actions, ouvrages ou installations présentant un caractère d'intérêt général ou d'urgence, dans le cadre du schéma d'aménagement et de gestion des eaux s'il existe, et visant :
+I.-Les collectivités territoriales et leurs groupements, tels qu'ils sont définis au deuxième alinéa de l'article L. 5111-1 du code général des collectivités territoriales, ainsi que les établissements publics territoriaux de bassin prévus à l'article L. 213-12 du présent code peuvent, sous réserve de la compétence attribuée aux communes par le I bis du présent article, mettre en œuvre les articles L. 151-36 à L. 151-40 du code rural et de la pêche maritime pour entreprendre l'étude, l'exécution et l'exploitation de tous travaux, actions, ouvrages ou installations présentant un caractère d'intérêt général ou d'urgence, dans le cadre du schéma d'aménagement et de gestion des eaux, s'il existe, et visant :
 
 1° L'aménagement d'un bassin ou d'une fraction de bassin hydrographique ;
 
@@ -28,7 +28,7 @@ I.-Les collectivités territoriales et leurs groupements ainsi que les syndicats
 
 Les compétences visées aux alinéas précédents peuvent être exercées par l'établissement public Voies navigables de France sur le domaine dont la gestion lui a été confiée.
 
-I bis.-Lorsqu'un projet visé aux 1°, 2° et 5° du I dépassant un seuil financier fixé par décret est situé dans le périmètre d'un établissement public territorial de bassin visé à l'article L. 213-12, le préfet saisit pour avis le président de cet établissement. A défaut de réponse dans un délai de deux mois, l'avis est réputé favorable.
+I bis.-Les communes sont compétentes en matière de gestion des milieux aquatiques et de prévention des inondations. Cette compétence comprend les missions définies aux 1°, 2°, 5° et 8° du I. A cet effet, elles peuvent recourir à la procédure prévue au même I.
 
 II.-L'étude, l'exécution et l'exploitation desdits travaux peuvent être concédées notamment à des sociétés d'économie mixte. Les concessionnaires sont fondés à percevoir le prix des participations prévues à l'article L. 151-36 du code rural et de la pêche maritime.
 

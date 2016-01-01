@@ -4,7 +4,7 @@ Les recettes non fiscales de la section de fonctionnement peuvent comprendre :
 
 1° Le produit de la redevance d'enlèvement des ordures ménagères sur les terrains de camping, de la redevance spéciale ou de la redevance pour enlèvement des ordures, déchets et résidus ;
 
-2° Abrogé
+2° Le produit de la redevance de stationnement prévu à l'article L. 2333-87 ;
 
 3° Le produit des péages communaux, des droits de pesage, mesurage et jaugeage ;
 
@@ -12,7 +12,7 @@ Les recettes non fiscales de la section de fonctionnement peuvent comprendre :
 
 5° Le produit des taxes d'affouage, de pâturage et de tourbage ;
 
-6° (Abrogé)
+6° (Abrogé) ;
 
 7° Le produit de la contribution spéciale imposée aux entrepreneurs ou propriétaires en cas de dégradation de la voie publique ;
 

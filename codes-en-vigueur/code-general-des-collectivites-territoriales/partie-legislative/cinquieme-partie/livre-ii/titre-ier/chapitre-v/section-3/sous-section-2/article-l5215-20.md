@@ -58,7 +58,9 @@ b) Lutte contre la pollution de l'air ;
 
 c) Lutte contre les nuisances sonores ;
 
-d) Soutien aux actions de maîtrise de la demande d'énergie.
+d) Soutien aux actions de maîtrise de la demande d'énergie ;
+
+e) Gestion des milieux aquatiques et prévention des inondations, dans les conditions prévues à l'article L. 211-7 du code de l'environnement.
 
 7° Aménagement, entretien et gestion des aires d'accueil des gens du voyage.
 
