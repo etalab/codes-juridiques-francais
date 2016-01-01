@@ -22,9 +22,7 @@ II. ― La section 4 du chapitre Ier du titre II est ainsi rédigée :
 
 III. ― L'article 121-13 n'est pas applicable.
 
-IV. ― L'article L. 121-15 est complété par un alinéa ainsi rédigé :
-
-" Le délégué local de l'agence est le représentant de l'Etat à Mayotte. "
+IV. ― (Abrogé).
 
 V. ― L'article L. 123-7 n'est pas applicable.
 

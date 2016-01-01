@@ -1,4 +1,4 @@
-# Section III : Effets des procédures de liquidation des entreprises communautaires.
+# Section III : Effets des procédures de liquidation des entreprises dont le siège social est situé sur le territoire d'un Etat membre de l'Union européenne autre que la France.
 
 - [Article L326-20](article-l326-20.md)
 - [Article L326-21](article-l326-21.md)
