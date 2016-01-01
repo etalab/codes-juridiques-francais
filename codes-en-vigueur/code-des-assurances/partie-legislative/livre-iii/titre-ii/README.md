@@ -2,7 +2,7 @@
 
 - [Chapitre Ier : Les agréments.](chapitre-ier)
 - [Chapitre II : Règles de constitution et de fonctionnement](chapitre-ii)
-- [Chapitre III : Mesures d'assainissement des entreprises communautaires](chapitre-iii)
+- [Chapitre III : Mesures de sauvegarde et d'assainissement](chapitre-iii)
 - [Chapitre IV : Transfert de portefeuille](chapitre-iv)
 - [Chapitre V : Retrait de l'agrément administratif](chapitre-v)
 - [Chapitre VI : Liquidation.](chapitre-vi)
