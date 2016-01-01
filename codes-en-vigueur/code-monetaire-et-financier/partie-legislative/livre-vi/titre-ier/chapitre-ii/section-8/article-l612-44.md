@@ -14,11 +14,13 @@ II. ― Les commissaires aux comptes sont tenus de signaler dans les meilleurs d
 
 1° A constituer une violation des dispositions législatives ou réglementaires qui lui sont applicables et susceptibles d'avoir des effets significatifs sur sa situation financière, sa solvabilité, son résultat ou son patrimoine ;
 
+1° bis A entraîner, dans le cas particulier des organismes d'assurance ou de réassurance relevant du régime dit "Solvabilité II" mentionnés à l'article L. 310-3-1 du code des assurances, à l'article L. 211-10 du code de la mutualité et à l'article L. 931-6 du code de la sécurité sociale, le non-respect du capital de solvabilité requis visé à l'article L. 352-1 du code des assurances ou du minimum de capital requis visé à l'article L. 352-5 du code des assurances ;
+
 2° A porter atteinte à la continuité de son exploitation ;
 
 3° A imposer l'émission de réserves ou le refus de la certification de ses comptes.
 
-La même obligation s'applique aux faits et aux décisions mentionnés ci-dessus dont les commissaires aux comptes viendraient à avoir connaissance dans l'exercice de leur mission auprès d'une société mère ou d'une filiale de la personne contrôlée ou dans un organisme subordonné à une mutuelle, à une union, à une fédération ou dans un organisme relevant de l'article L. 212-7 du code de la mutualité.
+La même obligation s'applique aux faits et aux décisions mentionnés ci-dessus dont les commissaires aux comptes viendraient à avoir connaissance dans l'exercice de leur mission auprès d'une société mère ou d'une filiale de la personne contrôlée ou dans un organisme subordonné à une mutuelle, à une union ou dans un organisme relevant de l'article L. 212-7 du code de la mutualité.
 
 Lorsque les commissaires aux comptes exercent leur mission dans un établissement de crédit ou une société de financement, affilié à l'un des organes centraux mentionnés à l'article L. 511-30, les faits et décisions mentionnés aux alinéas précédents sont transmis simultanément à cet organe central.
 

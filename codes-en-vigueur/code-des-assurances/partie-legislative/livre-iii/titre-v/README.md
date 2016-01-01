@@ -2,5 +2,4 @@
 
 - [Chapitre Ier : Dispositions relatives à la libre prestation de services en assurances de dommages.](chapitre-ier)
 - [Chapitre II : Dispositions relatives à la coassurance.](chapitre-ii)
-- [Chapitre III : Dispositions relatives à la libre prestation de services en assurance sur la vie et en capitalisation](chapitre-iii)
 - [Chapitre IV : Transferts de portefeuille.](chapitre-iv)

@@ -4,4 +4,4 @@ L'actif mobilier des entreprises françaises soumises au contrôle de l'Etat par
 
 Il en est de même de l'actif immobilier. Ce privilège prend rang après le 2° de l'article 2375 du code civil.
 
-Pour les entreprises étrangères mentionnées aux 3° et 4° de l'article L. 310-2, les actifs mobiliers et immobiliers représentant les provisions techniques et les cautionnements sont affectés par un privilège spécial au règlement de leurs opérations d'assurance directes pour les contrats souscrits ou exécutés sur le territoire de la République française.
+Pour les entreprises étrangères mentionnées aux 3° et 4° de l'article L. 310-2, les actifs mobiliers et immobiliers représentant les provisions techniques au sens du titre IV du livre III et les cautionnements sont affectés par un privilège spécial au règlement de leurs opérations d'assurance directes pour les contrats souscrits ou exécutés sur le territoire de la République française.

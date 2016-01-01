@@ -12,7 +12,7 @@ Le secrétaire général de l'Autorité de contrôle prudentiel et de résolutio
 
 5° Aux personnes et organismes de toute nature ayant passé, directement ou indirectement, avec cette entreprise une convention de gestion, de réassurance ou de tout autre type susceptible d'altérer son autonomie de fonctionnement ou de décision concernant l'un quelconque de ses domaines d'activité ;
 
-6° A toute entreprise qui lui est apparentée au sens du 5° de l'article L. 334-2 du code des assurances ;
+6° Aux entreprises qui sont liées au sens du 4° de l'article L. 356-1 du code des assurances aux entreprises mères mentionnées au 1° du même article ;
 
 7° Aux mutuelles et unions relevant du livre III du code de la mutualité qui lui sont liées ;
 

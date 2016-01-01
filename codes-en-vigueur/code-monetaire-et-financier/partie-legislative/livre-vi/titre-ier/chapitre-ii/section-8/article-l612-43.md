@@ -4,4 +4,4 @@ L'Autorité de contrôle prudentiel et de résolution est saisie pour avis de to
 
 L'Autorité peut en outre, lorsque la situation le justifie, procéder à la désignation d'un commissaire aux comptes supplémentaire.
 
-Les dispositions de l'alinéa ci-dessus ne s'appliquent pas aux entreprises mentionnées au 1° du III de l'article L. 310-1-1 du code des assurances, aux mutuelles et unions mentionnées au I de l'article L. 211-7-2 du code de la mutualité et aux institutions de prévoyance et unions d'institutions de prévoyance mentionnées au I de l'article L. 931-4-1 du code de la sécurité sociale.
+Les dispositions de l'alinéa ci-dessus ne s'appliquent pas aux entreprises mentionnées au 1° du III de l'article L. 310-1-1 du code des assurances,                                                      aux mutuelles et unions mentionnées à l' article L. 211-8-1 du code de la mutualité et aux institutions de prévoyance et unions d'institutions de prévoyance mentionnées à l' article L. 931-4-1 du code de la sécurité sociale .

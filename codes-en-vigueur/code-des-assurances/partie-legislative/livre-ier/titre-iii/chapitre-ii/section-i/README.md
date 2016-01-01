@@ -32,7 +32,6 @@
 - [Article L132-21](article-l132-21.md)
 - [Article L132-21-1](article-l132-21-1.md)
 - [Article L132-22](article-l132-22.md)
-- [Article L132-22-1](article-l132-22-1.md)
 - [Article L132-22-2](article-l132-22-2.md)
 - [Article L132-23](article-l132-23.md)
 - [Article L132-23-1](article-l132-23-1.md)

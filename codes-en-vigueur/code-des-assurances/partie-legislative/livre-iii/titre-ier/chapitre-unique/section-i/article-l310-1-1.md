@@ -1,8 +1,8 @@
 # Article L310-1-1
 
-I.-La réassurance est l'activité d'un organisme, autre qu'un véhicule de titrisation mentionné à l'article L. 310-1-2, qui consiste à accepter des risques d'assurance cédés, soit par une entreprise d'assurance ou par une autre entreprise de réassurance, soit par les mutuelles ou unions régies par le livre II du code de la mutualité, soit par les institutions de prévoyance et leurs unions régies par les dispositions du titre III du livre IX du code de la sécurité sociale.
+I.-La réassurance est l'activité d'un organisme, autre qu'un véhicule de titrisation mentionné à l'article L. 310-1-2, qui consiste à accepter des risques d'assurance cédés, soit par une entreprise d'assurance ou par une autre entreprise de réassurance, soit par les mutuelles ou unions régies par le livre II du code de la mutualité, soit par les institutions de prévoyance et leurs unions régies par les dispositions du titre III du livre IX du code de la sécurité sociale soit par tout membre de l'association des souscripteurs dénommée "Lloyd's" .
 
-La réassurance financière limitée (dite " réassurance finite ") désigne la réassurance en vertu de laquelle la perte maximale potentielle du réassureur, découlant d'un transfert significatif à la fois des risques liés à la souscription et des risques liés à l'échéance des paiements, excède, à concurrence d'un montant important mais limité, les primes dues par la cédante sur toute la durée du contrat. Cette réassurance présente en outre l'une au moins des deux caractéristiques suivantes :
+La réassurance financière limitée (dite "réassurance finite") désigne la réassurance en vertu de laquelle la perte maximale potentielle du réassureur, découlant d'un transfert significatif à la fois des risques liés à la souscription et des risques liés à l'échéance des paiements, excède, à concurrence d'un montant important mais limité, les primes dues par la cédante sur toute la durée du contrat. Cette réassurance présente en outre l'une au moins des deux caractéristiques suivantes :
 
 1° Elle prend en compte explicitement la valeur temporelle de l'argent ;
 

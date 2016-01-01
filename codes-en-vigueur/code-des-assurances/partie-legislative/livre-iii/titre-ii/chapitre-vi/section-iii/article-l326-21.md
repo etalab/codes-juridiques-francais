@@ -6,4 +6,4 @@ a) Les contrats de travail et les relations de travail sont exclusivement régis
 
 b) Un contrat donnant le droit de jouir d'un bien immobilier ou de l'acquérir est exclusivement régi par la loi française si ce bien est situé sur le territoire de la République française ;
 
-c) Les droits qu'une entreprise d'assurance communautaire détient sur un bien immobilier, un navire ou un aéronef qui sont soumis à inscription sur un registre public tenu par une autorité publique française sont régis par la loi française.
+c) Les droits qu'une entreprise d'assurance dont le siège social est situé sur le territoire d'un Etat membre de l'Union européenne autre que la France détient sur un bien immobilier, un navire ou un aéronef qui sont soumis à inscription sur un registre public tenu par une autorité publique française sont régis par la loi française.

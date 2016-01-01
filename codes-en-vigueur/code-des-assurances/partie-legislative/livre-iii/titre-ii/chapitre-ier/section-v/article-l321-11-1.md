@@ -1,0 +1,5 @@
+# Article L321-11-1
+
+Lorsque l'Autorité de contrôle prudentiel et de résolution est informée par l'autorité de contrôle d'un Etat membre d'accueil, où une entreprise d'assurance ou de réassurance ayant son siège social en France opère en libre prestation de services ou en liberté d'établissement, que cette entreprise ne respecte pas les dispositions légales de cet Etat membre et n'a pas obtempéré à l'injonction de s'y conformer qui lui a été adressée par cette autorité, l'Autorité de contrôle prudentiel et de résolution prend, dans les plus brefs délais, toutes les mesures appropriées auprès de l'entreprise pour faire cesser cette situation irrégulière. Elle informe l'autorité de contrôle de cet autre Etat membre de ces mesures.
+
+En cas de désaccord avec l'autorité de contrôle de l'Etat membre d'accueil, l'Autorité de contrôle prudentiel et de résolution peut saisir l'Autorité européenne des assurances et des pensions professionnelles conformément à l'article 19 du règlement (UE) n° 1094/2010 du 24 novembre 2010.

@@ -8,3 +8,4 @@
 - [Chapitre VI : Liquidation.](chapitre-vi)
 - [Chapitre VII : Privilèges.](chapitre-vii)
 - [Chapitre VIII : Sanctions.](chapitre-viii)
+- [Chapitre IX : Succursales d'entreprises d'assurance dont le siège social est situé dans un Etat non partie à l'accord sur l'Espace économique européen](chapitre-ix)

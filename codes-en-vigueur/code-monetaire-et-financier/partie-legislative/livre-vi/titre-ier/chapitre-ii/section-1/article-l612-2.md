@@ -50,7 +50,7 @@ B.-Dans le secteur de l'assurance :
 
 4° Les mutuelles et unions du livre Ier qui procèdent à la gestion des règlements mutualistes et des contrats pour le compte des mutuelles et unions relevant du livre II, pour les seules dispositions du titre VI du livre V du présent code ;
 
-5° Les institutions de prévoyance, unions et groupements paritaires de prévoyance régis par le titre III du livre IX du code de la sécurité sociale ;
+5° Les institutions et unions de prévoyance régies par le titre 3 du livre 9 du code de la sécurité sociale, ainsi que les sociétés de groupe assurantiel de protection sociale mentionnées à l'article L. 931-2-2 du même code ;
 
 6° Les sociétés de groupe d'assurance et les sociétés de groupe mixte d'assurance mentionnées à l'article L. 322-1-2 du code des assurances ;
 

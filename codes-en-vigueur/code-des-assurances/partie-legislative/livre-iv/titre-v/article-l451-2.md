@@ -2,7 +2,7 @@
 
 Toute entreprise d'assurance couvrant sur le territoire de la République française les risques de responsabilité civile résultant de l'emploi de véhicules terrestres à moteur, à l'exclusion de la responsabilité du transporteur, adhère à l'organisme d'information visé à l'article L. 451-1.
 
-Toute entreprise d'assurance qui ne se conforme pas à cette obligation est considérée comme ne fonctionnant plus conformément à la législation en vigueur. Elle encourt, selon le cas, les sanctions prévuesaux articles L. 612-39 du code monétaire et financier, ou L. 351-7 et L. 351-8 du présent code.
+Toute entreprise d'assurance qui ne se conforme pas à cette obligation est considérée comme ne fonctionnant plus conformément à la législation en vigueur. Elle encourt, selon le cas, les sanctions prévuesaux articles L. 612-39 du code monétaire et financier, ou L. 363-4 du présent code.
 
 Afin de permettre à l'organisme d'information de répondre aux demandes d'information prévues aux articles L. 451-1 et L. 451-3 pendant un délai de sept ans après l'accident, les entreprises d'assurance mentionnées à l'article L. 451-1 ont l'obligation de lui communiquer, si l'accident est survenu pendant la période de validité du contrat :
 

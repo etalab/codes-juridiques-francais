@@ -1,6 +1,6 @@
 # Article L132-21
 
-Le contrat précise les modalités de calcul de la valeur de rachat ou de la valeur de transfert et, le cas échéant, de la valeur de réduction. Pour le calcul de la valeur de réduction, il ne peut être prévu d'imputer sur la provision mathématique du contrat une indemnité de réduction.
+Le contrat précise les modalités de calcul de la valeur de rachat ou de la valeur de transfert et, le cas échéant, de la valeur de réduction. Pour le calcul de la valeur de réduction, il ne peut être prévu d'imputer sur la provision mathématique déterminée sur la base des paramètres prévus dans les conditions tarifairesdu contrat une indemnité de réduction.
 
 Dans la limite de la valeur de rachat du contrat, l'assureur peut consentir des avances au contractant.
 

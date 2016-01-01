@@ -1,6 +1,6 @@
 # Article L322-2
 
-I.-Nul ne peut, à quelque titre que ce soit, diriger, gérer ou administrer une entreprise soumise au contrôle de l'Etat en vertu de l'article L. 310-1 ou de l'article L. 310-1-1, une société de groupe d'assurance définie à l'article L. 322-1-2, une compagnie financière holding mixte définie à l'article L. 517-4 du code monétaire et financier, ni être membre d'un organe collégial de contrôle de ces entreprises, sociétés ou compagnies, ni disposer du pouvoir de signer pour leur compte, s'il a fait l'objet depuis moins de dix ans d'une condamnation définitive :
+I.-Nul ne peut, directement ou indirectement administrer ou diriger une entreprise soumise au contrôle de l'Etat en vertu de l'article L. 310-1 ou de l'article L. 310-1-1, une société de groupe d'assurance définie à l'article L. 322-1-2, une compagnie financière holding mixte définie à l'article L. 517-4 du code monétaire et financier, ni être membre d'un organe collégial de contrôle de ces entreprises, sociétés ou compagnies, ni disposer du pouvoir de signer pour leur compte, ni être responsable d'une des fonctions clés mentionnées à l'article L. 354-1, s'il a fait l'objet depuis moins de dix ans d'une condamnation définitive :
 
 1° Pour crime ;
 
@@ -30,7 +30,7 @@ k) Banqueroute ;
 
 l) Pratique de prêt usuraire ;
 
-m) L'une des infractions prévues par la loi du 21 mai 1836 portant prohibition des loteries, par la loi du 15 juin 1907 relative aux casinos (1) et par la loi n° 83-628 du 12 juillet 1983 relative aux jeux de hasard ;
+m) L'une des infractions à la législation sur les jeux de hasard, casinos et loteries, prévues par les dispositions des articles L. 324-1 à L. 324-10 du code de la sécurité intérieure ;
 
 n) Infraction à la législation et à la réglementation des relations financières avec l'étranger ;
 
@@ -40,11 +40,21 @@ p) L'une des infractions prévues aux articles L. 121-6, L. 121-28, L. 122-8 à 
 
 q) L'une des infractions prévues au code monétaire et financier ;
 
-r) L'une des infractions prévues aux articles L. 324-9, L. 324-10 et L. 362-3 du code du travail ;
+r) L'une des infractions prévues aux articles
+L. 8221-1
+,
+L. 8221-3
+,
+L. 8221-5
+et
+L. 8224-1
+du code du travail ;
 
 s) Les atteintes aux systèmes de traitement automatisé prévues par le chapitre III du titre II du livre III du code pénal ;
 
-t) L'une des infractions à la législation ou la réglementation des assurances ;
+t) L'une des infractions à la législation ou à la réglementation applicable aux entreprises régies par le
+code des assurances
+, aux institutions de prévoyance régies par le titre 3 du livre 9 du code de la sécurité sociale, à leurs unions, aux sociétés de groupe assurantiel de protection sociale et aux mutuelles, unions et fédérations régies par le  code de la mutualité ;
 
 3° A la destitution des fonctions d'officier public ou ministériel.
 
@@ -60,13 +70,13 @@ Cette incapacité s'applique également à toute personne non réhabilitée ayan
 
 VI.-Le fait, pour une personne, de ne pas faire l'objet de l'incapacité prévue au présent article ne préjuge pas de l'appréciation, par l'autorité compétente, du respect des conditions nécessaires à l'agrément ou à l'autorisation d'exercice.
 
-VII.-Les personnes appelées à conduire une entreprise, une société ou une compagnie mentionnée au premier alinéa du I au sens de l'article L. 321-10 doivent posséder l'honorabilité, la compétence ainsi que l'expérience nécessaires à leur fonction.
+VII.-Les personnes appelées à diriger une entreprise, une société ou une compagnie mentionnée au premier alinéa du I ou à y exercer une des fonctions clés mentionnées à l'article L. 354-1 doivent posséder l'honorabilité, la compétence ainsi que l'expérience nécessaires à leurs fonctions.
 
-Les membres du conseil d'administration ou du conseil de surveillance des personnes mentionnées aux 1°, 2° et 6° du B du I de l'article L. 612-2 du code monétaire et financier, et qui disposent d'un agrément pour l'exercice de leur activité, disposent de l'honorabilité, de la compétence et de l'expérience nécessaires.
+Les membres du conseil d'administration ou du conseil de surveillance des personnes mentionnées aux 1° et 2° du B du I de l'article L. 612-2 du code monétaire et financier disposent de l'honorabilité, de la compétence et de l'expérience requises.
 
-La compétence des intéressés est appréciée par l'Autorité de contrôle prudentiel et de résolution à partir de leur formation et de leur expérience de façon proportionnée à leurs attributions, notamment celles exercées en tant que président d'un conseil ou d'un comité. L'autorité tient compte également, dans l'appréciation portée sur chaque personne, de la compétence, de l'expérience et des attributions des autres membres de l'organe auquel elle appartient. Lorsque des mandats ont été antérieurement exercés, la compétence est présumée à raison de l'expérience acquise. Pour les nouveaux membres, l'Autorité de contrôle prudentiel et de résolution tient compte des formations dont ils pourront bénéficier tout au long de leur mandat.
+Pour apprécier la compétence des intéressés, l'Autorité de contrôle prudentiel et de résolution tient compte de leur formation et de leur expérience de façon proportionnée à leurs attributions, notamment l'expérience acquise en tant que président d'un conseil ou d'un comité. L'autorité tient compte également, dans l'appréciation portée sur chaque personne, de la compétence, de l'expérience et des attributions des autres membres de l'organe auquel elle appartient. Lorsque des mandats ont été antérieurement exercés, la compétence est présumée à raison de l'expérience acquise. Pour les nouveaux membres, l'autorité tient compte des formations dont ils pourront bénéficier tout au long de leur mandat.
 
-VIII.-Lorsqu'elle est amenée à apprécier l'honorabilité, la compétence et l'expérience de dirigeants et d'administrateurs qui exercent ces mêmes fonctions au sein d'entités autres que celles mentionnées au premier alinéa et appartenant au même groupe au sens de l'article L. 334-2, l'Autorité de contrôle prudentiel et de résolution consulte les autorités compétentes au titre de ces autres entités. Elle communique à ces autorités les informations utiles à l'exercice de leurs missions.
+VIII.-Lorsque l'Autorité de contrôle prudentiel et de résolution est amenée à se prononcer sur la qualité des actionnaires ainsi que sur l'honorabilité, la compétence et l'expérience des personnes qui dirigent effectivement l'entreprise ou qui sont responsables de fonctions clés au sens de l'article L. 322-3-2 et lorsque ces personnes exercent de telles fonctions auprès d'une autre entité du même groupe au sens de l'article L. 356-1, elle consulte les autorités compétentes de cette autre entité. Elle communique à ces autorités les informations utiles à l'exercice de leurs missions.
 
 IX.-Les dispositions du présent article sont applicables au mandataire général désigné par les entreprises opérant en régime d'établissement.
 
