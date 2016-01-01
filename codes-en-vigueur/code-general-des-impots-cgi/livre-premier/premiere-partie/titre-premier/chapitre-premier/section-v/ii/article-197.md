@@ -1,6 +1,6 @@
 # Article 197
 
-I. - En ce qui concerne les contribuables visés à l'article 4 B, il est fait application des règles suivantes pour le calcul de l'impôt sur le revenu :
+I.-En ce qui concerne les contribuables visés à l'article 4 B, il est fait application des règles suivantes pour le calcul de l'impôt sur le revenu :
 
 1. L'impôt est calculé en appliquant à la fraction de chaque part de revenu qui excède 9 690 € le taux de :
 
@@ -26,6 +26,6 @@ Les contribuables veufs ayant des enfants à charge qui bénéficient d'une part
 
 4. Le montant de l'impôt résultant de l'application des dispositions précédentes est diminué, dans la limite de son montant, de la différence entre 1 135 € et son montant pour les contribuables célibataires, divorcés ou veufs et de la différence entre 1 870 € et son montant pour les contribuables soumis à imposition commune.
 
-5. Les réductions d'impôt mentionnées aux articles 199 quater B à 200 s'imputent sur l'impôt résultant de l'application des dispositions précédentes avant imputation des crédits d'impôt et des prélèvements ou retenues non libératoires ; elles ne peuvent pas donner lieu à remboursement.
+5. Les réductions d'impôt mentionnées aux articles 199 quater C à 200 s'imputent sur l'impôt résultant de l'application des dispositions précédentes avant imputation des crédits d'impôt et des prélèvements ou retenues non libératoires ; elles ne peuvent pas donner lieu à remboursement.
 
-II. - Abrogé
+II.-Abrogé
