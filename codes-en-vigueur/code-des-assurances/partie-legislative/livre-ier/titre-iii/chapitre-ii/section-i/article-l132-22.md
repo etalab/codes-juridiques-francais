@@ -1,6 +1,6 @@
 # Article L132-22
 
-Pour les contrats dont la provision mathématique est égale ou supérieure à un montant fixé par arrêté du ministre chargé de l'économie, l'entreprise d'assurance ou de capitalisation communique chaque année au contractant :
+L'entreprise d'assurance ou de capitalisation communique chaque année au contractant :
 
 - le montant de la valeur de rachat ou, pour les contrats liés à la cessation d'activité professionnelle, de transfert ;
 
@@ -10,7 +10,7 @@ Pour les contrats dont la provision mathématique est égale ou supérieure à u
 
 - la prime du contrat.
 
-Pour ces mêmes contrats, elle communique également chaque année au contractant dans des conditions précisées par arrêté du ministre chargé de l'économie :
+Elle communique également chaque année au contractant dans des conditions précisées par arrêté du ministre chargé de l'économie :
 
 - le rendement garanti et la participation aux bénéfices techniques et financiers de son contrat ;
 
@@ -26,6 +26,10 @@ Pour les contrats relevant du chapitre IV, l'entreprise d'assurance ou de capita
 
 Pour les contrats liés à la cessation d'activité professionnelle, l'entreprise d'assurance ou de capitalisation fournit, dans cette communication, une estimation du montant de la rente viagère qui serait versée à l'assuré à partir de ses droits personnels. Elle précise, le cas échéant, les conditions dans lesquelles l'assuré peut demander le transfert de son contrat auprès d'une autre entreprise d'assurance, d'une mutuelle ou d'une institution de prévoyance. Un arrêté précise les conditions d'application du présent alinéa.
 
-Pour les contrats dont la provision mathématique est inférieure au montant défini au premier alinéa et pour les contrats ou bons de capitalisation au porteur, les informations définies au présent article sont communiquées pour une année donnée au contractant qui en fait la demande.
+Pour les contrats comportant un terme, l'entreprise d'assurance ou de capitalisation adresse au contractant, un mois avant la date du terme, un relevé d'information spécifique. Ce relevé contient, outre les informations mentionnées aux alinéas précédents, le rappel en caractères très apparents de la date du terme du contrat, et, le cas échéant, de sa prorogation tacite, et du fait que la revalorisation cesse à compter de cette date, sauf stipulation contractuelle contraire.
+
+Le relevé spécifique mentionné au treizième alinéa est adressé à nouveau par l'entreprise d'assurance ou de capitalisation au contractant un an après le terme du contrat si le contractant ne s'est pas manifesté depuis le terme.
 
 Le contrat fait référence à l'obligation d'information prévue aux alinéas précédents.
+
+L'entreprise d'assurance ou de capitalisation communique également au contractant la date d'échéance du contrat.
