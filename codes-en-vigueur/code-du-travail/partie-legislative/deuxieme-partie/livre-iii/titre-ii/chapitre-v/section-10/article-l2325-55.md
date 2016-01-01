@@ -1,0 +1,11 @@
+# Article L2325-55
+
+Lorsque le commissaire aux comptes du comité d'entreprise relève, à l'occasion de l'exercice de sa mission, des faits de nature à compromettre la continuité de l'exploitation du comité d'entreprise, il en informe le secrétaire et le président du comité d'entreprise, dans des conditions fixées par décret en Conseil d'Etat.
+
+A défaut de réponse du secrétaire du comité d'entreprise dans un délai fixé par décret en Conseil d'Etat ou si cette réponse ne lui permet pas d'être assuré de la continuité de l'exploitation du comité d'entreprise, le commissaire aux comptes établit un rapport spécial et invite l'employeur, par un document écrit dont la copie est transmise au président du tribunal de grande instance compétent et aux membres du comité d'entreprise, à réunir le comité d'entreprise afin que ce dernier délibère sur les faits relevés. Le commissaire aux comptes est convoqué à cette réunion, qui se tient dans des conditions et délais fixés par décret en Conseil d'Etat.
+
+En l'absence de réunion du comité d'entreprise dans le délai prévu au deuxième alinéa du présent article, en l'absence de convocation du commissaire aux comptes ou si, à l'issue de la réunion du comité d'entreprise, le commissaire aux comptes constate que les décisions prises ne permettent pas d'assurer la continuité de l'exploitation, il informe de ses démarches le président du tribunal de grande instance et lui en communique les résultats. Le I de l'article L. 611-2 du code de commerce est applicable, dans les mêmes conditions, au comité d'entreprise. Pour l'application du présent article, le président du tribunal de grande instance est compétent et il exerce les mêmes pouvoirs que ceux qui sont attribués au président du tribunal de commerce.
+
+Dans un délai de six mois à compter du déclenchement de la procédure d'alerte, le commissaire aux comptes peut reprendre le cours de la procédure au point où il avait estimé pouvoir y mettre un terme lorsque, en dépit des éléments ayant motivé son appréciation, la continuité de l'exploitation du comité d'entreprise demeure compromise et que l'urgence commande l'adoption de mesures immédiates.
+
+Le présent article n'est pas applicable lorsqu'une procédure de conciliation ou de sauvegarde a été engagée par le débiteur en application des articles L. 611-6 ou L. 620-1 du code de commerce.
