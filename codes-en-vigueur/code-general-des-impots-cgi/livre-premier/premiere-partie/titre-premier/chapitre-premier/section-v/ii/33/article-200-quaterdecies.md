@@ -46,9 +46,9 @@ Le I s'applique également aux intérêts versés par le contribuable qui, à la
 
 La date à partir de laquelle sont décomptées les cinq ou les sept premières annuités mentionnées au III est constituée par celle de la première mise à disposition des fonds empruntés. Toutefois, en cas de construction ou d'acquisition en état futur d'achèvement, cette date peut être fixée, à la demande du contribuable, à la date de l'achèvement ou de la livraison du logement. Cette demande, irrévocable et exclusive de l'application des deuxième et troisième alinéas, doit être exercée au plus tard lors du dépôt de la déclaration de revenus de l'année au cours de laquelle intervient l'achèvement ou la livraison du logement.
 
-VII.-Le crédit d'impôt mentionné au I est imputé sur l'impôt sur le revenu après imputation des réductions d'impôt mentionnées aux articles 199 quater B à 200 bis, 200 octies et 200 decies A, des crédits d'impôt et des prélèvements ou retenues non libératoires. S'il excède l'impôt dû, l'excédent est restitué.
+VII.-Le crédit d'impôt mentionné au I est imputé sur l'impôt sur le revenu après imputation des réductions d'impôt mentionnées aux articles 199 quater C à 200 bis, 200 octies et 200 decies A, des crédits d'impôt et des prélèvements ou retenues non libératoires. S'il excède l'impôt dû, l'excédent est restitué.
 
-VIII.-Le I s'applique aux intérêts des prêts souscrits dans un Etat membre de                                              l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales, et qui satisfont à une réglementation équivalente.
+VIII.-Le I s'applique aux intérêts des prêts souscrits dans un Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales, et qui satisfont à une réglementation équivalente.
 
 IX.-Les dispositions du présent article sont exclusives de celles mentionnées au a du 2 de l'article 199 undecies A.
 
