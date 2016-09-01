@@ -1,835 +1,245 @@
 # Article Annexe
 
-L'établissement d'un socle commun des savoirs indispensables répond à une nécessité ressentie depuis plusieurs décennies en raison de la diversification des connaissances. L'article 9 de la loi du 23 avril 2005 d'orientation et de programme pour l'avenir de l'école en arrête le principe en précisant que la scolarité obligatoire doit au moins garantir à chaque élève les moyens nécessaires à l'acquisition d'un socle commun constitué d'un ensemble de connaissances et de compétences qu'il est indispensable de maîtriser pour accomplir avec succès sa scolarité, poursuivre sa formation, construire son avenir personnel et professionnel et réussir sa vie en société. De plus, par l'article 2 de la même loi, " la nation fixe comme mission première à l'école de faire partager aux élèves les valeurs de la République ".
+Le socle commun de connaissances, de compétences et de culture couvre la période de la scolarité obligatoire, c'est-à-dire dix années fondamentales de la vie et de la formation des enfants, de six à seize ans. Il correspond pour l'essentiel aux enseignements de l'école élémentaire et du collège qui constituent une culture scolaire commune. Précédée, pour la plupart des élèves, par une scolarisation en maternelle qui a permis de poser de premières bases en matière d'apprentissage et de vivre ensemble, la scolarité obligatoire poursuit un double objectif de formation et de socialisation. Elle donne aux élèves une culture commune, fondée sur les connaissances et compétences indispensables, qui leur permettra de s'épanouir personnellement, de développer leur sociabilité, de réussir la suite de leur parcours de formation, de s'insérer dans la société où ils vivront et de participer, comme citoyens, à son évolution. Le socle commun doit devenir une référence centrale pour le travail des enseignants et des acteurs du système éducatif, en ce qu'il définit les finalités de la scolarité obligatoire et qu'il a pour exigence que l'école tienne sa promesse pour tous les élèves.
 
-Pour toutes ces raisons, le socle commun est le ciment de la nation : il s'agit d'un ensemble de valeurs, de savoirs, de langages et de pratiques dont l'acquisition repose sur la mobilisation de l'école et qui suppose, de la part des élèves, des efforts et de la persévérance.
+Le socle commun doit être équilibré dans ses contenus et ses démarches :
 
-La définition du socle commun prend également appui sur la proposition de recommandation du Parlement européen et du Conseil de l'Union européenne en matière de " compétences clés pour l'éducation et l'apprentissage tout au long de la vie ".
+- il ouvre à la connaissance, forme le jugement et l'esprit critique, à partir d'éléments ordonnés de connaissance rationnelle du monde ;
 
-Elle se réfère enfin aux évaluations internationales, notamment au Programme international pour le suivi des acquis des élèves (PISA), qui propose une mesure comparée des connaissances et des compétences nécessaires tout au long de la vie.
+- il fournit une éducation générale ouverte et commune à tous et fondée sur des valeurs qui permettent de vivre dans une société tolérante, de liberté ;
 
-Cinq générations après les lois scolaires fondatrices de la IIIe République, une génération après l'instauration du collège unique, le socle constitue une référence commune, pour tous ceux qui confient leurs enfants à l'école, mais aussi pour tous les enseignants.
+- il favorise un développement de la personne en interaction avec le monde qui l'entoure ;
 
-L'enseignement obligatoire ne se réduit pas au socle commun. Bien que désormais il en constitue le fondement, le socle ne se substitue pas aux programmes de l'école primaire et du collège ; il n'en est pas non plus le condensé. Sa spécificité réside dans la volonté de donner du sens à la culture scolaire fondamentale, en se plaçant du point de vue de l'élève et en construisant les ponts indispensables entre les disciplines et les programmes. Il détermine ce que nul n'est censé ignorer en fin de scolarité obligatoire sous peine de se trouver marginalisé. L'école doit offrir par ailleurs à chacun les moyens de développer toutes ses facultés.
+- il développe les capacités de compréhension et de création, les capacités d'imagination et d'action ;
 
-Maîtriser le socle commun c'est être capable de mobiliser ses acquis dans des tâches et des situations complexes, à l'école puis dans sa vie ; c'est posséder un outil indispensable pour continuer à se former tout au long de la vie afin de prendre part aux évolutions de la société ; c'est être en mesure de comprendre les grands défis de l'humanité, la diversité des cultures et l'universalité des droits de l'homme, la nécessité du développement et les exigences de la protection de la planète.
+- il accompagne et favorise le développement physique, cognitif et sensible des élèves, en respectant leur intégrité ;
 
-Le socle commun s'organise en sept compétences. Cinq d'entre elles font l'objet, à un titre ou à un autre, des actuels programmes d'enseignement : la maîtrise de la langue française, la pratique d'une langue vivante étrangère, les compétences de base en mathématiques et la culture scientifique et technologique, la maîtrise des techniques usuelles de l'information et de la communication, la culture humaniste. Deux autres domaines ne font pas encore l'objet d'une attention suffisante au sein de l'institution scolaire : il s'agit, d'une part, des compétences sociales et civiques et, d'autre part, de l'autonomie et de l'initiative des élèves.
+- il donne aux élèves les moyens de s'engager dans les activités scolaires, d'agir, d'échanger avec autrui, de conquérir leur autonomie et d'exercer ainsi progressivement leur liberté et leur statut de citoyen responsable.
 
-Chaque grande compétence du socle est conçue comme une combinaison de connaissances fondamentales pour notre temps, de capacités à les mettre en oeuvre dans des situations variées, mais aussi d'attitudes indispensables tout au long de la vie, comme l'ouverture aux autres, le goût pour la recherche de la vérité, le respect de soi et d'autrui, la curiosité et la créativité.
+L'élève engagé dans la scolarité apprend à réfléchir, à mobiliser des connaissances, à choisir des démarches et des procédures adaptées, pour penser, résoudre un problème, réaliser une tâche complexe ou un projet, en particulier dans une situation nouvelle ou inattendue. Les enseignants définissent les modalités les plus pertinentes pour parvenir à ces objectifs en suscitant l'intérêt des élèves, et centrent leurs activités ainsi que les pratiques des enfants et des adolescents sur de véritables enjeux intellectuels, riches de sens et de progrès.
 
-Le socle commun s'acquiert progressivement de l'école maternelle à la fin de la scolarité obligatoire. Chaque compétence qui le constitue requiert la contribution de plusieurs disciplines et, réciproquement, une discipline contribue à l'acquisition de plusieurs compétences.
+Le socle commun identifie les connaissances et compétences qui doivent être acquises à l'issue de la scolarité obligatoire. Une compétence est l'aptitude à mobiliser ses ressources (connaissances, capacités, attitudes) pour accomplir une tâche ou faire face à une situation complexes ou inédites. Compétences et connaissances ne sont ainsi pas en opposition. Leur acquisition suppose de prendre en compte dans le processus d'apprentissage les vécus et les représentations des élèves, pour les mettre en perspective, enrichir et faire évoluer leur expérience du monde.
 
-A l'école et au collège, tous les enseignements et toutes les disciplines ont un rôle à jouer dans l'acquisition du socle. Dans ce cadre, les pratiques scolaires artistiques, culturelles et sportives y contribuent pleinement.
+Par la loi d'orientation et de programmation pour la refondation de l'école de la République du 8 juillet 2013, la République s'engage afin de permettre à tous les élèves d'acquérir le socle commun de connaissances, de compétences et de culture, porteur de la culture commune. Il s'agit de contribuer au succès d'une école de la réussite pour tous, qui refuse exclusions et discriminations et qui permet à chacun de développer tout son potentiel par la meilleure éducation possible.
 
-L'exigence de contenu du socle commun est indissociable d'une exigence d'évaluation. Des paliers intermédiaires, adaptés aux rythmes d'apprentissage définis par les cycles, sont déterminés dans la maîtrise du socle.
+La logique du socle commun implique une acquisition progressive et continue des connaissances et des compétences par l'élève, comme le rappelle l'intitulé des cycles d'enseignement de la scolarité obligatoire que le socle commun oriente : cycle 2 des apprentissages fondamentaux, cycle 3 de consolidation, cycle 4 des approfondissements. Ainsi, la maîtrise des acquis du socle commun doit se concevoir dans le cadre du parcours scolaire de l'élève et en référence aux attendus et objectifs de formation présentés par les programmes de chaque cycle. La vérification de cette maîtrise progressive est faite tout au long du parcours scolaire et en particulier à la fin de chaque cycle. Cela contribue à un suivi des apprentissages de l'élève. Pour favoriser cette maîtrise, des stratégies d'accompagnement sont à mettre en œuvre dans le cadre de la classe, ou, le cas échéant, des groupes à effectifs réduits constitués à cet effet.
 
-Des outils d'évaluation, correspondant notamment aux exigences des différents paliers de maîtrise du socle commun, sont mis à la disposition des enseignants.
+Domaine 1 : les langages pour penser et communiquer
 
-Un livret personnel permettra à l'élève, à sa famille et aux enseignants de suivre l'acquisition progressive des compétences.
+Le domaine des langages pour penser et communiquer recouvre quatre types de langage, qui sont à la fois des objets de savoir et des outils : la langue française ; les langues vivantes étrangères ou régionales ; les langages mathématiques, scientifiques et informatiques ; les langages des arts et du corps. Ce domaine permet l'accès à d'autres savoirs et à une culture rendant possible l'exercice de l'esprit critique ; il implique la maîtrise de codes, de règles, de systèmes de signes et de représentations. Il met en jeu des connaissances et des compétences qui sont sollicitées comme outils de pensée, de communication, d'expression et de travail et qui sont utilisées dans tous les champs du savoir et dans la plupart des activités.
 
-Afin de prendre en compte les différents rythmes d'acquisition, les écoles et les collèges organiseront un accompagnement adapté : études surveillées, tutorat, accès aux livres, à la culture et à internet. Les élèves qui manifestent des besoins particuliers quant aux acquisitions nécessaires à chaque palier se voient proposer un programme personnalisé de réussite éducative.
+Objectifs de connaissances et de compétences pour la maîtrise du socle commun
 
-1. La maîtrise de la langue française
+Comprendre, s'exprimer en utilisant la langue française à l'oral et à l'écrit
 
-Savoir lire, écrire et parler le français conditionne l'accès à tous les domaines du savoir et l'acquisition de toutes les compétences. La langue française est l'outil premier de l'égalité des chances, de la liberté du citoyen et de la civilité : elle permet de communiquer à l'oral comme à l'écrit, dans diverses situations ; elle permet de comprendre et d'exprimer ses droits et ses devoirs.
+L'élève parle, communique, argumente à l'oral de façon claire et organisée ; il adapte son niveau de langue et son discours à la situation, il écoute et prend en compte ses interlocuteurs.
 
-Faire accéder tous les élèves à la maîtrise de la langue française, à une expression précise et claire à l'oral comme à l'écrit, relève de l'enseignement du français mais aussi de toutes les disciplines. Chaque professeur et tous les membres de la communauté éducative sont comptables de cette mission prioritaire de l'institution scolaire. La fréquentation de la littérature d'expression française est un instrument majeur des acquisitions nécessaires à la maîtrise de la langue française.
+Il adapte sa lecture et la module en fonction de la nature et de la difficulté du texte. Pour construire ou vérifier le sens de ce qu'il lit, il combine avec pertinence et de façon critique les informations explicites et implicites issues de sa lecture. Il découvre le plaisir de lire.
 
-Connaissances
+L'élève s'exprime à l'écrit pour raconter, décrire, expliquer ou argumenter de façon claire et organisée. Lorsque c'est nécessaire, il reprend ses écrits pour rechercher la formulation qui convient le mieux et préciser ses intentions et sa pensée.
 
-L'expression écrite et l'expression orale doivent être travaillées tout au long de la scolarité obligatoire, y compris par la mémorisation et la récitation de textes littéraires.
+Il utilise à bon escient les principales règles grammaticales et orthographiques. Il emploie à l'écrit comme à l'oral un vocabulaire juste et précis.
 
-L'apprentissage de l'orthographe et de la grammaire doit conduire les élèves à saisir que le respect des règles de l'expression française n'est pas contradictoire avec la liberté d'expression : il favorise au contraire une pensée précise ainsi qu'un raisonnement rigoureux et facilement compréhensible. L'élève doit maîtriser suffisamment les outils de la langue que sont le vocabulaire, la grammaire et l'orthographe pour pouvoir lire, comprendre et écrire des textes dans différents contextes.
+Dans des situations variées, il recourt, de manière spontanée et avec efficacité, à la lecture comme à l'écriture.
 
-L'apprentissage de la grammaire et de l'orthographe requiert des exercices spécifiques distincts de l'étude des textes.
+Il apprend que la langue française a des origines diverses et qu'elle est toujours en évolution. Il est sensibilisé à son histoire et à ses origines latines et grecques.
 
-Le vocabulaire
+Comprendre, s'exprimer en utilisant une langue étrangère et, le cas échéant, une langue régionale
 
-Enrichir quotidiennement le vocabulaire des élèves est un objectif primordial, dès l'école maternelle et tout au long de la scolarité obligatoire. Les élèves devront connaître :
+L'élève pratique au moins deux langues vivantes étrangères ou, le cas échéant, une langue étrangère et une langue régionale.
 
--un vocabulaire juste et précis pour désigner des objets réels, des sensations, des émotions, des opérations de l'esprit, des abstractions ;
+Pour chacune de ces langues, il comprend des messages oraux et écrits, s'exprime et communique à l'oral et à l'écrit de manière simple mais efficace. Il s'engage volontiers dans le dialogue et prend part activement à des conversations. Il adapte son niveau de langue et son discours à la situation, il écoute et prend en compte ses interlocuteurs. Il maîtrise suffisamment le code de la langue pratiquée pour s'insérer dans une communication liée à la vie quotidienne : vocabulaire, prononciation, construction des phrases ; il possède aussi des connaissances sur le contexte culturel propre à cette langue (modes de vie, organisations sociales, traditions, expressions artistiques...).
 
--le sens propre et le sens figuré d'une expression ;
+Comprendre, s'exprimer en utilisant les langages mathématiques, scientifiques et informatiques
 
--le niveau de langue auquel un mot donné appartient ;
+L'élève utilise les principes du système de numération décimal et les langages formels (lettres, symboles...) propres aux mathématiques et aux disciplines scientifiques, notamment pour effectuer des calculs et modéliser des situations. Il lit des plans, se repère sur des cartes. Il produit et utilise des représentations d'objets, d'expériences, de phénomènes naturels tels que schémas, croquis, maquettes, patrons ou figures géométriques. Il lit, interprète, commente, produit des tableaux, des graphiques et des diagrammes organisant des données de natures diverses.
 
--des mots de signification voisine ou contraire ;
+Il sait que des langages informatiques sont utilisés pour programmer des outils numériques et réaliser des traitements automatiques de données. Il connaît les principes de base de l'algorithmique et de la conception des programmes informatiques. Il les met en œuvre pour créer des applications simples.
 
--la formation des mots, afin de les comprendre et de les orthographier.
+Comprendre, s'exprimer en utilisant les langages des arts et du corps
 
-La grammaire
+Sensibilisé aux démarches artistiques, l'élève apprend à s'exprimer et communiquer par les arts, de manière individuelle et collective, en concevant et réalisant des productions, visuelles, plastiques, sonores ou verbales notamment. Il connaît et comprend les particularités des différents langages artistiques qu'il emploie. Il justifie ses intentions et ses choix en s'appuyant sur des notions d'analyse d'œuvres.
 
-Les élèves devront connaître :
+Il s'exprime par des activités, physiques, sportives ou artistiques, impliquant le corps. Il apprend ainsi le contrôle et la maîtrise de soi.
 
--la ponctuation ;
+Domaine 2 : les méthodes et outils pour apprendre
 
--les structures syntaxiques fondamentales ;
+Ce domaine a pour objectif de permettre à tous les élèves d'apprendre à apprendre, seuls ou collectivement, en classe ou en dehors, afin de réussir dans leurs études et, par la suite, se former tout au long de la vie. Les méthodes et outils pour apprendre doivent faire l'objet d'un apprentissage explicite en situation, dans tous les enseignements et espaces de la vie scolaire.
 
--la nature des mots et leur fonction ;
+En classe, l'élève est amené à résoudre un problème, comprendre un document, rédiger un texte, prendre des notes, effectuer une prestation ou produire des objets. Il doit savoir apprendre une leçon, rédiger un devoir, préparer un exposé, prendre la parole, travailler à un projet, s'entraîner en choisissant les démarches adaptées aux objectifs d'apprentissage préalablement explicités. Ces compétences requièrent l'usage de tous les outils théoriques et pratiques à sa disposition, la fréquentation des bibliothèques et centres de documentation, la capacité à utiliser de manière pertinente les technologies numériques pour faire des recherches, accéder à l'information, la hiérarchiser et produire soi-même des contenus.
 
--les connecteurs logiques usuels (conjonctions de coordination, conjonctions de subordination, adverbes) ;
+La maîtrise des méthodes et outils pour apprendre développe l'autonomie et les capacités d'initiative ; elle favorise l'implication dans le travail commun, l'entraide et la coopération.
 
--la conjugaison des verbes ;
+Objectifs de connaissances et de compétences pour la maîtrise du socle commun
 
--le système des temps et des modes.
+Organisation du travail personnel
 
-L'orthographe
+L'élève se projette dans le temps, anticipe, planifie ses tâches. Il gère les étapes d'une production, écrite ou non, mémorise ce qui doit l'être.
 
-Il est nécessaire d'atteindre une maîtrise correcte de l'orthographe, dans les écrits spontanés des élèves, dès la fin de l'école primaire. Le perfectionnement de l'orthographe jusqu'à la fin de la scolarité obligatoire est cependant une nécessité. Pour cela, la dictée est un outil indispensable d'apprentissage et d'évaluation, mais c'est par une vigilance particulière dans toutes les situations d'enseignement que cette maîtrise pourra être acquise.
+Il comprend le sens des consignes ; il sait qu'un même mot peut avoir des sens différents selon les disciplines.
 
-Les élèves devront connaître les principales règles d'orthographe lexicale et grammaticale (mots invariables, règles d'accord, orthographe des formes verbales et des pluriels).
+Pour acquérir des connaissances et des compétences, il met en œuvre les capacités essentielles que sont l'attention, la mémorisation, la mobilisation de ressources, la concentration, l'aptitude à l'échange et au questionnement, le respect des consignes, la gestion de l'effort.
 
-Capacités
+Il sait identifier un problème, s'engager dans une démarche de résolution, mobiliser les connaissances nécessaires, analyser et exploiter les erreurs, mettre à l'essai plusieurs solutions, accorder une importance particulière aux corrections.
 
-Lire
+L'élève sait se constituer des outils personnels grâce à des écrits de travail, y compris numériques : notamment prise de notes, brouillons, fiches, lexiques, nomenclatures, cartes mentales, plans, croquis, dont il peut se servir pour s'entraîner, réviser, mémoriser.
 
-Au terme de la scolarité obligatoire, tout élève devra être capable de :
+Coopération et réalisation de projets
 
--lire à haute voix, de façon expressive, un texte en prose ou en vers ;
+L'élève travaille en équipe, partage des tâches, s'engage dans un dialogue constructif, accepte la contradiction tout en défendant son point de vue, fait preuve de diplomatie, négocie et recherche un consensus.
 
--analyser les éléments grammaticaux d'une phrase afin d'en éclairer le sens ;
+Il apprend à gérer un projet, qu'il soit individuel ou collectif. Il en planifie les tâches, en fixe les étapes et évalue l'atteinte des objectifs.
 
--dégager l'idée essentielle d'un texte lu ou entendu ;
+L'élève sait que la classe, l'école, l'établissement sont des lieux de collaboration, d'entraide et de mutualisation des savoirs. Il aide celui qui ne sait pas comme il apprend des autres. L'utilisation des outils numériques contribue à ces modalités d'organisation, d'échange et de collaboration.
 
--manifester sa compréhension de textes variés, qu'ils soient documentaires ou littéraires ;
+Médias, démarches de recherche et de traitement de l'information
 
--comprendre un énoncé, une consigne ;
+L'élève connaît des éléments d'histoire de l'écrit et de ses différents supports. Il comprend les modes de production et le rôle de l'image.
 
--lire des oeuvres littéraires intégrales, notamment classiques, et rendre compte de sa lecture.
+Il sait utiliser de façon réfléchie des outils de recherche, notamment sur internet. Il apprend à confronter différentes sources et à évaluer la validité des contenus. Il sait traiter les informations collectées, les organiser, les mémoriser sous des formats appropriés et les mettre en forme. Il les met en relation pour construire ses connaissances.
 
-Ecrire
+L'élève apprend à utiliser avec discernement les outils numériques de communication et d'information qu'il côtoie au quotidien, en respectant les règles sociales de leur usage et toutes leurs potentialités pour apprendre et travailler. Il accède à un usage sûr, légal et éthique pour produire, recevoir et diffuser de l'information. Il développe une culture numérique.
 
-La capacité à écrire suppose de savoir :
+Il identifie les différents médias (presse écrite, audiovisuelle et web) et en connaît la nature. Il en comprend les enjeux et le fonctionnement général afin d'acquérir une distance critique et une autonomie suffisantes dans leur usage.
 
--copier un texte sans faute, écrire lisiblement et correctement un texte spontanément ou sous la dictée ;
+Outils numériques pour échanger et communiquer
 
--répondre à une question par une phrase complète ;
+L'élève sait mobiliser différents outils numériques pour créer des documents intégrant divers médias et les publier ou les transmettre, afin qu'ils soient consultables et utilisables par d'autres. Il sait réutiliser des productions collaboratives pour enrichir ses propres réalisations, dans le respect des règles du droit d'auteur.
 
--rédiger un texte bref, cohérent, construit en paragraphes, correctement ponctué, en respectant des consignes imposées : récit, description, explication, texte argumentatif, compte rendu, écrits courants (lettres...) ;
+L'élève utilise les espaces collaboratifs et apprend à communiquer notamment par le biais des réseaux sociaux dans le respect de soi et des autres. Il comprend la différence entre sphères publique et privée. Il sait ce qu'est une identité numérique et est attentif aux traces qu'il laisse.
 
--adapter le propos au destinataire et à l'effet recherché ;
+Domaine 3 : la formation de la personne et du citoyen
 
--résumer un texte ;
+L'Ecole a une responsabilité particulière dans la formation de l'élève en tant que personne et futur citoyen. Dans une démarche de coéducation, elle ne se substitue pas aux familles, mais elle a pour tâche de transmettre aux jeunes les valeurs fondamentales et les principes inscrits dans la Constitution de notre pays. Elle permet à l'élève d'acquérir la capacité à juger par lui-même, en même temps que le sentiment d'appartenance à la société. Ce faisant, elle permet à l'élève de développer dans les situations concrètes de la vie scolaire son aptitude à vivre de manière autonome, à participer activement à l'amélioration de la vie commune et à préparer son engagement en tant que citoyen.
 
--utiliser les principales règles d'orthographe lexicale et grammaticale.
+Ce domaine fait appel :
 
-S'exprimer à l'oral
+- à l'apprentissage et à l'expérience des principes qui garantissent la liberté de tous, comme la liberté de conscience et d'expression, la tolérance réciproque, l'égalité, notamment entre les hommes et les femmes, le refus des discriminations, l'affirmation de la capacité à juger et agir par soi-même ;
 
-Il s'agit de savoir :
+- à des connaissances et à la compréhension du sens du droit et de la loi, des règles qui permettent la participation à la vie collective et démocratique et de la notion d'intérêt général ;
 
--prendre la parole en public ;
+- à la connaissance, la compréhension mais aussi la mise en pratique du principe de laïcité, qui permet le déploiement du civisme et l'implication de chacun dans la vie sociale, dans le respect de la liberté de conscience.
 
--prendre part à un dialogue, un débat : prendre en compte les propos d'autrui, faire valoir son propre point de vue ;
+Ce domaine est mis en œuvre dans toutes les situations concrètes de la vie scolaire où connaissances et valeurs trouvent, en s'exerçant, les conditions d'un apprentissage permanent, qui procède par l'exemple, par l'appel à la sensibilité et à la conscience, par la mobilisation du vécu et par l'engagement de chacun.
 
--rendre compte d'un travail individuel ou collectif (exposés, expériences, démonstrations...) ;
+Objectifs de connaissances et de compétences pour la maîtrise du socle commun
 
--reformuler un texte ou des propos lus ou prononcés par un tiers ;
+Expression de la sensibilité et des opinions, respect des autres
 
--adapter sa prise de parole (attitude et niveau de langue) à la situation de communication (lieu, destinataire, effet recherché) ;
+L'élève exprime ses sentiments et ses émotions en utilisant un vocabulaire précis.
 
--dire de mémoire des textes patrimoniaux (textes littéraires, citations célèbres).
+Il exploite ses facultés intellectuelles et physiques en ayant confiance en sa capacité à réussir et à progresser.
 
-Utiliser des outils
+L'élève apprend à résoudre les conflits sans agressivité, à éviter le recours à la violence grâce à sa maîtrise de moyens d'expression, de communication et d'argumentation. Il respecte les opinions et la liberté d'autrui, identifie et rejette toute forme d'intimidation ou d'emprise. Apprenant à mettre à distance préjugés et stéréotypes, il est capable d'apprécier les personnes qui sont différentes de lui et de vivre avec elles. Il est capable aussi de faire preuve d'empathie et de bienveillance.
 
-L'élève devra être capable d'utiliser :
+La règle et le droit
 
--des dictionnaires, imprimés ou numériques, pour vérifier l'orthographe ou le sens d'un mot, découvrir un synonyme ou un mot nécessaire à l'expression de sa pensée ;
+L'élève comprend et respecte les règles communes, notamment les règles de civilité, au sein de la classe, de l'école ou de l'établissement, qui autorisent et contraignent à la fois et qui engagent l'ensemble de la communauté éducative. Il participe à la définition de ces règles dans le cadre adéquat. Il connaît le rôle éducatif et la gradation des sanctions ainsi que les grands principes et institutions de la justice.
 
--des ouvrages de grammaire ou des logiciels de correction orthographique.
+Il comprend comment, dans une société démocratique, des valeurs communes garantissent les libertés individuelles et collectives, trouvent force d'applications dans des règles et dans le système du droit, que les citoyens peuvent faire évoluer selon des procédures organisées.
 
-Attitudes
+Il connaît les grandes déclarations des droits de l'homme (notamment la Déclaration des droits de l'homme et du citoyen de 1789, la Déclaration universelle des droits de l'homme de 1948), la convention européenne de sauvegarde des droits de l'homme, la Convention internationale des droits de l'enfant de 1989 et les principes fondateurs de la République française. Il connaît le sens du principe de laïcité ; il en mesure la profondeur historique et l'importance pour la démocratie dans notre pays. Il comprend que la laïcité garantit la liberté de conscience, fondée sur l'autonomie du jugement de chacun et institue des règles permettant de vivre ensemble pacifiquement.
 
-L'intérêt pour la langue comme instrument de pensée et d'insertion développe :
+Il connaît les principales règles du fonctionnement institutionnel de l'Union européenne et les grands objectifs du projet européen.
 
--la volonté de justesse dans l'expression écrite et orale, du goût pour l'enrichissement du vocabulaire ;
+Réflexion et discernement
 
--le goût pour les sonorités, les jeux de sens, la puissance émotive de la langue ;
+L'élève est attentif à la portée de ses paroles et à la responsabilité de ses actes.
 
--l'intérêt pour la lecture (des livres, de la presse écrite) ;
+Il fonde et défend ses jugements en s'appuyant sur sa réflexion et sur sa maîtrise de l'argumentation. Il comprend les choix moraux que chacun fait dans sa vie ; il peut discuter de ces choix ainsi que de quelques grands problèmes éthiques liés notamment aux évolutions sociales, scientifiques ou techniques.
 
--l'ouverture à la communication, au dialogue, au débat.
+L'élève vérifie la validité d'une information et distingue ce qui est objectif et ce qui est subjectif. Il apprend à justifier ses choix et à confronter ses propres jugements avec ceux des autres. Il sait remettre en cause ses jugements initiaux après un débat argumenté, il distingue son intérêt particulier de l'intérêt général. Il met en application et respecte les grands principes républicains.
 
-2. La pratique d'une langue vivante étrangère
+Responsabilité, sens de l'engagement et de l'initiative
 
-Il s'agit soit de la langue apprise depuis l'école primaire, soit d'une langue dont l'étude a commencé au collège.
+L'élève coopère et fait preuve de responsabilité vis-à-vis d'autrui. Il respecte les engagements pris envers lui-même et envers les autres, il comprend l'importance du respect des contrats dans la vie civile. Il comprend en outre l'importance de s'impliquer dans la vie scolaire (actions et projets collectifs, instances), d'avoir recours aux outils de la démocratie (ordre du jour, compte rendu, votes notamment) et de s'engager aux côtés des autres dans les différents aspects de la vie collective et de l'environnement.
 
-La communication en langue étrangère suppose la capacité de comprendre, de s'exprimer et d'interpréter des pensées, des sentiments et des faits, à l'oral comme à l'écrit, dans diverses situations.
+L'élève sait prendre des initiatives, entreprendre et mettre en œuvre des projets, après avoir évalué les conséquences de son action ; il prépare ainsi son orientation future et sa vie d'adulte.
 
-Elle implique également la connaissance et la compréhension des cultures dont la langue est le vecteur : elle permet de dépasser la vision que véhiculent les stéréotypes.
+Domaine 4 : les systèmes naturels et les systèmes techniques
 
-Le " cadre européen commun de référence pour les langues ", conçu par le Conseil de l'Europe, constitue la référence fondamentale pour l'enseignement des langues vivantes, les apprentissages et l'évaluation des acquis. La maîtrise du niveau A2 (niveau de l'utilisateur élémentaire) correspond au niveau requis pour le socle commun.
+Ce domaine a pour objectif de donner à l'élève les fondements de la culture mathématique, scientifique et technologique nécessaire à une découverte de la nature et de ses phénomènes ainsi que des techniques développées par les femmes et les hommes. Il s'agit d'éveiller sa curiosité, son envie de se poser des questions, de chercher des réponses et d'inventer, tout en l'initiant à de grands défis auxquels l'humanité est confrontée. L'élève découvre alors, par une approche scientifique, la nature environnante. L'objectif est bien de poser les bases lui permettant de pratiquer des démarches scientifiques et techniques.
 
-La maîtrise des langues vivantes s'acquiert par une pratique régulière et par l'entraînement de la mémoire. Cinq types d'activités la rendent possible : la compréhension orale, l'expression orale, l'interaction orale, la compréhension écrite et l'expression écrite.
+Fondées sur l'observation, la manipulation et l'expérimentation, utilisant notamment le langage des mathématiques pour leurs représentations, les démarches scientifiques ont notamment pour objectif d'expliquer l'Univers, d'en comprendre les évolutions, selon une approche rationnelle privilégiant les faits et hypothèses vérifiables, en distinguant ce qui est du domaine des opinions et croyances. Elles développent chez l'élève la rigueur intellectuelle, l'habileté manuelle et l'esprit critique, l'aptitude à démontrer, à argumenter.
 
-Connaissances
+La familiarisation de l'élève avec le monde technique passe par la connaissance du fonctionnement d'un certain nombre d'objets et de systèmes et par sa capacité à en concevoir et en réaliser lui-même. Ce sont des occasions de prendre conscience que la démarche technologique consiste à rechercher l'efficacité dans un milieu contraint (en particulier par les ressources) pour répondre à des besoins humains, en tenant compte des impacts sociaux et environnementaux.
 
-Pratiquer une langue vivante étrangère, c'est d'abord s'approprier un code linguistique : il faut connaître les formes écrites et sonores permettant de comprendre ou de produire des messages corrects et significatifs dans le contexte de la vie courante. Cela suppose une connaissance du vocabulaire, de la grammaire, de la phonologie et de l'orthographe. Il s'agit donc de :
+En s'initiant à ces démarches, concepts et outils, l'élève se familiarise avec les évolutions de la science et de la technologie ainsi que leur histoire, qui modifient en permanence nos visions et nos usages de la planète.
 
--posséder un vocabulaire suffisant pour comprendre des sujets simples ;
+L'élève comprend que les mathématiques permettent de développer une représentation scientifique des phénomènes, qu'elles offrent des outils de modélisation, qu'elles se nourrissent des questions posées par les autres domaines de connaissance et les nourrissent en retour.
 
--connaître les règles grammaticales fondamentales (catégorie du nom, système verbal, coordination et subordination dans leur forme élémentaire) et le fonctionnement de la langue étudiée en tenant compte de ses particularités ;
+Objectifs de connaissances et de compétences pour la maîtrise du socle commun
 
--connaître les règles de prononciation ;
+Démarches scientifiques
 
--maîtriser l'orthographe des mots ou expressions appris en comprenant le rapport phonie-graphie. Pour certaines langues, l'apprentissage du système graphique constitue une priorité compte tenu de la nécessaire familiarisation avec des caractères spécifiques.
+L'élève sait mener une démarche d'investigation. Pour cela, il décrit et questionne ses observations ; il prélève, organise et traite l'information utile ; il formule des hypothèses, les teste et les éprouve ; il manipule, explore plusieurs pistes, procède par essais et erreurs ; il modélise pour représenter une situation ; il analyse, argumente, mène différents types de raisonnements (par analogie, déduction logique...) ; il rend compte de sa démarche. Il exploite et communique les résultats de mesures ou de recherches en utilisant les langages scientifiques à bon escient.
 
-Capacités
+L'élève pratique le calcul, mental et écrit, exact et approché, il estime et contrôle les résultats, notamment en utilisant les ordres de grandeur. Il résout des problèmes impliquant des grandeurs variées (géométriques, physiques, économiques...), en particulier des situations de proportionnalité. Il interprète des résultats statistiques et les représente graphiquement.
 
-Pratiquer une langue vivante étrangère, c'est savoir l'utiliser de façon pertinente et appropriée en fonction de la situation de communication, dans un contexte socioculturel donné. On attend de l'élève qu'il puisse communiquer de manière simple mais efficace, dans des situations courantes de la vie quotidienne, c'est-à-dire qu'il sache :
+Conception, création, réalisation
 
--utiliser la langue en maîtrisant les codes de relations sociales associés à cette langue :
+L'élève imagine, conçoit et fabrique des objets et des systèmes techniques. Il met en œuvre observation, imagination, créativité, sens de l'esthétique et de la qualité, talent et habileté manuels, sens pratique, et sollicite les savoirs et compétences scientifiques, technologiques et artistiques pertinents.
 
--utiliser des expressions courantes en suivant les usages de base (saluer, formuler des invitations, des excuses...) ;
+Responsabilités individuelles et collectives
 
--tenir compte de l'existence des différences de registre de langue, adapter son discours à la situation de communication ;
+L'élève connaît l'importance d'un comportement responsable vis-à-vis de l'environnement et de la santé et comprend ses responsabilités individuelle et collective. Il prend conscience de l'impact de l'activité humaine sur l'environnement, de ses conséquences sanitaires et de la nécessité de préserver les ressources naturelles et la diversité des espèces. Il prend conscience de la nécessité d'un développement plus juste et plus attentif à ce qui est laissé aux générations futures.
 
--comprendre un bref propos oral : identifier le contenu d'un message, le sujet d'une discussion si l'échange est mené lentement et clairement, suivre un récit ;
+Il sait que la santé repose notamment sur des fonctions biologiques coordonnées, susceptibles d'être perturbées par des facteurs physiques, chimiques, biologiques et sociaux de l'environnement et que certains de ces facteurs de risques dépendent de conduites sociales et de choix personnels. Il est conscient des enjeux de bien-être et de santé des pratiques alimentaires et physiques. Il observe les règles élémentaires de sécurité liées aux techniques et produits rencontrés dans la vie quotidienne.
 
--se faire comprendre à l'oral (brève intervention ou échange court) et à l'écrit, avec suffisamment de clarté, c'est-à-dire être capable :
+Pour atteindre les objectifs de connaissances et de compétences de ce domaine, l'élève mobilise des connaissances sur :
 
--de prononcer correctement ;
+- les principales fonctions du corps humain, les caractéristiques et l'unité du monde vivant, l'évolution et la diversité des espèces ;
 
--de relier des groupes de mots avec des connecteurs logiques ;
+- la structure de l'Univers et de la matière ; les grands caractères de la biosphère et leurs transformations ;
 
--de donner des informations et de s'informer ;
+- l'énergie et ses multiples formes, le mouvement et les forces qui le régissent ;
 
--d'exprimer simplement une idée, une opinion ;
+- les nombres et les grandeurs, les objets géométriques, la gestion de données, les phénomènes aléatoires ;
 
--de raconter une histoire ou de décrire sommairement ;
+- les grandes caractéristiques des objets et systèmes techniques et des principales solutions technologiques.
 
--comprendre un texte écrit court et simple.
+Domaine 5 : les représentations du monde et l'activité humaine
 
-Attitudes
+Ce domaine est consacré à la compréhension du monde que les êtres humains tout à la fois habitent et façonnent. Il s'agit de développer une conscience de l'espace géographique et du temps historique. Ce domaine conduit aussi à étudier les caractéristiques des organisations et des fonctionnements des sociétés. Il initie à la diversité des expériences humaines et des formes qu'elles prennent : les découvertes scientifiques et techniques, les diverses cultures, les systèmes de pensée et de conviction, l'art et les œuvres, les représentations par lesquelles les femmes et les hommes tentent de comprendre la condition humaine et le monde dans lequel ils vivent.
 
-L'apprentissage d'une langue étrangère développe la sensibilité aux différences et à la diversité culturelle. Il favorise :
+Ce domaine vise également à développer des capacités d'imagination, de conception, d'action pour produire des objets, des services et des œuvres ainsi que le goût des pratiques artistiques, physiques et sportives. Il permet en outre la formation du jugement et de la sensibilité esthétiques. Il implique enfin une réflexion sur soi et sur les autres, une ouverture à l'altérité, et contribue à la construction de la citoyenneté, en permettant à l'élève d'aborder de façon éclairée de grands débats du monde contemporain.
 
--le désir de communiquer avec les étrangers dans leur langue, de lire un journal et d'écouter les médias audiovisuels étrangers, de voir des films en version originale ;
+Objectifs de connaissances et de compétences pour la maîtrise du socle commun
 
--l'ouverture d'esprit et la compréhension d'autres façons de penser et d'agir.
+L'espace et le temps
 
-3. Les principaux éléments de mathématiques
+L'élève identifie ainsi les grandes questions et les principaux enjeux du développement humain, il est capable d'appréhender les causes et les conséquences des inégalités, les sources de conflits et les solidarités, ou encore les problématiques mondiales concernant l'environnement, les ressources, les échanges, l'énergie, la démographie et le climat. Il comprend également que les lectures du passé éclairent le présent et permettent de l'interpréter.
 
-et la culture scientifique et technologique
+L'élève se repère dans l'espace à différentes échelles, il comprend les grands espaces physiques et humains et les principales caractéristiques géographiques de la Terre, du continent européen et du territoire national : organisation et localisations, ensembles régionaux, outre-mer. Il sait situer un lieu ou un ensemble géographique en utilisant des cartes, en les comparant et en produisant lui-même des représentations graphiques.
 
-Il s'agit de donner aux élèves la culture scientifique nécessaire à une représentation cohérente du monde et à la compréhension de leur environnement quotidien ; ils doivent saisir que la complexité peut être exprimée par des lois fondamentales.
+Organisations et représentations du monde
 
-Des approches concrètes et pratiques des mathématiques et des sciences, faisant notamment appel à l'habileté manuelle (par exemple, travailler un matériau, manipuler des volumes, en réaliser), aident les élèves à comprendre les notions abstraites.
+L'élève lit des paysages, identifiant ce qu'ils révèlent des atouts et des contraintes du milieu ainsi que de l'activité humaine, passée et présente. Il établit des liens entre l'espace et l'organisation des sociétés.
 
-Les mathématiques, les sciences expérimentales et la technologie favorisent la rigueur intellectuelle constitutive du raisonnement scientifique.
+Il exprime à l'écrit et à l'oral ce qu'il ressent face à une œuvre littéraire ou artistique ; il étaye ses analyses et les jugements qu'il porte sur l'œuvre ; il formule des hypothèses sur ses significations et en propose une interprétation en s'appuyant notamment sur ses aspects formels et esthétiques. Il justifie ses intentions et ses choix expressifs, en s'appuyant sur quelques notions d'analyse des œuvres. Il s'approprie, de façon directe ou indirecte, notamment dans le cadre de sorties scolaires culturelles, des œuvres littéraires et artistiques appartenant au patrimoine national et mondial comme à la création contemporaine.
 
-A.-Les principaux éléments de mathématiques
+Invention, élaboration, production
 
-Dans chacun des domaines que sont le calcul, la géométrie et la gestion des données, les mathématiques fournissent des outils pour agir, choisir et décider dans la vie quotidienne. Elles développent la pensée logique, les capacités d'abstraction et de vision dans le plan et dans l'espace par l'utilisation de formules, de modèles, de graphiques et de diagrammes. Il s'agit aussi de développer le raisonnement logique et le goût de la démonstration.
+L'élève imagine, conçoit et réalise des productions de natures diverses, y compris littéraires et artistiques. Pour cela, il met en œuvre des principes de conception et de fabrication d'objets ou les démarches et les techniques de création. Il tient compte des contraintes des matériaux et des processus de production en respectant l'environnement. Il mobilise son imagination et sa créativité au service d'un projet personnel ou collectif. Il développe son jugement, son goût, sa sensibilité, ses émotions esthétiques.
 
-La maîtrise des principaux éléments de mathématiques s'acquiert et s'exerce essentiellement par la résolution de problèmes, notamment à partir de situations proches de la réalité.
+Il connaît les contraintes et les libertés qui s'exercent dans le cadre des activités physiques et sportives ou artistiques personnelles et collectives. Il sait en tirer parti et gère son activité physique et sa production ou sa performance artistiques pour les améliorer, progresser et se perfectionner. Il cherche et utilise des techniques pertinentes, il construit des stratégies pour réaliser une performance sportive. Dans le cadre d'activités et de projets collectifs, il prend sa place dans le groupe en étant attentif aux autres pour coopérer ou s'affronter dans un cadre réglementé.
 
-Les compétences acquises en mathématiques conditionnent l'acquisition d'une culture scientifique.
+Pour mieux connaître le monde qui l'entoure comme pour se préparer à l'exercice futur de sa citoyenneté démocratique, l'élève pose des questions et cherche des réponses en mobilisant des connaissances sur :
 
-Connaissances
+- les principales périodes de l'histoire de l'humanité, situées dans leur chronologie, les grandes ruptures et les événements fondateurs, la notion de civilisation ;
 
-Il est nécessaire de créer aussi tôt que possible à l'école primaire des automatismes en calcul, en particulier la maîtrise des quatre opérations qui permet le calcul mental. Il est aussi indispensable d'apprendre à démontrer et à raisonner.
+- les principaux modes d'organisation des espaces humanisés ;
 
-Il faut aussi comprendre des concepts et des techniques (calcul, algorithme) et les mémoriser afin d'être en mesure de les utiliser. Les élèves doivent connaître :
+- la diversité des modes de vie et des cultures, en lien avec l'apprentissage des langues ;
 
--pour ce qui concerne les nombres et le calcul :
+- les éléments clés de l'histoire des idées, des faits religieux et des convictions ;
 
--les nombres décimaux, les nombres relatifs, les fractions, les puissances (ordonner, comparer) ;
+- les grandes découvertes scientifiques et techniques et les évolutions qu'elles ont engendrées, tant dans les modes de vie que dans les représentations ;
 
--les quatre opérations et leur sens ;
+- les expressions artistiques, les œuvres, les sensibilités esthétiques et les pratiques culturelles de différentes sociétés ;
 
--les techniques élémentaires du calcul mental ;
+- les principaux modes d'organisation politique et sociale, idéaux et principes républicains et démocratiques, leur histoire et leur actualité ;
 
--les éléments du calcul littéral simple (expressions du premier degré à une variable) ;
+- les principales manières de concevoir la production économique, sa répartition, les échanges qu'elles impliquent ;
 
--le calcul de la valeur d'une expression littérale pour différentes valeurs des variables ;
-
--les identités remarquables ;
-
--pour ce qui concerne l'organisation et la gestion de données et les fonctions :
-
--la proportionnalité : propriété de linéarité, représentation graphique, tableau de proportionnalité, " produit en croix " ou " règle de 3 ", pourcentage, échelle ;
-
--les représentations usuelles : tableaux, diagrammes, graphiques ;
-
--le repérage sur un axe et dans le plan ;
-
--les notions fondamentales de statistique descriptive (maximum, minimum, fréquence, moyenne) ;
-
--les notions de chance ou de probabilité ;
-
--en géométrie :
-
--les propriétés géométriques élémentaires des figures planes et des solides suivants : carré, rectangle, losange, parallélogramme, triangle, cercle, cube, parallélépipède rectangle, cylindre, sphère ;
-
--les notions de parallèle, perpendiculaire, médiatrice, bissectrice, tangente (à un cercle) ;
-
--les transformations : symétries, agrandissement et réduction ;
-
--des théorèmes de géométrie plane : somme des angles d'un triangle, inégalité triangulaire, Thalès (dans le triangle), Pythagore.
-
-Il faut aussi savoir interpréter une représentation plane d'un objet de l'espace ainsi qu'un patron (cube, parallélépipède rectangle) ;
-
--pour ce qui concerne les grandeurs et les mesures :
-
--les principales grandeurs (unités de mesure, formules, calculs et conversions) : longueur, aire, contenance, volume, masse, angle, durée, vitesse, masse volumique, nombre de tours par seconde ;
-
--les mesures à l'aide d'instruments, en prenant en compte l'incertitude liée au mesurage.
-
-Capacités
-
-A la sortie de l'école obligatoire, l'élève doit être en mesure d'appliquer les principes et processus mathématiques de base dans la vie quotidienne, dans sa vie privée comme dans son travail. Pour cela, il doit être capable :
-
--de raisonner logiquement, de pratiquer la déduction, de démontrer ;
-
--de communiquer, à l'écrit comme à l'oral, en utilisant un langage mathématique adapté ;
-
--d'effectuer :
-
--à la main, un calcul isolé sur des nombres en écriture décimale de taille raisonnable (addition, soustraction, multiplication, division) ;
-
--à la calculatrice, un calcul isolé sur des nombres relatifs en écriture décimale : addition, soustraction, multiplication, division décimale à 10-n près, calcul du carré, du cube d'un nombre relatif, racine carrée d'un nombre positif ;
-
--mentalement des calculs simples et déterminer rapidement un ordre de grandeur ;
-
--de comparer, additionner, soustraire, multiplier et diviser les nombres en écriture fractionnaire dans des situations simples ;
-
--d'effectuer des tracés à l'aide des instruments usuels (règle, équerre, compas, rapporteur) :
-
--parallèle, perpendiculaire, médiatrice, bissectrice ;
-
--cercle donné par son centre et son rayon ;
-
--image d'une figure par symétrie axiale, par symétrie centrale ;
-
--d'utiliser et construire des tableaux, des diagrammes, des graphiques et de savoir passer d'un mode d'expression à un autre ;
-
--d'utiliser des outils (tables, formules, outils de dessin, calculatrices, logiciels) ;
-
--de saisir quand une situation de la vie courante se prête à un traitement mathématique, l'analyser en posant les données puis en émettant des hypothèses, s'engager dans un raisonnement ou un calcul en vue de sa résolution, et, pour cela :
-
--savoir quand et comment utiliser les opérations élémentaires ;
-
--contrôler la vraisemblance d'un résultat ;
-
--reconnaître les situations relevant de la proportionnalité et les traiter en choisissant un moyen adapté ;
-
--utiliser les représentations graphiques ;
-
--utiliser les théorèmes de géométrie plane ;
-
--de se repérer dans l'espace : utiliser une carte, un plan, un schéma, un système de coordonnées.
-
-Attitudes
-
-L'étude des mathématiques permet aux élèves d'appréhender l'existence de lois logiques et développe :
-
--la rigueur et la précision ;
-
--le respect de la vérité rationnellement établie ;
-
--le goût du raisonnement fondé sur des arguments dont la validité est à prouver.
-
-B.-La culture scientifique et technologique
-
-Les sciences expérimentales et les technologies ont pour objectif de comprendre et de décrire le monde réel, celui de la nature, celui construit par l'Homme ainsi que les changements induits par l'activité humaine.
-
-Leur étude contribue à faire comprendre aux élèves la distinction entre faits et hypothèses vérifiables d'une part, opinions et croyances d'autre part. Pour atteindre ces buts, l'observation, le questionnement, la manipulation et l'expérimentation sont essentiels, et cela dès l'école primaire, dans l'esprit de l'opération " La main à la pâte " qui donne le goût des sciences et des techniques dès le plus jeune âge.
-
-Les notions complexes (relatives à l'ADN, aux gènes, à la tectonique des plaques lithosphériques), dont les élèves entendent parler dans la vie courante, sont abordées de manière adaptée. La présentation de l'histoire de l'élaboration des concepts, en mobilisant les ressources de toutes les disciplines concernées, constitue un moyen efficace d'aborder la complexité : la perspective historique contribue à donner une vision cohérente des sciences et des techniques ainsi que de leur développement conjoint.
-
-Les élèves doivent comprendre que les sciences et les techniques contribuent au progrès et au bien-être des sociétés.
-
-Connaissances
-
-A l'issue de la scolarité obligatoire, tout élève doit avoir une représentation cohérente du monde reposant sur des connaissances. Chacun doit donc :
-
--savoir que l'Univers est structuré :
-
--du niveau microscopique (atomes, molécules, cellules du vivant) ;
-
--au niveau macroscopique (planètes, étoiles, galaxies) ;
-
--savoir que la planète Terre :
-
--est un des objets du système solaire, lequel est gouverné par la gravitation ;
-
--présente une structure et des phénomènes dynamiques internes et externes ;
-
--savoir que la matière se présente sous une multitude de formes :
-
--sujettes à transformations et réactions ;
-
--organisées du plus simple au plus complexe, de l'inerte au vivant ;
-
--connaître les caractéristiques du vivant :
-
--unité d'organisation (cellule) et biodiversité ;
-
--modalités de la reproduction, du développement et du fonctionnement des organismes vivants ;
-
--unité du vivant (ADN) et évolution des espèces ;
-
--savoir que l'Univers, la matière, les organismes vivants baignent dans une multitude d'interactions et de signaux, notamment lumineux, qui se propagent et agissent à distance ;
-
--savoir que l'énergie, perceptible dans le mouvement, peut revêtir des formes différentes et se transformer de l'une à l'autre ; connaître l'énergie électrique et son importance ; connaître les ressources en énergie fossile et les énergies renouvelables ;
-
--savoir que la maîtrise progressive de la matière et de l'énergie permet à l'Homme d'élaborer une extrême diversité d'objets techniques, dont il convient de connaître :
-
--les conditions d'utilisation ;
-
--l'impact sur l'environnement ;
-
--le fonctionnement et les conditions de sécurité ;
-
--maîtriser des connaissances sur l'Homme :
-
--unicité et diversité des individus qui composent l'espèce humaine (génétique, reproduction) ;
-
--l'organisation et le fonctionnement du corps humain ;
-
--le corps humain et ses possibilités ;
-
--influence de l'Homme sur l'écosystème (gestion des ressources...) ;
-
--être familiarisé avec les techniques courantes, le traitement électronique et numérique de l'information et les processus automatisés, à la base du fonctionnement d'objets de la vie courante.
-
-Capacités
-
-L'étude des sciences expérimentales développe les capacités inductives et déductives de l'intelligence sous ses différentes formes. L'élève doit être capable :
-
--de pratiquer une démarche scientifique :
-
--savoir observer, questionner, formuler une hypothèse et la valider, argumenter, modéliser de façon élémentaire ;
-
--comprendre le lien entre les phénomènes de la nature et le langage mathématique qui s'y applique et aide à les décrire ;
-
--de manipuler et d'expérimenter en éprouvant la résistance du réel :
-
--participer à la conception d'un protocole et le mettre en oeuvre en utilisant les outils appropriés, y compris informatiques ;
-
--développer des habiletés manuelles, être familiarisé avec certains gestes techniques ;
-
--percevoir la différence entre réalité et simulation ;
-
--de comprendre qu'un effet peut avoir plusieurs causes agissant simultanément, de percevoir qu'il peut exister des causes non apparentes ou inconnues ;
-
--d'exprimer et d'exploiter les résultats d'une mesure ou d'une recherche et pour cela :
-
--utiliser les langages scientifiques à l'écrit et à l'oral ;
-
--maîtriser les principales unités de mesure et savoir les associer aux grandeurs correspondantes ;
-
--comprendre qu'à une mesure est associée une incertitude ;
-
--comprendre la nature et la validité d'un résultat statistique ;
-
--de percevoir le lien entre sciences et techniques ;
-
--de mobiliser ses connaissances en situation, par exemple comprendre le fonctionnement de son propre corps et l'incidence de l'alimentation, agir sur lui par la pratique d'activités physiques et sportives, ou encore veiller au risque d'accidents naturels, professionnels ou domestiques ;
-
--d'utiliser les techniques et les technologies pour surmonter des obstacles.
-
-Attitudes
-
-L'appréhension rationnelle des choses développe les attitudes suivantes :
-
--le sens de l'observation ;
-
--la curiosité pour la découverte des causes des phénomènes naturels, l'imagination raisonnée, l'ouverture d'esprit ;
-
--l'esprit critique : distinction entre le prouvé, le probable ou l'incertain, la prédiction et la prévision, situation d'un résultat ou d'une information dans son contexte ;
-
--l'intérêt pour les progrès scientifiques et techniques ;
-
--la conscience des implications éthiques de ces changements ;
-
--l'observation des règles élémentaires de sécurité dans les domaines de la biologie, de la chimie et dans l'usage de l'électricité ;
-
--la responsabilité face à l'environnement, au monde vivant, à la santé.
-
-4. La maîtrise des techniques usuelles de l'information
-
-et de la communication
-
-La culture numérique implique l'usage sûr et critique des techniques de la société de l'information. Il s'agit de l'informatique, du multimédia et de l'internet, qui désormais irriguent tous les domaines économiques et sociaux.
-
-Ces techniques font souvent l'objet d'un apprentissage empirique hors de l'école. Il appartient néanmoins à celle-ci de faire acquérir à chaque élève un ensemble de compétences lui permettant de les utiliser de façon réfléchie et plus efficace.
-
-Les connaissances et les capacités exigibles pour le B2i collège (Brevet informatique et internet) correspondent au niveau requis pour le socle commun. Elles sont acquises dans le cadre d'activités relevant des différents champs disciplinaires.
-
-Connaissances
-
-Les élèves doivent maîtriser les bases des techniques de l'information et de la communication (composants matériels, logiciels et services courants, traitement et échange de l'information, caractéristiques techniques, fichiers, documents, structuration de l'espace de travail, produits multimédias...).
-
-Ils doivent également savoir :
-
--que les équipements informatiques (matériels, logiciels et services) traitent une information codée pour produire des résultats et peuvent communiquer entre eux ;
-
--que l'usage de ces outils est régi par des règles qui permettent de protéger la propriété intellectuelle, les droits et libertés des citoyens et de se protéger soi-même.
-
-Capacités
-
-La maîtrise des techniques de l'information et de la communication est développée en termes de capacités dans les textes réglementaires définissant le B2i :
-
--s'approprier un environnement informatique de travail ;
-
--créer, produire, traiter, exploiter des données ;
-
--s'informer, se documenter ;
-
--communiquer, échanger.
-
-Attitudes
-
-Le développement du goût pour la recherche et les échanges d'informations à des fins éducatives, culturelles, sociales, professionnelles doit s'accompagner d'une attitude responsable-domaine également développé dans la définition du B2i-c'est-à-dire :
-
--une attitude critique et réfléchie vis-à-vis de l'information disponible ;
-
--une attitude de responsabilité dans l'utilisation des outils interactifs.
-
-5. La culture humaniste
-
-La culture humaniste permet aux élèves d'acquérir tout à la fois le sens de la continuité et de la rupture, de l'identité et de l'altérité. En sachant d'où viennent la France et l'Europe et en sachant les situer dans le monde d'aujourd'hui, les élèves se projetteront plus lucidement dans l'avenir.
-
-La culture humaniste contribue à la formation du jugement, du goût et de la sensibilité.
-
-Elle enrichit la perception du réel, ouvre l'esprit à la diversité des situations humaines, invite à la réflexion sur ses propres opinions et sentiments et suscite des émotions esthétiques. Elle se fonde sur l'analyse et l'interprétation des textes et des oeuvres d'époques ou de genres différents. Elle repose sur la fréquentation des oeuvres littéraires (récits, romans, poèmes, pièces de théâtre), qui contribue à la connaissance des idées et à la découverte de soi. Elle se nourrit des apports de l'éducation artistique et culturelle.
-
-Connaissances
-
-En donnant des repères communs pour comprendre, la culture humaniste participe à la construction du sentiment d'appartenance à la communauté des citoyens, aide à la formation d'opinions raisonnées, prépare chacun à la construction de sa propre culture et conditionne son ouverture au monde. Les élèves doivent :
-
--avoir des repères géographiques :
-
--les grands ensembles physiques (océans, continents, reliefs, fleuves, grands domaines climatiques et biogéographiques) et humains (répartition mondiale de la population, principales puissances du monde contemporain et leurs métropoles, les Etats de l'Union européenne et leurs capitales) ;
-
--les grands types d'aménagements ;
-
--les grandes caractéristiques géographiques de l'Union européenne ;
-
--le territoire français : organisation et localisations, ensembles régionaux, outre-mer ;
-
--avoir des repères historiques :
-
--les différentes périodes de l'histoire de l'humanité (les événements fondateurs caractéristiques permettant de les situer les unes par rapport aux autres en mettant en relation faits politiques, économiques, sociaux, culturels, religieux, scientifiques et techniques, littéraires et artistiques), ainsi que les ruptures ;
-
--les grands traits de l'histoire de la construction européenne ;
-
--les périodes et les dates principales, les grandes figures, les événements fondateurs de l'histoire de France, en les reliant à l'histoire du continent européen et du monde ;
-
--être préparés à partager une culture européenne :
-
--par une connaissance des textes majeurs de l'Antiquité (l'Iliade et l'Odyssée, récits de la fondation de Rome, la Bible) ;
-
--par une connaissance d'oeuvres littéraires, picturales, théâtrales, musicales, architecturales ou cinématographiques majeures du patrimoine français, européen et mondial (ancien, moderne ou contemporain) ;
-
--comprendre l'unité et la complexité du monde par une première approche :
-
--des droits de l'homme ;
-
--de la diversité des civilisations, des sociétés, des religions (histoire et aire de diffusion contemporaine) ;
-
--du fait religieux en France, en Europe et dans le monde en prenant notamment appui sur des textes fondateurs (en particulier, des extraits de la Bible et du Coran) dans un esprit de laïcité respectueux des consciences et des convictions ;
-
--des grands principes de la production et de l'échange ;
-
--de la mondialisation ;
-
--des inégalités et des interdépendances dans le monde ;
-
--des notions de ressources, de contraintes, de risques ;
-
--du développement durable ;
-
--des éléments de culture politique : les grandes formes d'organisation politique, économique et sociale (notamment des grands Etats de l'Union européenne), la place et le rôle de l'Etat ;
-
--des conflits dans le monde et des notions de défense.
-
-Capacités
-
-Les élèves doivent être capables :
-
--de lire et utiliser différents langages, en particulier les images (différents types de textes, tableaux et graphiques, schémas, représentations cartographiques, représentations d'oeuvres d'art, photographies, images de synthèse) ;
-
--de situer dans le temps les événements, les oeuvres littéraires ou artistiques, les découvertes scientifiques ou techniques étudiés et de les mettre en relation avec des faits historiques ou culturels utiles à leur compréhension ;
-
--de situer dans l'espace un lieu ou un ensemble géographique, en utilisant des cartes à différentes échelles ;
-
--de faire la distinction entre produits de consommation culturelle et oeuvres d'art ;
-
--d'avoir une approche sensible de la réalité ;
-
--de mobiliser leurs connaissances pour donner du sens à l'actualité ;
-
--de développer par une pratique raisonnée, comme acteurs et comme spectateurs, les valeurs humanistes et universelles du sport.
-
-Attitudes
-
-La culture humaniste que dispense l'école donne aux élèves des références communes. Elle donne aussi à chacun l'envie d'avoir une vie culturelle personnelle :
-
--par la lecture, par la fréquentation des musées, par les spectacles (cinéma, théâtre, concerts et autres spectacles culturels) ;
-
--par la pratique d'une activité culturelle, artistique ou physique.
-
-Elle a pour but de cultiver une attitude de curiosité :
-
--pour les productions artistiques, patrimoniales et contemporaines, françaises et étrangères ;
-
--pour les autres pays du monde (histoire, civilisation, actualité).
-
-Elle développe la conscience que les expériences humaines ont quelque chose d'universel.
-
-*
-
-* *
-
-Pour accomplir avec succès sa scolarité, poursuivre sa formation, construire son avenir personnel et professionnel, réussir sa vie en société et exercer librement sa citoyenneté, d'autres compétences sont indispensables à chaque élève : l'école doit permettre à chacun de devenir pleinement responsable-c'est-à-dire autonome et ouvert à l'initiative-et assumer plus efficacement sa fonction d'éducation sociale et civique.
-
-6. Les compétences sociales et civiques
-
-Il s'agit de mettre en place un véritable parcours civique de l'élève, constitué de valeurs, de savoirs, de pratiques et de comportements dont le but est de favoriser une participation efficace et constructive à la vie sociale et professionnelle, d'exercer sa liberté en pleine conscience des droits d'autrui, de refuser la violence.
-
-Pour cela, les élèves devront apprendre à établir la différence entre les principes universels (les droits de l'homme), les règles de l'Etat de droit (la loi) et les usages sociaux (la civilité).
-
-Il s'agit aussi de développer le sentiment d'appartenance à son pays, à l'Union européenne, dans le respect dû à la diversité des choix de chacun et de ses options personnelles.
-
-A.-Vivre en société
-
-Dès l'école maternelle, l'objectif est de préparer les élèves à bien vivre ensemble par l'appropriation progressive des règles de la vie collective.
-
-Connaissances
-
-Les connaissances nécessaires relèvent notamment de l'enseignement scientifique et des humanités. L'éducation physique et sportive y contribue également.
-
-Les élèves doivent en outre :
-
--connaître les règles de la vie collective et comprendre que toute organisation humaine se fonde sur des codes de conduite et des usages dont le respect s'impose ;
-
--savoir ce qui est interdit et ce qui est permis ;
-
--connaître la distinction entre sphères professionnelle, publique et privée,
-
--être éduqué à la sexualité, à la santé et à la sécurité ;
-
--connaître les gestes de premiers secours.
-
-Capacités
-
-Chaque élève doit être capable :
-
--de respecter les règles, notamment le règlement intérieur de l'établissement ;
-
--de communiquer et de travailler en équipe, ce qui suppose savoir écouter, faire valoir son point de vue, négocier, rechercher un consensus, accomplir sa tâche selon les règles établies en groupe ;
-
--d'évaluer les conséquences de ses actes : savoir reconnaître et nommer ses émotions, ses impressions, pouvoir s'affirmer de manière constructive ;
-
--de porter secours : l'obtention de l'attestation de formation aux premiers secours certifie que cette capacité est acquise ;
-
--de respecter les règles de sécurité, notamment routière par l'obtention de l'attestation scolaire de sécurité routière.
-
-Attitudes
-
-La vie en société se fonde sur :
-
--le respect de soi ;
-
--le respect des autres (civilité, tolérance, refus des préjugés et des stéréotypes) ;
-
--le respect de l'autre sexe ;
-
--le respect de la vie privée ;
-
--la volonté de résoudre pacifiquement les conflits ;
-
--la conscience que nul ne peut exister sans autrui :
-
--conscience de la contribution nécessaire de chacun à la collectivité ;
-
--sens de la responsabilité par rapport aux autres ;
-
--nécessité de la solidarité : prise en compte des besoins des personnes en difficulté (physiquement, économiquement), en France et ailleurs dans le monde.
-
-B.-Se préparer à sa vie de citoyen
-
-L'objectif est de favoriser la compréhension des institutions d'une démocratie vivante par l'acquisition des principes et des principales règles qui fondent la République. Il est aussi de permettre aux élèves de devenir des acteurs responsables de notre démocratie.
-
-Connaissances
-
-Pour exercer sa liberté, le citoyen doit être éclairé. La maîtrise de la langue française, la culture humaniste et la culture scientifique préparent à une vie civique responsable. En plus de ces connaissances essentielles, notamment de l'histoire nationale et européenne, l'élève devra connaître :
-
--la Déclaration des droits de l'homme et du citoyen ;
-
--la Convention internationale des droits de l'enfant ;
-
--les symboles de la République et leur signification (drapeau, devise, hymne national) ;
-
--les règles fondamentales de la vie démocratique (la loi, le principe de la représentation, le suffrage universel, le secret du vote, la décision majoritaire et les droits de l'opposition) dont l'apprentissage concret commence à l'école primaire dans diverses situations de la vie quotidienne et se poursuit au collège, en particulier par l'élection des délégués ;
-
--le lien entre le respect des règles de la vie sociale et politique et les valeurs qui fondent la République ;
-
--quelques notions juridiques de base, et notamment :
-
--l'identité de la personne ;
-
--la nationalité ;
-
--le principe de responsabilité et la notion de contrat, en référence à des situations courantes (signer un contrat de location, de travail, acquérir un bien, se marier, déclarer une naissance, etc.) ;
-
--quelques notions de gestion (établir un budget personnel, contracter un emprunt, etc.) ;
-
--le fonctionnement de la justice (distinction entre civil et pénal, entre judiciaire et administratif) ;
-
--les grands organismes internationaux ;
-
--l'Union européenne :
-
--les finalités du projet partagé par les nations qui la constituent ;
-
--les grandes caractéristiques de ses institutions ;
-
--les grands traits de l'organisation de la France :
-
--les principales institutions de la République (pouvoirs et fonctions de l'Etat et des collectivités territoriales) ;
-
--le principe de laïcité ;
-
--les principales données relatives à la démographie et à l'économie françaises ;
-
--le schéma général des recettes et des dépenses publiques (Etat, collectivités locales, sécurité sociale) ;
-
--le fonctionnement des services sociaux.
-
-Capacités
-
-Les élèves devront être capables de jugement et d'esprit critique, ce qui suppose :
-
--savoir évaluer la part de subjectivité ou de partialité d'un discours, d'un récit, d'un reportage ;
-
--savoir distinguer un argument rationnel d'un argument
-
-d'autorité ;
-
--apprendre à identifier, classer, hiérarchiser, soumettre à critique l'information et la mettre à distance ;
-
--savoir distinguer virtuel et réel ;
-
--être éduqué aux médias et avoir conscience de leur place et de leur influence dans la société ;
-
--savoir construire son opinion personnelle et pouvoir la remettre en question, la nuancer (par la prise de conscience de la part d'affectivité, de l'influence de préjugés, de stéréotypes).
-
-Attitudes
-
-Au terme de son parcours civique scolaire, l'élève doit avoir conscience de la valeur de la loi et de la valeur de l'engagement. Ce qui implique :
-
--la conscience de ses droits et devoirs ;
-
--l'intérêt pour la vie publique et les grands enjeux de société ;
-
--la conscience de l'importance du vote et de la prise de décision démocratique ;
-
--la volonté de participer à des activités civiques.
-
-7. L'autonomie et l'initiative
-
-A.-L'autonomie
-
-L'autonomie de la personne humaine est le complément indispensable des droits de l'homme : le socle commun établit la possibilité d'échanger, d'agir et de choisir en connaissance de cause, en développant la capacité de juger par soi-même.
-
-L'autonomie est aussi une condition de la réussite scolaire, d'une bonne orientation et de l'adaptation aux évolutions de sa vie personnelle, professionnelle et sociale.
-
-Il est également essentiel que l'école développe la capacité des élèves à apprendre tout au long de la vie.
-
-Connaissances
-
-La maîtrise des autres éléments du socle commun est indissociable de l'acquisition de cette compétence, mais chaque élève doit aussi :
-
--connaître les processus d'apprentissage, ses propres points forts et faiblesses ;
-
--connaître l'environnement économique :
-
--l'entreprise ;
-
--les métiers de secteurs et de niveaux de qualification variés ainsi que les parcours de formation correspondants et les possibilités de s'y intégrer.
-
-Capacités
-
-Les principales capacités attendues d'un élève autonome sont les suivantes :
-
--s'appuyer sur des méthodes de travail (organiser son temps et planifier son travail, prendre des notes, consulter spontanément un dictionnaire, une encyclopédie, ou tout autre outil nécessaire, se concentrer, mémoriser, élaborer un dossier, exposer) ;
-
--savoir respecter des consignes ;
-
--être capable de raisonner avec logique et rigueur et donc savoir :
-
--identifier un problème et mettre au point une démarche de résolution ;
-
--rechercher l'information utile, l'analyser, la trier, la hiérarchiser, l'organiser, la synthétiser ;
-
--mettre en relation les acquis des différentes disciplines et les mobiliser dans des situations variées ;
-
--identifier, expliquer, rectifier une erreur ;
-
--distinguer ce dont on est sûr de ce qu'il faut prouver ;
-
--mettre à l'essai plusieurs pistes de solution ;
-
--savoir s'autoévaluer ;
-
--savoir choisir un parcours de formation, première étape de la formation tout au long de la vie ;
-
--développer sa persévérance ;
-
--avoir une bonne maîtrise de son corps, savoir nager.
-
-Attitudes
-
-La motivation, la confiance en soi, le désir de réussir et de progresser sont des attitudes fondamentales. Chacun doit avoir :
-
--la volonté de se prendre en charge personnellement ;
-
--d'exploiter ses facultés intellectuelles et physiques ;
-
--conscience de la nécessité de s'impliquer, de rechercher des occasions d'apprendre ;
-
--conscience de l'influence des autres sur ses valeurs et ses choix ;
-
--une ouverture d'esprit aux différents secteurs professionnels et conscience de leur égale dignité.
-
-B.-L'esprit d'initiative
-
-Il faut que l'élève se montre capable de concevoir, de mettre en oeuvre et de réaliser des projets individuels ou collectifs dans les domaines artistiques, sportifs, patrimoniaux ou socio-économiques. Quelle qu'en soit la nature, le projet-toujours validé par l'établissement scolaire-valorise l'implication de l'élève.
-
-Connaissances
-
-Toutes les connaissances acquises pour les autres compétences peuvent être utiles.
-
-Capacités
-
-Il s'agit d'apprendre à passer des idées aux actes, ce qui suppose savoir :
-
--définir une démarche adaptée au projet ;
-
--trouver et contacter des partenaires, consulter des personnes-ressources ;
-
--prendre des décisions, s'engager et prendre des risques en conséquence ;
-
--prendre l'avis des autres, échanger, informer, organiser une réunion, représenter le groupe ;
-
--déterminer les tâches à accomplir, établir des priorités.
-
-Attitudes
-
-L'envie de prendre des initiatives, d'anticiper, d'être indépendant et inventif dans la vie privée, dans la vie publique et plus tard au travail, constitue une attitude essentielle. Elle implique :
-
--curiosité et créativité ;
-
--motivation et détermination dans la réalisation d'objectifs.
-
-*
-
-* *
-
-Le principe même du socle repose sur un impératif de qualité. S'agissant d'une culture commune pour tous les élèves, il traduit tout autant une ambition pour les plus fragiles qu'une exigence pour ceux qui réussissent bien. Les graves manques pour les uns et les lacunes pour les autres à la sortie de l'école obligatoire constituent des freins à une pleine réussite et à l'exercice d'une citoyenneté libre et responsable.
-
-Ainsi, le socle commun possède une unité : sa maîtrise à la fin de la scolarité obligatoire ne peut être que globale, car les compétences qui le constituent, avec leur liste principale de connaissances, de capacités et d'attitudes, sont complémentaires et également nécessaires. Chacun des domaines constitutifs du socle commun contribue à l'insertion professionnelle, sociale et civique des élèves, pour sa maîtrise à l'issue de la scolarité obligatoire, il ne peut donc y avoir de compensation entre les compétences requises qui composent un tout, à la manière des qualités de l'homme ou des droits et des devoirs du citoyen.
+- les règles et le droit de l'économie sociale et familiale, du travail, de la santé et de la protection sociale.
