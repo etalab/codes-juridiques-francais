@@ -4,7 +4,7 @@ Les actions comportent un droit préférentiel de souscription aux augmentations
 
 Les actionnaires ont, proportionnellement au montant de leurs actions, un droit de préférence à la souscription des actions de numéraire émises pour réaliser une augmentation de capital.
 
-Pendant la durée de la souscription, ce droit est négociable lorsqu'il est détaché d'actions elles-mêmes négociables. Dans le cas contraire, il est cessible dans les mêmes conditions que l'action elle-même.
+Lorsque le droit préférentiel de souscription n'est pas détaché d'actions négociables, il est cessible dans les mêmes conditions que l'action elle-même. Dans le cas contraire, ce droit est négociable pendant une durée égale à celle de l'exercice du droit de souscription par les actionnaires mais qui débute avant l'ouverture de celle-ci et s'achève avant sa clôture. L'information des actionnaires quant aux modalités d'exercice et de négociation de leur droit préférentiel sont précisées par décret en Conseil d'Etat.
 
 Les actionnaires peuvent renoncer à titre individuel à leur droit préférentiel.
 
