@@ -1,6 +1,6 @@
 # Article L2334-21
 
-La première fraction de la dotation de solidarité rurale est attribuée aux communes dont la population représente au moins 15 % de la population du canton et aux communes chefs-lieux de canton ;
+La première fraction de la dotation de solidarité rurale est attribuée aux communes dont la population représente au moins 15 % de la population du canton, aux communes sièges des bureaux centralisateurs, ainsi qu'aux communes chefs-lieux de canton au 1er janvier 2014 ;
 
 Ne peuvent être éligibles les communes :
 
@@ -33,3 +33,5 @@ Lorsqu'une commune cesse de remplir les conditions requises pour bénéficier de
 Lorsqu'une commune cesse d'être éligible en 2012 à cette fraction de la dotation de solidarité rurale, elle perçoit, à titre de garantie, une attribution égale à 90 % en 2012,75 % en 2013 et 50 % en 2014 du montant perçu en 2011.
 
 A compter de 2012, l'attribution d'une commune éligible ne peut être ni inférieure à 90 % ni supérieure à 120 % du montant perçu l'année précédente.
+
+Pour l'application du présent article, les limites territoriales des cantons sont appréciées au 1er janvier 2014.
