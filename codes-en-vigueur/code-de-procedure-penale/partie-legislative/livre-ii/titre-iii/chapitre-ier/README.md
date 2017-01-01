@@ -2,7 +2,4 @@
 
 - [Article 521](article-521.md)
 - [Article 522](article-522.md)
-- [Article 522-1](article-522-1.md)
-- [Article 522-2](article-522-2.md)
 - [Article 523](article-523.md)
-- [Article 523-1](article-523-1.md)

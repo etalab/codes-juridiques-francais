@@ -17,6 +17,7 @@
 - [Article L532-14](article-l532-14.md)
 - [Article L532-15](article-l532-15.md)
 - [Article L532-15-1](article-l532-15-1.md)
+- [Article L532-15-2](article-l532-15-2.md)
 - [Article L532-16](article-l532-16.md)
 - [Article L532-17](article-l532-17.md)
 - [Article L532-17-1](article-l532-17-1.md)
