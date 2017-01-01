@@ -14,6 +14,4 @@
 - [Article 82-2](article-82-2.md)
 - [Article 82-3](article-82-3.md)
 - [Article 83](article-83.md)
-- [Article 83-1](article-83-1.md)
-- [Article 83-2](article-83-2.md)
 - [Article 84](article-84.md)
