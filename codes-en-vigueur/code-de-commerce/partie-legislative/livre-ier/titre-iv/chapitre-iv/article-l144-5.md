@@ -18,4 +18,6 @@ L'article L. 144-3 n'est pas applicable :
 
 8° Au loueur de fonds de commerce, lorsque la location-gérance a pour objet principal d'assurer, sous contrat d'exclusivité, l'écoulement au détail des produits fabriqués ou distribués par lui-même ;
 
-9° Aux loueurs de fonds de commerce de cinéma, théâtres et music-halls.
+9° Aux loueurs de fonds de commerce de cinéma, théâtres et music-halls ;
+
+10° Aux titulaires d'une autorisation de stationnement mentionnée à l'article L. 3121-1 du code des transports en vue d'assurer l'exploitation de cette autorisation conformément à l'article L. 3121-1-2 du même code.
