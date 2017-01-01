@@ -22,7 +22,7 @@ II.-La chambre de l'instruction, après avoir le cas échéant statué sur ces d
 
 5° Renvoyer le dossier au juge d'instruction afin de poursuivre l'information, en lui prescrivant le cas échéant de procéder à un ou plusieurs actes autres que ceux relatifs à la détention provisoire ou au contrôle judiciaire, dans un délai qu'elle détermine ;
 
-6° Désigner un ou plusieurs autres juges d'instruction pour suivre la procédure avec le juge ou les juges d'instruction déjà saisis, conformément à l'article 83-1 ;
+6° Désigner un ou plusieurs juges d'instruction pour suivre la procédure avec les juges d'instruction déjà saisis ;
 
 7° Lorsque cette décision est indispensable à la manifestation de la vérité et à la bonne administration de la justice et qu'il n'est pas possible de procéder aux désignations prévues au 6°, procéder au dessaisissement du juge d'instruction et à la désignation, aux fins de poursuite de la procédure, d'un ou plusieurs juges d'instruction de la juridiction d'origine ou d'une autre juridiction du ressort ;
 

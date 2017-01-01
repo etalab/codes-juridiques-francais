@@ -6,4 +6,4 @@ Dans ce cas, le procureur de la République peut, s'il l'estime opportun, procé
 
 Le procureur de la République, lorsqu'il décide de ne pas faire application des dispositions des articles 495-8 et suivants, n'est pas tenu d'en aviser le prévenu ou son avocat.
 
-Les dispositions du présent article ne sont pas applicables aux personnes renvoyées devant le tribunal correctionnel par le juge d'instruction.
+Les dispositions du présent article ne sont pas applicables aux personnes renvoyées devant le tribunal correctionnel par le collège de l'instruction.

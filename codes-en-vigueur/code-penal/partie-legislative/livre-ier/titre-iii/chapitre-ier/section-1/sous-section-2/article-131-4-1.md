@@ -1,6 +1,6 @@
 # Article 131-4-1
 
-Lorsque la personnalité et la situation matérielle, familiale et sociale de l'auteur d'un délit puni d'une peine d'emprisonnement d'une durée inférieure ou égale à cinq ans et les faits de l'espèce justifient un accompagnement socio-éducatif individualisé et soutenu, la juridiction peut prononcer la peine de contrainte pénale.
+Lorsque la personnalité et la situation matérielle, familiale et sociale de l'auteur d'un délit puni d'une peine d'emprisonnement et les faits de l'espèce justifient un accompagnement socio-éducatif individualisé et soutenu, la juridiction peut prononcer la peine de contrainte pénale.
 
 La contrainte pénale emporte pour le condamné l'obligation de se soumettre, sous le contrôle du juge de l'application des peines, pendant une durée comprise entre six mois et cinq ans et qui est fixée par la juridiction, à des mesures de contrôle et d'assistance ainsi qu'à des obligations et interdictions particulières destinées à prévenir la récidive en favorisant son insertion ou sa réinsertion au sein de la société.
 
