@@ -13,6 +13,7 @@
 - [Article L225-67](article-l225-67.md)
 - [Article L225-68](article-l225-68.md)
 - [Article L225-69](article-l225-69.md)
+- [Article L225-69-1](article-l225-69-1.md)
 - [Article L225-70](article-l225-70.md)
 - [Article L225-71](article-l225-71.md)
 - [Article L225-72](article-l225-72.md)
