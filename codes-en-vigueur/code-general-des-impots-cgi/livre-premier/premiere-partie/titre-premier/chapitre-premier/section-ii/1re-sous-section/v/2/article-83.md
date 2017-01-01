@@ -18,11 +18,11 @@ c) Les cotisations au régime public de retraite additionnel obligatoire institu
 
 1° quater Les cotisations ou primes versées aux régimes de prévoyance complémentaire obligatoires et collectifs, au sens du sixième alinéa de l'article L. 242-1 du code de la sécurité sociale, à condition, lorsque ces cotisations ou primes financent des garanties portant sur le remboursement ou l'indemnisation de frais occasionnés par une maladie, une maternité ou un accident, que ces garanties respectent les conditions mentionnées à l'article L. 871-1 du code de la sécurité sociale.
 
-Les cotisations ou les primes mentionnées au premier alinéa s'entendent, s'agissant des cotisations à la charge de l'employeur, de celles correspondant à des garanties autres que celles portant sur le remboursement ou l'indemnisation de frais occasionnés par une maladie, une maternité ou un accident.
+Les cotisations ou les primes mentionnées au premier alinéa du présent 1° quater s'entendent, s'agissant des cotisations à la charge de l'employeur, de celles correspondant à des garanties autres que celles portant sur le remboursement ou l'indemnisation de frais occasionnés par une maladie, une maternité ou un accident.
 
 Les cotisations à la charge de l'employeur correspondant à des garanties portant sur le remboursement ou l'indemnisation de frais occasionnés par une maladie, une maternité ou un accident sont ajoutées à la rémunération prise en compte pour la détermination des bases d'imposition.
 
-Les cotisations ou les primes déductibles en application des premier et deuxième alinéas le sont dans la limite d'un montant égal à la somme de 5 % du montant annuel du plafond mentionné à l'article L. 241-3 du code de la sécurité sociale et de 2 % de la rémunération annuelle brute, sans que le total ainsi obtenu puisse excéder 2 % de huit fois le montant annuel du plafond précité. En cas d'excédent, celui-ci est ajouté à la rémunération.
+Les cotisations ou les primes déductibles en application des deux premiers alinéas le sont dans la limite d'un montant égal à la somme de 5 % du montant annuel du plafond mentionné à l'article L. 241-3 du code de la sécurité sociale et de 2 % de la rémunération annuelle brute, sans que le total ainsi obtenu puisse excéder 2 % de huit fois le montant annuel du plafond précité. En cas d'excédent, celui-ci est ajouté à la rémunération.
 
 2° Les cotisations ou primes versées aux régimes de retraite supplémentaire, y compris ceux gérés par une institution mentionnée à l'article L. 370-1 du code des assurances pour les contrats mentionnés à l'article L. 143-1 dudit code lorsqu'ils ont pour objet l'acquisition et la jouissance de droits viagers, auxquels le salarié est affilié à titre obligatoire, ainsi que les cotisations versées, à compter du 1er janvier 1993, à titre obligatoire au régime de prévoyance des joueurs professionnels de football institué par la charte du football professionnel.
 
@@ -32,7 +32,7 @@ La limite mentionnée au deuxième alinéa est réduite, le cas échéant, des s
 
 2°-0 bis Par dérogation aux 1° quater et 2° et jusqu'à l'imposition des revenus de 2008, les dispositions du 2° dans leur rédaction en vigueur jusqu'à l'imposition des revenus de 2003 continuent de s'appliquer, si elles sont plus favorables, aux cotisations ou primes versées aux régimes de retraite et de prévoyance complémentaires auxquels le salarié était affilié à titre obligatoire avant le 25 septembre 2003, pour leur taux en vigueur avant la même date ;
 
-2°-0 ter Dans les limites prévues au quatrième alinéa du 1° quater, les cotisations versées aux régimes de prévoyance complémentaire et, dans les limites prévues aux deuxième et troisième alinéas du 2°, les cotisations versées aux régimes de retraite complémentaire répondant aux conditions fixées à l'article 3 de la directive 98/49/ CE du Conseil du 29 juin 1998 relative à la sauvegarde des droits à pension complémentaire des travailleurs salariés et non salariés qui se déplacent à l'intérieur de la Communauté ou à celles prévues par les conventions ou accords internationaux de sécurité sociale, auxquels les personnes désignées au I de l'article 81 B ou au 1 du I de l'article 155 B étaient affiliées ès qualités dans un autre Etat avant leur prise de fonctions en France. Les cotisations sont déductibles jusqu'au 31 décembre de la cinquième année suivant celle de leur prise de fonctions ;
+2°-0 ter Dans les limites prévues au dernier alinéa du 1° quater, les cotisations versées aux régimes de prévoyance complémentaire et, dans les limites prévues aux deuxième et troisième alinéas du 2°, les cotisations versées aux régimes de retraite complémentaire répondant aux conditions fixées à l'article 3 de la directive 98/49/ CE du Conseil du 29 juin 1998 relative à la sauvegarde des droits à pension complémentaire des travailleurs salariés et non salariés qui se déplacent à l'intérieur de la Communauté ou à celles prévues par les conventions ou accords internationaux de sécurité sociale, auxquels les personnes désignées au I de l'article 81 B ou au 1 du I de l'article 155 B étaient affiliées ès qualités dans un autre Etat avant leur prise de fonctions en France. Les cotisations sont déductibles jusqu'au 31 décembre de la cinquième année suivant celle de leur prise de fonctions ;
 
 2°-0 quater La contribution prévue à l'article L. 137-11-1 du code de la sécurité sociale dans la limite de la fraction acquittée au titre des premiers 1 000 € de rente mensuelle ;
 
@@ -40,37 +40,15 @@ La limite mentionnée au deuxième alinéa est réduite, le cas échéant, des s
 
 2° ter La contribution exceptionnelle de solidarité en faveur des travailleurs privés d'emploi, prévue à l'article L. 5423-26 du code du travail ;
 
-2° quater Les intérêts des emprunts contractés, à compter du 1er janvier 1984, pour souscrire au capital d'une société nouvelle exerçant une activité industrielle, commerciale, artisanale ou libérale. Cette souscription doit intervenir l'année de la création de la société ou au cours des deux années suivantes.
+2° quater (Abrogé).
 
-La déduction ne peut excéder 50 % du salaire versé à l'emprunteur par la société nouvelle. Elle ne peut être supérieure à 15 250 €.
-
-La société nouvelle doit être soumise à l'impôt sur les sociétés dans les conditions de droit commun, exercer une activité mentionnée aux articles 34 et 92 et répondre aux conditions suivantes :
-
-a. A la clôture de l'exercice, le prix de revient des biens d'équipement amortissables selon le mode dégressif en application des dispositions du 1 de l'article 39 A doit représenter au moins les deux tiers du prix de revient total des immobilisations corporelles amortissables ; les entreprises qui ne remplissent pas cette condition à la clôture de leur premier exercice peuvent bénéficier du dispositif à titre provisoire ; cet avantage leur sera définitivement acquis si le pourcentage des deux tiers est atteint à la clôture de l'exercice suivant ;
-
-b. Pour les entreprises constituées sous forme de société, les droits de vote attachés aux actions ou aux parts ne doivent pas être détenus, directement ou indirectement, pour plus de 50 % par d'autres sociétés ;
-
-c. Les entreprises créées dans le cadre d'une concentration ou d'une restructuration d'activités préexistantes, ou pour la reprise de telles activités, ne peuvent bénéficier du dispositif ci-dessus. Toutefois, cette disposition ne s'applique pas aux entreprises créées pour la reprise d'établissements en difficulté.
-
-Les actions souscrites doivent obligatoirement revêtir la forme nominative.
-
-Le bénéfice de la déduction est subordonné au dépôt des titres chez un intermédiaire agréé.
-
-Si les actions ou les parts sociales souscrites sont cédées avant l'expiration d'un délai de cinq ans à compter de leur souscription, le total des intérêts déduits est ajouté au revenu brut perçu par l'emprunteur l'année de la cession.
-
-Toutefois, aucun rehaussement n'est effectué lorsque l'emprunteur ou son conjoint soumis à une imposition commune se trouve dans l'un des cas suivant : invalidité correspondant au classement dans la deuxième ou troisième des catégories prévues à l'article L. 341-4 du code de la sécurité sociale, décès, départ à la retraite ou licenciement.
-
-Un décret fixe les modalités d'application du présent paragraphe, notamment les obligations des emprunteurs et des intermédiaires agréés.
-
-2° quinquies Les intérêts des emprunts contractés, à compter du 1er janvier 1984, pour souscrire au capital d'une société coopérative de production créée pour reprendre une entreprise dans les conditions fixées à l'article 48 de la loi n° 78-763 du 19 juillet 1978 portant statut des sociétés coopératives de production.
-
-Cette disposition est applicable dans les conditions fixées au 2° quater.
+2° quinquies (Abrogé).
 
 3° Les frais inhérents à la fonction ou à l'emploi lorsqu'ils ne sont pas couverts par des allocations spéciales.
 
-La déduction à effectuer du chef des frais professionnels est calculée forfaitairement en fonction du revenu brut, après défalcation des cotisations, contributions et intérêts mentionnés aux 1° à 2° quinquies et à l'article 83 bis ; elle est fixée à 10 % du montant de ce revenu. Elle est limitée à 12 097 € pour l'imposition des rémunérations perçues en 2013 ; chaque année, le plafond retenu pour l'imposition des revenus de l'année précédente est relevé dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu.
+La déduction à effectuer du chef des frais professionnels est calculée forfaitairement en fonction du revenu brut, après défalcation des cotisations, contributions et intérêts mentionnés aux 1° à 2° ter ; elle est fixée à 10 % du montant de ce revenu. Elle est limitée à 12 000 € pour l'imposition des rémunérations perçues en 2012 ; chaque année, le plafond retenu pour l'imposition des revenus de l'année précédente est relevé dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu.
 
-Le montant de la déduction forfaitaire pour frais professionnels ne peut être inférieur à 424 € ou à 931 € pour les personnes inscrites en tant que demandeurs d'emploi depuis plus d'un an, sans pouvoir excéder le montant brut des traitements et salaires. Cette disposition s'applique séparément aux rémunérations perçues par chaque membre du foyer fiscal désigné aux 1 et 3 de l'article 6.
+Le montant de la déduction forfaitaire pour frais professionnels ne peut être inférieur à 421 € ou à 924 € pour les personnes inscrites en tant que demandeurs d'emploi depuis plus d'un an, sans pouvoir excéder le montant brut des traitements et salaires. Cette disposition s'applique séparément aux rémunérations perçues par chaque membre du foyer fiscal désigné aux 1 et 3 de l'article 6.
 
 Les sommes figurant au troisième alinéa sont révisées chaque année dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu.
 
