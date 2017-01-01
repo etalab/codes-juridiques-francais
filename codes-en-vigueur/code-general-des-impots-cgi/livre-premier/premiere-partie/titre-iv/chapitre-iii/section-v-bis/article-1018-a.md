@@ -6,7 +6,7 @@ Ce droit est de :
 
 1° 31 € pour les ordonnances pénales en matière contraventionnelle ou correctionnelle ;
 
-2° 31 € pour les autres décisions des tribunaux de police et des juridictions de proximité et celles des juridictions qui ne statuent pas sur le fond ;
+2° 31 € pour les autres décisions des tribunaux de police et celles des juridictions qui ne statuent pas sur le fond ;
 
 3° 127 € pour les décisions des tribunaux correctionnels. Toutefois, ce droit est porté à 254 € si le condamné n'a pas comparu personnellement, dès lors que la citation a été délivrée à personne ou qu'il est établi que le prévenu a eu connaissance de la citation, sauf s'il est jugé en son absence dans les conditions prévues par les premier et deuxième alinéas de l'article 411 du code de procédure pénale. Cette majoration ne s'applique pas si le condamné s'acquitte volontairement du montant du droit fixe de procédure dans un délai d'un mois à compter de la date où il a eu connaissance de la décision ;
 
