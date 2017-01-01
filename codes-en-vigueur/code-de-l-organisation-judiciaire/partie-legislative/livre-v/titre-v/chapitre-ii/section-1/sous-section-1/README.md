@@ -7,6 +7,5 @@
 - [Article L552-5](article-l552-5.md)
 - [Article L552-6](article-l552-6.md)
 - [Article L552-7](article-l552-7.md)
-- [Article L552-8](article-l552-8.md)
 - [Article L552-8-1](article-l552-8-1.md)
 - [Article L552-9](article-l552-9.md)

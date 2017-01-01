@@ -9,7 +9,6 @@
 - [Article 466](article-466.md)
 - [Article 467](article-467.md)
 - [Article 468](article-468.md)
-- [Article 469](article-469.md)
 - [Article 469-1](article-469-1.md)
 - [Article 470](article-470.md)
 - [Article 470-1](article-470-1.md)

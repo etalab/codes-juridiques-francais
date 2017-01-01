@@ -1,5 +1,0 @@
-# Chapitre III : De la saisine du tribunal de police et de la juridiction de proximité
-
-- [Article 531](article-531.md)
-- [Article 532](article-532.md)
-- [Article 533](article-533.md)
