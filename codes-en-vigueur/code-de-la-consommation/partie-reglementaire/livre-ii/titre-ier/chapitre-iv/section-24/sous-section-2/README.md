@@ -6,5 +6,6 @@
 - [Article R214-28](article-r214-28.md)
 - [Article R214-29](article-r214-29.md)
 - [Article R214-30](article-r214-30.md)
+- [Article R214-31](article-r214-31.md)
 - [Article R214-32](article-r214-32.md)
 - [Article R214-33](article-r214-33.md)
