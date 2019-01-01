@@ -16,7 +16,6 @@
 - [Section XX bis : Taxe sur les opérations à haute fréquence](section-xx-bis)
 - [Section XX ter : Taxe sur les contrats d'échange sur défaut d'un Etat](section-xx-ter)
 - [Section XIX : Contribution sociale sur l'impôt sur les sociétés](section-xix)
-- [Section XXI : Taxe de risque systémique](section-xxi)
 - [Section XIX bis : Contribution additionnelle à l'impôt sur les sociétés au titre des montants distribués](section-xix-bis)
 - [Section XXI bis : Taxe pour le financement du fonds de soutien aux collectivités territoriales](section-xxi-bis)
 - [Section XXII : Taxe sur le résultat des entreprises ferroviaires](section-xxii)
