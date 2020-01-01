@@ -1,10 +1,10 @@
 # Article L253-7
 
-Sans préjudice des missions confiées à l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail et des dispositions de l'article L. 211-1 du code de l'environnement, l'autorité administrative peut, dans l'intérêt de la santé publique ou de l'environnement, prendre toute mesure d'interdiction, de restriction ou de prescription particulière concernant la mise sur le marché, la délivrance, l'utilisation et la détention des produits mentionnés à l'article L. 253-1 du présent code et des semences traitées par ces produits. Elle en informe sans délai le directeur général de l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail.
+I. - Dans l'intérêt de la santé publique ou de l'environnement, l'autorité administrative peut prendre toute mesure d'interdiction, de restriction ou de prescription particulière concernant la mise sur le marché, la délivrance, l'utilisation et la détention des produits visés à l'article L. 253-1 et des semences traitées par ces produits, après avis de l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail, sauf urgence, et sans préjudice des dispositions de l'article L. 211-1 du code de l'environnement.
 
-L'autorité administrative peut interdire ou encadrer l'utilisation des produits phytopharmaceutiques dans des zones particulières, et notamment :
+En particulier, l'autorité administrative peut interdire ou encadrer l'utilisation des produits phytopharmaceutiques dans des zones particulières, et notamment :
 
-1° Sans préjudice des mesures prévues à l'article L. 253-7-1, les zones utilisées par le grand public ou par des groupes vulnérables au sens de l'article 3 du règlement (CE) n° 1107/2009 ;
+1° Les zones utilisées par le grand public ou par des groupes vulnérables au sens de l'article 3 du règlement (CE) n° 1107/2009, comme les parcs et les jardins publics, les terrains de sport et de loisirs, les terrains scolaires et les terrains de jeux pour enfants, ainsi qu'à proximité immédiate d'établissements de soin ;
 
 2° Les zones protégées mentionnées à l'article L. 211-1 du code de l'environnement ;
 
@@ -18,6 +18,6 @@ L'autorité administrative peut aussi prendre des mesures pour encadrer :
 
 2° Les modalités de manipulation, d'élimination et de récupération des déchets issus de ces produits ;
 
-3° Les modalités de nettoyage du matériel utilisé ;
+3° Les modalités de nettoyage du matériel utilisé.
 
-4° Les dispositifs et techniques appropriés à mettre en œuvre lors de l'utilisation des produits mentionnés à l'article L. 253-1 du présent code pour éviter leur entraînement hors de la parcelle.
+II. - Il est interdit aux personnes publiques mentionnées à l'article L. 1 du code général de la propriété des personnes publiques d'utiliser ou de faire utiliser les produits phytopharmaceutiques mentionnés au premier alinéa de l'article L. 253-1 du présent code, à l'exception de ceux mentionnés au IV du présent article, pour l'entretien des espaces verts, des forêts ou des promenades accessibles ou ouverts au public et relevant de leur domaine public ou privé. Cette interdiction ne s'applique pas aux traitements et mesures nécessaires à la destruction et à la prévention de la propagation des organismes nuisibles mentionnés à l'article L. 251-3, en application de l'article L. 251-8.
